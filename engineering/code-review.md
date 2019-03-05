@@ -4,7 +4,7 @@ How we do code review at Dwarves Foundation.
 
 ## Code review system
 
-Every project member must have another team member or team leader to review his/her code, and every changes to the code must be achieved via a Pull request to the main development branch. On larger project (10 members+) we may requires 2 reviewer. All of this is to ensure correctness, quality of the code and learning opportunities for both assignee (who develop) and reviewer.
+Every project member must have another team member or team leader to review his/her code, and every changes to the code must be achieved via a Pull request to the main development branch. On larger project (10 developers+) we may requires 2 reviewers. All of this is to ensure correctness, quality of the code and learning opportunities for both assignee (who develop) and reviewer.
 
 We review everything on the Pull request - code, tests, documents, config files, .etc.
 
