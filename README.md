@@ -11,6 +11,7 @@ This repo is our playbook which contains our practices in software development a
 <Design Workshop>
 
 - Design Sprint
+- [AARRR Framework](/design/aarrr.md)
 - Lean Canvas & UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping
 - Wireframe: Workflow Design
 - Low Fidelity Prototype: UI Design
@@ -23,14 +24,16 @@ This repo is our playbook which contains our practices in software development a
 - [Technology stack](/engineering/stack.md)
 
 ### Setup
+
 - [Automate your development environment](/engineering/laptop-setup.md)
 - [Share configuration with dotfiles](/engineering/dotfiles.md)
 - [Using right editor for the job](/engineering/editor.md)
 
 ### Practices
+
 - [Start a new project](/engineering/project-setup.md)
-- [Version control](/engineering/git.md)
-- [Document Driven Development](/engineering/ddd.md)
+- [Version control: Git](/engineering/git.md)
+- [README Driven Development](/engineering/ddd.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
@@ -43,11 +46,6 @@ This repo is our playbook which contains our practices in software development a
 - [Monitoring](/engineering/monitoring.md)
 - [Production Checklist](/engineering/production-checklist.md)
 - [Handover Checklist](/https://github.com/dwarvesf/handover)
-
-## Measuring
-
-- [AARRR Framework](/design/aarrr.md)
-- Feature Flags
 
 ## Sales
 
