@@ -1,1 +1,0 @@
-http://minifesto.org/
