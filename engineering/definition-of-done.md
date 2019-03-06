@@ -1,6 +1,6 @@
 Definition of done also known as **DoD** is a list of criteria which must be met before a product increment (story) is considered "done".
 
-In software, Done means 
+**In software, Done means**
 
 - [ ] coded to standards
 - [ ] reviewed
@@ -8,7 +8,7 @@ In software, Done means
 - [ ] tested with 100 percent test automation, integrated 
 - [ ] and documented.
 
-In a services context, Done means 
+**In a services context, Done means**
 
 - [ ] every task under the User Story has been completed 
 - [ ] and any work created is attached to the User Story 
