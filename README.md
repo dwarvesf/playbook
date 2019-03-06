@@ -18,36 +18,35 @@ This repo is our playbook which contains our practices in software development a
 
 ## Developing
 
-- [Philosophy](/engineering/README.md)
-
-### Process
-
-- [Scrum](/engineering/scrum.md)
+- [Software Philosophy: Agile, Craftsmanship & Minimalism](/engineering/README.md)
+- [Workflow: Scrum Framework](/engineering/workflow.md)
+- [Technology stack](/engineering/stack.md)
 
 ### Setup
-- [Laptop setup](/engineering/laptop-setup.md)
+- [Automate your development environment](/engineering/laptop-setup.md)
 - [Share configuration with dotfiles](/engineering/dotfiles.md)
-- [Editor](/engineering/editor.md)
+- [Using right editor for the job](/engineering/editor.md)
 
 ### Practices
-- [Project setup](/engineering/project-setup.md)
+- [Start a new project](/engineering/project-setup.md)
 - [Version control](/engineering/git.md)
 - [Document Driven Development](/engineering/ddd.md)
 - [Code review](/engineering/code-review.md)
-- [Definition of Done](/engineering/)
+- [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
-- [Release](/engineering/release.md)
+- [Continuous Integration](/engineering/continous-integration.md)
+- [Release Checklist](/engineering/release.md)
 - [Retrospective](/engineering/retrospective.md)
-- [3rd party services](/engineering/services.md)
 
 ## Production
 
-- Monitoring
-- [Handover](/https://github.com/dwarvesf/handover)
+- [Monitoring](/engineering/monitoring.md)
+- [Production Checklist](/engineering/production-checklist.md)
+- [Handover Checklist](/https://github.com/dwarvesf/handover)
 
 ## Measuring
 
-- AARRR Framework
+- [AARRR Framework](/design/aarrr.md)
 - Feature Flags
 
 ## Sales
