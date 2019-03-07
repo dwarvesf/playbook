@@ -26,7 +26,6 @@ This repo is our playbook which contains our practices in software development a
 ### Setup
 
 - [Automate your development environment](/engineering/laptop-setup.md)
-- [Share configuration with dotfiles](/engineering/dotfiles.md)
 - [Using right editor for the job](/engineering/editor.md)
 
 ### Practices
