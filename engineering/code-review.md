@@ -16,7 +16,8 @@ We review everything on the Pull request - code, tests, documents, config files,
 - Assignee write down brief information about this PR (we have a PR template for this)
 - Reviewer read and review PR's information, make sure to understand why do we have this PR
 - Reviewer review/refactor the code with assignee
-- Reviewer merge PR
+- Reviewer sign off on the pull request with a 👍 or “Ready to merge” comment
+- Reviewer merge PR and clean up remote branch
 
 ## Code review standard
 
