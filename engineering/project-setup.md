@@ -9,16 +9,16 @@ How we expect projects to be setup at Dwarves Foundation.
 Project setup must be self-contained, no *"It works on my machine"* bullshit. If its failed to run the setup script on your coworker's machine, it needs a fix 🔧
 
 Every Backend codebase should have:
-- `make up` command to install all of it's dependencies,
-- [`make run`](https://github.com/huygn/stringsvc/blob/master/Makefile#L20-L21) to run the app in dev mode and
+- `make up` install all dependencies
+- [`make run`](https://github.com/huygn/stringsvc/blob/master/Makefile#L20-L21) to run the app in dev mode
 - `make build` to compile for production
 
 Every Frontend codebase should have:
-- [`.nvmrc`](https://github.com/creationix/nvm#nvmrc) file to lock down the Nodejs version being used,
-- `yarn install` to install all dependencies,
-- `yarn start` to start development server,
-- `yarn build` to compile for production and
-- `yarn serve` to run the compiled output
+- [`.nvmrc`](https://github.com/creationix/nvm#nvmrc) file to lock down the Nodejs version being used
+- `yarn install` to install all dependencies
+- `yarn start` to start development server
+- `yarn build` to compile for production
+- `yarn serve` to run/serve the compiled output
 
 ### Deployment
 
