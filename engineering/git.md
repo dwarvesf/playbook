@@ -97,6 +97,16 @@ git branch --delete <branch-name>
 
 We practice using pull request in Github or merge request in Gitlab to send in code for new features. [Code review](/engineering/code-review.md) is done on the request before merging into the master.
 
+Cut down cycle time and focus on the user by getting a teammate to review your changes to the product before you get a code review or deploy to staging.
+
+For each change, choose one of two techniques:
+
+- Screencast: Use [Licecap](http://www.cockos.com/licecap/) to share a screencast gif.
+- SSH tunnel: Use ngrok to set up an SSH tunnel to your work in progress on your laptop:
+```
+ngrok -subdomain=feature-branch-name 3000
+```
+
 ## Release
 
 The master branch should be in production ready at all times. Use git tag with [semantic version](/engineering/versioning.md) when it's about time to release.
