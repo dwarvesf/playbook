@@ -45,7 +45,7 @@ This repo is our playbook which contains our practices in software development a
 
 - [Monitoring](/engineering/monitoring.md)
 - [Production Checklist](/engineering/production-checklist.md)
-- [Handover Checklist](/https://github.com/dwarvesf/handover)
+- [Handover Checklist](/engineering/handover.md)
 
 ## Sales
 
