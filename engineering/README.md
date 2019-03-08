@@ -1,6 +1,6 @@
 # The philosophy
 
-We do Agile and we stand for the Craftsmanship in Software Development. The below philosophy is what we follow at Dwarves Foundation
+We do Agile and we stand for the Craftsmanship in Software Development. The below philosophy help to shape up the way we think and react in our daily life. They are what we encourage to follow at Dwarves Foundation
 
 - [Agile](#agile)
 - [Craftsmanship](#craftsmanship)

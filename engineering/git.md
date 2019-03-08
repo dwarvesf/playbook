@@ -1,10 +1,8 @@
 # Source Version Control
 
-It's like a time machine. We can work in parallel universes of our source code, experimenting without fear of losing work, rolling back if something goes wrong. Knowing the right workflow will help to increase team productivity.
+It's like a time machine. We can save and reload anytime we want to, like the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, rolling back if something goes wrong.
 
-We use Git. Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook and practices. We also have a [self-host Gitlab](git.dwarvesf.com) to store all of our source code.
-
-If a client has their own GitHub team and wishes to own the repository, there will be a fork of the project that should be used for all issues, pull requests, comments, etc.
+We use Git. Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook and practices. We also have a [self-host Gitlab](git.d.foundation) to store all of our source code.
 
 #### Branch & Anti Gitflow
 
@@ -126,3 +124,6 @@ A: use git reset to remove them from the commit history. If you already pushed y
 
 If you have published these changes to a public repo like GitHub, you will first need to change the secrets. Then follow the instructions to [remove sensitive data from a repository](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository). This can be accomplished through the git filter-branch command or using the BFG Repo-Cleaner and both options are covered in the instructions.
 
+**Q: What if the client wants their own repository?**
+
+A: If a client has their own GitHub team and wishes to own the repository, there will be a fork of the project that should be used for all issues, pull requests, comments, etc.

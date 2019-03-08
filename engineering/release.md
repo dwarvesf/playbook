@@ -1,6 +1,8 @@
 # Release Checklist
 
-- [ ] Today is not Friday or weekend.
+Just remember to not mess up with the end users. Our responsibility is to keep the system stable with seamless deployment.
+
+- [ ] Do NOT release on Friday or weekend. We can't handle if any issue happens.
 - [ ] The milestone was fully implemented.
 
 **Git**
