@@ -31,20 +31,21 @@ This repo is our playbook which contains our practices in software development a
 ### Practices
 
 - [Start a new project](/engineering/project-setup.md)
-- [Version control: Git](/engineering/git.md)
-- [Working together](/engineering/working-together.md)
+- [Version control with Git](/engineering/git.md)
+- [Working together: Pair Programming](/engineering/working-together.md)
 - [README Driven Development](/engineering/ddd.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
 - [Continuous Integration](/engineering/continous-integration.md)
-- [Release Checklist](/engineering/release.md)
 - [Retrospective](/engineering/retrospective.md)
+- [Release Checklist](/engineering/release.md)
 
 ## Production
 
+- [Security](/engineering/security.md)
 - [Monitoring](/engineering/monitoring.md)
-- [Production Checklist](/engineering/production-checklist.md)
+- [Production Checklist](/engineering/production.md)
 - [Handover Checklist](/engineering/handover.md)
 
 ## Sales
