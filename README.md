@@ -32,6 +32,7 @@ This repo is our playbook which contains our practices in software development a
 ### Practices
 
 - [Start a new project](/engineering/project-setup.md)
+- [Repository setup](/engineering/repository-setup.md)
 - [Environments](/engineering/environment.md)
 - [Version control with Git](/engineering/git.md)
 - [Working together: Pair Programming](/engineering/working-together.md)
@@ -42,17 +43,18 @@ This repo is our playbook which contains our practices in software development a
 - [Write a useful changelog](/engineering/changelog.md)
 - [Continuous Integration](/engineering/continous-integration.md)
 - [Retrospective](/engineering/retrospective.md)
+- [Development Security Rules](/engineering/security/dev-security.md)
 - [Release Checklist](/engineering/release.md)
 
 ### Platforms
 
-- [Backend](/engineering/backend.md)
 - [Android](/engineering/android.md)
 - [iOS](/engineering/ios.md)
+- [Backend](/engineering/backend.md)
+    - [API Security Checklist](/engineering/security/api-security.md)
 
 ## Production
 
-- [Security](/engineering/security/dev-security.md)
 - [Monitoring](/engineering/monitoring.md)
 - [Production Checklist](/engineering/production.md)
 - [Handover Checklist](/engineering/handover.md)

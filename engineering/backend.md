@@ -185,7 +185,7 @@ Whenever large datasets are exported to third parties, data should be anonymized
 
 Avoid logging personally identifiable information, for example user’s name.
 
-If your logs contain sensitive information,  make sure you know how logs are protected and where they are located also in the case of cloud hosted log management systems.
+If your logs contain sensitive information, make sure you know how logs are protected and where they are located also in the case of cloud hosted log management systems.
 
 If you must log sensitive information try hashing before logging so you can identify the same entity between different parts of the processing.
 
@@ -215,61 +215,6 @@ Sometimes, some files need to be accessible by different users (e.g. static cont
 Keep in mind that on a UNIX/Linux filesystem, write access to a directory is permission-wise very powerful—it allows you to delete files in that directory and recreate them (which results in a modified file). /tmp and /var/tmp are by default safe from this effect, because of the sticky bit that should be set on those.
 
 Additionally, as mentioned in the secrets section, file permissions might not be preserved in version control, so even if you set them once, the next checkout/update/whatever may override them. A good idea is then to have a Makefile, a script, a version control hook or something similar that would set the correct permissions when updating the sources.
-
-# Checklists
-
-To avoid forgetting the most important things, here are some handy checklists for your current or upcoming projects.
-
-## Responsibility checklist
-
-In bigger projects, especially when multiple parties are involved, it is crucial to keep track of all different aspects and its responsibilities. The following table illustrates how a go-live checklist for releasing a website could look like:
-
-| Aspect    | Task                              | Responsible person / party | Deadline     | Status            |
-|---        |---                                |---                         |---           |---                |
-| Frontend  | Website wireframes                | e.g. Company B / Person X  | e.g. 17.6.   |  e.g. in progress |
-| Frontend  | Website design                    | e.g. Company A / Person Z  | e.g. 23.7.   |  e.g. waiting     |
-| Frontend  | Website templates                 |   |   |   |
-| Frontend  | Content creation and population   |   |   |   |
-| Backend   | Setup CMS                         |   |   |   |
-| Backend   | Setup staging environment         |   |   |   |
-| Backend   | Setup production environment      |   |   |   |
-| Backend   | Migrate hosting services to client accounts |   |   |   |
-| Backend   | DNS configuration                 |   |   |   |
-| Backend   | Setup website analytics           |   |   |   |
-| Backend   | Integrate marketing automation    |   |   |   |
-| Backend   | Web font license                  |   |   |   |
-| Dates     | Website/Product go-live time      |   |   |   |
-| Dates     | Publish the website               |   |   |   |
-
-## Release checklist
-
-When you are ready to release, remember to check off everything on your release checklist! The resulting peace of mind, repeatability and dependability is a great boon.
-
-You *do* have one, right? If you don't, here is a good generic starting point for you:
-
-* [ ] Deploying works the same no matter which environment you are deploying to
-* [ ] All environments have well defined names, and they are referred to using those names
-* [ ] All environments have the same underlying software stack
-* [ ] All environment configuration is version controlled (web server config, CI build scripts etc.)
-* [ ] The product has been tested from the networks from where it will be used (e.g. public Internet, customer LAN)
-* [ ] The product has been tested with all of the targeted devices
-* [ ] There is a simple way to find out what code is running in any given environment
-* [ ] A versioning scheme has been defined
-* [ ] Any version of the product should be easily mappable to a state of the code base
-* [ ] Rolling back a deployment is possible
-* [ ] Backups are running
-* [ ] Restoring from a backup has been tested
-* [ ] No secrets are stored in version control
-* [ ] Logging is turned on
-* [ ] There is a well defined process for accessing and searching through logs
-* [ ] Logging includes exceptions and stack traces where appropriate
-* [ ] Errors can be mapped to stack traces
-* [ ] Release notes have been written
-* [ ] Server environments are up-to-date
-* [ ] A plan for updating the server environments exists
-* [ ] The product has been load tested
-* [ ] A method exists for replicating the state of one environment in another (e.g. copy prod to QA to reproduce an error)
-* [ ] All repeating release processes have been automated
 
 # General questions to consider
 
