@@ -2,6 +2,7 @@
 
 ##### TRANSMITING INFORMATION
 
+- [ ] Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).
 - [ ] Don't accept passwords or session tokens over HTTP.
 - [ ] Use HTTPS for all web traffic.
 - [ ] Use HTTPS in the beginning; it's harder to introduce later.
@@ -13,13 +14,32 @@
 
 ##### STORING INFORMATION
 
+- [ ] Never store secrets (passwords, keys, etc.) in the sources in version control.
 - [ ] Don't log passwords.
 - [ ] Don't store passwords in plain text.
 - [ ] Don't hash passwords using a reversible cipher.
 - [ ] Don't hash passwords using a broken cipher, such as MD5 or SHA1.
 
+##### LOGGING
+
+- [ ] For applications handling sensitive data, it's good to maintain audit logging—storing a sequence of actions/events that took place in the system, together with the event/source originator.
+- [ ] Data should be anonymized as much as possible. Avoid logging personally identifiable information, for example user’s name.
+- [ ] If you must log sensitive information try hashing before logging so you can identify the same entity between different parts of the processing.
+
+##### DOCKER
+
+**Using Docker will not make your service more secure.** Generally, you should consider at least following things if using Docker:
+
+- [ ] Don't run any untrusted binaries inside Docker containers
+- [ ] Create unprivileged users inside Docker containers and run binaries using unprivileged user instead of root whenever possible
+- [ ] Periodically rebuild and redeploy your containers with updated libraries and dependencies
+- [ ] Periodically update (or rebuild) your Docker hosts with latest security updates
+- [ ] Multiple containers running on same host will by default have some level of access to other containers and the host itself. Properly secure all hosts, and run containers with a minimum set of capabilities, for example preventing network access if they don't need it.
+
+
 ##### AUTHENTICATION SYSTEMS (Signup/Signin/2 Factor/Password reset) 
-- [ ] Use HTTPS everywhere.
+
+- [ ] Use HTTPS everywhere. Never send credentials unencrypted over public network.
 - [ ] Store password hashes using `Bcrypt` (no salt necessary - `Bcrypt` does it for you).
 - [ ] Destroy the session identifier after `logout`.  
 - [ ] Destroy all active sessions on reset password (or offer to).  
@@ -29,6 +49,7 @@
 - [ ] Set secure, httpOnly cookies.
 - [ ] In Mobile `OTP` based mobile verification, do not send the OTP back in the response when `generate OTP` or `Resend OTP`  API is called.
 - [ ] Limit attempts to `Login`, `Verify OTP`, `Resend OTP` and `generate OTP` APIs for a particular user. Have an exponential backoff set or/and something like a captcha based challenge.
+- [ ] Lock a user account for specific time after a given number of failed attempts
 - [ ] Check for randomness of reset password token in the emailed link or SMS.
 - [ ] Set an expiration on the reset password token for a reasonable period.
 - [ ] Expire the reset token after it has been successfully used.
