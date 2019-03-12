@@ -27,6 +27,7 @@ This repo is our playbook which contains our practices in software development a
 
 - [Automate your development environment](/engineering/laptop-setup.md)
 - [Using right editor for the job](/engineering/editor.md)
+- [Keep your devices safe](/engineering/basic-security.md)
 
 ### Practices
 
@@ -44,7 +45,7 @@ This repo is our playbook which contains our practices in software development a
 
 ## Production
 
-- [Security](/engineering/security.md)
+- [Security](/engineering/security/dev-security.md)
 - [Monitoring](/engineering/monitoring.md)
 - [Production Checklist](/engineering/production.md)
 - [Handover Checklist](/engineering/handover.md)
