@@ -32,6 +32,7 @@ This repo is our playbook which contains our practices in software development a
 ### Practices
 
 - [Start a new project](/engineering/project-setup.md)
+- [Environments](/engineering/environment.md)
 - [Version control with Git](/engineering/git.md)
 - [Working together: Pair Programming](/engineering/working-together.md)
 - [README Driven Development](/engineering/ddd.md)
@@ -42,6 +43,12 @@ This repo is our playbook which contains our practices in software development a
 - [Continuous Integration](/engineering/continous-integration.md)
 - [Retrospective](/engineering/retrospective.md)
 - [Release Checklist](/engineering/release.md)
+
+### Platforms
+
+- [Backend](/engineering/backend.md)
+- [Android](/engineering/android.md)
+- [iOS](/engineering/ios.md)
 
 ## Production
 
@@ -58,3 +65,9 @@ This repo is our playbook which contains our practices in software development a
 ## Contributing
 
 We love pull requests. If you have something you want to add or remove, please open a new pull request. Please leave all PRs open for at least a week to get feedback from everyone.
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+@ [Dwarves Foundation](https://d.foundation)
+

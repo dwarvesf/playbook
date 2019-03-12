@@ -7,7 +7,7 @@
 - [ ] Is config stored in environment variables?
 - [ ] Are deploys done manually at a scheduled time when teammates are fresh and available if something goes wrong?
 - [ ] Do deploys follow a well-documented script?
-- [ ] Are we sending logs to a remote logging service? See "Log Collection" section below.
+- [ ] Are we sending logs to a remote logging service?
 - [ ] Are we backing up our production database?
 - [ ] Are we monitoring performance and uptime?
 - [ ] Are we tracking errors?
