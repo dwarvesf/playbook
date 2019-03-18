@@ -2,11 +2,7 @@
 
 ## React
 
-We use React for most projects, so this guide mostly leans toward best practices for React and libraries that use React or work well React.
-
-## Backend
-
-TBD
+We use React for most projects, so this guide mostly leans toward best practices for React and libraries that use (or work well with) React.
 
 ## Project structure
 
@@ -24,16 +20,22 @@ With the introduction of [React Hooks](https://reactjs.org/docs/hooks-intro.html
 
 ## Coding style
 
-TBD
+We currenty don't have a strict rule for writing Javascript as it would limit developer's freedom. However we do have some small practices has been established internally:
+
+- Never use `var`
+- Prefer `forEach`/`for/of` over `for (let i = 0; i < items.length; i++)`
+- Prefer functional & immutable array methods .ie `map`/`filter`/`reduce`/`some`/`every` over any types of mutable `for` loop
+- Prefer "return early" coding style, more about it [here](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
+- Don't obsess over performance of code, obsess over making it clear
 
 ## Writing custom styles
 
-TBD
+TailwindCSS covers most things, but if you ever feel the need of writing custom styles for a single floating icon or a fancy hero banner transition, use [CSS Modules](https://github.com/css-modules/css-modules).
 
 ## Continous integration & deployment
 
-TBD
+Use [Netlify](https://www.netlify.com/) for web applications and static websites, it handles both CI and deployment for free, which is awesome.
 
 ## Monitoring
 
-TBD
+Use [Sentry](https://sentry.io/) to monitor errors and centralized stacktrace in production.
