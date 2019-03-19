@@ -2,7 +2,7 @@
 
 It's like a time machine. We can save and reload anytime we want to, like the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, rolling back if something goes wrong.
 
-We use Git. Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook and practices. We also have a [self-host Gitlab](git.d.foundation) to store all of our source code.
+[We use git](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook and practices. We also have a [self-host Gitlab](git.d.foundation) to store all of our source code.
 
 #### Branch & Anti Gitflow
 
