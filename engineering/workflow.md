@@ -8,7 +8,7 @@ Agile, Scrum, XP... These are the trendy keywords that always on the top of the 
 
 SO what is ***Scrum*** exactly?
 
-## Sprint
+## A Sprint
 
 **Timebox:** 1 month or less (Preferable: 2 weeks)
 <br>**Roles:** Whole teams
