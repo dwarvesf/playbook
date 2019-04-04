@@ -44,6 +44,7 @@ This repo is our playbook which contains our practices in software development a
 - [Continuous Integration](/engineering/continous-integration.md)
 - [Retrospective](/engineering/retrospective.md)
 - [Development Security Rules](/engineering/security/dev-security.md)
+- [Licenses](/engineering/license.md)
 - [Release Checklist](/engineering/release.md)
 
 ### Platforms
