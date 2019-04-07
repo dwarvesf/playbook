@@ -10,12 +10,12 @@ We recommend using dotfiles to customize your tools and environment to suit your
 
 If you are new for dotfiles, you can have a quick look at https://dotfiles.github.io. They organize most popular dotfiles for you to look at or start with. You can browse some repo to learn from the community, discover new tools for your toolbox and new tricks for the ones you already use.
 
-You can also use our [dotfiles](https://github.com/dwarvesf/dotfiles) to make pair programming with teammates easier and make each other more productive.
-
 ## Automate your development environment
 
-We use MacOS and few popular Linux distro as a environment for development. We depend on compilers, databases, programming languages, package management systems, installers, and other critical programs for our daily activities.
+We use MacOS and few popular Linux distros as a environment for development. We depend on compilers, databases, programming languages, package management systems, installers, and other critical programs for our daily activities.
 
-Beside [dotfiles](/engineering/dotfiles.md), a script to share our configuration and variable, we have [laptop](https://github.com/dwarvesf/laptop) is a script to set up a macOS laptop with the programs required for web and mobile development. It should take less than 15 minutes to install.
+We have our [dotfiles](/engineering/dotfiles.md), a script to share our configuration and variable. It helps to set up a laptop with the programs required for web and mobile development. It should take less than 15 minutes to install.
 
-Using an automated setup helps us to stay up-to-date with new operating system and program versions. Also, because the setup is standardized, new team members are able to quickly join a project without wasting time re-configuring their machine.
+Using an automated setup helps us to stay up-to-date with new operating system and program versions. Also, because the setup is standardized, new team members are able to quickly join a project without wasting time re-configuring their machine. 
+
+Using the [dotfiles](https://github.com/dwarvesf/dotfiles) make pair programming with teammates easier and make each other more productive.
