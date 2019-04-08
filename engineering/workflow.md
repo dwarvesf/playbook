@@ -6,7 +6,19 @@ Agile, Scrum, XP... These are the trendy keywords that always on the top of the 
 - A lot of people wants to apply Scrum
 - But only a few people really use Scrum
 
-SO what is ***Scrum*** exactly?
+So what is ***Scrum*** exactly?
+
+## Scrum in a nutshell
+Scrum is an **Agile framework** that is focusing on:
+- Make everything transparent so that the whole team & customer are **on the same page**
+- Because of the **transparency,** everyone can **inspect** into the whole process and see the things that could be improved
+- The team/product keep **adapting** to the new changes/improvement and getting better over time with **customer feedback**
+
+## Kanban in a nutshell
+Kanban is a **visual workflow management** that has roots in manufacturing. 
+- Work items are represented by cards on a board, with lanes that represent process steps
+- Boards are used by teams to manage the collective work of the team
+
 
 ## Sprint
 

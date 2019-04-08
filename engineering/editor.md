@@ -15,7 +15,7 @@ Right now our team is scattered between VSCode and Emacs(Spacemacs).
 Everyone has their own set of favorite tools, if you're unsure which tool to pick - just use the one that works for the task you're up to. In the end it all comes down to the result you deliver, not what you used to achieve it.
 
 Some personal preferences (for starters) that might helps:
-- For project-baseed development: VSCode
+- For project-based development: VSCode
 - For single file editting (.eg config files): VSCode/Vim
 
 If you're in doubt, go with [VSCode](https://code.visualstudio.com/).
