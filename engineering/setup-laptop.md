@@ -12,9 +12,11 @@ If you are new for dotfiles, you can have a quick look at https://dotfiles.githu
 
 ## Automate your development environment
 
+https://github.com/dwarvesf/dotfiles
+
 We use MacOS and few popular Linux distros as a environment for development. We depend on compilers, databases, programming languages, package management systems, installers, and other critical programs for our daily activities.
 
-We have our [dotfiles](/engineering/dotfiles.md), a script to share our configuration and variable. It helps to set up a laptop with the programs required for web and mobile development. It should take less than 15 minutes to install.
+We have our [dotfiles](https://github.com/dwarvesf/dotfiles), a script to share our configuration and variable. It helps to set up a laptop with the programs required for web and mobile development. It should take less than 15 minutes to install.
 
 Using an automated setup helps us to stay up-to-date with new operating system and program versions. Also, because the setup is standardized, new team members are able to quickly join a project without wasting time re-configuring their machine. 
 

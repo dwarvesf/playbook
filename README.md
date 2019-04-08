@@ -25,14 +25,14 @@ This repo is our playbook which contains our practices in software development a
 
 ### Setup
 
-- [Automate your development environment](/engineering/laptop-setup.md)
+- [Automate your development environment](/engineering/setup-laptop.md)
 - [Using right editor for the job](/engineering/editor.md)
 - [Keep your devices safe](/engineering/basic-security.md)
 
 ### Practices
 
-- [Start a new project](/engineering/project-setup.md)
-- [Repository setup](/engineering/repository-setup.md)
+- [Start a new project](/engineering/setup-project.md)
+- [Repository setup](/engineering/setup-repository.md)
 - [Environments](/engineering/environment.md)
 - [Version control with Git](/engineering/git.md)
 - [Working together: Pair Programming](/engineering/working-together.md)
