@@ -26,7 +26,7 @@ At each stage, there are several technologies and methodologies being used, we a
 
 - [Design Sprint](/design/design_sprint.md)
 - [AARRR Framework](/design/aarrr.md)
-- Lean Canvas & UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping
-- Wireframe: Workflow Design
-- Low Fidelity Prototype: UI Design
-- High Fidelity Prototype: Interative Design
+- [Lean Canvas](/design/lean_canvas.md)
+- [UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping](/design/UXresearch.md)
+- [Wireframe and Information Architecture](/design/wireframe_IA.md)
+- [Prototype](/design/prototype.md)
