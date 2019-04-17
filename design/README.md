@@ -24,9 +24,9 @@ At Dwarves Design, we currently apply and revise day by day the simple process a
 
 At each stage, there are several technologies and methodologies being used, we always eager to apply best practices in our process.
 
-- [Design Sprint](/design/design_sprint.md)
-- [AARRR Framework](/design/aarrr.md)
-- [Lean Canvas](/design/lean_canvas.md)
-- [UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping](/design/UXresearch.md)
-- [Wireframe and Information Architecture](/design/wireframe_IA.md)
+- [Design Sprint](/design/design-sprint.md)
+- [AARRR Framework](/design/AARRR.md)
+- [Lean Canvas](/design/lean-canvas.md)
+- [UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping](/design/UX.md)
+- [Wireframe](/design/wireframe.md)
 - [Prototype](/design/prototype.md)
