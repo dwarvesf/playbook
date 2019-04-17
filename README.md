@@ -10,12 +10,16 @@ This repo is our playbook which contains our practices in software development a
 
 <Design Workshop>
 
-- Design Sprint
-- [AARRR Framework](/design/aarrr.md)
-- Lean Canvas & UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping
-- Wireframe: Workflow Design
-- Low Fidelity Prototype: UI Design
-- High Fidelity Prototype: Interative Design
+- [Design Sprint](/design/design-sprint.md)
+- [AARRR Framework](/design/AARRR.md)
+- [Lean Canvas](/design/lean-canvas.md)
+- [Wireframe](/design/wireframe.md)
+- [Prototype](/design/prototype.md)
+- [UX Research](/design/UX-research.md)
+- [Information Structure: IA Design](/design/IA.md)
+- [Low Fidelity Prototype: UI Design](/design/UI.md)
+- [High Fidelity Prototype: Interative Design](/design/IX.md)
+- [The Design System](/design/design-system.md)
 
 ## Developing
 
