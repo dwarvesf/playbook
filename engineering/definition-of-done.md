@@ -5,7 +5,7 @@ Definition of done also known as **DoD** is a list of criteria which must be met
 - [ ] coded to standards
 - [ ] reviewed
 - [ ] implemented with unit test
-- [ ] tested with 100 percent test automation, integrated 
+- [ ] tested with 50 percent test automation, integrated 
 - [ ] and documented.
 
 **In a services context, Done means**
