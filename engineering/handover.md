@@ -72,7 +72,7 @@ with all boxes unchecked.
 
 - [ ] All new members have had clear tasks for past week.
 - [ ] No question asked during last week about people/contacts/roles.
-- [ ] No past tools were introduced (tools that were used in past, but not mentioned during handover).
+- [ ] List of tool is up to date
 - [ ] No old change request appear (that was agreed before handover and never mentioned during).
 - [ ] No past communication channels were introduced (channels that were used in past, but not mentioned during handover).
 - [ ] All things that were not clear (mentioned earlier) were resolved.
