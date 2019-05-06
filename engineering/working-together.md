@@ -1,6 +1,6 @@
 # Pair Programming
 
-We encourage pair programming between all levels of experience at kohactive. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes. 
+We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes. 
 
 Code that is written by two people who sit next to each other at the same computer is [pair-programmed](http://www.extremeprogramming.org/rules/pair.html) code. That code is considered high quality and should result in cost savings due to less maintenance.
 

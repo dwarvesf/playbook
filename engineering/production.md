@@ -1,6 +1,6 @@
 # Production Checklist
 
-- [ ] Are long-running processes such as email delivery being run in background jobs?
+- [ ] Long-running processes such as email should delivery being run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?
 - [ ] Are we using SSL? Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).
 - [ ] Are API requests being made via a separate subdomain (api.example.com)? Even if the same app, this gives us architectural flexibility in the future.
@@ -14,7 +14,7 @@
 
 - [ ] No secrets are stored in version control
 - [ ] Is config stored in environment variables?
-- [ ] Is new variables deployed?
+- [ ] Are new variables deployed?
 - [ ] Server environments are up-to-date
 - [ ] A plan for updating the server environments exists
 
