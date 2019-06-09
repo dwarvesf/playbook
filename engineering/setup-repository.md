@@ -4,7 +4,7 @@ How we expect projects to be setup at Dwarves Foundation.
 
 ## What we expect
 
-- README.md in the root of the repo is the docs
+- [README.md](/engineering/readme-how.md) in the root of the repo is the docs
 - Single command run
 - Single command deploy
 - Repeatable and re-creatable builds
