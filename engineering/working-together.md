@@ -8,7 +8,6 @@ That code is considered high quality and should result in cost savings due to le
 
 Generally we use it for complex pull requests review and coaching and fixing
 
-
 ## How?
 
 * When pair programming, one person should “drive” while the other “navigates.” The navigator will assist the driver with the code they should write and explain the reasoning behind any code that they might dictate
@@ -20,7 +19,6 @@ Generally we use it for complex pull requests review and coaching and fixing
 * The objective is to share the workload between both the participants in order to maintain the constant development stream and also to help spread knowledge over the team.
 
 The driver and the reviewer should constantly interact with each other as it will add to the knowledge and efficiency for both the members.
-
 
 **Before:**
 
@@ -59,6 +57,8 @@ Around 96% of the pair programmers reported in an online survey that they enjoye
 Establishing a senior-junior combo might be a great step to refine the junior’s skills and proficiency.
 
 ## Significant Pair Programming Markers
+
+Some notes that we should consider applying
 
 #### During Pairing
 * Let me drive
