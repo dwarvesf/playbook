@@ -49,6 +49,7 @@ This repo is our playbook which contains our practices in software development a
 - [Versioning](/engineering/versioning.md)
 - [Write a useful changelog](/engineering/changelog.md)
 - [Continuous Integration](/engineering/continous-integration.md)
+- [The 12 factor app](/engineering/12-factor-app.md)
 - [Retrospective](/engineering/retrospective.md)
 - [Development Security Rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
@@ -59,8 +60,10 @@ This repo is our playbook which contains our practices in software development a
 
 - [Android](/engineering/android.md)
 - [iOS](/engineering/ios.md)
+- [Frontend](/engineering/frontend.md)
 - [Backend](/engineering/backend.md)
     - [API Security Checklist](/engineering/security/api-security.md)
+
 
 ## Production
 
