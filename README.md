@@ -42,6 +42,7 @@ This repo is our playbook which contains our practices in software development a
 - [Version control with Git](/engineering/git.md)
 - [Working together: Pair Programming](/engineering/working-together.md)
 - [README Driven Development](/engineering/rdd.md)
+- [Agile requirement: User Story](/engineering/user-story.md)
 - [Writing test & materials](/engineering/testing.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
@@ -52,6 +53,7 @@ This repo is our playbook which contains our practices in software development a
 - [Development Security Rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
 - [Release Checklist](/engineering/release.md)
+- [UAT Checklist](/engineering/UAT.md)
 
 ### Platforms
 
