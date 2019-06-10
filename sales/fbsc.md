@@ -4,11 +4,11 @@ We do need to know clients' budgets. This is often uncomfortable for them but th
 
 We talk about breaking product rollout into stages and try to improve the product's chances of success at each stage by:
 
-Focusing on a small subset of features.
-Designing a valuable user experience.
-Developing a meaningful relationship with users.
-Budgeting for marketing tactics to tell users about the product.
-Designing interactions into the product for users to bring other users to the product.
+- Focusing on a small subset of features.
+- Designing a valuable user experience.
+- Developing a meaningful relationship with users.
+- Budgeting for marketing tactics to tell users about the product.
+- Designing interactions into the product for users to bring other users to the product.
 
 ## No Fixed Bids
 
