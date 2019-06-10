@@ -42,6 +42,7 @@ This repo is our playbook which contains our practices in software development a
 - [Version control with Git](/engineering/git.md)
 - [Working together: Pair Programming](/engineering/working-together.md)
 - [README Driven Development](/engineering/rdd.md)
+- [Writing test & materials](/engineering/testing.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
