@@ -1,6 +1,6 @@
 # Code editors
 
-Right now our team is scattered between VSCode and Emacs(Spacemacs).
+Right now our team is scattered between VSCode and Emacs (Spacemacs).
 
 > The VSCode gang enjoy pretty syntax themes, excellent auto-completion for most languages, fast integrated terminal and awesome Git integration.
 
