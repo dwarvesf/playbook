@@ -28,7 +28,7 @@ Let people know what your project can do specifically. Provide context and add a
 
 ### Badge
 
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use [ Shields ](https://shields.io) to add some to your README. Many services also have instructions for adding a badge.
+On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use [Shields](https://shields.io) to add some to your README. Many services also have instructions for adding a badge.
 
 ### Visuals
 
