@@ -6,6 +6,8 @@ We stand for the craftsmanship in software development. More than telling people
 
 This repo is our playbook which contains our practices in software development and also how we collaborate to make them succeed.
 
+![](/engineering/img/team-images.png)
+
 ## Product Design
 
 <Design Workshop>

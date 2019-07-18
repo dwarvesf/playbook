@@ -19,7 +19,6 @@ Kanban is a **visual workflow management** that has roots in manufacturing.
 - Work items are represented by cards on a board, with lanes that represent process steps
 - Boards are used by teams to manage the collective work of the team
 
-
 ## Sprint
 
 **Timebox:** 1 month or less (Preferable: 2 weeks)
@@ -33,7 +32,7 @@ During the Sprint, there are four Sprint Events that will happen.
 
 ## Sprint Events
 ### **Daily Scrum**
-***When:*** Daily, *stand up* in the office OR Slack 
+***When:*** Daily, *stand up* in the office
 <br> ***Timebox:*** Maximum 15 minutes
 <br>***Who:*** Scrum Team
 <br>***To do what:***
@@ -72,6 +71,7 @@ During the Sprint, there are four Sprint Events that will happen.
 - If there is anything that the Scrum Team think that it will make the product better, Sprint Review is the time to advise the stackholders
 - Demo could be useful for Dev to show off their work as well as presenting skills
 - Understading how customer would use it will help the Scrum Team in future development
+
 ### **Sprint Retrospective**
 <br>**When:** Start of every Sprint
 <br>**Timebox:** Maximum time = Number of week * 2 (hrs)
@@ -84,7 +84,6 @@ During the Sprint, there are four Sprint Events that will happen.
 **Remarks:**
 - It’s a ghost buster event, not shaming event
 - Improve one thing at a time, focus on things that are *small* but **most painful**
-
 
 ## Scratching the itches
 ### ***I changed my mind, again!!!***

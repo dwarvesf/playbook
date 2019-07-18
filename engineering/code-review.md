@@ -48,3 +48,5 @@ There are more, but we try to only put important items in this section, the rest
 - Check for correctness of code, not how you would do it
 - Discuss possibilities & trade-offs, not what's right & what's wrong
 - Try not to go into lengthy discussion and keep code review to less than 30 minutes
+
+![](/engineering/img/code-review-hierarchy.png)

@@ -1,8 +1,8 @@
 # The 12-factor App
 
-The 12-factor apps let we write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project. 
+*The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project.*
 
-You can read more about the philosophy of the 12-factor app https://12factor.net. Here we only show how we those in real projects.
+You can read more about the philosophy of the 12-factor app https://12factor.net. Here we only show how we apply those in real projects.
 
 ## Codebase
 

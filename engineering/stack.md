@@ -19,39 +19,35 @@ We continuously evaluate new technologies using our tech radar. They are classif
 
 ### Technology Index at Dwarves Foundation
 
-#### Languages
-
-- Golang
-- React.js
-- Vue.js
-- Rust
-- Elixir
-- Kotlin
-- Swift
-
-#### Platforms
-
-- Docker
-- GCP
-- AWS
-- Istio
-- Netlify
-
 #### Tools
 
-- Basecamp: 
-- Slack
-- Gitlab
-- VSCode
-- Vim
-- Sketch
-- Figma
+- Basecamp: Project management and team communication software by 37signal.
+- Gitlab: Git is like a time machine. We have our self-host source version control.
+- VSCode & Vim: Our popular editor of choice to be productive. There are a few members who prefer to use emacs, but our point is always the right tool for the right job.
+- Sketch & Figma: A primary design tool for UI Design and collaboration between the development team.
 
 #### Techniques
 
-- Scrum
-- CI/CD
-- Gitflow
-- Code Review
-- Automation
-- Docker-centered
+- Scrum: an agile framework for team collaboration
+- Docker-centered: our workflow that uses Docker container in every phase of the development lifecycle. It ensures the runtime isolation and eases the development/deployment process.
+- CI/CD: a practice to integrate, build, and deploy source code efficiently.
+- Gitflow: a branching model for git which helps save time and organize development team activity on the codebase.
+- Code Review: a part of our software QA activity that helps identify bugs and defects before the testing phase.
+
+#### Platforms
+
+- Docker: the engine enables containerized applications to run anywhere consistently on any infrastructure.
+- AWS: Cloud computing services by Amazon
+- GCP: Cloud computing services by Google
+- Istio: An open platform to connect, manage, and secure microservices by Google
+- Netlify: All-in-one platform for modern web development
+
+#### Languages
+
+- Golang
+- Elixir
+- Rust
+- React.js
+- Vue.js
+- Kotlin
+- Swift
