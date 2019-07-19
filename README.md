@@ -25,9 +25,9 @@ This repo is our playbook which contains our practices in software development a
 
 ## Developing
 
-- [Software Philosophy: Agile, Craftsmanship & Minimalism](/engineering/README.md)
-- [Workflow: Scrum Framework](/engineering/workflow.md)
-- [Technology stack](/engineering/stack.md)
+- [Software Philosophy: Engineering-Driven, Craftsmanship & Minifesto](/engineering/README.md)
+- [Workflow: Agile & Scrum Framework](/engineering/workflow.md)
+- [Technology stack: Our POV on Technology](/engineering/stack.md)
 
 ### Setup
 
@@ -52,7 +52,6 @@ This repo is our playbook which contains our practices in software development a
 - [Write a useful changelog](/engineering/changelog.md)
 - [Continuous Integration](/engineering/continous-integration.md)
 - [The 12 factor app](/engineering/12-factor-app.md)
-- [Retrospective](/engineering/retrospective.md)
 - [Development Security Rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
 - [Release Checklist](/engineering/release.md)

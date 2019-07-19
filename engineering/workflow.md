@@ -1,106 +1,51 @@
-# Scrum at Dwarves Foundation
+Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum.
 
-Agile, Scrum, XP... These are the trendy keywords that always on the top of the results for software development methodology
+## Agile
 
-- Everyone knows about Scrum
-- A lot of people wants to apply Scrum
-- But only a few people really use Scrum
+Back in the day when software development was very operation massive, with lots of documents and departments that they don't even know each other. Building the software is more like you make a ship. Parts and components should be completed and gathered to integrate. The process was adopted from factory and manufacturer, which is not appropriate.
 
-So what is ***Scrum*** exactly?
+In software development, things can be different. A group of people believes that we can have a better way of making software with more efficient collaboration by putting the team at the heart of the development process. And they came up with Agile methodology.
 
-## Scrum in a nutshell
-Scrum is an **Agile framework** that is focusing on:
-- Make everything transparent so that the whole team & customer are **on the same page**
-- Because of the **transparency,** everyone can **inspect** into the whole process and see the things that could be improved
-- The team/product keep **adapting** to the new changes/improvement and getting better over time with **customer feedback**
+> **Agile team = Team + Agility**
 
-## Kanban in a nutshell
-Kanban is a **visual workflow management** that has roots in manufacturing. 
-- Work items are represented by cards on a board, with lanes that represent process steps
-- Boards are used by teams to manage the collective work of the team
+Agile visionaries believed that teamwork is essential to delivering exceptional software and that great agile teams embody "we" rather than "I." Once the team is in place, it's important to remember that agile teams are like individuals: they take time to grow.
 
-## Sprint
+The way we see it is a collaboration between a team of multiple people with the right skillset, sufficient knowledge on the domain and clear understanding of the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level. 
 
-**Timebox:** 1 month or less (Preferable: 2 weeks)
-<br>**Roles:** Whole teams
-<br>**Remarks:**
-- No changes are made that would endanger the Sprint Goal
-- Quality goals do not decrease
-- Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
+![](/engineering/img/agile-team.png)
 
-During the Sprint, there are four Sprint Events that will happen.
+Keeping agile teams intact takes some organizational discipline, but it pays to protect the team–within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
 
-## Sprint Events
-### **Daily Scrum**
-***When:*** Daily, *stand up* in the office
-<br> ***Timebox:*** Maximum 15 minutes
-<br>***Who:*** Scrum Team
-<br>***To do what:***
-- What did I do yesterday?
-- What will I do today?
-- Any blockages?    
+There are two other pillars of great agile teams: continuous mentoring and shared skill sets. When the team reaches the stage of Performing, they can work on the project at their full collaboration potential. All the obstacles will be removed, and risks will be minimized.
 
-***Remarks:***
-- No chit chat
-- Be on time
-- No solution discussion, take it offline or set up another meeting if needed
+Keywords to take away:
 
-### **Sprint Planning**
-**When:** Start of every Sprint
-<br>**Timebox:** Maximum time = Number of week * 2 (hrs)
-<br>**Who:** Product Owner, Scrum Master, Scrum Team
-<br>**To do what:**
-- What can be done this Sprint?
-- Define Sprint Goal
-- How will the chosen work get done?
+- **Working software** over comprehensive documentation
+- **Individuals and team collaboration** over processes and tools
+- **Customer collaboration** over contract negotiation
 
-**Remarks:**
-- The goal is solid, but solution could be changed
-- If there is any solution changes or unexpected events occurred, discuss with PO to re arrange the work
+## Scrum
 
-### **Sprint Review**
-**When:** Start of every Sprint
-<br>**Timebox:** Maximum time = Number of week * 2 (hrs)
-<br>**Who:** Product Owner, Scrum Master, Scrum Team
-<br>**To do what:**
-- Demo of what have been done
-- Product Owner explains what have been “Done”, what has not been “Done”
-- Backlog refinement if needed
+Scrum is an Agile framework that teaches us how to work together under Agile name. There are no specific roles in the team at the beginning. 
 
-**Remarks:**
-- If there is anything that the Scrum Team think that it will make the product better, Sprint Review is the time to advise the stackholders
-- Demo could be useful for Dev to show off their work as well as presenting skills
-- Understading how customer would use it will help the Scrum Team in future development
+- There is only the **team member** who has autonomy and responsibility to meet the goals of the sprint. 
+- And there is the **Scrum master** who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn't need a permanent coach.
 
-### **Sprint Retrospective**
-<br>**When:** Start of every Sprint
-<br>**Timebox:** Maximum time = Number of week * 2 (hrs)
-<br>**Who:** Scrum Team
-**To do what:**
-- What when well last Sprint?
-- What could be improved?
-- How could we improved?
+Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve. Three pillars to make Scrum successful are Inspection, Transparency, Adaptation in the feedback loop.
 
-**Remarks:**
-- It’s a ghost buster event, not shaming event
-- Improve one thing at a time, focus on things that are *small* but **most painful**
+![](/engineering/img/sprint_cycle-c.png)
 
-## Scratching the itches
-### ***I changed my mind, again!!!***
->It’s Agile, we can change anything at anytime!
+There are
 
-Sounds familiar?
+- Backlog: a list of things to get done. Depending on the scale of the project, the Product owner has different ways to keep the backlog healthy.
+- Sprint: a small loop of 1, 2, or 4 weeks. It consists of planning at the beginning of the sprint, daily sync up, product review, and team retro at the end of the sprint.
 
-For the teams that have a Scrum Master, it’s his/her responsibility to protect the team from those changes during the Sprint, but for the smaller teams that work directly with clients they usually being distracted by those changes all the time.
+## FAQ
 
-Changes are inevitable, but everyone needs to remember that changes take *Time*, *Effort* and therefore **Money**
+- Does apply Agile means we can skip the documentation part?
 
-Remember:
+Agile is more about the state of mind. It is a philosophy that introduces the team the mechanism of communication and synchronization. As long as we can maintain those pillar, we can do what we want.
 
-    No problem, just stick it into the backlog
+- Is Agile methodology one process fit them all?
 
-Then we can discuss it in the Sprint Planning
-
-### ***Ain’t nobody got time for that***
-
-“Prescribed events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.” — *Scrum Guide*
+Agile methodology only suggests putting the team to the center of collaboration. It only works if the team can keep the sustainable pace and always be aligned. If the project requires a different kind of collaboration that can't satisfy the Agile requirement, the team should adopt another process or break into the smaller group.
