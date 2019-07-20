@@ -50,7 +50,7 @@ This repo is our playbook which contains our practices in software development a
 - [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
 - [Write a useful changelog](/engineering/changelog.md)
-- [Continuous Integration](/engineering/continous-integration.md)
+- [CI/CD](/engineering/ci-cd.md)
 - [The 12 factor app](/engineering/12-factor-app.md)
 - [Development Security Rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
