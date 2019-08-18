@@ -1,5 +1,18 @@
 The workflow we chose to adopt is a team agreement on why we should be a team player and how we should act to benefit as a whole, not just an individual.
 
+tl;dr; We apply agile philosophy. A few notes to take before working on a project.
+
+- Agile is an adjective, not a fancy word. An agile team is about the team, not the tool.
+- Get to know the team and their capability before making any assumption.
+- Get to know the project and its vision.
+- Try to break the whole applications workload into small feedback loops. Learn from failure.
+- To maintain the sustainable pace, use the Agile point to keep track of the workload per loop.
+- Project success is always measured by the triangle of Budget - Time - Quality.
+
+Happy coding.
+
+---
+
 Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum. 
 
 ## Agile
