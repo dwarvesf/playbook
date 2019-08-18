@@ -1,4 +1,6 @@
-Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum.
+The workflow we chose to adopt is a team agreement on why we should be a team player and how we should act to benefit as a whole, not just an individual.
+
+Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum. 
 
 ## Agile
 
@@ -16,13 +18,7 @@ The way we see it is a collaboration between a team of multiple people with the 
 
 Keeping agile teams intact takes some organizational discipline, but it pays to protect the team–within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
 
-There are two other pillars of great agile teams: continuous mentoring and shared skill sets. When the team reaches the stage of Performing, they can work on the project at their full collaboration potential. All the obstacles will be removed, and risks will be minimized.
-
-Keywords to take away:
-
-- **Working software** over comprehensive documentation
-- **Individuals and team collaboration** over processes and tools
-- **Customer collaboration** over contract negotiation
+There are two other pillars of great agile teams: **continuous mentoring** and **shared skill sets**. When the team reaches the stage of Performing, they can work on the project at their full collaboration potential. All the obstacles will be removed, and risks will be minimized.
 
 ## Scrum
 
@@ -31,7 +27,7 @@ Scrum is an Agile framework that teaches us how to work together under Agile nam
 - There is only the **team member** who has autonomy and responsibility to meet the goals of the sprint. 
 - And there is the **Scrum master** who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn't need a permanent coach.
 
-Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve. Three pillars to make Scrum successful are Inspection, Transparency, Adaptation in the feedback loop.
+Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve. Three pillars to make Scrum successful are Inspection, Transparency, Adaptation in the **feedback loop**.
 
 ![](/engineering/img/sprint_cycle-c.png)
 
@@ -40,12 +36,24 @@ There are
 - Backlog: a list of things to get done. Depending on the scale of the project, the Product owner has different ways to keep the backlog healthy.
 - Sprint: a small loop of 1, 2, or 4 weeks. It consists of planning at the beginning of the sprint, daily sync up, product review, and team retro at the end of the sprint.
 
+To maintain the sustainable pace, the agile team should know each other and try to measure the capability using the agile point.
+
 ## FAQ
+
+- Keywords to take away?
+
+    - **Working software** over comprehensive documentation
+    - **Individuals and team collaboration** over processes and tools
+    - **Customer collaboration** over contract negotiation
 
 - Does apply Agile means we can skip the documentation part?
 
-Agile is more about the state of mind. It is a philosophy that introduces the team the mechanism of communication and synchronization. As long as we can maintain those pillar, we can do what we want.
+Agile is more about the state of mind. It is a philosophy that introduces the team the mechanism of **communication and synchronization**. As long as we can maintain those pillar, we can do what we want.
 
 - Is Agile methodology one process fit them all?
 
 Agile methodology only suggests putting the team to the center of collaboration. It only works if the team can keep the sustainable pace and always be aligned. If the project requires a different kind of collaboration that can't satisfy the Agile requirement, the team should adopt another process or break into the smaller group.
+
+- What to remember about Scrum?
+
+The small feedback loops.
