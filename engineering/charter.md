@@ -6,16 +6,16 @@
 
 ## Why is the Project Charter So Important?
 
-###  The benifits of Project Charters for development team.
+###  The benefits of Project Charters for the development team.
 
 - Helps determine project value: help the team determine if it’s worthwhile to carry out or propose the project.
-- Saves time down the road: the time you take at the beginning is time you won’t need to spend trouble? shooting and negotiating if you’ve already addressed these areas in the project charter.
-- Gives you budget clarity: ensure that funding is available and will be released on time. Settle your spending authority and budgets prior to starting the project.
+- Saves time down the road: the time you take at the beginning is the time you won’t need to spend trouble? shooting and negotiating if you’ve already addressed these areas in the project charter.
+- Gives you budget clarity: ensure that funding is available and will be released on time. Settle your spending authority and budgets before starting the project.
 - Helps you give clear guidelines to your team: The milestones and criteria for measurement give invaluable guidance to your team as you begin to brief out the project.
 - Inspires confidence: gives the team assurance that they’re working under an effective and well-organized project manager.
-- Boosts team morale: A team working under a sloppy project charter will repeatedly find themselves confused, with their hard work wasted or headed in the wrong direction. A well-written project charter give clear guidelines for success that your team can feel motivated and confident to work toward.
+- Boosts team morale: A team working under a sloppy project charter will repeatedly find themselves confused, with their hard work wasted or headed in the wrong direction. A well-written project charter gives clear guidelines for success that your team can feel motivated and confident to work toward.
 
-### The benifits of Project Charters for clients and stakeholder.
+### The benefits of Project Charters for clients and stakeholder.
 
 - Creates a shared understanding: stakeholders know what to expect and what pressure it may put on resources. It can be a great source of confidence as it helps them understand exactly what they are approving.
 - Serves as a marketing tool: it can function as a sales document, to be distributed to those outside the project team. It can help justify expenses and investment. This article, originally a conference presentation, positions a project charter as a “marketing tool” and discusses other considerations for project sponsors to include in a charter.
@@ -27,19 +27,19 @@ All the blanks in A Project Charter document should be filled by answering these
 
 **1. Which domain knowledge or industry?**
 
-For Example: Medical, Transportation/Logistic, Banking, etc..
+For example Medical, Transportation/Logistic, Banking, etc..
 
-**2. The context of the Project?**
+**2. The context of the project?**
 
-- **Problems:** Generally, it is the conflict the benefits with the users. If it does not impact the users' experiences/profit, it's not a problem. We should answer the question "if our valued users have this application or its particular feature, what will we solve and what value proposition really are?"
+- **Problems:** Generally, it is the conflict the benefits with the users. If it does not impact the users' experiences/profit, it's not a problem. We should answer the question "if our valued users have this application or its particular feature, what will we solve and what values proposition really are?"
 
-- **Solutions:** If the problem is the direct reason for a project, so we have to give solutions to solve all these problems mentioned in the beginning. Easy to see, when we use an application, the solution is application's feature implemented to this app.
+- **Solutions:** If the problem is the direct reason for a project, so we have to give solutions to solve all these problems mentioned in the beginning. Easy to see, when we use an application, the solution is the application's feature implemented to this app.
 
 - **Value proposition:** as the notion, the true value is the users' benefit when an obstacle has been solved.
 
 **3. Objectives and constraints of the project?**
 
-- Goal? all listed problems are addressed. Objective should describes the desired result of the project. An Objective is specific, measurable and must meet time, budget, quality constraint.
+- Goal? all listed problems are addressed. The objective should describe the desired result of the project. An Objective is specific, measurable and must meet time, budget, quality constraint.
 - These objectives should be defined early in the project development.
 - They will be considered as the navigator throughout the project.
 
@@ -54,7 +54,7 @@ For Example: Medical, Transportation/Logistic, Banking, etc..
 **5.Scope, Time and Budget?**
 
 - Scope: the project will have many aspects. So Project manager should know which part worthwhile to carry and ignore vice versa.
-- Time: for each project, we should have a time standard to make the project measurable such as: man month, manday.
+- Time: for each project, we should have a time standard to make the project measurable such as man-month, man-day.
 - Budget: ****
 
 **5.Platform?**
@@ -68,35 +68,8 @@ For Example: Medical, Transportation/Logistic, Banking, etc..
 
 - Be aware of common risks:
   - Time estimation: it's hard to get the estimation exactly, so it should not be too short or small tasks but spending too much time.
-  - Change requests: the already-implemented feature gets changed by customer, sometimes impossible to do.
-  - Unforeseen circumstances: e.g some of the member gets sick, need the substitute: handover docs.
+  - Change requests: the already-implemented feature gets changed by the customer, sometimes impossible to do.
+  - Unforeseen circumstances: e.g some of the members gets sick need the substitute: handover docs.
   - Unclear specifications: because of incorrect project initiation, specs may not be clear or complete enough for the team members to start the work.
   - Neglecting design: some developers tend to neglect the design processes.
-  - Technical risk: the feature about to be implemented is underrestimated - not as easy as it seems to be.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - Technical risk: the feature about to be implemented is underestimated - not as easy as it seems to be.
