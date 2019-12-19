@@ -56,6 +56,7 @@ This repo is our playbook which contains our practices in software development a
 - [Licenses](/engineering/license.md)
 - [Release Checklist](/engineering/release.md)
 - [UAT Checklist](/engineering/UAT.md)
+- [API Design](/engineering/api-design.md)
 
 ### Platforms
 
