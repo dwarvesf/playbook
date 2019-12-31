@@ -40,7 +40,7 @@
 ##### AUTHENTICATION SYSTEMS (Signup/Signin/2 Factor/Password reset) 
 
 - [ ] Use HTTPS everywhere. Never send credentials unencrypted over public network.
-- [ ] Store password hashes using `Bcrypt` (no salt necessary - `Bcrypt` does it for you).
+- [ ] Store password hashes using [Argon2](https://github.com/p-h-c/phc-winner-argon2)
 - [ ] Destroy the session identifier after `logout`.  
 - [ ] Destroy all active sessions on reset password (or offer to).  
 - [ ] Must have the `state` parameter in OAuth2.
