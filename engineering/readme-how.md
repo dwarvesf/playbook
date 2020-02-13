@@ -34,6 +34,16 @@ Within a particular ecosystem, there may be a common way of installing things, s
 
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
+## Nice to have
+
+### Architecture diagram
+
+If this is a complex application that contains more than one service (micro-services) or involves integrating with several 3rd party services
+
+### Technical decisions
+
+Why you chose this library over that 10k-stars-github-repo library? It would be really helpful to new comers as they go through the source code
+
 ### Roadmap
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
