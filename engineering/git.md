@@ -78,8 +78,6 @@ We practice using pull request in Github or merge request in Gitlab to send in c
 - [Code review](/engineering/code-review.md) is done on the request before merging into the master.
 - [Feature review](#link-to-testing-environment) is verified 
 
-<!-- Quang viet review feature released -->
-
 ## Release
 
 The master branch should be in production ready at all times. Use git tag with [semantic version](/engineering/versioning.md) when it's about time to release.
