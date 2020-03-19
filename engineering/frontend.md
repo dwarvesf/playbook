@@ -18,6 +18,10 @@ There are tons of opinion around project structure, each with it's own pros and 
 
 With the introduction of [React Hooks](https://reactjs.org/docs/hooks-intro.html), function components can now handle their own states and effects (previously known as "life-cycle") without using Class component. Our team has been early adopter of React Hooks since alpha and having good success, thus we recommend using React Hooks for local states and effects handling, this [awesome article](https://overreacted.io/how-are-function-components-different-from-classes/) by Dan Abramov explains some pitfalls and mis-conceptions of developers while using Class components and how React Hooks make them obvious to avoid by default.
 
+## Writing custom styles
+
+TailwindCSS covers most things, but if you ever feel the need of writing custom styles for a single floating icon or a fancy hero banner transition, use [CSS Modules](https://github.com/css-modules/css-modules). Or, even better, adopt [Linaria](https://github.com/callstack/linaria).
+
 ## Coding style
 
 We currenty don't have a strict rule for writing Javascript as it would limit developer's freedom. However we do have some small practices has been established internally:
@@ -28,13 +32,9 @@ We currenty don't have a strict rule for writing Javascript as it would limit de
 - Prefer "return early" coding style, more about it [here](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 - Don't obsess over performance of code, obsess over making it clear
 
-## Writing custom styles
-
-TailwindCSS covers most things, but if you ever feel the need of writing custom styles for a single floating icon or a fancy hero banner transition, use [CSS Modules](https://github.com/css-modules/css-modules).
-
 ## Continous integration & deployment
 
-Use [Netlify](https://www.netlify.com/) for web applications and static websites, it handles both CI and deployment for free, which is awesome.
+Use [Netlify](https://www.netlify.com/) for web applications and static websites, it handles both CI and deployment for each branch and Pull Request and create a unique public url for each build, which is awesome.
 
 ## Monitoring
 
