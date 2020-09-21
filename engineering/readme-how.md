@@ -38,11 +38,11 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 ### Architecture diagram
 
-If this is a complex application that contains more than one service (micro-services) or involves integrating with several 3rd party services
+If this is a complex application that contains more than one service (micro-services) or involves integrating with several 3rd party services.
 
 ### Technical decisions
 
-Why you chose this library over that 10k-stars-github-repo library? It would be really helpful to new comers as they go through the source code
+Why did you chose this library over that 10k-stars-github-repo library? It would be really helpful to new comers as they go through the source code knowing library usages have their own purpose.
 
 ### Roadmap
 
