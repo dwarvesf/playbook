@@ -1,4 +1,4 @@
-# Project setup
+# Project Setup
 
 Following setup helps us maintain stability and increase the transparency among team members.
 
@@ -18,6 +18,13 @@ The codebase is usually in Github or our Gitlab. We have a specific guide for re
 
 A few clients who have an in-house tech team might prefer using their git system. In those cases, we need to set up a symlink to pull out and daily back up the source code to our Gitlab.
 
+### Communication Channel
+The communication channel is transparent for clients, the development team and our team.
+
+- If clients have their own communication tool, we ask them to invite team@dwarvesv.com and project members (including Account Manager) to join the channel.  
+- If clients have their own Slack, we would create a shared channel between the 2 workplaces for business communication purpose.
+- None of above, we mainly use Basecamp as our main communication channel.  
+
 ### Workflow
 
 The project workflow includes 
@@ -29,13 +36,16 @@ We use Basecamp for daily activities and milestones management. After having the
 
 Then we fire an email to the stakeholders, including the development team with the summary, workflow explained and linked to all the tools.
 
-- Invitation to Slack shared channel or Basecamp
-- Meeting schedule with Google Meet link
-- Link to the codebase / Gitlab
-- Link to GDrive shared folder
+1. Invitation to setup [Communication Channel](#communication-channel)
+2. Setup project in Basecamp (e.g Todos, Schedule, Message Board)
+3. Schedule meetings (e.g planning, retrospective, ...) with Google Meet link included in Basecamp
+4. Schedule client meetings using tools to which clients and the team can access (e.g Google Calendar)
+5. Setup Repository
+6. Link to GDrive shared folder
+7. Make sure the project is added to Fortress
 
 ### Integration
 
-In some cases, we also want to add integrations from the services we use to our Slack channel for monitoring purpose.
+The integrations are not required to setup. Nonetheless, in some cases, we also want to add integrations from the services we use to our monitoring platform or [communication channel](#communication-channel)
 
 For example, we are working with #dental-marketplace team, there should be integration from Gitlab, and Fabric, and maybe Trello.
