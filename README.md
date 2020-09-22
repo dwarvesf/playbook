@@ -45,6 +45,7 @@ This repo is our playbook which contains our practices in software development a
 - [Working together: Pair Programming](/engineering/working-together.md)
 - [README Driven Development](/engineering/rdd.md)
 - [Agile requirement: User Story](/engineering/user-story.md)
+- [Error convention](/engineering/error.md)
 - [Writing test & materials](/engineering/testing.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
@@ -64,7 +65,6 @@ This repo is our playbook which contains our practices in software development a
 - [Frontend](/engineering/frontend.md)
 - [Backend](/engineering/backend.md)
     - [API Security Checklist](/engineering/security/api-security.md)
-
 
 ## Production
 
