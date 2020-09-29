@@ -94,6 +94,34 @@ Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. O
 ---
 ### **Sequence Diagram**
 #### **Definition**
+A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
+#### **Tooling**
+We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram and It's pretty neat.
+![Mermaid](./img/sequence-diagram-1.png)
+
+[Syntax](https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/sequenceDiagram.html#syntax) is defined quite clearly here. Below is how to draw the above Diagram
+```
+sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    alt is sick
+        Bob->>Alice: Not so good :(
+    else is well
+        Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+        Bob->>Alice: Thanks for asking
+    end
+```
+Mainly it's have some main elements
+- Participants
+- Aliases
+- Messages
+- Arrows types
+- Activations
+- Loops
+- Alt
+- Parallel
+
 
 ---
 ### **Activity Diagram**
