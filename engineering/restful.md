@@ -116,6 +116,31 @@ HTTP defines a bunch of meaningful status codes that can be returned from your A
 - `422 Unprocessable Entity` - Used for validation errors
 - `429 Too Many Requests` - When a request is rejected due to rate limiting
 
+## Response
+
+Single data entry response
+``` json
+{
+    "id": 1,
+    "name": "Dwarves",
+    "plug": "dwarvesf"
+}
+```
+
+Multi data entries or array
+``` json
+{
+    "data": [],
+    "metadata": {
+        "page_size": 20,
+        "current_page": 2,
+        "total_pages": 15,
+        "total_count": 295,
+        "has_next_page": 
+    }
+}
+```
+
 ## Error
 
 A JSON error body should provide a few things for the developer - a useful error message, a unique error code (that can be looked up for more details in the docs), and possibly detailed description. For this part, please check out [Error Handling](/engineering/error.md).
