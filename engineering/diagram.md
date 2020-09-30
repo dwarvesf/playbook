@@ -18,10 +18,7 @@ Having the answer for those question give us the ability to solve at least three
 - [Product Roadmap](#product-roadmap) (done)
 - [User Journey Mapping](#user-journey-mapping) (done)
 - [State Machine](#state-machine) (done)
-- [Usecase Diagram](#usecase-diagram) 
 - [Sequence Diagram](#sequence-diagram) (done)
-- [Activity Diagram](#activity-diagram) 
-- [Class Diagram](#class-diagram) 
 - [Stack Component Diagram](#stack-component-diagram) 
 - [ERD](#erd) (done)
 - [Data Flow](#data-flow) 
@@ -107,9 +104,6 @@ Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. O
 ![Whimsical](./img/state-machine-1.png)
 
 ---
-### **Usecase Diagram**
-
----
 ### **Sequence Diagram**
 #### **Definition**
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
@@ -139,12 +133,6 @@ Mainly it's have some main elements
 - Loops
 - Alt
 - Parallel
-
----
-### **Activity Diagram**
-
----
-### **Class Diagram**
 
 ---
 ### **Stack Component Diagram**
