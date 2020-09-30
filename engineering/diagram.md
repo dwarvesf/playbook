@@ -1,6 +1,6 @@
 # Diagram and Project Document Structure
 
-We have talk about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
+We have talked about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
 
 - Unclear/misleading project requirements
 - Wrongly defined tech stacks
@@ -14,25 +14,25 @@ There is one secret sauce of a successful project: **Artifacts**.
 Having the answer for those question give us the ability to solve at least three mentioned constraints. Avoid reinventing the wheel by following these practice which we apply here in Dwarves.
 
 ## **Artifacts**
-- [BPMN](#bpmn) (hold)
-- [Product Roadmap](#product-roadmap)
-- [User Journey Mapping](#user-journey-mapping)
-- [State Machine](#state-machine)
-- [Usecase Diagram](#usecase-diagram)
-- [Sequence Diagram](#sequence-diagram)
-- [Activity Diagram](#activity-diagram)
-- [Class Diagram](#class-diagram)
-- [Stack Component Diagram](#stack-component-diagram)
-- [ERD](#erd)
-- [Data Flow](#data-flow)
+- [BPMN](#bpmn) 
+- [Product Roadmap](#product-roadmap) (done)
+- [User Journey Mapping](#user-journey-mapping) (done)
+- [State Machine](#state-machine) (done)
+- [Usecase Diagram](#usecase-diagram) 
+- [Sequence Diagram](#sequence-diagram) (done)
+- [Activity Diagram](#activity-diagram) 
+- [Class Diagram](#class-diagram) 
+- [Stack Component Diagram](#stack-component-diagram) 
+- [ERD](#erd) (done)
+- [Data Flow](#data-flow) 
 
 ## **Well-Alignment a.k.a Reusability**
 - [Project Drive](#project-drive)
 - [Message Board](#message-board)
 
 ---
-
 ### **BPMN**
+
 ---
 ### **Product Roadmap**
 In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
@@ -179,7 +179,23 @@ For the above diagram
 
 ---
 ### **Project Drive**
+Each project will have its own GDrive folder located on Company GDrive.
+All the project artifact should be export to PNG/JPG/PDF/SVG... and save to corresponding folder within project gdrive.
+You can find your project gdrive follow this pattern. 
+> /Dwarves Foundation/Works/[Project Name]
+
+Usually we will Link the Project Gdrive into Docs & File within Basecamp project. You could find the link to the gdrive from there.
 
 ---
 ### **Message Board**
+Think about this situation:
+```
+We’ve got the elements of a solution now, and we’ve de-risked our concept to the point that we’re confident it’s a good option to give a team. But the concept is still in our heads or in some hard-to-decipher drawings on the whiteboard or our notebook. Now we need to put the concept into a form that other people will be able to understand, digest, and respond to.
+```
+This is where we say “Okay, this is ready to write up as a pitch.” 
+We post [pitches](https://basecamp.com/shapeup/1.5-chapter-06_) as Messages in Basecamp. 
+Message Board is the central place for all discussion about project artifacts. In Message board, we can create a Message Category called Pitch/FYI... so we can easily find them later on.
+
+
+
 
