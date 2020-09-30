@@ -27,8 +27,8 @@ Having the answer for those question give us the ability to solve at least three
 - [Data Flow](#data-flow) 
 
 ## **Well-Alignment a.k.a Reusability**
-- [Project Drive](#project-drive)
-- [Message Board](#message-board)
+- [Project Drive](#project-drive) (done)
+- [Message Board](#message-board) (done)
 
 ---
 ### **BPMN**
