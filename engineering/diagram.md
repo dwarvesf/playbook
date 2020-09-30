@@ -35,6 +35,24 @@ Having the answer for those question give us the ability to solve at least three
 ### **BPMN**
 ---
 ### **Product Roadmap**
+In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
+> “What do we want in the matter of time?” 
+
+Answer this question by determining the feasibility of the project and how we can implement the project successfully with the lowest risk in mind.
+
+Take a look at this **Product Roadmap** 
+![Product Roadmap](./img/product-roadmap.png)
+It contains main elements:
+- Timeline
+- Milestone
+- Deliverables 
+
+Product Manager usually produce this artifact after discussion with Product Owners. This artifact will change periodically. We will review this one after each milestone to make sure the project is still on track.
+Product Roadmap, Milestone is the goal for every developed features of a succesfull project.
+
+#### **Tooling**
+Consider using [Whimsical](https://whimsical.com/) if you are used to drawing tool. 
+
 ---
 ### **User Journey Mapping**
 #### **Definition**
@@ -122,7 +140,6 @@ Mainly it's have some main elements
 - Alt
 - Parallel
 
-
 ---
 ### **Activity Diagram**
 
@@ -135,6 +152,27 @@ Mainly it's have some main elements
 ---
 ### **ERD**
 #### **Definition**
+An entity–relationship model (or ER model) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between entities (instances of those entity types).
+#### **Tooling**
+Let's take a look at this diagram rendering by [Mermaid](https://mm.daf.ug/)
+![Mermaid](./img/ERD.png)
+The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationship and identification.
+```
+<first-entity> <relationship> <second-entity> : <relationship-label>
+```
+
+For the above diagram
+```
+    erDiagram
+          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
+          CUSTOMER ||--o{ ORDER : places
+          CUSTOMER ||--o{ INVOICE : "liable for"
+          DELIVERY-ADDRESS ||--o{ ORDER : receives
+          INVOICE ||--|{ ORDER : covers
+          ORDER ||--|{ ORDER-ITEM : includes
+          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+```
 
 ---
 ### **Data Flow**
