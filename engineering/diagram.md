@@ -38,7 +38,7 @@ In SDLC after the requirement analysis phase complete, we need a plan, a map to 
 Answer this question by determining the feasibility of the project and how we can implement the project successfully with the lowest risk in mind.
 
 Take a look at this **Product Roadmap** 
-![Product Roadmap](./img/product-roadmap.png)
+![Product Roadmap](/engineering/img/product-roadmap.png)
 It contains main elements:
 - Timeline
 - Milestone
@@ -59,7 +59,7 @@ Note the emotional state of users at each step of their journey.
 This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow. 
 #### **Tooling**
 We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram.
-![Mermaid](./img/journey-mapping.png)
+![Mermaid](/engineering/img/journey-mapping.png)
 
 Start with `journey` and the title. Each user journey is split into sections, these describe the part of the task the user is trying to complete.
 ``` 
@@ -85,7 +85,7 @@ A state machine is any device storing the status of something at a given time. T
 
 #### **Tooling**
 We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram. It's not a nice render btw. 
-![Mermaid](./img/state-machine.png)
+![Mermaid](/engineering/img/state-machine.png)
 
 The [syntax](https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/stateDiagram.html) is quite easy to catchup.
 ```
@@ -101,7 +101,7 @@ stateDiagram-v2
 
 Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. Or just simply sketch on paper and take a picture of it.
 
-![Whimsical](./img/state-machine-1.png)
+![Whimsical](/engineering/img/state-machine-1.png)
 
 ---
 ### **Sequence Diagram**
@@ -109,7 +109,7 @@ Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. O
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
 #### **Tooling**
 We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram and It's pretty neat.
-![Mermaid](./img/sequence-diagram-1.png)
+![Mermaid](/engineering/img/sequence-diagram-1.png)
 
 [Syntax](https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/sequenceDiagram.html#syntax) is defined quite clearly here. Below is how to draw the above Diagram
 ```
@@ -143,7 +143,7 @@ Mainly it's have some main elements
 An entity–relationship model (or ER model) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between entities (instances of those entity types).
 #### **Tooling**
 Let's take a look at this diagram rendering by [Mermaid](https://mm.daf.ug/)
-![Mermaid](./img/ERD.png)
+![Mermaid](/engineering/img/ERD.png)
 The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationship and identification.
 ```
 <first-entity> <relationship> <second-entity> : <relationship-label>
