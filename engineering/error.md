@@ -1,4 +1,4 @@
-# Handling Error
+# Error Message Convention
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.
 
@@ -11,12 +11,6 @@ We use the following structure for our error message. It helps our system stay c
 - Go: https://github.com/dwarvesf/gerr
 - Elixir: https://github.com/dwarvesf/error.ex
 - Swift: https://github.com/dwarvesf/error.swift
-
-## Remote Error Tracking
-
-We use [Sentry](sentry.io) for both backend and frontend apps. Starting a new project, we usually set up and hook the error message to our project management system.
-
-<img>
 
 ## Error Structure
 
@@ -124,14 +118,38 @@ In Go, our package provides a utility function to match errors
 func handler() {
     err := getProduct(1)
 
-    if err != nil && gerr.Match(err1, errors.ErrNotFound) {
-        // Do logic when err1 is ErrNotFound 
+    if err != nil && gerr.Match(err, errors.ErrNotFound) {
+        // Do logic when err is ErrNotFound 
     }
 }
 ```
 
-## Replicating & handling error
+## Remote Error Tracking
 
-A method exists for replicating the state of one environment in another (e.g. copy prod to QA to reproduce an error)
+System log is like the airplane black box. When defects occur, along with steps used to reproduce from user report, the last thing we know is stored in the system log. 
 
+- We use [Sentry](sentry.io) for both backend and frontend apps. Sentry helps collect and report the system log when errors occurred. 
+- We use GLP stack as a remote logging service.
 
+Starting a new project, we usually set up and hook the error message to our project management system.
+
+## Replicating & Handling error
+
+To be able to reproduce an error you need to know what external actions lead to the error. To determine the cause of an error you need to know:
+
+- The exact location in the code where the exception occurred.
+- The context in which that location in the code was reached. Some locations in your code are reachable via different execution paths. For instance, a utility method may be called from many different places in your application. You may need to know where the utility method was called from, in order to determine the cause of the exception.
+- A sensible description of the error including any relevant variable values, including parameters, internal state variables (members, global variables etc.) and possibly external system state, for instance data in a database.
+
+#### Environment cloning
+
+Every project should contain a method for replicating the state of one environment in another (e.g. copy prod to QA to reproduce an error). We structure our applications in a way that we could restore its snapshot at any point of time. A short command to replicate the context in which cause the error.
+
+We develop strategies and tooling to help ease the debugging process.
+
+- The [sandbox env](#enviroment-cloning) with related source code and data
+- Verify the steps used to produce the error
+- Verify the system/environment used to produce the error
+- Gather Screenshots and Logs
+- Gather step-by-step description from the user
+We use GLP stack as a remote logging service.
