@@ -8,7 +8,7 @@ We use the following structure for our error message. It helps our system stay c
 
 ## Library
 
-- Go: https://github.com/dwarvesf/go-errx
+- Go: https://github.com/dwarvesf/gerr
 - Elixir: https://github.com/dwarvesf/error.ex
 - Swift: https://github.com/dwarvesf/error.swift
 
@@ -32,6 +32,25 @@ We use [Sentry](sentry.io) for both backend and frontend apps. Starting a new pr
 - Go
 
 ``` go
+// init error code constant
+const (
+    ErrAttrInvalidCode = itoa + gerr.BusinessCodeCustomStart
+    ErrAttrNotFoundCode
+)
+
+// init error variable
+var (
+    ErrAttrInvalid = gerr.New(ErrAttrInvalidCode, "message error for attr")
+)
+
+// error usage
+func handle(req Request) (*Response, error) {
+    if res, err := processRequest(req); err != nil {
+        return nil, ErrAttrInvalid.Err()
+    }
+
+    return res, nil
+}
 ```
 
 - Elixir
@@ -43,14 +62,35 @@ We use [Sentry](sentry.io) for both backend and frontend apps. Starting a new pr
 
 ``` json
 {
-
+    "message": "client error message",
+    "trace_id": "vldlCdkR3vAoupWkiENI",
+    "code": 4001,
+    "errors": {
+        "attribute_1": "error message for attribute 1",
+        "items": {
+            "0": {
+                "attr1": "error message for items[0].attr1"
+            },
+            "1": {
+                "attr2": "error message for items[1].attr2"
+            }
+        }
+    }
 }
 ```
 
 - Logging:
 
-```
-
+```js
+{ time="2020-10-08T12:10:57+07:00", level="error", env="dev", ip="115.73.208.232", method="POST", path="/orders", service="example-be", statusCode="500", traceId="vldlCdkR3vAoupWkiENI", userAgent="insomnia/2020.4.1" }
+Internal Server Error
+ - at pkg/handler/order.go:34 (Handler.CreateOrder)
+Trace: call service is failed
+         - at pkg/handler/order.go:51 (Handler.doCreateOrder)
+        Caused by: error message for items[0].attr1
+         - at pkg/handler/order.go:60 (Handler.doValidateCreateOrder)
+        Caused by: error message for items[1].attr2
+         - at pkg/handler/order.go:70 (Handler.doValidateCreateOrder)
 ```
 
 ## Matching errors
