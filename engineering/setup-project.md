@@ -10,11 +10,12 @@ NDA, agreements and all kinds of paperwork between parties will be put there. Yo
 
 ### Development & Design artifacts
 
-For diagrams and design assets, you can find or put them in the `Works` folder.
+- For diagrams and design assets, you can find or put them in the `Works` folder.
+- Remember to create a group email (e.g. vault@dwarves.ltd) in GSuite and add all related members to the project.
 
 ### Repository
 
-The codebase is usually in Github or our Gitlab. We have a specific guide for repo setup at [repository-setup.md](/engineering/repository-setup.md).
+The codebase is usually in Github or our Gitlab. We have a specific guide for repo setup at [repository-setup.md](/engineering/setup-repository.md).
 
 A few clients who have an in-house tech team might prefer using their git system. In those cases, we need to set up a symlink to pull out and daily back up the source code to our Gitlab.
 
@@ -49,3 +50,12 @@ Then we fire an email to the stakeholders, including the development team with t
 The integrations are not required to setup. Nonetheless, in some cases, we also want to add integrations from the services we use to our monitoring platform or [communication channel](#communication-channel)
 
 For example, we are working with #dental-marketplace team, there should be integration from Gitlab, and Fabric, and maybe Trello.
+
+### Release
+
+There's a few checklist item to follow at [release.md](/engineering/release.md). In short
+
+- Release should contain a changelog.
+- Things are well-tested and known issues are specified.
+- Having people in charge of product quality sign-off the release.
+- Be careful with the deployment step, migration, and back-up.

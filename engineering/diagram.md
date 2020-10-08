@@ -27,6 +27,10 @@ Having the answer for those question give us the ability to solve at least three
 - [Project Drive](#project-drive)
 - [Message Board](#message-board)
 
+## Mermaid 101
+- [What is Mermaid](#what-is-mermaid)
+- [VScode Plugins](#vscode-plugins)
+
 ### Product Roadmap
 In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
 > “What do we want in the matter of time?” 
@@ -54,7 +58,17 @@ This technique shows the current (as-is) user workflow, and reveals areas of imp
 
 #### Tooling
 We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram.
-![Mermaid](/engineering/img/journey-mapping.png)
+```mermaid
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+```
 
 Start with `journey` and the title. Each user journey is split into sections, these describe the part of the task the user is trying to complete.
 ``` 
@@ -79,8 +93,16 @@ A state machine is any device storing the status of something at a given time. T
 
 #### Tooling
 We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram. It's not a nice render btw. 
-![Mermaid](/engineering/img/state-machine.png)
+```mermaid
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
 
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
 The [syntax](https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/stateDiagram.html) is quite easy to catchup.
 ```
 stateDiagram-v2
@@ -102,7 +124,18 @@ A sequence diagram shows object interactions arranged in time sequence. It depic
 
 #### Tooling
 We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram and It's pretty neat.
-![Mermaid](/engineering/img/sequence-diagram-1.png)
+```mermaid
+sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    alt is sick
+        Bob->>Alice: Not so good :(
+    else is well
+        Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+        Bob->>Alice: Thanks for asking
+    end
+```
 
 [Syntax](https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/sequenceDiagram.html#syntax) is defined quite clearly here. Below is how to draw the above Diagram
 
@@ -134,7 +167,18 @@ An entity–relationship model (or ER model) describes interrelated things of in
 
 #### Tooling
 Let's take a look at this diagram rendering by [Mermaid](https://mm.daf.ug/)
-![Mermaid](/engineering/img/erd.png)
+
+```mermaid
+erDiagram
+          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
+          CUSTOMER ||--o{ ORDER : places
+          CUSTOMER ||--o{ INVOICE : "liable for"
+          DELIVERY-ADDRESS ||--o{ ORDER : receives
+          INVOICE ||--|{ ORDER : covers
+          ORDER ||--|{ ORDER-ITEM : includes
+          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+```
 
 The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationship and identification.
 
@@ -177,3 +221,19 @@ This is where we say “Okay, this is ready to write up as a pitch.”
 We post [pitches](https://basecamp.com/shapeup/1.5-chapter-06_) as Messages in Basecamp. 
 Message Board is the central place for all discussion about project artifacts. In Message board, we can create a Message Category called Pitch/FYI... so we can easily find them later on.
 
+### What is Mermaid
+We use [Mermaid](https://mm.daf.ug/) to quickly define the diagram during project development lifecycle. 
+Mermaid is a markdown-based diagram render. Right now we support the following charts/diagrams:
+
+- Flow chart
+- Sequence Diagram
+- Class Diagram
+- State Diagram
+- Gantt Chart
+- Pie Chart
+- ER Diagram
+### VSCode Plugin
+
+![VScode Plugin](/engineering/img/mermaid-plugins.png)
+
+Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic. 
