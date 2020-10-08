@@ -104,7 +104,7 @@ func handle(req Request) (*Response, error) {
 
 - Logging:
 
-```js
+``` js
 { time="2020-10-08T12:10:57+07:00", level="error", env="dev", ip="115.73.208.232", method="POST", path="/orders", service="example-be", statusCode="500", traceId="vldlCdkR3vAoupWkiENI", userAgent="insomnia/2020.4.1" }
 Internal Server Error
  - at pkg/handler/order.go:34 (Handler.CreateOrder)
@@ -117,6 +117,18 @@ Trace: call service is failed
 ```
 
 ## Matching errors
+The errors contain a code. It's a number that makes a difference in many errors. We usually use the `code` number to match errors.
+
+In Go, our package provides a utility function to match errors
+``` go
+func handler() {
+    err := getProduct(1)
+
+    if err != nil && gerr.Match(err1, errors.ErrNotFound) {
+        // Do logic when err1 is ErrNotFound 
+    }
+}
+```
 
 ## Replicating & handling error
 
