@@ -147,9 +147,8 @@ Every project should contain a method for replicating the state of one environme
 
 We develop strategies and tooling to help ease the debugging process.
 
-- The [sandbox env](#enviroment-cloning) with related source code and data
+- The sandbox env with related source code and data
 - Verify the steps used to produce the error
 - Verify the system/environment used to produce the error
 - Gather Screenshots and Logs
 - Gather step-by-step description from the user
-We use GLP stack as a remote logging service.
