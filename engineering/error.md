@@ -27,14 +27,37 @@ We use [Sentry](sentry.io) for both backend and frontend apps. Starting a new pr
 - trace_id: 
 ```
 
+## Type of error
+We classify the error into some type:
+- HTTP status error: `0 - 599`
+- Internal error - occur inner system: `1000 - 10.000`
+- Service error - occurs with other services that our system interacts: `10.000 - 20.000`
+- Business error - occur when we process logic: `20.000 - ...`
+
+We make some error handling packages for some languages, such as `golang`, `elixir`,... There are some set of common errors in our packages. We base on error code to detect the error for logging with level:
+- `Fatal`: level for panic server error. The error occurs inside the system. It makes our system is halted or down
+- `Error`: an internal error, or service error. The error occurs when working with other services. It can make our system can be stuck
+- `Warn`: business error, HTTP error. The error occurs in business logic. We just log it for debugging later
+- `Debug`, `Info`: log some info or success data
+
 ## Constructing an Error
 
 - Go
 
 ``` go
+// We defined some common error inside `gerr` package.
+//
+// We can reuse:
+//   gerr.ErrSvcAuthRequired.Err()
+// 
+// There's some error type:
+//  - Internal error: start from `InternalCodeCustom`
+//  - Service error: start from `ServiceCodeCustom`
+//  - Business error: start from `BusinessCodeCustom`
+//
 // init error code constant
 const (
-    ErrAttrInvalidCode = itoa + gerr.BusinessCodeCustomStart
+    ErrAttrInvalidCode = itoa + gerr.BusinessCodeCustom
     ErrAttrNotFoundCode
 )
 

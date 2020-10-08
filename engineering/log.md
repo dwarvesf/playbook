@@ -15,9 +15,25 @@ The `System` log is usually about infras service behavior. Meanwhile, the `Busin
 
 ## Structure
 
-Where appropriate, logging includes exceptions and stack traces. The log message structure: 
+Where appropriate, logging includes exceptions and stack traces. The log message structure:
 
+The Internal service error
+```js
+{ 
+    time="2020-09-29T18:40:00+07:00", 
+    level="fatal", 
+    env="local",
+    service="example-be"
+}
+
+The Server is shutting down
+- at pkg/handler/main.go:51 (Handler.runServer)
+Trace: unable to connect postgres
+         - at pkg/service/pg/repo.go:20 (Handler.InitDB:20)
 ```
+
+The Error from 3rd-party service
+```js
 { 
     time="2020-09-29T18:47:44+07:00", 
     level="error", 
@@ -32,11 +48,11 @@ Where appropriate, logging includes exceptions and stack traces. The log message
 } 
 
 Internal Server Error
---- at go-backend-example/pkg/handler/order.go:51 (Handler.doCreateOrder)
+- at pkg/handler/order.go:34 (Handler.CreateOrder)
 Trace: call service is failed
-        --- at go-backend-example/pkg/handler/order.go:51 (Handler.doCreateOrder)
+         - at pkg/handler/order.go:51 (Handler.doCreateOrder)
         Caused by: product is invalid
-        --- at go-backend-example/pkg/handler/order.go:60 (Handler.doValidateCreateOrder)
+         - at pkg/handler/order.go:60 (Handler.doValidateCreateOrder)
 ```
 
 ## Remote Logging Service
