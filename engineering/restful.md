@@ -19,7 +19,7 @@ The following are the most important terms related to REST APIs.
 - Pretty print by default & ensure gzip is supported.
 - Always version your API. Version via the URL, not via headers.
 - Depict resource [hierarchy](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9) through URI. If a resource contains sub-resources, make sure to depict this in the API to make it more explicit. `GET /users/123/posts/1`, which will retrieve Post with id 1 by user with id 123.
-- Field name casing: make sure the casing convention is consistent across the application. If the request body or response type is JSON, please follow [snake_case](https://en.wikipedia.org/wiki/Snake_case) to maintain the consistency.
+- Field name casing: make sure the casing convention is consistent across the application. If the request body or response type is JSON, please follow [camelCase](https://en.wikipedia.org/wiki/Camel_case) to maintain the consistency.
 
 ## API Version
 
@@ -28,7 +28,7 @@ Always version your API. Version via the URL, not via headers. Versioning APIs a
 - URL: Embed the version in the URL such as `POST /v2/users`.
 - Header
     - Custom header: Adding a custom X-API-VERSION header key by the client can be used by a service to route a request to the correct endpoint.
-    - Accept header: Using the accept header to specify your version. 
+    - Accept header: Using the accept header to specify your version.
 
 ## Filter, Search and Sort
 Use query parameters for advanced filtering, sorting & searching.
@@ -48,14 +48,33 @@ Filter:
 GET /companies?category=software&location=saigon|hanoi
 ```
 
+Filter by time range:
+```
+GET /companies?time=fromTime-toTime
+```
+
 Search:
 ```
 GET /companies?search=Mckinsey
 ```
 
+## Batch Delete
+- There is no clean `Restful way` to delete a collection of id without any limitation:
+    - DELETE method with list of ID in query params is limit by its length (2048 characters)
+    - DELETE method doesn't require a BODY, so most of Gateway services ignore the body when direct the request to servers.
+
+- We use a custom `POST` methods to achieve a batch delete functionality:
+```
+POST /companies/batch_delete
+
+BODY: {
+    ids: ["id_1", "id_2"]
+}
+```
+
 ## Auto loading related resource representations
 
-There are many cases where an API consumer needs to load data related to (or referenced from) the resource being requested. 
+There are many cases where an API consumer needs to load data related to (or referenced from) the resource being requested.
 
 In this case, embed would be a separated list of fields to be embedded. Dot-notation could be used to refer to sub-fields.
 
@@ -136,7 +155,7 @@ Multi data entries or array
         "current_page": 2,
         "total_pages": 15,
         "total_count": 295,
-        "has_next_page": 
+        "has_next_page":
     }
 }
 ```
