@@ -47,7 +47,6 @@ It contains main elements:
 Product Manager usually produce this artifact after discussion with Product Owners. This artifact will change periodically. We will review this one after each milestone to make sure the project is still on track.
 Product Roadmap, Milestone is the goal for every developed features of a succesfull project.
 
-#### Tooling
 Consider using [Whimsical](https://whimsical.com/) if you are used to drawing tool. 
 
 ### User Journey Mapping
@@ -56,8 +55,7 @@ Note the emotional state of users at each step of their journey.
 
 This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow. 
 
-#### Tooling
-We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram.
+
 ```mermaid
 journey
     title My working day
@@ -71,6 +69,7 @@ journey
 ```
 
 Start with `journey` and the title. Each user journey is split into sections, these describe the part of the task the user is trying to complete.
+
 ``` 
 journey
     title My working day
@@ -84,6 +83,7 @@ journey
 ```
 
 Tasks syntax is 
+
 ``` 
 Task name: <score>: <comma separated list of actors>
 ```
@@ -91,8 +91,6 @@ Task name: <score>: <comma separated list of actors>
 ### State Machine
 A state machine is any device storing the status of something at a given time. The status changes based on inputs, providing the resulting output for the implemented changes.
 
-#### Tooling
-We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram. It's not a nice render btw. 
 ```mermaid
 stateDiagram-v2
     [*] --> Still
@@ -103,7 +101,9 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 ```
+
 The [syntax](https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/stateDiagram.html) is quite easy to catchup.
+
 ```
 stateDiagram-v2
     [*] --> Still
@@ -122,8 +122,6 @@ Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. O
 ### Sequence Diagram
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
 
-#### Tooling
-We use [Mermaid](https://mm.daf.ug/) to quickly establish this kind of diagram and It's pretty neat.
 ```mermaid
 sequenceDiagram
     Alice->>Bob: Hello Bob, how are you?
@@ -165,19 +163,16 @@ Mainly it's have some main elements
 ### ERD
 An entity–relationship model (or ER model) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between entities (instances of those entity types).
 
-#### Tooling
-Let's take a look at this diagram rendering by [Mermaid](https://mm.daf.ug/)
-
 ```mermaid
 erDiagram
-          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
-          CUSTOMER ||--o{ ORDER : places
-          CUSTOMER ||--o{ INVOICE : "liable for"
-          DELIVERY-ADDRESS ||--o{ ORDER : receives
-          INVOICE ||--|{ ORDER : covers
-          ORDER ||--|{ ORDER-ITEM : includes
-          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+        CUSTOMER }|..|{ DELIVERY-ADDRESS : has
+        CUSTOMER ||--o{ ORDER : places
+        CUSTOMER ||--o{ INVOICE : "liable for"
+        DELIVERY-ADDRESS ||--o{ ORDER : receives
+        INVOICE ||--|{ ORDER : covers
+        ORDER ||--|{ ORDER-ITEM : includes
+        PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+        PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
 The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationship and identification.
@@ -189,14 +184,14 @@ The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationsh
 For the above diagram
 ```
     erDiagram
-          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
-          CUSTOMER ||--o{ ORDER : places
-          CUSTOMER ||--o{ INVOICE : "liable for"
-          DELIVERY-ADDRESS ||--o{ ORDER : receives
-          INVOICE ||--|{ ORDER : covers
-          ORDER ||--|{ ORDER-ITEM : includes
-          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+        CUSTOMER }|..|{ DELIVERY-ADDRESS : has
+        CUSTOMER ||--o{ ORDER : places
+        CUSTOMER ||--o{ INVOICE : "liable for"
+        DELIVERY-ADDRESS ||--o{ ORDER : receives
+        INVOICE ||--|{ ORDER : covers
+        ORDER ||--|{ ORDER-ITEM : includes
+        PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+        PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
 <!-- 
@@ -232,6 +227,7 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 - Gantt Chart
 - Pie Chart
 - ER Diagram
+
 ### VSCode Plugin
 
 ![VScode Plugin](/engineering/img/mermaid-plugins.png)
