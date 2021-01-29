@@ -151,11 +151,11 @@ Multi data entries or array
 {
     "data": [],
     "metadata": {
-        "page_size": 20,
-        "current_page": 2,
-        "total_pages": 15,
-        "total_count": 295,
-        "has_next_page":
+        "pageSize": 20,
+        "currentPage": 2,
+        "totalPages": 15,
+        "totalCount": 295,
+        "hasNextPage": true
     }
 }
 ```
