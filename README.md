@@ -75,10 +75,11 @@ This repo is our playbook which contains our practices in software development a
 - [Production Checklist](/engineering/production.md)
 - [Handover Checklist](/engineering/handover.md)
 
-## Sales
+## Business
 
-- [Overall Process](/sales/README.md)
-- [Fixed Budget, Scope Controlled](/sales/fbsc.md)
+- [Overall Process](/business/README.md)
+- [Fixed Budget, Scope Controlled](/business/fbsc.md)
+- [Collaboration Guildeline](/collaboration-guideline.md)
 
 ## Contributing
 
