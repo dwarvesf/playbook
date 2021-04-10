@@ -47,15 +47,14 @@ git push --force-with-lease origin <branch-name>
 
 ## Write a good commit message
 
-Your commit messages are your personal legacy. They are the record of why and what you've done to a codebase
+Your commit messages are your personal legacy. They are the record of why and what you've done to a codebase. A commit message should follow this format 
 
-* Separate subject from body with a blank line
-* Limit the subject line to 50 characters.
-* Capitalize the subject line
-* Do not end the subject line with a period
-* Use the imperative mood in the subject line
-* Wrap the body at 72 characters
-* Use the body to explain what and why vs. how
+`type (scope): subject`
+
+In which
+- type: action 
+- scope (optional): the part of project you're working on
+- subject: short description of the commit
 
 [Read more](https://chris.beams.io/posts/git-commit/)
 
