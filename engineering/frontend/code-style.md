@@ -20,7 +20,7 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
 
   - **Accessibility**: When creating a component, keep accessibility top of mind. This includes keyboard navigation, focus management, color contrast, voice over, and the correct aria-\* attributes.
 
-  - **Naming Props**: We all know naming is the hardest thing in this industry. Generally, ensure a prop name is indicative of what it does. Boolean props should be named using auxiliary verbs such as does, has, is and should. For example, Button uses `isDisabled`, `isLoading`, etc.
+  - **Naming Props**: We all know naming is the hardest thing in this industry. Generally, ensure a prop name is indicative of what it does. Boolean props should be named using auxiliary verbs such as `does`, `has`, `is` and `should`. For example, Button uses `isDisabled`, `isLoading`, etc.
 
 - When doing styling, strive to use `tailwindcss` classes for consistency and painless maintenance.
 
@@ -30,10 +30,10 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
 
     ```jsx
     // Don't
-    <div style={{marginLeft: '8px'}}></div
+    <div style={{marginLeft: '8px'}}></div>
 
     // Do
-    <div className="ml-2"></div
+    <div className="ml-2"></div>
 
     // Grid layout
     <div className="grid grid-cols-3 gap-5">

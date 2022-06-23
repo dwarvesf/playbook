@@ -14,7 +14,7 @@ This document is intended to give you a taste of how we build frontend applicati
 
 ### UI & styling
 
-- [x] [Tailwindcss](https://github.com/tailwindcss/tailwindcss)
+- [x] [TailwindCSS](https://github.com/tailwindcss/tailwindcss)
 - [x] [Headless UI](https://github.com/tailwindlabs/headlessui)
 
 ### Static type checking & linting
@@ -59,7 +59,7 @@ We use [SWR](https://swr.vercel.app/) to be the main way of retrieving data in R
 
 If you are going to use a package for your forms, we recommend [react-hook-forms](https://github.com/react-hook-form/react-hook-form). It is a great balance of good performance and good developer experience.
 
-### Tailwind
+### TailwindCSS
 
 We are using `tailwind` to do styling and it scales pretty well when combining headless components and hooks to build the presentation layer. The choice was made because it helps avoid common CSS frustrations to keep a neat codebase and moving quickly, regardless of experience levels:
 
