@@ -48,7 +48,7 @@ This repo is our playbook which contains our practices in software development a
 - [Document diagrams](/engineering/diagram.md)
 - [Writing REST API](/engineering/restful.md)
 - [Error convention](/engineering/error.md)
-- [Writing test & materials](/engineering/testing.md)
+- [Writing test & materials](/engineering/Testing/testing.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
@@ -58,7 +58,8 @@ This repo is our playbook which contains our practices in software development a
 - [Development Security Rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
 - [Release Checklist](/engineering/release.md)
-- [UAT Checklist](/engineering/UAT.md)
+- [UAT Checklist](/engineering/Testing/UAT.md)
+- [QA Best Practices](/engineering/Testing/QA-best-practices.md)
 
 ### Platforms
 
@@ -66,7 +67,7 @@ This repo is our playbook which contains our practices in software development a
 - [iOS](/engineering/ios.md)
 - [Frontend](/engineering/frontend.md)
 - [Backend](/engineering/backend.md)
-    - [API Security Checklist](/engineering/security/api-security.md)
+  - [API Security Checklist](/engineering/security/api-security.md)
 
 ## Production
 
@@ -89,4 +90,3 @@ We love pull requests. If you have something you want to add or remove, please o
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 @ [Dwarves Foundation](https://d.foundation)
-
