@@ -37,7 +37,7 @@ Production grade React applications that scale, we list [Next.js](https://nextjs
 
 ### React Context
 
-We don't avocate for any state management library at the moment. One of the reasons libraries like Redux were so successful because they solved the problem of [prop drilling](https://kentcdodds.com/blog/prop-drilling). However, the born of [Context API](https://reactjs.org/docs/context.html) made it easy to pass data through the component tree without having to pass props down manually at every level. More importantly, we think most applications don't need a complicated global state and Context API is more than enough to solve that uncomplex problem. Our philosophy in React state management is simple: try to keep state as local as possible and use React context when prop drilling becomes a problem.
+We don't advocate for any state management library at the moment. One of the reasons libraries like Redux were so successful is because they solved the problem of [prop drilling](https://kentcdodds.com/blog/prop-drilling). However, the born of [Context API](https://reactjs.org/docs/context.html) made it easy to pass data through the component tree without having to pass props down manually at every level. More importantly, we think most applications don't need a complicated global state, and Context API is more than enough to solve that uncomplex problem. Our philosophy in React state management is simple: try to keep state as local as possible and use React context when prop drilling becomes a problem.
 
 ### TypeScript
 
