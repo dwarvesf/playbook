@@ -35,6 +35,10 @@ This document is intended to give you a taste of how we build frontend applicati
 
 Production grade React applications that scale, we list [Next.js](https://nextjs.org/) to be the first candidate when we decide to setup a React app. The opinionated framework gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching.
 
+### React Context
+
+We don't avocate for any state management library at the moment. One of the reasons libraries like Redux were so successful because they solved the problem of [prop drilling](https://kentcdodds.com/blog/prop-drilling). However, the born of [Context API](https://reactjs.org/docs/context.html) made it easy to pass data through the component tree without having to pass props down manually at every level. More importantly, we think most applications don't need a complicated global state and Context API is more than enough to solve that uncomplex problem. Our philosophy in React state management is simple: try to keep state as local as possible and use React context when prop drilling becomes a problem.
+
 ### TypeScript
 
 We are adopting TypeScript to our codebase. Forcing to write strongly-typed syntax while you are familiar with dynamic/multi-paradigm scripting language like JavaScript is sometimes annoying, even for experienced developers. However, the drawback can be outweighed by the following benefits when coming to write a medium to large sized applications:
