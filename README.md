@@ -64,9 +64,9 @@ This repo is our playbook which contains our practices in software development a
 
 - [Android](/engineering/android.md)
 - [iOS](/engineering/ios.md)
-- [Frontend](/engineering/frontend.md)
+- [Frontend](/engineering/frontend/tech-ecosystem.md)
 - [Backend](/engineering/backend.md)
-    - [API Security Checklist](/engineering/security/api-security.md)
+  - [API Security Checklist](/engineering/security/api-security.md)
 
 ## Production
 
@@ -89,4 +89,3 @@ We love pull requests. If you have something you want to add or remove, please o
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 @ [Dwarves Foundation](https://d.foundation)
-
