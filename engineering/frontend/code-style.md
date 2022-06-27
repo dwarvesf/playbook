@@ -6,9 +6,11 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
 
   - Use pure functions where possible to make them testable and modular.
   - Avoid mutating variables and the `let` keyword.
-  - React Components should be stateless functional components where possible.
+  - Prefer functional & immutable array methods .ie `map`/`filter`/`reduce`/`some`/`every` over any types of mutable `for` loop.
+  - Prefer "return early" coding style, more about it [here](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88).
   - Avoid classes and stateful modules where possible.
   - Don't Repeat Yourself. Make extensive use of the constants and utils files for re-usable strings and methods.
+  - Don't obsess over performance of code, obsess over making it clear.
   - The above rules can be relaxed for test scripts.
 
 - React components should be simple and composable and cater to real life UI design problems:
