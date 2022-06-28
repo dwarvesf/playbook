@@ -1,4 +1,4 @@
-# QA-best-practises
+# QA best practises
 
 ## 1. Purpose of this document
 
@@ -10,7 +10,7 @@ Everybody in Dwarvesv team has QA responsibilities, even if there is a named QA 
 
 1.  The service runs as expected and is considered to be created with good practices.
 2.  The service can be easily and cost efficiently maintained and operated.
-3.  The service can be continuously improved and modified cost efficiently
+3.  The service can be continuously improved and modified cost efficiently.
 
 On high level QA work and practices can be divided into two processes.
 
@@ -38,11 +38,6 @@ Reviewing the code helps other team members to get information of certain functi
 Manual testing is mostly done using Exploratory testing methodology and found errors are either fixed right away or prioritised and recorded to task/story/error management tool. Exploring the app or service can be started right after something functional is “ready”.
 
 Exploratory testing is a very powerful tool in e2e testing where the whole system is covered by testing. In the method tester goes beyond what can be defined in a test case, applies user-like thinking as well as tries to break the system by various error scenarios and is never “done” with testing.
-
-#### Non functional testing - localization, usability, performance/load testing
-
-Around the functional requirements and testing there are usually non-functional requirements which can be tested applying localisation, usability, performance and load testing. The needs and the tools are projects specific.
-For Performance/Load testing: LoadUI and J meter are actively in use to validate service capabilities in high traffic and to find possible service bottlenecks.
 
 #### Error management
 

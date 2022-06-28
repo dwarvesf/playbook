@@ -48,7 +48,7 @@ This repo is our playbook which contains our practices in software development a
 - [Document diagrams](/engineering/diagram.md)
 - [Writing REST API](/engineering/restful.md)
 - [Error convention](/engineering/error.md)
-- [Writing test & materials](/engineering/Testing/testing.md)
+- [Writing test & materials](/engineering/testing/testing.md)
 - [Code review](/engineering/code-review.md)
 - [Definition of Done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)

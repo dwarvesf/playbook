@@ -20,7 +20,7 @@ Example:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. Observed result.
 
 **Expected result:** How the application should behave on the above-mentioned steps.
 
