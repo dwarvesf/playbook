@@ -58,8 +58,9 @@ This repo is our playbook which contains our practices in software development a
 - [Development Security Rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
 - [Release Checklist](/engineering/release.md)
-- [UAT Checklist](/engineering/Testing/UAT.md)
-- [QA Best Practices](/engineering/Testing/QA-best-practices.md)
+- [UAT Checklist](/engineering/testing/UAT.md)
+- [QA Best Practices](/engineering/testing/QA-best-practices.md)
+- [Defect Template](/engineering/testing/defect-template.md)
 
 ### Platforms
 
