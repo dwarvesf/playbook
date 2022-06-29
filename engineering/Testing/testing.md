@@ -38,11 +38,11 @@ Defect/issue template that we should use: [Issue Template](./defect-template.md)
 - [ ] All defects logged in defect tracking system (Jira, Trello,...).
 - [ ] Test Closure Memo completed and signed off.
 
-## BEST PRACTICES FOR AN AGILE QA PROCESS
+## Best practices for an agile QA process
 
-- [ ] DEFINE AN AGILE QA PROCESS (Keep QA result-oriented)
-- [ ] RISK ANALYSIS
-- [ ] TEST EARLY AND TEST OFTEN (Make Testing an ongoing activity)
-- [ ] Do WHITE-BOX VS. BLACK-BOX
-- [ ] AUTOMATE WHEN FEASIBLE
+- [ ] Define an agile QA process (Keep QA result-oriented)
+- [ ] Risk analysis
+- [ ] Test early and test often (Make Testing an ongoing activity)
+- [ ] Do WHITE-BOX vs. BLACK-BOX
+- [ ] Automate when feasible
 - [ ] As a Development Team (Arrange for demonstrations from developers)

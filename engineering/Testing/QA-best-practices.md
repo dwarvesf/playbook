@@ -1,12 +1,10 @@
 # QA best practises
 
-## 1. Purpose of this document
+This is a summary of best practices our QA engineers at Dwarves use and recommends to be used. It is not supposed to be a detailed description and sometimes cannot fully be used for all tasks but as an overview of the most important QA processes and a list of good practices that should be used.
 
-This is a summary of QA practices Dwarvesv uses and recommends to be used. It is not supposed to be a detailed description and sometimes cannot fully be used of all tasks but as an overview of the most important QA processes and a list of good practices that should be used.
+## QA practices
 
-## 2. QA practices
-
-Everybody in Dwarvesv team has QA responsibilities, even if there is a named QA manager or QA specialists. To Dwarvesv QA means three things.
+Everyone in Dwarves has QA responsibilities, even if there is a named QA manager or QA specialists. To us, QA means three things.
 
 1.  The service runs as expected and is considered to be created with good practices.
 2.  The service can be easily and cost efficiently maintained and operated.
@@ -21,17 +19,17 @@ Furthermore there are other QA actions.
 
 #### Test-Driven Development
 
-Dwarvesv uses TDD and ATDD (Acceptance Test Driven Development) methods when applicable.
+We use TDD and ATDD (Acceptance Test Driven Development) methods when applicable.
 
 Method forces the implementation to follow architecture and consider modules that are used. Implementation starts by writing the automated test first and then implementing the functionality to pass the test.
 
 #### Pair programming
 
-Dwarvesv uses Pair programming method when applicable. This is very convenient way to share knowledge and experience about the project and software under development.
+We use Pair programming method when applicable. This is a very convenient way to share knowledge and experience about the project and software under development.
 
 #### Code review
 
-Reviewing the code helps other team members to get information of certain functionality and gives a possibility to give feedback to responsible person and also ensures knowledge sharing between team members.
+Reviewing the code helps other team members to get information on certain functionality and gives a possibility to give feedback to the responsible person and also ensures knowledge sharing between team members.
 
 #### Manual functional testing
 
