@@ -2,7 +2,11 @@
 
 ### Summary
 
-A summary of the bug should be no more than 60 words. Make sure the summary reflects the problem and where it is.
+A summary of the bug should be no more than 60 words. A good summary should be able to answer the three following questions:
+
+- **What?** – What has happened with the application?
+- **How?** – What did we click/do to produce the bug?
+- **Where?** – Where exactly in the app did we find the bug? What is the webpage and/or server (environment)?
 
 ### Description
 
