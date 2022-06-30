@@ -66,7 +66,7 @@ This repo is our playbook which contains our practices in software development a
 
 - [Android](/engineering/android.md)
 - [iOS](/engineering/ios.md)
-- [Frontend](/engineering/frontend.md)
+- [Frontend](/engineering/frontend/tech-ecosystem.md)
 - [Backend](/engineering/backend.md)
   - [API Security Checklist](/engineering/security/api-security.md)
 
