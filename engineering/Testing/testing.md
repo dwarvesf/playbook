@@ -1,5 +1,7 @@
 # Testing
+
 ## Testing materials
+
 ### Test Plan
 
 Make sure these items included in your test plan:
@@ -16,13 +18,13 @@ Make sure these items included in your test plan:
 Test case should includes those information:
 
 | Name                               | Pre-condition                                                   | Test Steps                   | Expected Result              | Requirement Ref                           |
-|------------------------------------|-----------------------------------------------------------------|------------------------------|------------------------------|-------------------------------------------|
+| ---------------------------------- | --------------------------------------------------------------- | ---------------------------- | ---------------------------- | ----------------------------------------- |
 | Brief about TC                     | Pre-condition steps before executing TC                         | Test Case Steps              | Expected result for the step | User Story # or requirement specification |
 | Ex: Login successfully with google | User is at login page (https://staging.fort.d.foundation/login) | Hit Login with Google button | Login successfully           | User Story 001                            |
 
 ### Defect
 
-Defect/issue template that we should use: [Issue Template](https://github.com/dwarvesf/.github/blob/master/ISSUE_TEMPLATE.md)
+Defect/issue template that we should use: [Issue Template](./defect-template.md)
 
 ## Test closure checklist
 
@@ -35,3 +37,12 @@ Defect/issue template that we should use: [Issue Template](https://github.com/dw
 - [ ] All test metrics collected based on reports from defect tracking system.
 - [ ] All defects logged in defect tracking system (Jira, Trello,...).
 - [ ] Test Closure Memo completed and signed off.
+
+## Best practices for an agile QA process
+
+- [ ] Define an agile QA process (Keep QA result-oriented)
+- [ ] Risk analysis
+- [ ] Test early and test often (Make Testing an ongoing activity)
+- [ ] Do WHITE-BOX vs. BLACK-BOX
+- [ ] Automate when feasible
+- [ ] As a Development Team (Arrange for demonstrations from developers)
