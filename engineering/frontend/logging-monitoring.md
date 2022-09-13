@@ -49,3 +49,9 @@ We recommend using [BrowserStack](https://www.browserstack.com/) to run automate
 We use [Google Analytics](https://analytics.google.com/) on our projects by default to log important user interactions. In addition, custom events can be set for specific goals based on Marketing team requirements.
 
 Based on analytic data, we can identify which page needs to be improved to decrease bounce rate and fix broken links.
+
+## Read on:
+
+- [Tech ecosystem](tech-ecosystem.md)
+- [Code style](code-style.md)
+- [Writting test](writing-test.md)

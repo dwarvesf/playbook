@@ -20,24 +20,24 @@ For the sake of this guide, lets pretend we're testing this function. It's situa
 
 ```js
 export function add(x: number, y: number) {
-  return x + y
+  return x + y;
 }
 ```
 
 First create a folder call `tests` then add a second `add.test.ts` file with our unit test inside.
 
 ```js
-import { add } from '../number.ts'
+import { add } from '../number.ts';
 
 describe('add()', () => {
   it('adds two numbers', () => {
-    expect(add(2, 3)).toEqual(5)
-  })
+    expect(add(2, 3)).toEqual(5);
+  });
 
   it("doesn't add the third number", () => {
-    expect(add(2, 3, 5)).toEqual(add(2, 3))
-  })
-})
+    expect(add(2, 3, 5)).toEqual(add(2, 3));
+  });
+});
 ```
 
 Should our function work, Jest will show this output when running the tests:
@@ -78,8 +78,8 @@ React provides us with a nice add-on called the Shallow Renderer. This renderer 
 This component renders a `<button>` element containing a checkmark icon and some text:
 
 ```javascript
-import React from 'react'
-import CheckmarkIcon from './CheckmarkIcon'
+import React from 'react';
+import CheckmarkIcon from './CheckmarkIcon';
 
 function Button(props) {
   return (
@@ -87,19 +87,19 @@ function Button(props) {
       <CheckmarkIcon />
       {React.Children.only(props.children)}
     </button>
-  )
+  );
 }
 
-export default Button
+export default Button;
 ```
 
 It might be used in another component like this:
 
 ```javascript
-import Button from './Button'
+import Button from './Button';
 
 function HomePage() {
-  return <Button onClick={this.doSomething}>Click me!</Button>
+  return <Button onClick={this.doSomething}>Click me!</Button>;
 }
 ```
 
@@ -142,15 +142,15 @@ Let's give it a go with our `<Button />` component, shall we? First, let's check
 This is our test setup:
 
 ```javascript
-import React from 'react'
-import { render, fireEvent } from 'react-testing-library'
-import Button from '../Button'
+import React from 'react';
+import { render, fireEvent } from 'react-testing-library';
+import Button from '../Button';
 
 describe('<Button />', () => {
-  it('renders and matches the snapshot', () => {})
+  it('renders and matches the snapshot', () => {});
 
-  it('handles clicks', () => {})
-})
+  it('handles clicks', () => {});
+});
 ```
 
 #### Snapshot testing
@@ -163,11 +163,11 @@ For this, we first call `render`. This will render our `<Button />` component in
 
 ```javascript
 it('renders and matches the snapshot', () => {
-  const text = 'Click me!'
-  const { container } = render(<Button>{text}</Button>)
+  const text = 'Click me!';
+  const { container } = render(<Button>{text}</Button>);
 
-  expect(container.firstChild).toMatchSnapshot()
-})
+  expect(container.firstChild).toMatchSnapshot();
+});
 ```
 
 `render` returns an object that has a property `container` and yes, this is the container our `<Button />` component has been rendered in.
@@ -188,39 +188,39 @@ We'll use a [mock function](https://jestjs.io/docs/en/mock-functions) for this. 
 
 ```javascript
 it('handles clicks', () => {
-  const onClickMock = jest.fn()
-  const text = 'Click me!'
-  const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>)
+  const onClickMock = jest.fn();
+  const text = 'Click me!';
+  const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>);
 
-  fireEvent.click(getByText(text))
-  expect(onClickSpy).toHaveBeenCalledTimes(1)
-})
+  fireEvent.click(getByText(text));
+  expect(onClickSpy).toHaveBeenCalledTimes(1);
+});
 ```
 
 Our finished test file looks like this:
 
 ```javascript
-import React from 'react'
-import { render, fireEvent } from 'react-testing-library'
-import Button from '../Button'
+import React from 'react';
+import { render, fireEvent } from 'react-testing-library';
+import Button from '../Button';
 
 describe('<Button />', () => {
   it('renders and matches the snapshot', () => {
-    const text = 'Click me!'
-    const { container } = render(<Button>{text}</Button>)
+    const text = 'Click me!';
+    const { container } = render(<Button>{text}</Button>);
 
-    expect(container.firstChild).toMatchSnapshot()
-  })
+    expect(container.firstChild).toMatchSnapshot();
+  });
 
   it('handles clicks', () => {
-    const onClickMock = jest.fn()
-    const text = 'Click me!'
-    const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>)
+    const onClickMock = jest.fn();
+    const text = 'Click me!';
+    const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>);
 
-    fireEvent.click(getByText(text))
-    expect(onClickSpy).toHaveBeenCalledTimes(1)
-  })
-})
+    fireEvent.click(getByText(text));
+    expect(onClickSpy).toHaveBeenCalledTimes(1);
+  });
+});
 ```
 
 ## Integration testing
@@ -232,30 +232,30 @@ You can choose to write integration tests by using [React testing library](https
 ```js
 describe('User Sign-up and Login', () => {
   it('should redirect unauthenticated user to login page', () => {
-    cy.visit('/')
-    cy.location('pathname').should('equal', '/login')
-  })
+    cy.visit('/');
+    cy.location('pathname').should('equal', '/login');
+  });
 
   it('should redirect unauthenticated user to login page', function () {
-    cy.visit('/forms')
-    cy.location('pathname').should('equal', '/login')
-  })
+    cy.visit('/forms');
+    cy.location('pathname').should('equal', '/login');
+  });
 
   it('should allow a visitor to sign-up, login, and logout', function () {
     const userInfo = {
       email: 'test@d.foundation',
       password: 'test',
-    }
+    };
 
-    cy.visit('/')
-    cy.get('[name="email"]').type(userInfo.email)
-    cy.get('[name="password"]').type(userInfo.password).type('{enter}')
-    cy.location('pathname').should('equal', '/')
-    cy.get('[data-testid="profile-button"]').click()
-    cy.get('[data-testid="logout-button"]').click()
-    cy.location('pathname').should('equal', '/login')
-  })
-})
+    cy.visit('/');
+    cy.get('[name="email"]').type(userInfo.email);
+    cy.get('[name="password"]').type(userInfo.password).type('{enter}');
+    cy.location('pathname').should('equal', '/');
+    cy.get('[data-testid="profile-button"]').click();
+    cy.get('[data-testid="logout-button"]').click();
+    cy.location('pathname').should('equal', '/login');
+  });
+});
 ```
 
 If the test requires API calls, make sure they are mocked up to work **without the need of a real server**.
@@ -263,7 +263,7 @@ If the test requires API calls, make sure they are mocked up to work **without t
 Here's an example of an integration test that uses [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Mock Service Worker](https://github.com/mswjs/msw):
 
 ```js
-import { setupWorker, rest } from 'msw'
+import { setupWorker, rest } from 'msw';
 
 const worker = setupWorker(
   rest.post('/login', (req, res, ctx) => {
@@ -273,11 +273,11 @@ const worker = setupWorker(
       ctx.json({
         message: 'Mocked response JSON body',
       }),
-    )
+    );
   }),
-)
+);
 
-worker.start()
+worker.start();
 ```
 
 And here's how to use Cypress and intercept the network request for an integration test:
@@ -285,7 +285,7 @@ And here's how to use Cypress and intercept the network request for an integrati
 ```js
 // requests to '/login' will be fulfilled
 // with a body of "success"
-cy.intercept('/login', 'Mocked response JSON body')
+cy.intercept('/login', 'Mocked response JSON body');
 ```
 
 Note: sometimes, it's required to have e2e tests by making requests against a real backend server. In that case, we need to ensure network latency and availability of the server are not the factor causing the test to fail.
@@ -294,3 +294,4 @@ Note: sometimes, it's required to have e2e tests by making requests against a re
 
 - [Tech ecosystem](tech-ecosystem.md)
 - [Code style](code-style.md)
+- [Logging and monitoring](logging-monitoring.md)

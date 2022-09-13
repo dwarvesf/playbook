@@ -84,3 +84,4 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
 
 - [Tech ecosystem](tech-ecosystem.md)
 - [Writting test](writing-test.md)
+- [Logging and monitoring](logging-monitoring.md)
