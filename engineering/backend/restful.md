@@ -11,7 +11,7 @@ The following are the most important terms related to REST APIs.
 
 ## Convention
 
-- We use Swagger for REST API documentation.
+- We prefer Swagger for REST API documentation.
 - Use Nouns in URI: REST API should be designed for resources. For example, instead of `/createUser` use `/users`.
 - We prefer to use plurals, but there is no hard rule that one can't use the singular for the resource name.
 - Let the HTTP verb define action. Don't misuse safe methods. Use HTTP methods according to the action which needs to be performed.
@@ -33,27 +33,68 @@ Always version your API. Version via the URL, not via headers. Versioning APIs a
 ## Filter, Search and Sort
 Use query parameters for advanced filtering, sorting & searching.
 
-Pagination:
+###Pagination
+
+**Offset pagination:**
+
+- `page` - current page wanted to fetch
+- `size` - number of items per page
+
+- The API should return `totalItems` and `totalPages`
+
+Example:
 ```
 GET /companies?page=23&size=50
 ```
 
-Sort:
+**Cursor pagination**
+
+- `cursor` - is the reference element in the list. The best practice for choosing the cursor is only sorting by a unique sequential column, and creating a new concatenate column if you have to order by multiple none unique columns.
+- `size` - number of items per page
+
+- The API should return `previousCursor` and `nextCursor`
+
 ```
+GET /companies?cursor=12&size=50&cursorDirection=
+```
+
+### Sort:
+
+- Validate all sort able fields
+- By default sort in ascending order
+- Use  `minus(-)` prefix to indicate sort in descending order
+
+Example
+```
+# sort by created_at in descending order
 GET /companies?sort=-created_at
+
+# sort by created_at in ascending order
+GET /companies?sort=created_at
 ```
 
-Filter:
+### Filter:
+
+- Validate all enums values
+- Use repeated query keys for multiple values
+- Use RFC339 time format or unix timestamp for date time filter 
+
 ```
-GET /companies?category=software&location=saigon|hanoi
+#### filter by category
+GET /companies?category=software
+
+#### filter by locations
+GET /companies?location=saigon&location=hanoi
+
+#### Filter by time range
+GET /companies?start=1662873449&end=1662873449
+GET /companies?start=2022-09-10T05:10:55.308Z&end=2022-09-11T05:10:55.308Z
+
+#### Use specific field name when case we have multiple time range filter
+GET /companies?created_at_from=2022-09-10T05:10:55.308Z&created_at_to=2022-09-11T05:10:55.308Z&updated_at_from=2022-09-10T05:10:55.308Z&updated_at_to=2022-09-11T05:10:55.308Z
 ```
 
-Filter by time range:
-```
-GET /companies?time=fromTime-toTime
-```
-
-Search:
+### Search:
 ```
 GET /companies?search=Mckinsey
 ```
@@ -119,13 +160,13 @@ There are 2 approaches: [ETag](http://en.wikipedia.org/wiki/HTTP_ETag) and [Last
 
 ## HTTP status codes
 
-HTTP defines a bunch of meaningful status codes that can be returned from your API. These can be leveraged to help the API consumers route their responses accordingly. I've curated a shortlist of the ones that you definitely should be using:
+HTTP defines a bunch of meaningful [status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) that can be returned from your API. These can be leveraged to help the API consumers route their responses accordingly. I've curated a shortlist of the ones that you definitely should be using:
 
 - `200 OK` - Response to a successful GET, PUT, PATCH or DELETE. It can also be used for a POST that doesn't result in creation.
 - `201 Created` - Response to a POST that results in a creation. Should be combined with a Location header pointing to the location of the new resource
 - `204 No Content` - Response to a successful request that won't be returning a body (like a DELETE request)
 - `304 Not Modified` - Used when HTTP caching headers are in play
-- `400 Bad Request` - The request is malformed, such as if the body does not parse
+- `400 Bad Request` - The request is malformed, such as if the body does not parse or failed validation
 - `401 Unauthorized` - When no or invalid authentication details are provided. Also useful to trigger an auth popup if the API is used from a browser
 - `403 Forbidden` - When authentication succeeded but the authenticated user doesn't have access to the resource
 - `404 Not Found` - When a non-existent resource is requested
@@ -134,15 +175,19 @@ HTTP defines a bunch of meaningful status codes that can be returned from your A
 - `415 Unsupported Media Type` - If the incorrect content type was provided as part of the request
 - `422 Unprocessable Entity` - Used for validation errors
 - `429 Too Many Requests` - When a request is rejected due to rate limiting
+- `500 Internal Server Error` - The server has encountered a situation it does not know how to handle. This can be database error, 3rd party service error, etc.
+- `500 Internal Server Error` - The server has encountered a situation it does not know how to handle. This can be database error, 3rd party service error, etc.
 
 ## Response
 
 Single data entry response
 ``` json
 {
-    "id": 1,
-    "name": "Dwarves",
-    "plug": "dwarvesf"
+    "data": {
+        "id": 1,
+        "name": "Dwarves",
+        "plug": "dwarvesf"
+    }
 }
 ```
 
@@ -157,6 +202,15 @@ Multi data entries or array
         "totalCount": 295,
         "hasNextPage": true
     }
+}
+```
+
+Error response
+``` json
+{
+    "data": null,
+    "error": "the error message",
+    "errors": "Array<{field: string, msg: string, [x: string]: any}> List of detail error message"
 }
 ```
 
