@@ -15,6 +15,8 @@ The overall procedure for monitoring alerts and taking action includes determini
 
 ### Reporting the problem
 
+In crisis communication, the best immediate action to take for critical problems is to do frequent reporting to the team and related stakeholders. This is to make sure everyone that needs to know, especially the business and customer, understand what is happening and to avoid issues in transparency when exploring the problem.
+
 Once we have an idea of what the problem is, we need to report this incident in a way that the information is self-contained and sufficient. The following data must be collected before an incident is fully classified and prioritized:
 
 - Submitter Source (monitoring alert or alternate source)
@@ -30,36 +32,28 @@ After acknowledging the alert, we should triage the problem by assigning it a ca
 
 #### Priority Level
 
-- **P0**
+- **P0**: *This priority level is critical and should have the most immediate response action possible, with ideally a target resolution time of within 1 hour.*
 	- complete loss of access to application or API
 	- degraded access to or performance
 	- loss of access to a data center
-- **P1**
+- **P1**: *A high priority level that should have minimal response time with ideally a target resolution time of 4 hours.*
 	- outage to important outbound third-party interface
 	- corruption or loss of data
 	- loss of an important function of an application
-- **P2**
-	- sporadic or localized performance issue
+- **P2**: *There should be some effort in resolving these issues, but response and action can be more relaxed, ideally with a target resolution time of within 24 hours.*
+	- irregular or localized performance issue
 	- system issues with no noticeable client impact yet
 	- single client outage/degradation
-- **P3**
+- **P3**: *This priority not need any immediate action and can be resolved in batch with other issues, ideally with a target resolution time of within 1 week.*
 	- operational issues, procedural problems or service requests that have little or no effect on end-users
 	- the default priority level for issues with undetermined severity level
 
-## The Five Whys
-
-The simplest way to interrogate a problem is using the 5 Whys technique. [5 Whys](https://en.wikipedia.org/wiki/5_Whys) is an iterative interrogative technique developed by Sakichi Toyoda and is used to explore the cause-and-effect relationships underlying a problem. For example:
-
-- **Problem**: Our users have an issue viewing updates in tracking orders for their delivery.
-- **1st Why**: There is an issue with our view model.
-- **2nd Why**: Our view model has issues getting data from our closest database.
-- **3rd Why**: Our nearest database has connection issues egressing data.
-- **4th Why**: Our nearest database cannot resolve DNS properly to point and egress data.
-- **5th Why**: Our database has had a config change that affected the resolution of DNS queries.
-
 ## Postmortems
 
-Documentation on the resolution and aftermath of an incident is key to distilling issues and establish practices to avoid further incidents through reflection. It is also key to understand that incident postmortems are focused on growth, and should be designed to be blameless.
+Documentation on the resolution and aftermath of an incident is key to distilling issues and establish practices to avoid further incidents through reflection:
+
+- After an incident is resolved, the team should gather to identify the root cause of the incident.
+- These postmortems are an opportunity for learning and growth, to help avoid it from happening again in the future, designed in a way to be blameless.
 
 Since we often use Jira and Confluence for managing projects, we often use templates available on their platform. The following [template](https://www.atlassian.com/incident-management/postmortem/templates) format is taken from Atlassian (make sure to check their examples as well):
 
@@ -122,7 +116,15 @@ Detail the incident timeline with as much information as possible. Use UTC to st
 - XX:XX UTC - INCIDENT ACTIVITY; ACTION TAKEN
 
 ### Root cause identification
-[Follow the 5 Whys of root cause identification](#the-five-whys).
+The simplest way to interrogate a problem is using the 5 Whys technique. [5 Whys](https://en.wikipedia.org/wiki/5_Whys) is an iterative interrogative technique developed by Sakichi Toyoda and is used to explore the cause-and-effect relationships underlying a problem. For example:
+
+- **Problem**: Our users have an issue viewing updates in tracking orders for their delivery.
+- **1st Why**: There is an issue with our view model.
+- **2nd Why**: Our view model has issues getting data from our closest database.
+- **3rd Why**: Our nearest database has connection issues egressing data.
+- **4th Why**: Our nearest database cannot resolve DNS properly to point and egress data.
+- **5th Why**: Our database has had a config change that affected the resolution of DNS queries.
+
 
 ## Root cause
 Note and detail the final root cause of the incident.
