@@ -126,7 +126,7 @@ The simplest way to interrogate a problem is using the 5 Whys technique. [5 Whys
 - **5th Why**: Our database has had a config change that affected the resolution of DNS queries.
 
 
-## Root cause
+### Root cause
 Note and detail the final root cause of the incident.
 
 ### Backlog check
