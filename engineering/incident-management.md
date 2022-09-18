@@ -64,7 +64,7 @@ A general summary of the incident in a few sentences or paragraph; includes what
 - time of incident and date
 - number of users encountered the problem
 
-## Leadup
+### Leadup
 A description of the sequence of events that led to the incident
 
 #### TEMPLATE
@@ -73,7 +73,7 @@ A description of the sequence of events that led to the incident
 - introduced change that led to the incident
 - description of the impact of the change
 
-## Fault
+### Fault
 Describe how a change was implemented that didn't work as expected; if possible, add screenshots or visuals to help illustrate.
 
 ### Impact
@@ -84,7 +84,7 @@ Describe who was impacted and how severe it was.
 - who was impacted
 - severity of impact
 
-## Detection
+### Detection
 Describe when the incident was detected. The purpose of this is to find how to reduce our time-to-detection.
 
 #### TEMPLATE
