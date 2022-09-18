@@ -110,7 +110,7 @@ Describe how the service was restored and detail the steps to recovery.
 ### Timeline
 Detail the incident timeline with as much information as possible. Use UTC to standardize for timezones:
 
-### **TEMPLATE:**
+#### **TEMPLATE:**
 - XX:XX UTC - INCIDENT ACTIVITY; ACTION TAKEN
 - XX:XX UTC - INCIDENT ACTIVITY; ACTION TAKEN
 - XX:XX UTC - INCIDENT ACTIVITY; ACTION TAKEN
