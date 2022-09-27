@@ -69,3 +69,21 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
     - production use `specific semantic tag` e.g. v1.0.0
 - [ ] Make sure the deployment has been shipped to correct environment (production, staging, ...)
 - [ ] For development environment, the database has been setup auto migrate after deploying new version
+
+## Deployment Checklist
+### Check Last Stable Deployment
+- [ ] Was there a rollback previously?
+- [ ] Check ArgoCD for hash of commit → cross reference with github to see the tag
+
+### Check monitoring tools for nominal signals
+- [ ] Sentry - are new issues present in development environment since last release? Alarms?
+- [ ] Grafana - do dashboards all show normal utilisation rates?
+- [ ] Upptime - are there any alarms since the last release? If so, have they been addressed?
+Loki - if manual review of logs is required.
+
+### Actions
+
+- [ ] Run smoke tests 
+
+### Post Deployment
+- [ ] Check all monitoring tools listed above for issues post deployment
