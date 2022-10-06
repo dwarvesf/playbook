@@ -33,7 +33,15 @@ If you using Mac and wanted powerful keybinding across system checkout [Karabine
 
 ## Useful plugins for your editors
 
-### VScode
+### VSCode
+
+In our workplace, we often use [VSCode](https://code.visualstudio.com/) with other editors to help bootstrap our development environment. It's a convenient text-editor with a ton of extensions, enough to replace modern IDE workloads. This is possible with the advent of [language servers](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) to help create rich IDE-like experiences for developers.
+
+VSCode has a feature called [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) that uses your Microsoft or GitHub account to sync your `settings.json`, `keybindings.json`, `extensions.json`, etc. to keep your settings and configuration in sync.
+
+There are a ton of extensions available in the [VSCode Marketplace](https://marketplace.visualstudio.com/vscode). What you use and style with is up to you. We often program with languages such as [TypeScript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next), [Golang](https://code.visualstudio.com/docs/languages/go), and [Elixir](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) and use their respective plugins for our projects.
+
+Some of our other recommended extensions are:
 
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -47,4 +55,33 @@ If you using Mac and wanted powerful keybinding across system checkout [Karabine
 - [Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-### Vim
+### Vim/NeoVim
+
+#### VIM/NVIM Plugins
+
+[https://vimawesome.com/](https://vimawesome.com/)
+[https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+
+Both Vim and Neovim have really extensive plugins and comprehensive guides to customing the editor to fit your needs. For a minimalist plugin manager for both Vim and NeoVim, we recommend using [Plug](https://github.com/junegunn/vim-plug). For extensions, ff you are looking for a VSCode or IDE-like experience, we highly recommend using neovim with the [coc.nvim](https://github.com/neoclide/coc.nvim) plugin.
+
+Other plugins we recommend are:
+- [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+- [commentary.vim](https://github.com/tpope/vim-commentary)
+- [fzf.vim](https://github.com/junegunn/fzf.vim)
+- [vim-fugitive](https://github.com/tpope/vim-fugitive)
+- [vim-surround](https://github.com/tpope/vim-surround)
+
+### Emacs
+
+[https://github.com/emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+
+Some of our engineers use Emacs for text editing, as well as [managing everything](https://irfu.cea.fr/Pisp/vianney.lebouteiller/emacs.html). Unlike Vim/NeoVim, Emacs comes with its own plugin manager called [ELPA](https://www.emacswiki.org/emacs/ELPA).
+
+Some common plugins we recommend are:
+- [auto-complete](https://github.com/auto-complete/auto-complete)
+- [Org Mode](https://orgmode.org/)
+- [Helm](https://tuhdo.github.io/helm-intro.html)
+- [Flymake](https://www.gnu.org/software/emacs/manual/html_node/emacs/Flymake.html)
+- [Magit](https://magit.vc/)
+- [Evil](https://github.com/emacs-evil/evil)
+- [undotree](https://github.com/mbbill/undotree)
