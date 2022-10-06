@@ -14,7 +14,11 @@ Before adding a plugin, you need to choose a plugin manager. You can find an app
 
 - On Linux you can use default terminal
 
-- On MacOS we prefer (iTerm2)[https://iterm2.com/] instead of the default terminal. Alternative to iTerm2 is [Kitty](https://sw.kovidgoyal.net/kitty/)
+- On MacOS, it comes with a default terminal, although we prefer to use third-part terminals. For instance:
+  - [iTerm2](https://iterm2.com/)
+  - [Kitty](https://sw.kovidgoyal.net/kitty/)
+  - [Warp](https://www.warp.dev/)
+  - [Hyper.is](https://hyper.is/)
 
 - Windows is kinda tricky, to have Unix like command you use have to install [WLS](https://learn.microsoft.com/en-us/windows/wsl/install). You can also use new [Terminal](https://github.com/microsoft/terminal) which is more powerful easier to use
 
