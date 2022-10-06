@@ -35,6 +35,14 @@ If you using Mac and wanted powerful keybinding across system checkout [Karabine
 
 ### VScode
 
+In our workplace, we often use [VSCode](https://code.visualstudio.com/) with other [editors][editor.md] to help bootstrap our development environment. It's a convenient text-editor with a ton of extensions, enough to replace modern IDE workloads. This is possible with the advent of [language servers](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) to help create rich IDE-like experiences for developers.
+
+VSCode has a feature called [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) that uses your Microsoft or GitHub account to sync your `settings.json`, `keybindings.json`, `extensions.json`, etc. to keep your settings and configuration in sync.
+
+There are a ton of extensions available in the [VSCode Marketplace](https://marketplace.visualstudio.com/vscode). What you use and style with is up to you. We often program with languages such as [TypeScript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next), [Golang](https://code.visualstudio.com/docs/languages/go), and [Elixir](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) and use their respective plugins for our projects.
+
+Some of our other recommended extensions are:
+
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -47,4 +55,13 @@ If you using Mac and wanted powerful keybinding across system checkout [Karabine
 - [Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-### Vim
+### Vim/NeoVim
+
+#### VIM/NVIM Plugins
+
+[https://vimawesome.com/](https://vimawesome.com/)
+[https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+
+Both Vim and Neovim have really extensive plugins and comprehensive guides to customing the editor to fit your needs. If you are looking for a VSCode or IDE-like experience, we highly recommend using neovim with the [coc.nvim](https://github.com/neoclide/coc.nvim) plugin.
+
+### Emacs
