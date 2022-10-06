@@ -33,9 +33,9 @@ If you using Mac and wanted powerful keybinding across system checkout [Karabine
 
 ## Useful plugins for your editors
 
-### VScode
+### VSCode
 
-In our workplace, we often use [VSCode](https://code.visualstudio.com/) with other [editors][editor.md] to help bootstrap our development environment. It's a convenient text-editor with a ton of extensions, enough to replace modern IDE workloads. This is possible with the advent of [language servers](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) to help create rich IDE-like experiences for developers.
+In our workplace, we often use [VSCode](https://code.visualstudio.com/) with other editors to help bootstrap our development environment. It's a convenient text-editor with a ton of extensions, enough to replace modern IDE workloads. This is possible with the advent of [language servers](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) to help create rich IDE-like experiences for developers.
 
 VSCode has a feature called [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) that uses your Microsoft or GitHub account to sync your `settings.json`, `keybindings.json`, `extensions.json`, etc. to keep your settings and configuration in sync.
 
