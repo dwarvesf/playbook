@@ -62,7 +62,7 @@ Some of our other recommended extensions are:
 [https://vimawesome.com/](https://vimawesome.com/)
 [https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 
-Both Vim and Neovim have really extensive plugins and comprehensive guides to customing the editor to fit your needs. If you are looking for a VSCode or IDE-like experience, we highly recommend using neovim with the [coc.nvim](https://github.com/neoclide/coc.nvim) plugin.
+Both Vim and Neovim have really extensive plugins and comprehensive guides to customing the editor to fit your needs. For a minimalist plugin manager for both Vim and NeoVim, we recommend using [Plug](https://github.com/junegunn/vim-plug). For extensions, ff you are looking for a VSCode or IDE-like experience, we highly recommend using neovim with the [coc.nvim](https://github.com/neoclide/coc.nvim) plugin.
 
 Other plugins we recommend are:
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
@@ -75,4 +75,13 @@ Other plugins we recommend are:
 
 [https://github.com/emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 
-Some of our engineers use Emacs for text editing, as well as [managing everything](https://irfu.cea.fr/Pisp/vianney.lebouteiller/emacs.html).
+Some of our engineers use Emacs for text editing, as well as [managing everything](https://irfu.cea.fr/Pisp/vianney.lebouteiller/emacs.html). Unlike Vim/NeoVim, Emacs comes with its own plugin manager called [ELPA](https://www.emacswiki.org/emacs/ELPA).
+
+Some common plugins we recommend are:
+- [auto-complete](https://github.com/auto-complete/auto-complete)
+- [Org Mode](https://orgmode.org/)
+- [Helm](https://tuhdo.github.io/helm-intro.html)
+- [Flymake](https://www.gnu.org/software/emacs/manual/html_node/emacs/Flymake.html)
+- [Magit](https://magit.vc/)
+- [Evil](https://github.com/emacs-evil/evil)
+- [undotree](https://github.com/mbbill/undotree)
