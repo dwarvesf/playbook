@@ -13,3 +13,4 @@
 ## Tools
 
 - (fnm)[https://github.com/Schniz/fnm] Fast and simple Node.js version manager
+- (Vimium)[https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en] Chrome extension keyboard shortcuts for navigation and control in the spirit of Vim
