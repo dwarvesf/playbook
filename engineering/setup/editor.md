@@ -64,4 +64,15 @@ Some of our other recommended extensions are:
 
 Both Vim and Neovim have really extensive plugins and comprehensive guides to customing the editor to fit your needs. If you are looking for a VSCode or IDE-like experience, we highly recommend using neovim with the [coc.nvim](https://github.com/neoclide/coc.nvim) plugin.
 
+Other plugins we recommend are:
+- [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+- [commentary.vim](https://github.com/tpope/vim-commentary)
+- [fzf.vim](https://github.com/junegunn/fzf.vim)
+- [vim-fugitive](https://github.com/tpope/vim-fugitive)
+- [vim-surround](https://github.com/tpope/vim-surround)
+
 ### Emacs
+
+[https://github.com/emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+
+Some of our engineers use Emacs for text editing, as well as [managing everything](https://irfu.cea.fr/Pisp/vianney.lebouteiller/emacs.html).
