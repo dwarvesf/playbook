@@ -33,7 +33,7 @@ Using the [dotfiles](https://github.com/dwarvesf/dotfiles) make pair programming
 
 # Command-line Plugins
 
-Most likely, you might be using `zsh`, `tmux`, or `vim`/`nvim` as part of your workflow. They are powerful on their own, but lack some of the love and care of GUI tools we take for granted today. If you feel this might be the case for you, you can try extending these tools with plugins.
+Most likely, you might be using `zsh`, `tmux`, or `vim`/`nvim` as part of your workflow. They are powerful on their own, but lack some of the love and care of GUI tools we take for granted today. If you feel this might be the case for you, you can try extending these tools with plugins. Their configs usually reside in the `~/.config` folder, which you can version control with your dotfiles.
 
 ## ZSH Plugins
 
@@ -51,3 +51,13 @@ If you use `tmux` to manage multiple terminal sessions, you might be interested 
 [https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 
 Both Vim and Neovim have really extensive plugins and comprehensive guides to customing the editor to fit your needs. If you are looking for a VSCode or IDE-like experience, we highly recommend using neovim with the [coc.nvim](https://github.com/neoclide/coc.nvim) plugin.
+
+# Applications
+
+In our workplace, we often use [VSCode](https://code.visualstudio.com/) to help bootstrap our development environment. It's a convenient text-editor with a ton of extensions, enough to replace modern IDE workloads. This is possible with the advent of [language servers](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) to help create rich IDE-like experiences for developers.
+
+VSCode has a feature called [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) that uses your Microsoft or GitHub account to sync your `settings.json`, `keybindings.json`, `extensions.json`, etc. to keep your settings and configuration in sync.
+
+## Extensions
+
+There are a ton of extensions available in the [VSCode Marketplace](https://marketplace.visualstudio.com/vscode). What you use and style with is up to you. We often program with languages such as [TypeScript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next), [Golang](https://code.visualstudio.com/docs/languages/go), and [Elixir](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) and use their respective plugins for our projects.
