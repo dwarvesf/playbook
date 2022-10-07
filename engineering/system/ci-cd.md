@@ -48,6 +48,7 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 # Checklist
 
 ## CI
+To what extent did the CI cover unit tests, linting and build the codebase with correct environment configuration?
 - [ ] The pipeline covers test, build, packaging and push artifacts stage
 - [ ] CI environment is cleaned from starting
 - [ ] Pipeline is fast as possible
@@ -62,6 +63,7 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 - [ ] The API target should be configured appropriately to reflect the current build environment. Avoiding pointing to different API version or environment.
 
 ## CD
+To what extent did the CD deliver correct version, make sure configuration is up-to-date and can be rollback
 - [ ] Make sure environment variables has been up-to-date after deploying
 - [ ] Use image tag in different environments:
     - develop use tag `develop`
@@ -71,6 +73,8 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 - [ ] For development environment, the database has been setup auto migrate after deploying new version
 
 ## Deployment Checklist
+To make sure that will the next release won't break current production by figuring out potential errors which is happening in development env (if any)
+
 ### Check Last Stable Deployment
 - [ ] Was there a rollback previously?
 - [ ] Check ArgoCD for hash of commit → cross reference with github to see the tag
@@ -79,7 +83,7 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 - [ ] Sentry - are new issues present in development environment since last release? Alarms?
 - [ ] Grafana - do dashboards all show normal utilisation rates?
 - [ ] Upptime - are there any alarms since the last release? If so, have they been addressed?
-Loki - if manual review of logs is required.
+- [ ] Loki - if manual review of logs is required.
 
 ### Actions
 
