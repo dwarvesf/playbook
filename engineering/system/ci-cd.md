@@ -73,7 +73,7 @@ To what extent did the CD deliver correct version, make sure configuration is up
 - [ ] For development environment, the database has been setup auto migrate after deploying new version
 
 ## Deployment Checklist
-To make sure that will the next release won't break current production by figuring out potential errors which is happening in development env (if any)
+To make sure that the next release won't break current production by figuring out potential errors which is happening in development env (if any)
 
 ### Check Last Stable Deployment
 - [ ] Was there a rollback previously?
