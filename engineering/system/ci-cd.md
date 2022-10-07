@@ -48,7 +48,8 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 # Checklist
 
 ## CI
-To what extent did the CI cover unit tests, linting and build the codebase with correct environment configuration?
+A checklist of items to be considered while setting up the continuous integration which should cover unit tests, linting and build the codebase 
+
 - [ ] The pipeline covers test, build, packaging and push artifacts stage
 - [ ] CI environment is cleaned from starting
 - [ ] Pipeline is fast as possible
@@ -63,7 +64,8 @@ To what extent did the CI cover unit tests, linting and build the codebase with 
 - [ ] The API target should be configured appropriately to reflect the current build environment. Avoiding pointing to different API version or environment.
 
 ## CD
-To what extent did the CD deliver correct version, make sure configuration is up-to-date and can be rollback
+To ensure our code is always in a deployable state, even in the face of teams of thousands of developers making changes on a daily basis with correct version, and can be rollback
+
 - [ ] Make sure environment variables has been up-to-date after deploying
 - [ ] Use image tag in different environments:
     - develop use tag `develop`
@@ -73,7 +75,7 @@ To what extent did the CD deliver correct version, make sure configuration is up
 - [ ] For development environment, the database has been setup auto migrate after deploying new version
 
 ## Deployment Checklist
-To make sure that the next release won't break current production by figuring out potential errors which is happening in development env (if any)
+To ensure the next release won't break current production by figuring out potential errors which is happening in development env (if any)
 
 ### Check Last Stable Deployment
 - [ ] Was there a rollback previously?
