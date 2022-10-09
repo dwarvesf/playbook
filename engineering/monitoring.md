@@ -1,5 +1,6 @@
 # Monitoring
 
+- [Monitoring](#monitoring)
 - [Application monitoring](#application-monitoring)
   - [Status page](#status-page)
   - [Status page format](#status-page-format)
@@ -29,15 +30,15 @@ A combined overview status should be provided by the application, aggregating th
 
 ## Status page
 
-All status checks SHOULD be accessible under `/status` URLs as follows:
+All status checks SHOULD be accessible under `/healthz` URLs as follows:
 
-* `/status` - the overall status page (mandatory)
-* `/status/subsystem1` - a status check for speciffic subsystem (optional)
+* `/healthz` - the overall status page (mandatory)
+* `/healthz/subsystem1` - a status check for speciffic subsystem (optional)
 * ...
 
-The main `/status` page should at a minimum give an overall status of the system, as described in the next section. This means that the main `/status` page should execute ALL subsystem checks and report the aggregated overall system status. It is up to the developers to decide how the overall system status is determined based on the subsystems. For example an `ERROR` state of some non-critical subsystem may only generate an overall `WARNING` status.
+The main `/healthz` page should at a minimum give an overall status of the system, as described in the next section. This means that the main `/healthz` page should execute ALL subsystem checks and report the aggregated overall system status. It is up to the developers to decide how the overall system status is determined based on the subsystems. For example an `ERROR` state of some non-critical subsystem may only generate an overall `WARNING` status.
 
-For performance reasons, some subsystem checks may be excluded from this overall `/status` page - for example, when the check causes higher resource usage, takes longer time to complete, etc. Overall, the main status page should be light enough so that it can be polled relatively often (every 1-3 minutes) and not cause too much load on the system. Subsystem checks that are excluded from the overall status check should have their own URLs, as shown above. Naturally, monitoring those would require modifications in the monitoring system configuration. To overcome this, a different approach can be taken: the application could perform the heavy subsystem checks in a background process at a rate that is acceptable and store the status internally. This would allow the main status page to reflect also these heavy checks (e.g. it would retrieve the last performed check status). This approach should be used, unless its implementation is too difficult.
+For performance reasons, some subsystem checks may be excluded from this overall `/healthz` page - for example, when the check causes higher resource usage, takes longer time to complete, etc. Overall, the main status page should be light enough so that it can be polled relatively often (every 1-3 minutes) and not cause too much load on the system. Subsystem checks that are excluded from the overall status check should have their own URLs, as shown above. Naturally, monitoring those would require modifications in the monitoring system configuration. To overcome this, a different approach can be taken: the application could perform the heavy subsystem checks in a background process at a rate that is acceptable and store the status internally. This would allow the main status page to reflect also these heavy checks (e.g. it would retrieve the last performed check status). This approach should be used, unless its implementation is too difficult.
 
 ## Status page format
 
@@ -101,7 +102,7 @@ elastic_search_status: OK
 elastic_search_shards: 20
 ```
 
-Subsystem checks that have their own URL (`/status/subsystemX`) should follow a similar format, having a mandatory key `status` and a number of optional additional keys. Example for e.g. `/status/database`:
+Subsystem checks that have their own URL (`/healthz/subsystemX`) should follow a similar format, having a mandatory key `status` and a number of optional additional keys. Example for e.g. `/healthz/database`:
 
 ```
 status: OK
@@ -152,7 +153,7 @@ Something failing:
 
 ```json
 {
-    "status": "ERROR Database is not accessible. See https://myapp.example.com/status for details.",
+    "status": "ERROR Database is not accessible. See https://myapp.example.com/healthz for details.",
     "database": {
         "status": "ERROR Connection failed",
         "connection_timeout": 30
@@ -171,9 +172,9 @@ Whenever the overall application status is OK, the HTTP status code in the statu
 
 Often the application is running behind a load balaner. Load balancers typically can monitor application servers by polling a given URL. The health check is used so that the load balancer can stop routing traffic to the failing application servers.
 
-The overall `/status` page is a good candidate for the load balancer health check URL. However, a separate dedicated status page for a load balancer health check provides an important benefit. Such a page can be fine-tuned for when the application is considered to be healthy from the load balancer's perspective. For example, an error in a subsystem may still be considered a critical error for the overall application status, but does not necessarily need to cause the application server to be removed from the load balancer pool. A good example is a 3rd party integration status check. The load balancer health check page should only return non-200 status code when the application instance must be considered non-operational.
+The overall `/healthz` page is a good candidate for the load balancer health check URL. However, a separate dedicated status page for a load balancer health check provides an important benefit. Such a page can be fine-tuned for when the application is considered to be healthy from the load balancer's perspective. For example, an error in a subsystem may still be considered a critical error for the overall application status, but does not necessarily need to cause the application server to be removed from the load balancer pool. A good example is a 3rd party integration status check. The load balancer health check page should only return non-200 status code when the application instance must be considered non-operational.
 
-The load balancer health check page should be placed at a `/status/health` URL. Depending on your load balancer, the format of that page may deviate from the overall status format described here. Some load balancers may even observe only the returned HTTP status code.
+The load balancer health check page should be placed at a `/status/healthz` URL. Depending on your load balancer, the format of that page may deviate from the overall status format described here. Some load balancers may even observe only the returned HTTP status code.
 
 ## Access control
 
