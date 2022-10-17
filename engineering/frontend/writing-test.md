@@ -294,4 +294,5 @@ Note: sometimes, it's required to have e2e tests by making requests against a re
 
 - [Tech ecosystem](tech-ecosystem.md)
 - [Code style](code-style.md)
+- [UI checklist](ui-checklist.md)
 - [Logging and monitoring](logging-monitoring.md)
