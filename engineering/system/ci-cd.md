@@ -48,6 +48,8 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 # Checklist
 
 ## CI
+A checklist of items to be considered while setting up the continuous integration which should cover unit tests, linting and build the codebase 
+
 - [ ] The pipeline covers test, build, packaging and push artifacts stage
 - [ ] CI environment is cleaned from starting
 - [ ] Pipeline is fast as possible
@@ -62,6 +64,8 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
 - [ ] The API target should be configured appropriately to reflect the current build environment. Avoiding pointing to different API version or environment.
 
 ## CD
+To ensure our code is always in a deployable state, even in the face of teams of thousands of developers making changes on a daily basis with correct version, and can be rollback
+
 - [ ] Make sure environment variables has been up-to-date after deploying
 - [ ] Use image tag in different environments:
     - develop use tag `develop`
@@ -69,3 +73,23 @@ At Dwarves Foundation, achieving an efficient deployment pipeline is done by fol
     - production use `specific semantic tag` e.g. v1.0.0
 - [ ] Make sure the deployment has been shipped to correct environment (production, staging, ...)
 - [ ] For development environment, the database has been setup auto migrate after deploying new version
+
+## Deployment Checklist
+To ensure the next release won't break current production by figuring out potential errors which is happening in development env (if any)
+
+### Check Last Stable Deployment
+- [ ] Was there a rollback previously?
+- [ ] Check ArgoCD for hash of commit → cross reference with github to see the tag
+
+### Check monitoring tools for nominal signals
+- [ ] Sentry - are new issues present in development environment since last release? Alarms?
+- [ ] Grafana - do dashboards all show normal utilisation rates?
+- [ ] Upptime - are there any alarms since the last release? If so, have they been addressed?
+- [ ] Loki - if manual review of logs is required.
+
+### Actions
+
+- [ ] Run smoke tests 
+
+### Post Deployment
+- [ ] Check all monitoring tools listed above for issues post deployment
