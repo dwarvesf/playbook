@@ -13,12 +13,13 @@ handover should be thoroughly planned and executed.
 Handover is not a task, and it is not instant. Handover is always a project. Therefore it should be planned and executed like a project. **Depend on the stage of project, the dedicated team should pick approriate checklists.**
 
 - Handover process should only take **maximum 2 weeks**.
-- Diagrams should be made using draw.io or gliffy.
+- Diagrams should be made using draw.io, [excalidraw](https://excalidraw.com/) or gliffy.
 - Documents should be written in markdown (.md) format and posted directly to source repo.
 
 ## Checklists
 
 #### Project handover
+This is the preparation stage when we specify all details of the project handover
 
 - [ ] Handover plan created and documented. (Resources to join handover process)
 - [ ] Time for handover allocated.
@@ -43,7 +44,9 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - [ ] **Technology stack** is documented in single place.
 
 #### Source Code handover
+A checklist of items to help new members who would be able to run / build the source code. Other than that, they also can understand and continue to develop the codebase
 
+- [ ] Update the README file with relevant information. E.g. steps to setup, how to run locally, etc.
 - [ ] Detailed diagrams created.
 - [ ] New team member has been able to **compile, run, test, deploy code to all involved systems.**
 - [ ] **Code walkthrough** done.
@@ -53,8 +56,9 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - [ ] Code review time is scheduled weekly.
 
 #### System handover
+A checklist of items (accounts & credentials) need to be transferred the ownership to client
 
-- [ ] All required access (root, etc) is given to systems.
+- [ ] All required access (root, 3rd party services, tools, etc.) is given to systems.
 - [ ] **Environments** are documented.
 - [ ] Software Licenses are documented.
 - [ ] Backups tested at least once.
@@ -65,10 +69,7 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - [ ] List of previous problems exist in searchable format.
 
 #### Handover completeness
-
-Used to verify if handover was successful. Go through this list after one week of finished handover to check if it was successful. If some points can't be
-marked, it means that handover is still in progress. Go through it once again after one more week. Always start
-with all boxes unchecked.
+Used to verify if handover was successful. Go through this list after one week of finished handover to check if it was successful. If some points can't be marked, it means that handover is still in progress. Go through it once again after one more week. Always start with all boxes unchecked.
 
 - [ ] All new members have had clear tasks for past week.
 - [ ] No question asked during last week about people/contacts/roles.
