@@ -101,3 +101,5 @@ For all of those recommendations, we created [nextjs-boilerplate](https://github
 
 - [Code style](code-style.md)
 - [Writting test](writing-test.md)
+- [UI checklist](ui-checklist.md)
+- [Logging and monitoring](logging-monitoring.md)

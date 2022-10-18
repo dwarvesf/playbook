@@ -55,3 +55,4 @@ Based on analytic data, we can identify which page needs to be improved to decre
 - [Tech ecosystem](tech-ecosystem.md)
 - [Code style](code-style.md)
 - [Writting test](writing-test.md)
+- [UI checklist](ui-checklist.md)
