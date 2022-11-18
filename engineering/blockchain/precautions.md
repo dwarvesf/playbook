@@ -272,7 +272,7 @@ There are two main disadvantages to this approach:
 
 1. Users must always look up the current address, and anyone who fails to do so risks using an old
    version of the contract
-1. You will need to think carefully about how to deal with the contract data when you replace the
+2. You will need to think carefully about how to deal with the contract data when you replace the
    contract
 
 The alternate approach is to have a contract forward calls and data to the latest version of the

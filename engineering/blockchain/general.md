@@ -609,5 +609,7 @@ function internalAction() internal {
 }
 ```
 
-See [SWC-100](https://swcregistry.io/docs/SWC-100) and
-[SWC-108](https://swcregistry.io/docs/SWC-108)
+### See 
+
+- [SWC-100](https://swcregistry.io/docs/SWC-100) and
+- [SWC-108](https://swcregistry.io/docs/SWC-108)

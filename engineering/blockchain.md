@@ -15,7 +15,6 @@
 - [Development environment setup in README.md]
   - [Hardhat]
   - [Anchor]
-  - []
 - [Blockchain data]
   - [General considerations]
   - [Introduction to Distributed Storage]
@@ -89,14 +88,14 @@ So before understanding how Merkle trees work, we need to understand how hash fu
 
 ## Blockchain Basics
 
-  - [Learn the basics of Distributed Ledger Technology](https://developer.ibm.com/tutorials/cl-blockchain-basics-intro-bluemix-trs/)
+- [Learn the basics of Distributed Ledger Technology](https://developer.ibm.com/tutorials/cl-blockchain-basics-intro-bluemix-trs/)
   A distributed ledger is a type of database that is shared, replicated, and synchronized among the members of a decentralized network. The distributed ledger records the transactions, such as the exchange of assets or data, among the participants in the network.
 
 ### Ethereum blockchain
-  - [Elliptic Curve Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
-  #### [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/#top)
-  - [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-  - [Practical Byzantine Fault Tolerance](https://blockonomi.com/practical-byzantine-fault-tolerance/)
+- [Elliptic Curve Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
+#### [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/#top)
+- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+- [Practical Byzantine Fault Tolerance](https://blockonomi.com/practical-byzantine-fault-tolerance/)
 
 ### Development environment setup
 - Single command deployment
@@ -129,21 +128,27 @@ npx hardhat --max-memory 4096 compile
 If you find yourself using this all the time, you can set it with an environment variable in your .bashrc: export HARDHAT_MAX_MEMORY=4096.
 
 #### [Anchor language]
+
 - Using anchor framework to develop smart contracts on Solana network
 - Anchor is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
 ##### High-level Overview
+
 An Anchor program consists of three parts. The program module, the Accounts structs which are marked with #[derive(Accounts)], and the declare_id macro. The program module is where you write your business logic. The Accounts structs is where you validate accounts. Thedeclare_id macro creates an ID field that stores the address of your program. Anchor uses this hardcoded ID for security checks and it also allows other crates to access your program's address.
 ##### The Accounts Struct
+
 The Accounts struct is where you define which accounts your instruction expects and which constraints these accounts should adhere to. You do this via two constructs: Types and constraints.
 Bạn nên cân nhắc kĩ những gì sẽ được lưu trong account để đảm bảo chi phí và dữ liệu được lưu đầy đủ. Account có giới hạn về kích thước bộ nhớ nên sẽ không thể lưu vô hạn
 ##### The Program Module
+
 - Your source code should be split down into small modules and linked together appropriately.
 - Context is the first parameter passed to the function, through the context can access the list of accounts, program id, remaining accounts.
 - Instruction data: As a parameter passed to the function after the context, it will be decoded into types according to the definition. You should use appropriate data types to save processing throughput and cost.
 - Errors: You need to define all the errors that the program will return as explicitly as possible. Also for system or network error codes you need to return enough. Anchor Internal Errors are different internal error codes.
 
 ## Blockchain data
+
   - General considerations
+
 ### Introduction to Distributed Storage
 ### Persistence solutions
 #### IPFS
@@ -168,11 +173,13 @@ Pick SWARM when you want faster loading speed and Swarm has a very strong anti-c
   - Randomness is non-trivial on blockchain, most approaches to random number generation are gameable on a blockchain.
 
 ## Blockchain RPC
-  - EVM RPC
-  - Solana RPC
-  - IPC RPC
+
+- EVM RPC
+- Solana RPC
+- IPC RPC
   - NEAR RPC
 ## WEB3
+
   - EtherJS
   - Web3JS
   - Provider
