@@ -1,12 +1,12 @@
 When launching a contract that will have substantial funds or is required to be mission critical, it is important to include proper documentation.
 
-## contact
+## Contact
 
 - Who to contact with issues
 - Names of programmers and/or other important parties
 - Chat room where questions can be asked
 
-## history
+## History
 
 - Testing (including usage stats, discovered bugs, length of testing)
 - People who have reviewed code (and their key feedback)
