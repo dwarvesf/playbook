@@ -21,7 +21,7 @@ We continuously evaluate new technologies using our tech radar. They are classif
 
 #### Tools
 
-- Basecamp: Project management and team communication software by 37signal.
+- Basecamp: Project management and team communication software by 37signals.
 - Gitlab: Git is like a time machine. We have our self-host source version control.
 - VSCode & Vim: Our popular editor of choice to be productive. There are a few members who prefer to use emacs, but our point is always the right tool for the right job.
 - Sketch & Figma: A primary design tool for UI Design and collaboration between the development team.
