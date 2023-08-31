@@ -31,3 +31,17 @@ Staging is set up precisely like production. No changes to the production enviro
 The big iron. Logged, monitored, cleaned up periodically, squared away and secured.
 
 This set helps developers to come up with the best technical solutions and resolve issues quickly, and users will only ever notice a new release by the product's increased awesomeness.
+
+
+## Environment variables
+- All environment must have exact list of variables
+- Your code should support load env variable from both `.env` file or from the `process`
+- In local development we use `.env` file to store all required environment variable. 
+- In production we use platform secret manager to set environment variables
+- **Do not** commit your `.env` file or hard-coded secret variables. We must set up the `.gitignore` file in our project.
+- Variant of `.env` file can be
+  - `.env.example` can commit source code store default public variables, all private or secret values must not include in this file
+  - `.env.local` or `.env.development` - indicate that this store values for local environment
+  - `.env.test` - indicate that this store values for test environment
+  - `.env.staging` - indicate that this store values for staging environment
+  - `.env.production` - indicate that this store values for test environment
