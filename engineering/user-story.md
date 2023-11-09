@@ -24,7 +24,7 @@ Example:
 
 ## What else does User Story have?
 
-![](https://image.slidesharecdn.com/userstoriesinagilesoftwaredevelopment-131015124656-phpapp01/95/user-stories-in-agile-software-development-12-638.jpg?cb=1381841429)
+![[6513e3c6180031dc47efb8c4a0d05fcf_MD5.webp]]
 
 Sometimes the User Story will also include the design/wireframe for the screen and other extra information and will be logged as an item in the backlog (Like Trello card, Gitlab issue,...)
 

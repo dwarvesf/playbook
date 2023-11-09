@@ -1,3 +1,16 @@
+---
+tags:
+  - dwarves
+  - work
+title: UX
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 ## UX Research Framework
 
 ### 1. Gather Data
@@ -20,13 +33,13 @@ In order to create successful products as a designer, it’s crucial to discover
 
 There is no better way to recognize the problems and pain points of the target audience than simply by talking to them. The result of the interview should answer these questions:
 
-* What are the different lifestyles of potential product users? 
+* What are the different lifestyles of potential product users?
 * What motivates people to behave in certain ways?
 * Which user/s should I focus on?
 * What jargon do people use to talk about a domain?
 * What is the user’s workflow?
 * Is there a need for the product/feature?
-* What are the right requirements for the product? 
+* What are the right requirements for the product?
 
 #### Competitor Analysis
 
@@ -45,7 +58,7 @@ Now we’ve gathered the data we need, it’s time to make sense of it. Here, we
 
 #### Problems valuation
 
-Look back over collected data and identify the problems we managed to draw from interviews. 
+Look back over collected data and identify the problems we managed to draw from interviews.
 * Not really
 * Important
 * Crucial
@@ -76,7 +89,7 @@ User stories are short, simple descriptions of a feature told from the perspecti
 
 User journey mapping visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view.
 
-* **Context**: What is going on in users’ day when they engage with our product? Are they in a rush? Worried? Planning an adventure? 
+* **Context**: What is going on in users’ day when they engage with our product? Are they in a rush? Worried? Planning an adventure?
 * **Motivation**: What drives a user to interact with our product? What are they hoping to get out of it? Why are they using our product instead of a competitor’s - or nothing at all?
 * **Mental Models**: How does user conceive of the problem space that our product addresses? What concepts and connections come naturally to them, and what do they need to be taught?
 * **Pain Points**: What are the challenges users are facing? Is our product helping them solve these or aggravating them? Are there any obstacles they have to use our product?
@@ -93,5 +106,4 @@ For each user flow, the questions you need to consider are:
 * What additional information will the user need to accomplish the task?
 * What are the user’s hesitations or barriers to accomplishing the task?
 
-![alt text](https://cdn.dribbble.com/users/331539/screenshots/3511356/uxflow_dribbble.png "User Flow")
-
+![[3d7c3626f0c1880f74be8d46181f9e1b_MD5.webp|"User Flow"]]

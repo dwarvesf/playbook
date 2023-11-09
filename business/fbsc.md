@@ -1,3 +1,16 @@
+---
+tags:
+  - dwarves
+  - work
+title: fbsc
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 ## Budget
 
 We do need to know clients' budgets. This is often uncomfortable for them but their budget helps determines what scope is possible. It saves time. If they don't know their budget, we discuss different options.

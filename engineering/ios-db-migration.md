@@ -11,7 +11,7 @@ Database migration is one of the most important aspects of software development 
 
 There are many database frameworks out there (Realm, Couchbase, or YapDatabase). But we want to stick to Apple's eco-system so Core Data is our only choice here. And Core Data is also a very powerful tool, as it gives us an inferred migration mechanism for free. You can choose any underlying persistent store type, such as SQLite, Atomic (binary store) or In-Memory for using with Core Data. It's up to you, as long as you think it's suitable for the application.
 
-## When NOT 
+## When NOT
 
 There are some cases in which you can avoid a migration. If an app is using Core Data merely as an offline cache, when you update the app, you can simply delete and rebuild the data store. This is only possible if the source of truth for your user’s data isn’t in the data store. In all other cases, you’ll need to safeguard your user’s data.
 
@@ -37,7 +37,7 @@ Core Data will follow this migration process:
 
 4. Throw exception if it cannot perform the migration.
 
-### Problem 
+### Problem
 
 These automatic migrations are performed as one-step migrations; directly from the source to destination model. So if we support 4 model versions, mapping models would exist for 1 to 4, 2 to 4 and 3 to 4. While this is the most efficient migration approach from a device performance point-of-view, it can actually be quite wasteful from a development point-of-view. For example if we added a new model version (5) we would need to create 4 new mapping models from 1 to 5, 2 to 5, 3 to 5 and 4 to 5 which as you can see doesn't reuse any of the mapping models for migrating to version 4. With a one-step migration approach, each newly added model version requires n-1 mapping models (where n is the number of supported model versions) to be created.
 
@@ -63,7 +63,7 @@ These questions will be answered with the help of 4 separate types:
 
 These types will come together in the following class structure:
 
-![progresive migration](/engineering/img/progressive-migration.png)
+![progresive migration](progressive-migration.webp)
 
 Directory structure:
 
@@ -94,19 +94,19 @@ Each `CoreDataMigrationVersion` instance will represent a Core Data model versio
 enum CoreDataMigrationVersion: String, CaseIterable {
     case version1 = "CoreDataMigration_Example"
     case version2 = "CoreDataMigration_Example 2"
-    
+
     // MARK: - Current
-    
+
     static var current: CoreDataMigrationVersion {
         guard let latest = allCases.last else {
             fatalError("no model versions found")
         }
-        
+
         return latest
     }
-    
+
     // MARK: - Migration
-    
+
     func nextVersion() -> CoreDataMigrationVersion? {
         switch self {
         case .version1:
@@ -210,55 +210,55 @@ Now that we have that protocol lets look at how CoreDataMigrator implements thos
 
 ```Swift
 class CoreDataMigrator: CoreDataMigratorProtocol {
-    
+
     // MARK: - Check
-    
+
     func requiresMigration(at storeURL: URL, toVersion version: CoreDataMigrationVersion) -> Bool {
         guard let metadata = NSPersistentStoreCoordinator.metadata(at: storeURL) else {
             return false
         }
-        
+
         return (CoreDataMigrationVersion.compatibleVersionForStoreMetadata(metadata) != version)
     }
-    
+
     // MARK: - Migration
-    
+
     func migrateStore(at storeURL: URL, toVersion version: CoreDataMigrationVersion) {
         forceWALCheckpointingForStore(at: storeURL)
-        
+
         var currentURL = storeURL
         let migrationSteps = self.migrationStepsForStore(at: storeURL, toVersion: version)
-        
+
         for migrationStep in migrationSteps {
             let manager = NSMigrationManager(sourceModel: migrationStep.sourceModel, destinationModel: migrationStep.destinationModel)
             let destinationURL = URL(fileURLWithPath: NSTemporaryDirectory(), isDirectory: true).appendingPathComponent(UUID().uuidString)
-            
+
             do {
                 try manager.migrateStore(from: currentURL, sourceType: NSSQLiteStoreType, options: nil, with: migrationStep.mappingModel, toDestinationURL: destinationURL, destinationType: NSSQLiteStoreType, destinationOptions: nil)
             } catch let error {
                 fatalError("failed attempting to migrate from \(migrationStep.sourceModel) to \(migrationStep.destinationModel), error: \(error)")
             }
-            
+
             if currentURL != storeURL {
                 //Destroy intermediate step's store
                 NSPersistentStoreCoordinator.destroyStore(at: currentURL)
             }
-            
+
             currentURL = destinationURL
         }
-        
+
         NSPersistentStoreCoordinator.replaceStore(at: storeURL, withStoreAt: currentURL)
-        
+
         if (currentURL != storeURL) {
             NSPersistentStoreCoordinator.destroyStore(at: currentURL)
         }
     }
-    
+
     private func migrationStepsForStore(at storeURL: URL, toVersion destinationVersion: CoreDataMigrationVersion) -> [CoreDataMigrationStep] {
         guard let metadata = NSPersistentStoreCoordinator.metadata(at: storeURL), let sourceVersion = CoreDataMigrationVersion.compatibleVersionForStoreMetadata(metadata) else {
             fatalError("unknown store version at URL \(storeURL)")
         }
-        
+
         return migrationSteps(fromSourceVersion: sourceVersion, toDestinationVersion: destinationVersion)
     }
 
@@ -275,17 +275,17 @@ class CoreDataMigrator: CoreDataMigratorProtocol {
 
         return migrationSteps
     }
-    
+
     // MARK: - WAL
 
     func forceWALCheckpointingForStore(at storeURL: URL) {
         guard let metadata = NSPersistentStoreCoordinator.metadata(at: storeURL), let currentModel = NSManagedObjectModel.compatibleModelForStoreMetadata(metadata) else {
             return
         }
-        
+
         do {
             let persistentStoreCoordinator = NSPersistentStoreCoordinator(managedObjectModel: currentModel)
-            
+
             let options = [NSSQLitePragmasOption: ["journal_mode": "DELETE"]]
             let store = persistentStoreCoordinator.addPersistentStore(at: storeURL, options: options)
             try persistentStoreCoordinator.remove(store)
@@ -296,16 +296,16 @@ class CoreDataMigrator: CoreDataMigratorProtocol {
 }
 
 private extension CoreDataMigrationVersion {
-    
+
     // MARK: - Compatible
-    
+
     static func compatibleVersionForStoreMetadata(_ metadata: [String : Any]) -> CoreDataMigrationVersion? {
         let compatibleVersion = CoreDataMigrationVersion.allCases.first {
             let model = NSManagedObjectModel.managedObjectModel(forResource: $0.rawValue)
-            
+
             return model.isConfiguration(withName: nil, compatibleWithStoreMetadata: metadata)
         }
-        
+
         return compatibleVersion
     }
 }

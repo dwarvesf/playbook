@@ -8,7 +8,7 @@ You can read more about the philosophy of the 12-factor app https://12factor.net
 
 > One codebase tracked in revision control, many deploys
 
-**A twelve-factor app is always tracked in a version control system.** We use [git](git.md) to track any changes in the code of a repo. 
+**A twelve-factor app is always tracked in a version control system.** We use [git](git.md) to track any changes in the code of a repo.
 
 There is only one codebase per app, but there will be many deploys of the app. We usually have one deploy for the following environment: local, development, staging and production.
 
@@ -57,7 +57,7 @@ We use environment variables to configure backing services (database for example
 
 You must strictly separate the Build (binary), Release (binary and + env config) and Run (exec runtime) stages. Our instances are immutable so we can't make change upstream (ex: it is impossible to make changes to the code at runtime since there is no way to propagate those changes back to the build stage.)
 
-[We separate the environment into five](/engineering/environment.md), and which of them are isolated with each other. 
+[We separate the environment into five](./environment.md), and which of them are isolated with each other.
 
 - We take advantage of Docker and Kubernetes for this factor. For golang code, we use the binary from **build** stage in docker image for **release** stage.
 
@@ -120,6 +120,6 @@ The event stream for an app can be routed to a file, or watched via realtime tai
 
 It's not an admin dashboard. An admin process is a way to interact with your app process to do one-off administrative or maintenance tasks for the app.
 
-Twelve-factor strongly favors languages which provide a REPL shell out of the box, and which make it easy to run one-off scripts. 
-- In a local deploy, developers invoke one-off admin processes by a direct shell command inside the app’s checkout directory. 
+Twelve-factor strongly favors languages which provide a REPL shell out of the box, and which make it easy to run one-off scripts.
+- In a local deploy, developers invoke one-off admin processes by a direct shell command inside the app’s checkout directory.
 - In a production deploy, developers can use ssh or other remote command execution mechanism provided by that deploy’s execution environment to run such a process.

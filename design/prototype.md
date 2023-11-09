@@ -1,3 +1,16 @@
+---
+tags:
+  - dwarves
+  - work
+title: prototype
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 ## Low-fidelity prototype: UI Design
 
 ### Research
@@ -62,7 +75,7 @@ Design some demo screens and send to the client to verify style, color palette, 
 
 Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible. This is the heart and primary value of design systems. A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
-![alt text](https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_800,f_auto,q_auto/v1498084743/UXPin1_jkrrmb.png "Design System")
+![[playbook/design/assets/prototype/d56a8496bb80c42b7c2b89d718b1da48_MD5.avif|"Design System"]]
 
 #### How we build Design System
 
@@ -83,13 +96,13 @@ Using Milanote app to create a moodboard. Read more about how to make a moodboar
 * Step 2: Identity primary and secondary colors
 * Step 3: Send the color palette to customer
 * Step 4: Decide on the naming convention
-There are different approaches to naming colors in a design system. You can name colors using abstract names (e.g. #b9b9b9 - pigeon), actual names (e.g. #b9b9b9 - silver), numbers (e.g. #b9b9b9 - silver-1) or functional names (e.g. #b9b9b9 - silver-base)
+There are different approaches to naming colors in a design system. You can name colors using abstract names (e.g. \#b9b9b9 - pigeon), actual names (e.g. \#b9b9b9 - silver), numbers (e.g. \#b9b9b9 - silver-1) or functional names (e.g. \#b9b9b9 - silver-base)
 
 * Step 5: Decide on the system of building accent palette colors
 * Step 6: Test the color palette against the colors in the inventory
 * Step 7: Implement new color palette in CSS (consider using a preprocessor and build a list of variables) on a test server
 * Step 8: Test how the new palette affects the interface
-* Step 9: Check the contrast between colors in the new UI. Make sure you comply with WCAG guidelines. 
+* Step 9: Check the contrast between colors in the new UI. Make sure you comply with WCAG guidelines.
 Use the Contrast Ratio web app for quick access to WCAG color contrast ratios. You can read more the rules of contrast color to create “Contrast pairs” which clearly shows a WCAG tests.
 
 * Step 10: Finalize the color palette

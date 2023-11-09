@@ -75,4 +75,4 @@ If you ask a developer to explain a piece of code that you don't understand, tha
 
 Encourage developers to simplify code or add code comments instead of just explaining the complexity to you
 
-![](/engineering/img/code-review-hierarchy.png)
+![](code-review-hierarchy.webp)

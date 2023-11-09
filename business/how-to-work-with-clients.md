@@ -1,5 +1,18 @@
+---
+tags:
+  - dwarves
+  - work
+title: how-to-work-with-clients
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 # TRAINING COURSE: HOW TO WORK WITH CLIENT
- 
+
 What skills that an engineer should have in order to work with client effectively?
 
 1. Strong technical skills: includes
@@ -9,7 +22,7 @@ What skills that an engineer should have in order to work with client effectivel
 2. Attention to details
 
 3. Communication skills: good English skills (both written and verbal)
--> require somewhere Intermediate - Upper Intermediate level 
+-> require somewhere Intermediate - Upper Intermediate level
 
 4. Problem solving and logical thinking
 
@@ -19,19 +32,18 @@ What skills that an engineer should have in order to work with client effectivel
 
 7. Project Management
 
-8. Consistency in delivering work result 
+8. Consistency in delivering work result
 
 What are the issues that our engineers currently facing when working with clients?
 
-1. Verbal and written English 
+1. Verbal and written English
 
 2. Attention to details: many times not able to deliver clean works
 
 3. Work planning
 
-4. Consistency in delivering work result 
+4. Consistency in delivering work result
 
-5. Teamwork (i.e: Dong Nguyen case when working with Ukraine team, could not synchronize with the rest of the FE team very well, mostly due to not being able to communicate very well) 
+5. Teamwork (i.e: Dong Nguyen case when working with Ukraine team, could not synchronize with the rest of the FE team very well, mostly due to not being able to communicate very well)
 
-6. Lack in EQ 
-
+6. Lack in EQ

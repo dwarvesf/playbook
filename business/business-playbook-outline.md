@@ -1,11 +1,24 @@
-# BUSINESS PLAYBOOK 
+---
+tags:
+  - dwarves
+  - work
+title: business-playbook-outline
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
+# BUSINESS PLAYBOOK
 
 Table of Contents
 
 1. Introduction
 
-* Who we are 
-* The Team 
+* Who we are
+* The Team
   * Team chart
   * Team members
 * Portfolio
@@ -21,8 +34,8 @@ Table of Contents
 
 5. Process workflows
 
-* Sales Partnership process 
+* Sales Partnership process
 * Commission model/tier
-* Payment timeline 
+* Payment timeline
 
 6. FAQ
