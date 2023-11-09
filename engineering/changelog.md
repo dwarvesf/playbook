@@ -6,18 +6,18 @@ Remember the last time you read over the changelog of your favorite app and foun
 > - Some bugs fixed
 >
 > or
-> 
+>
 > - Fix bugs and improve UI/UX
 
 They are awkward, and the same thing happens for our end users. As a user, we care about what's news in the software that we use every day. The changelog is for humans, not machines. The changelog is a channel for us to communicate with our users. When you do a software project, big or small, it is a good idea to write a useful changelog.
 
-Look at the release notes of those apps or the changelog of Go programming language: https://tip.golang.org/doc/go1.12. 
+Look at the release notes of those apps or the changelog of Go programming language: https://tip.golang.org/doc/go1.12.
 
 They are not the standard but should capture what we want to deliver.
 
-![](/engineering/img/changelog-sample.png)
+![](img/changelog-sample.webp)
 
-![](/engineering/img/changelog-go.png)
+![](img/changelog-go.webp)
 
 #### What makes a good change log?
 
@@ -34,14 +34,14 @@ They are not the standard but should capture what we want to deliver.
 
 ## The template
 
-> **1.0.1** 
-> 
+> **1.0.1**
+>
 > 2018-12-28
 >
 > #### Added
-> - 
-> - 
-> 
+> -
+> -
+>
 > #### Removed
 > -
 > -

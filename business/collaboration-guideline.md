@@ -1,3 +1,16 @@
+---
+tags:
+  - dwarves
+  - work
+title: collaboration-guideline
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 # Collaboration Guideline
 
 Guidelines for project collaboration between DF and Clients.
@@ -36,7 +49,7 @@ Meeting notes for Sprint planning and Sprint retrospective will be sent within 3
 
 * Design team should at least provide:
 - Color palette (all that are used throughout the UI)
-- Heading / Font size should be defined by scale 
+- Heading / Font size should be defined by scale
 - Base components (.eg headings, button variants and states,…)
 * New design version is expected to be available and reviewed **by development team** before the Sprint started
 

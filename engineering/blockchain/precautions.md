@@ -226,7 +226,7 @@ It's also critical to have a secure way for parties to decide to upgrade the cod
 your contract, code changes may need to be approved by a single trusted party, a group of members,
 or a vote of the full set of stakeholders. If this process can take some time, you will want to
 consider if there are other ways to react more quickly in case of an attack, such as an
-[emergency stop or circuit-breaker](./circuit-breakers.md).
+emergency stop or circuit-breaker.
 
 Regardless of your approach, it is important to have some way to upgrade your contracts, or they
 will become unusable when the inevitable bugs are discovered in them.

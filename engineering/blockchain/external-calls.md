@@ -40,8 +40,7 @@ Whether using *raw calls* (of the form `someAddress.call()`) or *contract calls*
 `ExternalContract` is not malicious, malicious code can be executed by any contracts *it* calls.
 
 One particular danger is malicious code may hijack the control flow, leading to vulnerabilities due
-to reentrancy. (See [Reentrancy](../../attacks/reentrancy.md) for a fuller discussion of this
-problem).
+to reentrancy.
 
 If you are making a call to an untrusted external contract, *avoid state changes after the call*.
 This pattern is also sometimes known as the
@@ -54,7 +53,7 @@ ______________________________________________________________________
 #### Don't use `transfer()` or `send()`.
 
 `.transfer()` and `.send()` forward exactly 2,300 gas to the recipient. The goal of this hardcoded
-gas stipend was to prevent [reentrancy vulnerabilities](../../attacks/reentrancy.md), but this only
+gas stipend was to prevent, but this only
 makes sense under the assumption that gas costs are constant. Recently
 [EIP 1884](https://eips.ethereum.org/EIPS/eip-1884) was included in the Istanbul hard fork. One of
 the changes included in EIP 1884 is an increase to the gas cost of the `SLOAD` operation, causing a
@@ -124,7 +123,7 @@ External calls can fail accidentally or deliberately. To minimize the damage cau
 failures, it is often better to isolate each external call into its own transaction that can be
 initiated by the recipient of the call. This is especially relevant for payments, where it is
 better to let users withdraw funds rather than push funds to them automatically. (This also reduces
-the chance of [problems with the gas limit](../../attacks/denial-of-service.md).) Avoid
+the chance of problems with gas limits.) Avoid
 combining multiple ether transfers in a single transaction.
 
 ```sol

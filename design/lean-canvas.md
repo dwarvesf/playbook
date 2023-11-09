@@ -1,3 +1,16 @@
+---
+tags:
+  - dwarves
+  - work
+title: lean-canvas
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 ## Lean Canvas
 Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
 
@@ -35,7 +48,7 @@ It usually combines:
 **“We help (who?) achieve (what benefit?) by doing (the special and unique way the new business/new product is doing it)”.**
 
 ### 4. Solution
-* Define what are solutions to consumers’ problems? 
+* Define what are solutions to consumers’ problems?
 * Present the defining elements of the product: what makes it the top tool for addressing consumers’ needs?
 
 ### 5. Channels
@@ -45,7 +58,7 @@ How will we interact with consumers, inform them of the product? Print ads, soci
 How will you generate income? Present a pricing model for the product, and then highlight other sources of revenue—ad sales, subscription fees, or asset sales.
 
 ### 7. Cost Structure
-What will it cost to launch and maintain the product? 
+What will it cost to launch and maintain the product?
 
 * Development
 * Marketing

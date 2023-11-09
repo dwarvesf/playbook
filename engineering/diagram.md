@@ -6,22 +6,22 @@ We have talked about [SDLC](https://dwarves.foundation/memo/software-development
 - Wrongly defined tech stacks
 - The wrong approach, develop practices
 
-There is one secret sauce of a successful project: **Artifacts**. 
-- Which artifacts should be produced? 
+There is one secret sauce of a successful project: **Artifacts**.
+- Which artifacts should be produced?
 - Which tool should we use at Dwarves?
 - Where should we store those diagrams?
 
 Having the answer for those question give us the ability to solve at least three mentioned constraints. Avoid reinventing the wheel by following these practice which we apply here in Dwarves.
 
 ## Artifacts
-- [BPMN](#bpmn) 
+- [BPMN](#bpmn)
 - [Product Roadmap](#product-roadmap)
 - [User Journey Mapping](#user-journey-mapping)
 - [State Machine](#state-machine)
 - [Sequence Diagram](#sequence-diagram)
-- [Stack Component Diagram](#stack-component-diagram) 
+- [Stack Component Diagram](#stack-component-diagram)
 - [Entity Relation Diagram](#erd)
-- [Data Flow](#data-flow) 
+- [Data Flow](#data-flow)
 
 ## Well-Alignment a.k.a Reusability
 - [Project Drive](#project-drive)
@@ -33,27 +33,27 @@ Having the answer for those question give us the ability to solve at least three
 
 ### Product Roadmap
 In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
-> “What do we want in the matter of time?” 
+> “What do we want in the matter of time?”
 
 Answer this question by determining the feasibility of the project and how we can implement the project successfully with the lowest risk in mind.
 
-Take a look at this **Product Roadmap** 
-![Product Roadmap](/engineering/img/product-roadmap.png)
+Take a look at this **Product Roadmap**
+![Product Roadmap](img/product-roadmap.webp)
 It contains main elements:
 - Timeline
 - Milestone
-- Deliverables 
+- Deliverables
 
 Product Manager usually produce this artifact after discussion with Product Owners. This artifact will change periodically. We will review this one after each milestone to make sure the project is still on track.
 Product Roadmap, Milestone is the goal for every developed features of a succesfull project.
 
-Consider using [Whimsical](https://whimsical.com/) if you are used to drawing tool. 
+Consider using [Whimsical](https://whimsical.com/) if you are used to drawing tool.
 
 ### User Journey Mapping
 User journey mapping visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view.
 Note the emotional state of users at each step of their journey.
 
-This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow. 
+This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow.
 
 
 ```mermaid
@@ -70,7 +70,7 @@ journey
 
 Start with `journey` and the title. Each user journey is split into sections, these describe the part of the task the user is trying to complete.
 
-``` 
+```
 journey
     title My working day
     section Go to work
@@ -82,9 +82,9 @@ journey
       Sit down: 5: Me
 ```
 
-Tasks syntax is 
+Tasks syntax is
 
-``` 
+```
 Task name: <score>: <comma separated list of actors>
 ```
 
@@ -117,7 +117,7 @@ stateDiagram-v2
 
 Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. Or just simply sketch on paper and take a picture of it.
 
-![Whimsical](/engineering/img/state-machine-1.png)
+![Whimsical](img/state-machine-1.webp)
 
 ### Sequence Diagram
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
@@ -175,7 +175,7 @@ erDiagram
         PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
-The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationship and identification.
+The [syntax](https://mm.daf.ug/) mostly focus on Entities, relationship and identification.
 
 ```
 <first-entity> <relationship> <second-entity> : <relationship-label>
@@ -194,7 +194,7 @@ For the above diagram
         PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
-<!-- 
+<!--
 ### **Data Flow**
 ### **Stack Component Diagram**
  -->
@@ -202,7 +202,7 @@ For the above diagram
 ### Project Drive
 Each project will have its own GDrive folder located on Company GDrive.
 All the project artifact should be export to PNG/JPG/PDF/SVG... and save to corresponding folder within project gdrive.
-You can find your project gdrive follow this pattern. 
+You can find your project gdrive follow this pattern.
 > Dwarves Foundation/Works/[Project Name]
 
 Usually we will Link the Project Gdrive into Docs & File within Basecamp project. You could find the link to the gdrive from there.
@@ -212,12 +212,12 @@ Think about this situation:
 
 > We’ve got the elements of a solution now, and we’ve de-risked our concept to the point that we’re confident it’s a good option to give a team. But the concept is still in our heads or in some hard-to-decipher drawings on the whiteboard or our notebook. Now we need to put the concept into a form that other people will be able to understand, digest, and respond to.
 
-This is where we say “Okay, this is ready to write up as a pitch.” 
-We post [pitches](https://basecamp.com/shapeup/1.5-chapter-06_) as Messages in Basecamp. 
+This is where we say “Okay, this is ready to write up as a pitch.”
+We post [pitches](https://basecamp.com/shapeup/1.5-chapter-06_) as Messages in Basecamp.
 Message Board is the central place for all discussion about project artifacts. In Message board, we can create a Message Category called Pitch/FYI... so we can easily find them later on.
 
 ### What is Mermaid
-We use [Mermaid](https://mm.daf.ug/) to quickly define the diagram during project development lifecycle. 
+We use [Mermaid](https://mm.daf.ug/) to quickly define the diagram during project development lifecycle.
 Mermaid is a markdown-based diagram render. Right now we support the following charts/diagrams:
 
 - Flow chart
@@ -230,6 +230,6 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 
 ### VSCode Plugin
 
-![VScode Plugin](/engineering/img/mermaid-plugins.png)
+![VScode Plugin](img/mermaid-plugins.webp)
 
-Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic. 
+Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.

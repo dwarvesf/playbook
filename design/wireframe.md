@@ -1,3 +1,16 @@
+---
+tags:
+  - dwarves
+  - work
+title: wireframe
+date: 2023-10-16
+description:
+authors: []
+menu:
+toc: false
+notice:
+type: playbook
+---
 ## Wireframe: Workflow Design
 
 Created on scraps of paper, a whiteboard, or in a software program, serve to establish relationships between elements in a project such as navigation, imagery, and calls to action.
@@ -12,7 +25,7 @@ Often, a wireframe has 3 core goals:
 * Balsamiq
 * Whimsical
 
-![alt text](https://blog.balsamiq.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-22-at-4.32.23-PM.png "Wireframe by Balsamiq")
+![Wireframe by Balsamiq](assets/wireframe/3c6ce1f34b539d7de9da020608c19f8a_MD5.webp)
 
 ## Information Architecture
 
@@ -22,13 +35,13 @@ Information architecture (IA) is, like a blueprint, a visual representation of t
 
 * Sitemap
 
-![alt text](https://www.everyinteraction.com/wp-content/uploads/2017/05/sitemap-definition-example.gif "Sitemap")
+![[playbook/design/assets/wireframe/203ab5b0117c8ecbeb2cf2db4b549d51_MD5.gif|"Sitemap"]]
 * Card Sorting
 
-![alt text](https://cdn.dribbble.com/users/901462/screenshots/3024399/card_sorting.png "Card Sorting")
+![Card Sorting](assets/wireframe/1f61968fcb92a401380478e6df78410a_MD5.webp)
 * State machine
 
-![alt text](https://docs.litium.com/MediaBinaryLoader.axd?MediaArchive_FileID=82ff276c-5200-40bf-a636-dd5725dc93a3&FileName=Order+states.png "State machine")
+![State Machie](assets/wireframe/a58d97e8735e49f087898dd95725b929_MD5.webp)
 
 ### Tools
 

@@ -13,7 +13,7 @@ Happy coding.
 
 ---
 
-Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum. 
+Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum.
 
 ## Agile
 
@@ -25,9 +25,9 @@ In software development, things can be different. A group of people believes tha
 
 Agile visionaries believed that teamwork is essential to delivering exceptional software and that great agile teams embody "we" rather than "I." Once the team is in place, it's important to remember that agile teams are like individuals: they take time to grow.
 
-The way we see it is a collaboration between a team of multiple people with the right skillset, sufficient knowledge on the domain and clear understanding of the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level. 
+The way we see it is a collaboration between a team of multiple people with the right skillset, sufficient knowledge on the domain and clear understanding of the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level.
 
-![](/engineering/img/agile-team.png)
+![](img/agile-team.webp)
 
 Keeping agile teams intact takes some organizational discipline, but it pays to protect the team–within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
 
@@ -35,14 +35,14 @@ There are two other pillars of great agile teams: **continuous mentoring** and *
 
 ## Scrum
 
-Scrum is an Agile framework that teaches us how to work together under Agile name. There are no specific roles in the team at the beginning. 
+Scrum is an Agile framework that teaches us how to work together under Agile name. There are no specific roles in the team at the beginning.
 
-- There is only the **team member** who has autonomy and responsibility to meet the goals of the sprint. 
+- There is only the **team member** who has autonomy and responsibility to meet the goals of the sprint.
 - And there is the **Scrum master** who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn't need a permanent coach.
 
 Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve. Three pillars to make Scrum successful are Inspection, Transparency, Adaptation in the **feedback loop**.
 
-![](/engineering/img/sprint_cycle-c.png)
+![](img/sprint_cycle-c.webp)
 
 There are
 

@@ -21,7 +21,7 @@ Just remember to not mess up with the end users. Our responsibility is to keep t
 **Changelog**
 
 - [ ] Changelog was included in the new build.
-- [ ] Changelog was [useful](/engineering/changelog.md).
+- [ ] Changelog was [useful](./changelog.md).
 - [ ] Known issues and problems was specified.
 
 **Dependencies**

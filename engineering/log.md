@@ -2,9 +2,9 @@
 
 Logs are for auditing. There is a well-defined process for accessing and searching through logs. For every project that we worked with, a single server or multiple services, we always bring on our log stack to track what happens in the system.
 
-We store the system log centralized and grant permission for each project member. We divide the log category into `System` and `Business`; with different levels for quick access. 
+We store the system log centralized and grant permission for each project member. We divide the log category into `System` and `Business`; with different levels for quick access.
 
-They are: 
+They are:
 
 - `Debug`: log message for debugging or in development mode.
 - `Info`: for every computation that we make in the system.
@@ -19,9 +19,9 @@ Where appropriate, logging includes exceptions and stack traces. The log message
 
 The Internal service error
 ```js
-{ 
-    time="2020-09-29T18:40:00+07:00", 
-    level="fatal", 
+{
+    time="2020-09-29T18:40:00+07:00",
+    level="fatal",
     env="local",
     service="example-be"
 }
@@ -34,18 +34,18 @@ Trace: unable to connect postgres
 
 The Error from 3rd-party service
 ```js
-{ 
-    time="2020-09-29T18:47:44+07:00", 
-    level="error", 
-    env="local", 
-    ip="::1", 
-    method="POST", 
-    path="/orders", 
-    service="example-be", 
-    traceId="BBk56KzbYdF7Uha2CJ5h", 
-    userAgent="insomnia/2020.4.1", 
-    statusCode="500" 
-} 
+{
+    time="2020-09-29T18:47:44+07:00",
+    level="error",
+    env="local",
+    ip="::1",
+    method="POST",
+    path="/orders",
+    service="example-be",
+    traceId="BBk56KzbYdF7Uha2CJ5h",
+    userAgent="insomnia/2020.4.1",
+    statusCode="500"
+}
 
 Internal Server Error
 - at pkg/handler/order.go:34 (Handler.CreateOrder)
@@ -63,7 +63,7 @@ We use GLP stack as a remote logging service.
 - Grafana Loki: multi-tenant log aggregation system. It indexes only metadata and doesn't index the content of the log.
 - Grafana: the visualization tool which consumes data from Loki data sources
 
-![](/engineering/img/log/glp.png)
+![](img/log/glp.webp)
 
 ## Remote Error Tracking Service
 

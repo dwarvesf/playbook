@@ -15,20 +15,20 @@ NDA, agreements and all kinds of paperwork between parties will be put there. Yo
 
 ### Repository
 
-The codebase is usually in Github or our Gitlab. We have a specific guide for repo setup at [repository-setup.md](/engineering/setup-repository.md).
+The codebase is usually in Github or our Gitlab. We have a specific guide for repo setup at [repository-setup.md](./setup-repository.md).
 
 A few clients who have an in-house tech team might prefer using their git system. In those cases, we need to set up a symlink to pull out and daily back up the source code to our Gitlab.
 
 ### Communication Channel
 The communication channel is transparent for clients, the development team and our team.
 
-- If clients have their own communication tool, we ask them to invite team@dwarvesv.com and project members (including Account Manager) to join the channel.  
+- If clients have their own communication tool, we ask them to invite team@dwarvesv.com and project members (including Account Manager) to join the channel.
 - If clients have their own Slack, we would create a shared channel between the 2 workplaces for business communication purpose.
-- None of above, we mainly use Basecamp as our main communication channel.  
+- None of above, we mainly use Basecamp as our main communication channel.
 
 ### Workflow
 
-The project workflow includes 
+The project workflow includes
 
 - How we **communicate** internal and with the client
 - How we **schedule** the meetings and milestone delivery
@@ -53,7 +53,7 @@ For example, we are working with #dental-marketplace team, there should be integ
 
 ### Release
 
-There's a few checklist item to follow at [release.md](/engineering/release.md). In short
+There's a few checklist item to follow at [release.md](./release.md). In short
 
 - Release should contain a changelog.
 - Things are well-tested and known issues are specified.

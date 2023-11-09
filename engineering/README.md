@@ -8,7 +8,7 @@ The performance and survival of a large number of organizations now depend on th
 - [Craftsmanship](#the-craftsmanship)
 - [Minifesto](#minifesto)
 
-![](/engineering/img/software.png)
+![](img/software.webp)
 
 ## **Engineering Drive**
 
