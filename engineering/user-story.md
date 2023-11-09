@@ -24,7 +24,7 @@ Example:
 
 ## What else does User Story have?
 
-![[6513e3c6180031dc47efb8c4a0d05fcf_MD5.webp]]
+![](assets/user-story/6513e3c6180031dc47efb8c4a0d05fcf_MD5.webp)
 
 Sometimes the User Story will also include the design/wireframe for the screen and other extra information and will be logged as an item in the backlog (Like Trello card, Gitlab issue,...)
 

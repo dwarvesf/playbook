@@ -15,7 +15,7 @@ type: playbook
 We use the AARRR framework to measure and optimize every phase of a product by optimizing it through the insane focus on one metric at a time.
 
 ### What is AARRR framework?
-![[4627424c84844c9c19fc46da18c48077_MD5.webp]]
+![](assets/aarrr/4627424c84844c9c19fc46da18c48077_MD5.webp)
 
 The AARRR framework consists of five phases a customer goes through in order to achieve growth and each phase has its own set of metrics to focus on. AARRR stands for Acquisition, Activation, Retention, Referral, and Revenue. Each of these can be tracked to see how well a product is doing and how stable its growth is in the long run.
 

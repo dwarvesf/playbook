@@ -106,4 +106,4 @@ For each user flow, the questions you need to consider are:
 * What additional information will the user need to accomplish the task?
 * What are the user’s hesitations or barriers to accomplishing the task?
 
-![[3d7c3626f0c1880f74be8d46181f9e1b_MD5.webp|"User Flow"]]
+![User Flow](assets/UX/3d7c3626f0c1880f74be8d46181f9e1b_MD5.webp)

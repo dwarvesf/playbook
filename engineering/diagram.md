@@ -38,7 +38,7 @@ In SDLC after the requirement analysis phase complete, we need a plan, a map to 
 Answer this question by determining the feasibility of the project and how we can implement the project successfully with the lowest risk in mind.
 
 Take a look at this **Product Roadmap**
-![Product Roadmap](product-roadmap.webp)
+![Product Roadmap](img/product-roadmap.webp)
 It contains main elements:
 - Timeline
 - Milestone
@@ -117,7 +117,7 @@ stateDiagram-v2
 
 Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. Or just simply sketch on paper and take a picture of it.
 
-![Whimsical](state-machine-1.webp)
+![Whimsical](img/state-machine-1.webp)
 
 ### Sequence Diagram
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
@@ -230,6 +230,6 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 
 ### VSCode Plugin
 
-![VScode Plugin](mermaid-plugins.webp)
+![VScode Plugin](img/mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.

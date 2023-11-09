@@ -25,7 +25,7 @@ Often, a wireframe has 3 core goals:
 * Balsamiq
 * Whimsical
 
-![[3c6ce1f34b539d7de9da020608c19f8a_MD5.webp|"Wireframe by Balsamiq"]]
+![Wireframe by Balsamiq](assets/wireframe/3c6ce1f34b539d7de9da020608c19f8a_MD5.webp)
 
 ## Information Architecture
 
@@ -38,10 +38,10 @@ Information architecture (IA) is, like a blueprint, a visual representation of t
 ![[playbook/design/assets/wireframe/203ab5b0117c8ecbeb2cf2db4b549d51_MD5.gif|"Sitemap"]]
 * Card Sorting
 
-![[1f61968fcb92a401380478e6df78410a_MD5.webp|"Card Sorting"]]
+![Card Sorting](assets/wireframe/1f61968fcb92a401380478e6df78410a_MD5.webp)
 * State machine
 
-![[a58d97e8735e49f087898dd95725b929_MD5.webp|"State machine"]]
+![State Machie](assets/wireframe/a58d97e8735e49f087898dd95725b929_MD5.webp)
 
 ### Tools
 

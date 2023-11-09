@@ -27,7 +27,7 @@ Agile visionaries believed that teamwork is essential to delivering exceptional 
 
 The way we see it is a collaboration between a team of multiple people with the right skillset, sufficient knowledge on the domain and clear understanding of the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level.
 
-![](agile-team.webp)
+![](img/agile-team.webp)
 
 Keeping agile teams intact takes some organizational discipline, but it pays to protect the team–within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
 
@@ -42,7 +42,7 @@ Scrum is an Agile framework that teaches us how to work together under Agile nam
 
 Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve. Three pillars to make Scrum successful are Inspection, Transparency, Adaptation in the **feedback loop**.
 
-![](sprint_cycle-c.webp)
+![](img/sprint_cycle-c.webp)
 
 There are
 

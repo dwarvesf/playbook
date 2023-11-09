@@ -63,7 +63,7 @@ These questions will be answered with the help of 4 separate types:
 
 These types will come together in the following class structure:
 
-![progresive migration](progressive-migration.webp)
+![progresive migration](img/progressive-migration.webp)
 
 Directory structure:
 

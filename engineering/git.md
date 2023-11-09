@@ -164,7 +164,7 @@ git commit --amend
 >
 > Ref: https://www.atlassian.com/git/tutorials/using-branches/git-merge
 
-![[c7faf053506c6c85b0d5fc06e49f2f7c_MD5.webp]]
+![](assets/git/c7faf053506c6c85b0d5fc06e49f2f7c_MD5.webp)
 
 Usage
 
