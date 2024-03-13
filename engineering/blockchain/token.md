@@ -1,5 +1,5 @@
-## Frontrunning
 
+## Frontrunning
 The EIP-20 token's `approve()` function creates the potential for an approved spender to spend more
 than the intended amount. A
 front running attack can be

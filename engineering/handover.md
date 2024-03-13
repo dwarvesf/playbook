@@ -1,10 +1,8 @@
 # Handover
-
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a
 handover should be thoroughly planned and executed.
 
 ## Why?
-
 * Reduce handover time.
 * Make clear for everyone how handover will affect schedules/communication/budget.
 * Reduce risks of post-handover work.
@@ -17,7 +15,6 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - Documents should be written in markdown (.md) format and posted directly to source repo.
 
 ## Checklists
-
 #### Project handover
 This is the preparation stage when we specify all details of the project handover
 

@@ -1,7 +1,5 @@
 # Development Security Checklist 
-
 ##### TRANSMITING INFORMATION
-
 - [ ] Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).
 - [ ] Don't accept passwords or session tokens over HTTP.
 - [ ] Use HTTPS for all web traffic.
@@ -11,23 +9,17 @@
   traffic.
 - [ ] Use secure cookies.
 - [ ] Avoid protocol-relative URLs.
-
 ##### STORING INFORMATION
-
 - [ ] Never store secrets (passwords, keys, etc.) in the sources in version control.
 - [ ] Don't log passwords.
 - [ ] Don't store passwords in plain text.
 - [ ] Don't hash passwords using a reversible cipher.
 - [ ] Don't hash passwords using a broken cipher, such as MD5 or SHA1.
-
 ##### LOGGING
-
 - [ ] For applications handling sensitive data, it's good to maintain audit logging—storing a sequence of actions/events that took place in the system, together with the event/source originator.
 - [ ] Data should be anonymized as much as possible. Avoid logging personally identifiable information, for example user’s name.
 - [ ] If you must log sensitive information try hashing before logging so you can identify the same entity between different parts of the processing.
-
 ##### DOCKER
-
 **Using Docker will not make your service more secure.** Generally, you should consider at least following things if using Docker:
 
 - [ ] Don't run any untrusted binaries inside Docker containers
@@ -35,10 +27,7 @@
 - [ ] Periodically rebuild and redeploy your containers with updated libraries and dependencies
 - [ ] Periodically update (or rebuild) your Docker hosts with latest security updates
 - [ ] Multiple containers running on same host will by default have some level of access to other containers and the host itself. Properly secure all hosts, and run containers with a minimum set of capabilities, for example preventing network access if they don't need it.
-
-
 ##### AUTHENTICATION SYSTEMS (Signup/Signin/2 Factor/Password reset) 
-
 - [ ] Use HTTPS everywhere. Never send credentials unencrypted over public network.
 - [ ] Store password hashes using `Bcrypt` (no salt necessary - `Bcrypt` does it for you).
 - [ ] Destroy the session identifier after `logout`.  
@@ -53,8 +42,6 @@
 - [ ] Check for randomness of reset password token in the emailed link or SMS.
 - [ ] Set an expiration on the reset password token for a reasonable period.
 - [ ] Expire the reset token after it has been successfully used.
-
-
 ##### USER DATA & AUTHORIZATION
 - [ ] Any resource access like, `my cart`, `my history` should check the logged in user's ownership of the resource using session id.
 - [ ] Serially iterable resource id should be avoided. Use `/me/orders` instead of `/user/37153/orders`. This acts as a sanity check in case you forgot to check for authorization token. 
@@ -63,8 +50,6 @@
 - [ ] `Profile photo upload` feature should sanitize all the `EXIF` tags also if not required.
 - [ ] For user ids and other ids, use [RFC compliant ](http://www.ietf.org/rfc/rfc4122.txt) `UUID` instead of integers. You can find an implementation for this for your language on Github.
 - [ ] JWT are awesome. Use them if required for your single page app/APIs.
-
-
 ##### SANITIZATION OF INPUT
 - [ ] `Sanitize` all user inputs or any input parameters exposed to user to prevent [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting).
 - [ ] Always use parameterized queries to prevent [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection).  
@@ -73,8 +58,6 @@
 - [ ] Do not hand code or build JSON by string concatenation ever, no matter how small the object is. Use your language defined libraries or framework.
 - [ ] Sanitize inputs that take some sort of URLs to prevent [SSRF](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit#heading=h.t4tsk5ixehdd).
 - [ ] Sanitize Outputs before displaying to users.
-
-
 ##### ANDROID / IOS APP
 - [ ] `salt` from payment gateways should not be hardcoded.
 - [ ] `secret` / `auth token` from 3rd party SDK's should not be hardcoded.
@@ -82,8 +65,6 @@
 - [ ] In Android, all the granted  [permissions](https://developer.android.com/guide/topics/security/permissions.html) should be carefully evaluated.
 - [ ] On iOS, store sensitive information (authentication tokens, API keys, etc.) in the system keychain. Do __not__ store this kind of information in the user defaults.
 - [ ] [Certificate pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) is highly recommended.
-
-
 ##### SECURITY HEADERS & CONFIGURATIONS
 - [ ] `Add` [CSP](https://en.wikipedia.org/wiki/Content_Security_Policy) header to mitigate XSS and data injection attacks. This is important.
 - [ ] `Add` [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery) header to prevent cross site request forgery. Also add [SameSite](https://tools.ietf.org/html/draft-ietf-httpbis-cookie-same-site-00) attributes on cookies.
@@ -95,8 +76,6 @@
 - [ ] Add [subresource integrity checks](https://en.wikipedia.org/wiki/Subresource_Integrity) if loading your JavaScript libraries from a third party CDN. For extra security, add the [require-sri-for](https://w3c.github.io/webappsec-subresource-integrity/#parse-require-sri-for) CSP-directive so you don't load resources that don't have an SRI sat.  
 - [ ] Use random CSRF tokens and expose business logic APIs as HTTP POST requests. Do not expose CSRF tokens over HTTP for example in an initial request upgrade phase.
 - [ ] Do not use critical data or tokens in GET request parameters. Exposure of server logs or a machine/stack processing them would expose user data in turn.  
-
-
 ##### OPERATIONS
 - [ ] If you are small and inexperienced, evaluate using AWS elasticbeanstalk or a PaaS to run your code.
 - [ ] Use a decent provisioning script to create VMs in the cloud.

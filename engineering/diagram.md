@@ -1,5 +1,4 @@
 # Diagram and Project Document Structure
-
 We have talked about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
 
 - Unclear/misleading project requirements
@@ -54,7 +53,6 @@ User journey mapping visualizes how a user interacts with a product and allows d
 Note the emotional state of users at each step of their journey.
 
 This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow.
-
 
 ```mermaid
 journey
@@ -195,7 +193,9 @@ For the above diagram
 ```
 
 <!--
+
 ### **Data Flow**
+
 ### **Stack Component Diagram**
  -->
 
@@ -229,7 +229,6 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 - ER Diagram
 
 ### VSCode Plugin
-
 ![VScode Plugin](img/mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.

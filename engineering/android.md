@@ -1,9 +1,7 @@
 # Best practices in Android development
-
 Avoid reinventing the wheel by following these guidelines.
 
 ## Summary
-
 - [Use Gradle and its default project structure](#build-system)
 - [Put passwords and sensitive data in gradle.properties](#gradle-configuration)
 - [Use the Jackson library to parse JSON data](#libraries)
@@ -25,23 +23,19 @@ Avoid reinventing the wheel by following these guidelines.
 - [Use continuous integration](#use-continuous-integration)
 
 ### Android SDK
-
 Place your [Android SDK](https://developer.android.com/sdk/installing/index.html?pkg=tools) somewhere in your home directory or some other application-independent location. Some distributions of IDEs include the SDK when installed, and may place it under the same directory as the IDE. This can be bad when you need to upgrade (or reinstall) the IDE, as you may lose your SDK installation, forcing a long and tedious redownload.
 
 Also avoid putting the SDK in a system-level directory that might need root permissions, to avoid permissions issues.
 
 ### Build system
-
 Your default option should be [Gradle](https://gradle.org) using the [Android Gradle plugin](https://developer.android.com/studio/build/index.html). 
 
 It is important that your application's build process is defined by your Gradle files, rather than being reliant on IDE specific configurations. This allows for consistent builds between tools and better support for continuous integration systems.
 
 ### Project structure
-
 Although Gradle offers a large degree of flexibility in your project structure, unless you have a compelling reason to do otherwise, you should accept its [default structure](https://developer.android.com/studio/build/index.html#sourcesets) as this simplify your build scripts. 
 
 ### Gradle configuration
-
 **General structure.** Follow [Google's guide on Gradle for Android](https://developer.android.com/studio/build/index.html).
 
 **minSdkVersion: 21** We recommend to have a look at the [Android version usage chart](https://developer.android.com/about/dashboards/index.html#Platform) before defining the minimum API required. Remember that the statistics given are global statistics and may differ when targeting a specific regional/demographic market. It is worth mentioning that some material design features are only available on Android 5.0 (API level 21) and above. And also, from API 21, the multidex support library is not needed anymore.
@@ -127,13 +121,11 @@ Sharing the debug APK keystore file via the app repository saves time when testi
 Sharing the code style and formatting definitions via the app repository helps ensure a visually consistent code base and makes code comprehension and reviews easier.
 
 ### Android Studio as your main IDE
-
 The recommended IDE for Android development is [Android Studio](https://developer.android.com/sdk/installing/studio.html) because it is developed and constantly updated by Google, has good support for Gradle, contains a range of useful monitoring and analysis tools and is fully tailored for Android development.
 
 Avoid adding Android Studio's specific configuration files, such as `.iml` files to the version control system as these often contain configurations specific of your local machine, which won't work for your colleagues.
 
 ### Libraries
-
 **[Jackson](http://wiki.fasterxml.com/JacksonHome)** is a Java library for JSON serialization and deserialization, it has a wide-scoped and versatile API, supporting various ways of processing JSON: streaming, in-memory tree model, and traditional JSON-POJO data binding. 
 
 [Gson](https://code.google.com/p/google-gson/) is another popular choice and being a smaller library than Jackson, you might prefer it to avoid 65k methods limitation. Also, if you are using  
@@ -166,7 +158,6 @@ Note that from Android Studio 3.0, [Retrolambda is no longer required](https://d
 **Beware of the dex method limitation, and avoid using many libraries.** Android apps, when packaged as a dex file, have a hard limitation of 65536 referenced methods [[1]](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71) [[2]](http://blog.persistent.info/2014/05/per-package-method-counts-for-androids.html) [[3]](http://jakewharton.com/play-services-is-a-monolith/). You will see a fatal error on compilation if you pass the limit. For that reason, use a minimal amount of libraries, and use the [dex-method-counts](https://github.com/mihaip/dex-method-counts) tool to determine which set of libraries can be used in order to stay under the limit. Especially avoid using the Guava library, since it contains over 13k methods.
 
 ### Activities and Fragments
-
 There is no consensus among the community how to best organize Android architectures with Fragments and Activities. Square even has [a library for building architectures mostly with Views](https://github.com/square/mortar), bypassing the need for Fragments, but this still is not considered a widely recommendable practice in the community.
 
 Because of Android API's history, you can loosely consider Fragments as UI pieces of a screen. In other words, Fragments are normally related to UI. Activities can be loosely considered to be controllers, they are especially important for their lifecycle and for managing state. However, you are likely to see variation in these roles: activities might take UI roles ([delivering transitions between screens](https://developer.android.com/about/versions/lollipop.html)), and [fragments might be used solely as controllers](http://developer.android.com/guide/components/fragments.html#AddingWithoutUI). We suggest you sail carefully, making informed decisions since there are drawbacks for choosing a fragments-only architecture, or activities-only, or views-only. Here is some advice on what to be careful with, but take them with a grain of salt:
@@ -175,7 +166,6 @@ Because of Android API's history, you can loosely consider Fragments as UI piece
 - Avoid putting too much code in Activities. Whenever possible, keep them as lightweight containers, existing in your application primarily for the lifecycle and other important Android-interfacing APIs. Prefer single-fragment activities instead of plain activities - put UI code into the activity's fragment. This makes it reusable in case you need to change it to reside in a tabbed layout, or in a multi-fragment tablet screen. Avoid having an activity without a corresponding fragment, unless you are making an informed decision.
 
 ### Java packages structure
-
 We recommend using a *feature based* package structure for your code. This has the following benefits:
 
 - Clearer feature dependency and interface boundaries.
@@ -189,7 +179,6 @@ We recommend using a *feature based* package structure for your code. This has t
 The alternative approach of defining your packages by *how* a feature is built (by placing related Activities, Fragments, Adapters etc in separate packages) can lead to a fragmented code base with less implementation flexibility. Most importantly, it hinders your ability to comprehend your code base in terms of its primary role: to provide features for your app.   
 
 ### Resources
-
 **Naming.** Follow the convention of prefixing the type, as in `type_foo_bar.xml`. Examples: `fragment_contact_details.xml`, `view_primary_button.xml`, `activity_main.xml`.
 
 **Organizing layout XMLs.** If you're unsure how to format a layout XML, the following convention may help.
@@ -414,9 +403,7 @@ Therefore, try to keep your views hierarchy as flat as possible: learn how to us
 <a name="webviews"></a>
 **Beware of problems related to WebViews.** When you must display a web page, for instance for a news article, avoid doing client-side processing to clean the HTML, rather ask for a "*pure*" HTML from the backend programmers. [WebViews can also leak memory](http://stackoverflow.com/questions/3130654/memory-leak-in-webview) when they keep a reference to their Activity, instead of being bound to the ApplicationContext. Avoid using a WebView for simple texts or buttons, prefer the platform's widgets.
 
-
 ### Test Frameworks
-
 **Use [JUnit](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html) for unit testing** Plain, Android dependency-free unit testing on the JVM is best done using [Junit](https://junit.org). 
 
 **Avoid [Robolectric](http://robolectric.org/)** Prior to the improved support for JUnit in the Android build system, Robolectric was promoted as a test framework seeking to provide tests "disconnected from device" for the sake of development speed. However, testing under Robolectric is inaccurate and incomplete as it works by providing mock implementations of the Android platform, which provides no guarantees of correctness. Instead, use a combination of JVM based unit tests and dedicated on-device integration tests.
@@ -435,11 +422,9 @@ assertThat(layout).isVisible()
 ```
 
 ### Emulators
-
 The performance of the Android SDK emulator, particularly the x86 variant, has improvement markedly in recent years and is now adequate for most day-to-day development scenarios. However, you should not discount the value of ensuring your application behaves correctly on real devices. Of course, testing on all possible devices is not practical, so rather focus your efforts on devices with a large market share and those most relevant to your app.
 
 ### Proguard configuration
-
 [ProGuard](http://proguard.sourceforge.net/) is normally used on Android projects to shrink and obfuscate the packaged code.
 
 Whether you are using ProGuard or not depends on your project configuration. Usually you would configure Gradle to use ProGuard when building a release APK.
@@ -488,10 +473,7 @@ Read more at [Proguard](https://www.guardsquare.com/en/proguard/manual/examples)
 **DexGuard**. If you need hard-core tools for optimizing, and specially obfuscating release code, consider [DexGuard](http://www.saikoa.com/dexguard), a commercial software made by the same team that built ProGuard. It can also easily split Dex files to solve the 65k methods limitation.
 
 ### Data storage
-
-
 #### SharedPreferences
-
 If you only need to persist simple values and your application runs in a single process SharedPreferences is probably enough for you. It is a good default option. 
 
 There are some situations where SharedPreferences are not suitable:
@@ -503,7 +485,6 @@ There are some situations where SharedPreferences are not suitable:
 You can also store more complex objects by serializing them to JSON to store them and deserializing them when retrieving. You should consider the tradeoffs when doing this as it may not be particularly performant, nor maintainable.
 
 #### ContentProviders
-
 In case SharedPreferences are not enough, you should use the platform standard ContentProviders, which are fast and process safe.
 
 The single problem with ContentProviders is the amount of boilerplate code that is needed to set them up, as well as low quality tutorials. It is possible, however, to generate the ContentProvider by using a library such as [Schematic](https://github.com/SimonVT/schematic), which significantly reduces the effort.
@@ -511,21 +492,17 @@ The single problem with ContentProviders is the amount of boilerplate code that 
 You still need to write some parsing code yourself to read the data objects from the Sqlite columns and vice versa. It is possible to serialize the data objects, for instance with Gson, and only persist the resulting string. In this way you lose in performance but on the other hand you do not need to declare a column for all the fields of the data class.
 
 #### Using an ORM
-
 We generally do not recommend using an Object-Relation Mapping library unless you have unusually complex data and you have a dire need. They tend to be complex and require time to learn. If you decide to go with an ORM you should pay attention to whether or not it is _process safe_ if your application requires it, as many of the existing ORM solutions surprisingly are not.
 
 ### Use Stetho 
-
 [Stetho](http://facebook.github.io/stetho/) is a debug bridge for Android applications from Facebook that integrates with the Chrome desktop browser's Developer Tools. With Stetho you can easily inspect your application, most notably the network traffic. It also allows you to easily inspect and edit SQLite databases and the shared preferences in your app. You should, however, make sure that Stetho is only enabled in the debug build and not in the release build variant. 
 
 Another alternative is [Chuck](https://github.com/jgilfelt/chuck) which, although offering slightly more simplified functionality, is still useful for testers as the logs are displayed on the device, rather than in the more complicated connected Chrome browser setup that Stetho requires.
 
 ### Use LeakCanary
-
 [LeakCanary](https://github.com/square/leakcanary) is a library that makes runtime detection and identification of memory leaks a more routine part of your application development process. See the library [wiki](https://github.com/square/leakcanary/wiki) for details on configuration and usage. Just remember to configure only the "no-op" dependency in your release build!
 
 ### Use continuous integration
-
 Continuous integration systems let you automatically build and test your project every time you push updates to version control. Continuous integration also runs static code analysis tools, generates the APK files and distributes them.
 [Lint](https://developer.android.com/studio/write/lint.html) and [Checkstyle](http://checkstyle.sourceforge.net/) are tools that ensure the code quality while [Findbugs](http://findbugs.sourceforge.net/) looks for bugs in the code.
    
@@ -533,5 +510,4 @@ There is a wide variety of continuous integration software which provide differe
 [Gitlab CI](https://about.gitlab.com/product/continuous-integration/) or [Jenkins](https://jenkins.io/) is a good option if you have a local server at your disposal, on the other hand [Travis CI](https://travis-ci.org/) is also a recommended choice if you plan to use a cloud-based continuous integration service.
 
 ### Acknowledgements
-
 Thanks to [Futurice](https://github.com/futurice/android-best-practices). We hard forked and made a revised version based on their guideline.

@@ -7,12 +7,10 @@ date: 2023-10-16
 description:
 authors: []
 menu:
-toc: false
-notice:
 type: playbook
 ---
-## Budget
 
+## Budget
 We do need to know clients' budgets. This is often uncomfortable for them but their budget helps determines what scope is possible. It saves time. If they don't know their budget, we discuss different options.
 
 We talk about breaking product rollout into stages and try to improve the product's chances of success at each stage by:
@@ -24,7 +22,6 @@ We talk about breaking product rollout into stages and try to improve the produc
 - Designing interactions into the product for users to bring other users to the product.
 
 ## No Fixed Bids
-
 Some consulting relationships start with a requirements document or RFP ("Request For Proposal"). The requirements are often extremely detailed.
 
 The probability of this document containing the optimum feature set is extremely low. The right features are better learned through user interviews, prototyping, releasing actual software, and getting feedback from real users.

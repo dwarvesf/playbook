@@ -1,9 +1,7 @@
 # QA best practises
-
 This is a summary of best practices our QA engineers at Dwarves use and recommends to be used. It is not supposed to be a detailed description and sometimes cannot fully be used for all tasks but as an overview of the most important QA processes and a list of good practices that should be used.
 
 ## QA practices
-
 Everyone in Dwarves has QA responsibilities, even if there is a named QA manager or QA specialists. To us, QA means three things.
 
 1.  The service runs as expected and is considered to be created with good practices.
@@ -18,32 +16,26 @@ On high level QA work and practices can be divided into two processes.
 Furthermore there are other QA actions.
 
 #### Test-Driven Development
-
 We use TDD and ATDD (Acceptance Test Driven Development) methods when applicable.
 
 Method forces the implementation to follow architecture and consider modules that are used. Implementation starts by writing the automated test first and then implementing the functionality to pass the test.
 
 #### Pair programming
-
 We use Pair programming method when applicable. This is a very convenient way to share knowledge and experience about the project and software under development.
 
 #### Code review
-
 Reviewing the code helps other team members to get information on certain functionality and gives a possibility to give feedback to the responsible person and also ensures knowledge sharing between team members.
 
 #### Manual functional testing
-
 Manual testing is mostly done using Exploratory testing methodology and found errors are either fixed right away or prioritised and recorded to task/story/error management tool. Exploring the app or service can be started right after something functional is “ready”.
 
 Exploratory testing is a very powerful tool in e2e testing where the whole system is covered by testing. In the method tester goes beyond what can be defined in a test case, applies user-like thinking as well as tries to break the system by various error scenarios and is never “done” with testing.
 
 #### Error management
-
 Issues found are recorded to a specific tool or board with a information like priority, environment (software and device information), steps to reproduce, expected result, time and date and a screenshot.
 Tool like BaseCamp actively used also for error tracking.
 
 ## QA in Sprints (Definition of Done)
-
 One of the principles of agile is that the master code branch should always be potentially shippable. That means it should be always production quality. This is achieved by the following means:
 
 1.  Each user story (or feature) is developed individually in their own feature branch. The purpose of this is to ensure that each update to master branch is at the same time 1) as small as possible and 2) potentially shippable, complete story.
@@ -51,7 +43,6 @@ One of the principles of agile is that the master code branch should always be p
 2.  Before the feature branch can be merged to the master branch, it must pass a list of actions, requirements and practices called Definition of Done (DoD). This is defined together with the customer PO and the development team and can be modified during project should project needs change.
 
 ### DoD example for a project
-
 - Manual regression test case (usually UI test cases) have been updated for the smoke / sanity checks (Test manager)
 - Automated unit test cases have been written (Developer)
 - Feature development is completed. Acceptance criteria of the story have been fulfilled (Developer)

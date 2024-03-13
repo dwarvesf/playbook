@@ -1,7 +1,6 @@
 # Defect Report template
 
 ### Summary
-
 A summary of the bug should be no more than 60 words. A good summary should be able to answer the three following questions:
 
 - **What?** – What has happened with the application?
@@ -9,11 +8,9 @@ A summary of the bug should be no more than 60 words. A good summary should be a
 - **Where?** – Where exactly in the app did we find the bug? What is the webpage and/or server (environment)?
 
 ### Description
-
 A clear and concise description should contain following sections:
 
 #### Reproduction steps
-
 Clearly mention the steps to reproduce the bug. For example:
 
 1. Go to '...'
@@ -22,19 +19,15 @@ Clearly mention the steps to reproduce the bug. For example:
 4. Observed result.
 
 #### Expected result
-
 How the application should behave during the above steps.
 
 #### Actual result
-
 What is the actual result when running the above steps (the bug behavior).
 
 #### Screenshots/Video
-
 If applicable, add screenshots/video to help explain your problem. Remember to mark the area in the application thats impacted.
 
 ### Platform/Environment
-
 You may need to write specifications such as the version of the project, the operating system, or the hardware if applicable.
 
 **Desktop (please complete the following information):**
@@ -53,13 +46,11 @@ You may need to write specifications such as the version of the project, the ope
 - Version [e.g. 22]
 
 ### Logs / Stack trace
-
 ```
 Insert your log/stack trace here
 ```
 
 ### Priority
-
 The order in which a defect should be fixed. Higher the priority the sooner the defect should be resolved.
 
 - Low: The Defect is an irritant but repair can be done once the more serious Defect has been fixed
@@ -67,7 +58,6 @@ The order in which a defect should be fixed. Higher the priority the sooner the 
 - High: The defect must be resolved as soon as possible as it affects the system severely and cannot be used until it is fixed
 
 ### Severity
-
 The measure of impact a defect (or bug) can have on the development or functioning of an application feature when it is being used. There are four types of severity:
 
 - Critical: This defect indicates complete shut-down of the process, nothing can proceed further
@@ -78,7 +68,6 @@ The measure of impact a defect (or bug) can have on the development or functioni
 ---
 
 ### Some bonus tips to write a good bug report
-
 **Report the problem immediately**
 
 If you find any bugs while testing, then you do not need to wait to write a detailed bug report later.

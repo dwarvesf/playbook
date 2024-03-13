@@ -1,5 +1,4 @@
 # UI Checklist
-
 Frontend engineering is not just about producing high quality code but also attentive design. Whether you work on a design or transform a design to code, make sure the below checklist is done before you ship.
 
 - Is relative spacing to UI elements as base unit of 4?
@@ -18,7 +17,6 @@ Frontend engineering is not just about producing high quality code but also atte
 - Does your icon choice communicate effectively?
 
 ## Read on:
-
 - [Tech ecosystem](tech-ecosystem.md)
 - [Code style](code-style.md)
 - [Writting test](writing-test.md)

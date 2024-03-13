@@ -1,5 +1,4 @@
 # Dwarves Design Playbook
-
 Dwarves Design is a young and small design studio, founded in 2018. 
 
 We provide design service which helps young entrepreneurs to visualize their innovative ideas. By applying Design Thinking, we focus on research, define problems, design and test products, which help to reduce cost and time.
@@ -12,7 +11,6 @@ We will walk you through the process we choose, how we deal with problems day-by
 Have fun and work smart.
 
 ## Design process
-
 At Dwarves Design, we currently apply and revise day by day the simple process as stated below with three big stages
 - Kick-off project
 - Exploration phase

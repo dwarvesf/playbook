@@ -1,5 +1,4 @@
 # Database migration in iOS development
-
 Database migration is one of the most important aspects of software development in general and of iOS development in specific. If we do not handle it correctly, it would cause some bad user experiences, such as data loss, app crashing, etc. And finally, lead to the bad reputation for the company. So, we **MUST** handle it correctly. And this post is a lighthouse which lead you to the right path.
 
 ## Summary
@@ -8,15 +7,12 @@ Database migration is one of the most important aspects of software development 
 - [We follow the **Progressive migration** method to model the migration steps.](#progressive-migration)
 
 ## The tool
-
 There are many database frameworks out there (Realm, Couchbase, or YapDatabase). But we want to stick to Apple's eco-system so Core Data is our only choice here. And Core Data is also a very powerful tool, as it gives us an inferred migration mechanism for free. You can choose any underlying persistent store type, such as SQLite, Atomic (binary store) or In-Memory for using with Core Data. It's up to you, as long as you think it's suitable for the application.
 
 ## When NOT
-
 There are some cases in which you can avoid a migration. If an app is using Core Data merely as an offline cache, when you update the app, you can simply delete and rebuild the data store. This is only possible if the source of truth for your user’s data isn’t in the data store. In all other cases, you’ll need to safeguard your user’s data.
 
 ## Techniques
-
 Migrations in Core Data can be handled using one of two techniques:
 
 - [Lightweight Migration](#lightweight-migration) - when Core Data can automatically infer how the migration should happen and creates the mapping model on the fly.
@@ -24,7 +20,6 @@ Migrations in Core Data can be handled using one of two techniques:
 - [Standard Migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmMappingOverview.html###//apple_ref/doc/uid/TP40004399-CH5-SW1) - when Core Data cannot infer how the migration should happen and so we must write a custom migration by providing a mapping model (`xcmappingmodel`) and/or a migration policy (`NSEntityMigrationPolicy`).
 
 ## The default migration process
-
 By default, Core Data will attempt to perform a migration automatically when it detects a mismatch between the model used in the persistent store and the bundle's current model. When this happens, Core Data will first attempt to perform a Standard migration by searching in the app's bundle for a mapping model that maps from the persistent store model to the current bundle model. If a custom mapping model isn't found, Core Data will then attempt to perform a Lightweight migration. If neither form of migration is possible an exception is thrown.
 
 Core Data will follow this migration process:
@@ -38,11 +33,9 @@ Core Data will follow this migration process:
 4. Throw exception if it cannot perform the migration.
 
 ### Problem
-
 These automatic migrations are performed as one-step migrations; directly from the source to destination model. So if we support 4 model versions, mapping models would exist for 1 to 4, 2 to 4 and 3 to 4. While this is the most efficient migration approach from a device performance point-of-view, it can actually be quite wasteful from a development point-of-view. For example if we added a new model version (5) we would need to create 4 new mapping models from 1 to 5, 2 to 5, 3 to 5 and 4 to 5 which as you can see doesn't reuse any of the mapping models for migrating to version 4. With a one-step migration approach, each newly added model version requires n-1 mapping models (where n is the number of supported model versions) to be created.
 
 ## Progressive migration
-
 It's possible to reduce the amount of work required to perform a Core Data migration by disabling automatic migrations and so break the requirement to perform migrations in one-step. With a manual migration approach, we can perform the full migration by chaining multiple smaller migrations together. As the full migration is split into smaller migrations when adding a new model version we only need to handle migrating to the new model version from its direct predecessor rather than all it's predecessors e.g. 4 to 5 because we can reuse the existing 1 to 2, 2 to 3 and 3 to 4 mapping models. Not only do manual migrations reduce the amount of work involved they also help to reduce the complexity of the migration as the conceptional distance between the source and destination version is reduced when compared to one-step migrations i.e. version 4 is much nearer to the structure of version 5 than version 1 is - this should make it easier spot any issues with the migration.
 
 We follow the method called **Progressive Core Data Migration**. It gives us the clear way to structure the migration steps.
@@ -87,7 +80,6 @@ CoreData
 ```
 
 ### Which model version comes after version X?
-
 Each `CoreDataMigrationVersion` instance will represent a Core Data model version. As each Core Data model version is unique and known at compile time they can be perfectly represented as enum cases, with the raw value of each case being the Core Data model name:
 
 ```Swift
@@ -137,7 +129,6 @@ func nextVersion() -> CoreDataMigrationVersion? {
 ```
 
 ## What is a migration step?
-
 A migration happens between 2 model versions by having a mapping from the entities, attributes and relationships of the source model and their counterpoints in the destination model. As such CoreDataMigrationStep needs to contain 3 properties:
 
 1. Source version model.
@@ -188,9 +179,7 @@ struct CoreDataMigrationStep {
 
 >*It's possible to have multiple mapping models between versions, (this can be especially useful when migrating large data sets) in this post in an attempt to keep things simple I assume only one mapping model.*
 
-
 ### How can we combine the migration steps into a migration path?
-
 CoreDataMigrator is at the heart of our migration solution and has 3 tasks:
 
 1. Determining if there needs to be a migration.
@@ -378,9 +367,7 @@ extension NSManagedObjectModel {
 }
 ```
 
-
 ### How do we trigger a migration?
-
 CoreDataManager handles both setting up the Core Data stack and triggering a migration (if needed):
 
 ```Swift
@@ -480,7 +467,6 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 
 ## Misc
 ### Lightweight migration
-
 Core Data frees developers from error-prone, routine work and improves their performance by doing a lot of things under the hood. Out of the box, Core Data lets developers apply minor changes to the Model without creating a database from scratch.
 
 For Attributes:
@@ -504,11 +490,9 @@ For Entities:
 * Change (add to or remove from) an inheritance hierarchy and pull or push properties
 
 ### Example project:
-
 - [Progressive Core Data migration example](https://github.com/dwarvesf/CoreDataMigrationRevised-Example)
 
 ### References:
-
 - [Few tips on Core Data migration](https://yalantis.com/blog/few-tips-on-coredata-migration/)
 - [Progressive Core Data migration](https://williamboles.me/progressive-core-data-migration/)
 - [Core Data programming guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1)

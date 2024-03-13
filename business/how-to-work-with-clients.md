@@ -7,12 +7,9 @@ date: 2023-10-16
 description:
 authors: []
 menu:
-toc: false
-notice:
 type: playbook
 ---
 # TRAINING COURSE: HOW TO WORK WITH CLIENT
-
 What skills that an engineer should have in order to work with client effectively?
 
 1. Strong technical skills: includes

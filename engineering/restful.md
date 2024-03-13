@@ -1,16 +1,13 @@
 # RESTful API
-
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.
 
 ## Terminologies
-
 The following are the most important terms related to REST APIs.
 - Resource is an object or representation of something, which has some associated data with it, and there can be a set of methods to operate on it. E.g., Animals, schools, and employees are resources, and `delete, add, update` are the operations to be performed on these resources.
 - Collections are set of resources, e.g., Companies is the collection of Company resource.
 - URL (Uniform Resource Locator) is a path through which a resource can be located, and some actions can be performed on it.
 
 ## Convention
-
 - We use Swagger for REST API documentation.
 - Use Nouns in URI: REST API should be designed for resources. For example, instead of `/createUser` use `/users`.
 - We prefer to use plurals, but there is no hard rule that one can't use the singular for the resource name.
@@ -22,7 +19,6 @@ The following are the most important terms related to REST APIs.
 - Field name casing: make sure the casing convention is consistent across the application. If the request body or response type is JSON, please follow [camelCase](https://en.wikipedia.org/wiki/Camel_case) to maintain the consistency.
 
 ## API Version
-
 Always version your API. Version via the URL, not via headers. Versioning APIs always helps to ensure backward compatibility of service while adding new features or updating existing functionality for new clients. The backend will support the old version for a specific amount of time.
 
 - URL: Embed the version in the URL such as `POST /v2/users`.
@@ -73,7 +69,6 @@ BODY: {
 ```
 
 ## Auto loading related resource representations
-
 There are many cases where an API consumer needs to load data related to (or referenced from) the resource being requested.
 
 In this case, embed would be a separated list of fields to be embedded. Dot-notation could be used to refer to sub-fields.
@@ -83,13 +78,11 @@ GET /companies/12?embed=lead.name|assigned_user
 ```
 
 ## Return something useful from POST, PATCH & PUT requests
-
 POST, PUT, or PATCH methods, used to create a resource or update fields in a resource, should always return updated resource representation as a response with appropriate status code as described in further points.
 
 POST, if successful in adding a new resource, should return HTTP status code 201 along with the URI of the newly created resource in the Location header (as per HTTP specification)
 
 ## Stateless Authentication & Authorization
-
 REST APIs should be stateless. Every request should be self-sufficient and must be fulfilled without knowledge of the prior request. This means that request authentication should not depend on cookies or sessions. Instead, each request should come with some sort of authentication credentials.
 
 Previously, developers stored user information in server-side sessions, which is not a scalable approach. Use token-based authentication, transported over OAuth2 where delegation is needed.
@@ -98,7 +91,6 @@ Previously, developers stored user information in server-side sessions, which is
 - For user authorization, JWT with OAuth2 provides a way to go.
 
 ## Rate limiting
-
 To prevent abuse, it is standard practice to add some rate-limiting to an API. At a minimum, include the following headers:
 
 - `X-Rate-Limit-Limit` - The number of allowed requests in the current period
@@ -108,7 +100,6 @@ To prevent abuse, it is standard practice to add some rate-limiting to an API. A
 Some APIs use a UNIX timestamp (seconds since epoch) for X-Rate-Limit-Reset. Don't do this! Use [RFC 1123 date formats](https://www.ietf.org/rfc/rfc1123.txt) instead.
 
 ## Caching
-
 HTTP provides a built-in caching framework. All you have to do is include some additional outbound response headers and do a little validation when you receive some inbound request headers.
 
 There are 2 approaches: [ETag](http://en.wikipedia.org/wiki/HTTP_ETag) and [Last-Modified](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.29)
@@ -118,7 +109,6 @@ There are 2 approaches: [ETag](http://en.wikipedia.org/wiki/HTTP_ETag) and [Last
 - Last-Modified: This works like ETag, except that it uses timestamps. The response header Last-Modified contains a timestamp in RFC 1123 format, which is validated against If-Modified-Since. Note that the HTTP spec has had 3 different acceptable date formats, and the server should be prepared to accept any one of them.
 
 ## HTTP status codes
-
 HTTP defines a bunch of meaningful status codes that can be returned from your API. These can be leveraged to help the API consumers route their responses accordingly. I've curated a shortlist of the ones that you definitely should be using:
 
 - `200 OK` - Response to a successful GET, PUT, PATCH or DELETE. It can also be used for a POST that doesn't result in creation.
@@ -136,7 +126,6 @@ HTTP defines a bunch of meaningful status codes that can be returned from your A
 - `429 Too Many Requests` - When a request is rejected due to rate limiting
 
 ## Response
-
 Single data entry response
 ``` json
 {
@@ -161,5 +150,4 @@ Multi data entries or array
 ```
 
 ## Error
-
 A JSON error body should provide a few things for the developer - a useful error message, a unique error code (that can be looked up for more details in the docs), and possibly detailed description. For this part, please check out [Error Handling](./error.md).

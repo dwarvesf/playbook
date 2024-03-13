@@ -1,7 +1,6 @@
 # README Driven Development
 
 ### A perfect implementation of the wrong specification is worthless
-
 By the same principle a beautifully crafted library with no documentation is also damn near worthless. If your software solves the wrong problem or nobody can figure out how to use it, there’s something very bad going on.
 
 **Write your Readme first.**
@@ -14,7 +13,6 @@ Don’t get me wrong, waterfall design takes things way too far. Huge systems sp
 This is not acceptable. There must be some middle ground between reams of technical specifications and no specifications at all. And in fact there is. That middle ground is the humble Readme.
 
 ### RDD is a subset of DDD
-
 It’s important to distinguish Readme Driven Development from Documentation Driven Development. RDD could be considered a subset or limited version of DDD. By restricting your design documentation to a single file that is intended to be read as an introduction to your software, RDD keeps you safe from DDD-turned-waterfall syndrome by punishing you for lengthy or overprecise specification. At the same time, it rewards you for keeping libraries small and modularized. These simple reinforcements go a long way towards driving your project in the right direction without a lot of process to ensure you do the right thing.
 
 By writing your Readme first you give yourself some pretty significant advantages:

@@ -1,5 +1,4 @@
 # Writing a useful changelog
-
 Remember the last time you read over the changelog of your favorite app and found it sucks with useless information like they don't care about the product that they sell out. Something like below
 
 > 2.11.4
@@ -20,7 +19,6 @@ They are not the standard but should capture what we want to deliver.
 ![](img/changelog-go.webp)
 
 #### What makes a good change log?
-
 - [ ] Changelogs are for humans, not machines.
 - [ ] Write all dates in YYYY-MM-DD format.
 - [ ] Follow [Semantic Version](./versioning.md).
@@ -33,7 +31,6 @@ They are not the standard but should capture what we want to deliver.
     - `Security` in case of vulnerabilities.
 
 ## The template
-
 > **1.0.1**
 >
 > 2018-12-28

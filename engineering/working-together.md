@@ -1,5 +1,4 @@
 # Pair Programming
-
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes. 
 
 Code that is written by two people who sit next to each other at the same computer is [pair-programmed](http://www.extremeprogramming.org/rules/pair.html) code. The best way to pair program is to just sit side by side in front of the monitor. Slide the key board and mouse back and forth. Both programmers concentrate on the code being written. The programmers undertake one of two parts — the Driver and the navigator. The driver in the process is responsible for diligently drafting code, while the navigator’s job is to review and concentrates on the plan of action.
@@ -9,7 +8,6 @@ That code is considered high quality and should result in cost savings due to le
 Generally we use it for complex pull requests review and coaching and fixing
 
 ## How?
-
 * When pair programming, one person should “drive” while the other “navigates.” The navigator will assist the driver with the code they should write and explain the reasoning behind any code that they might dictate
 
 * The driver should be implementing the code that the navigator recommends, while frequently pausing to ask questions about the code. When the pair programming session is over, both parties should have a deep understanding of the code that they have committed
@@ -40,7 +38,6 @@ The driver and the reviewer should constantly interact with each other as it wil
 - Ask for Feedback (What did we do well? What could we have done better? It’ll feel weird, do it anyway)
 
 ## Do
-
 Communication is what that makes all the difference.
 
 #### Strong-type pairing
@@ -48,7 +45,6 @@ For an idea to go from your head to the computer it must go through someone else
 Whenever the driver requires pitching in the idea, he must handover the system to his partner and then carryout the control from the observer position
 
 ## Don't
-
 That’s possibly because the person in charge of typing isn’t communicating, or perhaps the reviewer doesn’t want to bother him. Many times I’ve observed where the driver put forth ‘just a minute, I’ve got an idea’ and keep on working, the navigator check their social accounts or do some other irrelevant tasks.
 
 ## Pros
@@ -57,7 +53,6 @@ Around 96% of the pair programmers reported in an online survey that they enjoye
 Establishing a senior-junior combo might be a great step to refine the junior’s skills and proficiency.
 
 ## Significant Pair Programming Markers
-
 Some notes that we should consider applying
 
 #### During Pairing

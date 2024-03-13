@@ -7,17 +7,18 @@ date: 2023-10-16
 description:
 authors: []
 menu:
-toc: false
-notice:
 type: playbook
 ---
 # Design Sprint
+
 ### What is the design sprint?
 The sprint is a four-day process for answering critical business questions through design, prototyping and testing ideas with customers.
 Design sprint mostly applied to the Exploration phase.
 Friday is usually Education event or Lab projects at Dwarves Design, learning and continuous professional and personal development are in the core of our DNA. No one wants to settle, everyone wants to take the next step forward.
+
 ### Why a design sprint?
 A Design Sprint is an immersive experience where a team collaborates, focuses, and makes progress on a problem using design thinking methods in rapid succession.
+
 ### The 4 stages
 #### Day 1: Map & Sketch
 Finding the right problem to focus on and multiple solutions to address it.
@@ -51,6 +52,7 @@ During interviews, take notes using post-its. These notes are later gathered and
 - **Facilitator**: Leads the design sprint. Guides the sprint from start to completion.
 - **Recorder**: Takes notes, photographs and is in charge of the documentation for the sprint.
 - **Product Owner**: Typically the client and the person with the initial product vision. This person has the final say in the product.
+
 #### Supplies needed
 1. Post-it Notes
 2. Sharpies
@@ -59,6 +61,7 @@ During interviews, take notes using post-its. These notes are later gathered and
 5. Whiteboard Marker
 6. Circle vote stickers
 7. Easel Pad
+
 #### Setup room
 The Design Sprint meeting room has to be big enough to fit all the people in the sprint and often has a whiteboard to pin and tape up sketches.
 

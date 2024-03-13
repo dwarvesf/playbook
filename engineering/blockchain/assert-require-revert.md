@@ -1,5 +1,5 @@
-#### Enforce invariants with `assert()`
 
+#### Enforce invariants with `assert()`
 An assert guard triggers when an assertion fails - such as an invariant property changing. For
 example, the token to ether issuance ratio, in a token issuance contract, may be fixed. You can
 verify that this is the case at all times with an `assert()`. Assert guards should often be
@@ -25,9 +25,7 @@ Note that the assertion is *not* a strict equality of the balance because the co
 [forcibly sent ether](#remember-that-ether-can-be-forcibly-sent-to-an-account) without going
 through the `deposit()` function!
 
-
 #### Use `assert()`, `require()`, `revert()` properly
-
 !!! Info
     The convenience functions **assert** and **require** can be used to check for conditions and throw an exception if the condition is not met.
 

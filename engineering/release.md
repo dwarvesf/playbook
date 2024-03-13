@@ -1,5 +1,4 @@
 # Release Checklist
-
 When you are ready to release, remember to check off everything on your release checklist.
 Just remember to not mess up with the end users. Our responsibility is to keep the system stable with seamless deployment.
 

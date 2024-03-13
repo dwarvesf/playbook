@@ -7,13 +7,10 @@ date: 2023-10-16
 description:
 authors: []
 menu:
-toc: false
-notice:
 type: playbook
 ---
 
 # GENERAL QUESTIONS FOR SERVICE FEEDBACKS
-
 1. Engineer performances
 
    - a. Communication

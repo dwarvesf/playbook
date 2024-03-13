@@ -7,12 +7,9 @@ date: 2023-10-16
 description:
 authors: []
 menu:
-toc: false
-notice:
 type: playbook
 ---
 # BUSINESS PLAYBOOK
-
 Table of Contents
 
 1. Introduction

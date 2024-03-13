@@ -16,7 +16,6 @@ Happy coding.
 Besides the [loop of 8 weeks](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#cycles) that we frame our works fit into at company level, for every project, we build an agile team with the practice of Scrum.
 
 ## Agile
-
 Back in the day when software development was very operation massive, with lots of documents and departments that they don't even know each other. Building the software is more like you make a ship. Parts and components should be completed and gathered to integrate. The process was adopted from factory and manufacturer, which is not appropriate.
 
 In software development, things can be different. A group of people believes that we can have a better way of making software with more efficient collaboration by putting the team at the heart of the development process. And they came up with Agile methodology.
@@ -34,7 +33,6 @@ Keeping agile teams intact takes some organizational discipline, but it pays to 
 There are two other pillars of great agile teams: **continuous mentoring** and **shared skill sets**. When the team reaches the stage of Performing, they can work on the project at their full collaboration potential. All the obstacles will be removed, and risks will be minimized.
 
 ## Scrum
-
 Scrum is an Agile framework that teaches us how to work together under Agile name. There are no specific roles in the team at the beginning.
 
 - There is only the **team member** who has autonomy and responsibility to meet the goals of the sprint.
@@ -52,7 +50,6 @@ There are
 To maintain the sustainable pace, the agile team should know each other and try to measure the capability using the agile point.
 
 ## FAQ
-
 - Keywords to take away?
 
     - **Working software** over comprehensive documentation

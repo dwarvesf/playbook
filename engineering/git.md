@@ -1,11 +1,9 @@
 # Source Version Control
-
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.
 
 [We use git](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook, and practices. We also have a [self-host Gitlab](git.d.foundation) to store all of our source code.
 
 ## Commit Message Guidelines
-
 Hour commit conventions are based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 
 Commit message should be structured as follows
@@ -64,7 +62,6 @@ We use automation tools that are useful to force and check commit message convec
   - nodejs tool: husky and lint-staged
 
 ## Branching
-
 **Naming convention**
 
 Same as commit convention we shared type for branching prefix
@@ -120,20 +117,17 @@ git fetch upstream
 # O1. pull and merge
 git pull upstream/master
 
-
 # O2. rebase
 git rebase upstream/master
 
 # 03. reset
 git reset --hard upstream/master
 
-
 # after the local base branch is updated push to origin to update your forked repo
 git push origin master
 ```
 
 ## Practices
-
 - **Amend commit**: edit the latest commit
 
 > `git commit --amend` will allow you to change the last commit message or add new files to it
@@ -147,7 +141,6 @@ Example
 # * c format qa defect template (#49)
 # * b rename /Testing to /qa
 # * a add documents for QA (#47)
-
 # You wanted to update the last commit message
 git commit --amend
 
@@ -247,7 +240,6 @@ git reflog show head
 # 8c76ad1 head@{1}: commit (amend): fix something
 # 873abad head@{2}: rebase (continue) (finish): returning to refs/heads/branch-name
 # 873abad head@{3}: rebase (continue): meaningful commit message
-
 git reset --hard 8c76ad1
 ```
 

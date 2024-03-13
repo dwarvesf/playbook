@@ -6,15 +6,12 @@
 A **problem** or **issue** is a not-yet-known root cause behind one or more incidents.
 
 ## Purpose
-
 In order to establish trust in our software or the delivery of our software, we need to be timely and transparent with how we manage incidents. Good incident management involves not only high reactivity to difficulties, but proper follow-ups to notify relevant parties of the severity of the issue, how we manage the problem, and ETA and steps to resolution of the issue.
 
 ## Incident management
-
 The overall procedure for monitoring alerts and taking action includes determining an incident's possible impact and severity and identifying it as an issue and giving it a priority. If a problem condition cannot be found, we will reject it as a non-impacting event.
 
 ### Reporting the problem
-
 In crisis communication, the best immediate action to take for critical problems is to do frequent reporting to the team and related stakeholders. This is to make sure everyone that needs to know, especially the business and customer, understand what is happening and to avoid issues in transparency when exploring the problem.
 
 Once we have an idea of what the problem is, we need to report this incident in a way that the information is self-contained and sufficient. The following data must be collected before an incident is fully classified and prioritized:
@@ -27,11 +24,9 @@ Once we have an idea of what the problem is, we need to report this incident in 
 - Type of impact: general scope of service impairment (e.g., loss of all access, degraded performance, dependent applications impacted, observed customer impact)
 
 ### Classifying the problem
-
 After acknowledging the alert, we should triage the problem by assigning it a category and priority level. Jira tickets and templates have common classifiers for high priority problems. How we assign the priority labels are up to use, but in general, the following levels are categorized as such:
 
 #### Priority Level
-
 - **P0**: *This priority level is critical and should have the most immediate response action possible, with ideally a target resolution time of within 1 hour.*
 	- complete loss of access to application or API
 	- degraded access to or performance
@@ -49,7 +44,6 @@ After acknowledging the alert, we should triage the problem by assigning it a ca
 	- the default priority level for issues with undetermined severity level
 
 ## Postmortems
-
 Documentation on the resolution and aftermath of an incident is key to distilling issues and establish practices to avoid further incidents through reflection:
 
 - After an incident is resolved, the team should gather to identify the root cause of the incident.
@@ -124,7 +118,6 @@ The simplest way to interrogate a problem is using the 5 Whys technique. [5 Whys
 - **3rd Why**: Our nearest database has connection issues egressing data.
 - **4th Why**: Our nearest database cannot resolve DNS properly to point and egress data.
 - **5th Why**: Our database has had a config change that affected the resolution of DNS queries.
-
 
 ### Root cause
 Note and detail the final root cause of the incident.

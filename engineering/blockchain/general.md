@@ -1,11 +1,10 @@
-### 1. Abstract-vs-interfaces
 
+### 1. Abstract-vs-interfaces
 Be aware of the tradeoffs between abstract contracts and interfaces.
 Both interfaces and abstract contracts provide one with a customizable and re-usable approach for smart contracts. Interfaces, which were introduced in Solidity 0.4.11, are similar to abstract contracts but cannot have any functions implemented. Interfaces also have limitations such as not being able to access storage or inherit from other interfaces which generally makes abstract contracts more practical. Although, interfaces are certainly useful for designing contracts prior to implementation. Additionally, it is important to keep in mind that if a contract inherits from an abstract contract it must implement all non-implemented functions via overriding or it will be abstract as well.
 
 ### 2. assert require revert
 #### Enforce invariants with `assert()`
-
 An assert guard triggers when an assertion fails - such as an invariant property changing. For
 example, the token to ether issuance ratio, in a token issuance contract, may be fixed. You can
 verify that this is the case at all times with an `assert()`. Assert guards should often be
@@ -31,9 +30,7 @@ Note that the assertion is *not* a strict equality of the balance because the co
 [forcibly sent ether](#remember-that-ether-can-be-forcibly-sent-to-an-account) without going
 through the `deposit()` function!
 
-
 #### Use `assert()`, `require()`, `revert()` properly
-
 !!! Info
     The convenience functions **assert** and **require** can be used to check for conditions and throw an exception if the condition is not met.
 
@@ -124,7 +121,6 @@ inheritance-related issues.
 See [SWC-125](https://swcregistry.io/docs/SWC-125)
 
 ## 4. Event monitoring
-
 It can be useful to have a way to monitor the contract's activity after it was deployed. One way to
 accomplish this is to look at all transactions of the contract, however that may be insufficient,
 as message calls between contracts are not recorded in the blockchain. Moreover, it shows only the
@@ -247,7 +243,6 @@ which is empty at block `n`, but which has a contract deployed to it at some blo
 
 ## 6. Fallback functions
 #### Keep fallback functions simple
-
 [Fallback functions](http://solidity.readthedocs.io/en/latest/contracts.html#fallback-function) are
 called when a contract is sent a message with no arguments (or when no function matches), and only
 has access to 2,300 gas when called from a `.send()` or `.transfer()`. If you wish to be able to
@@ -265,7 +260,6 @@ function() payable { require(msg.data.length == 0); emit LogDepositReceived(msg.
 ```
 
 #### Check data length in fallback functions
-
 Since the
 [fallback functions](http://solidity.readthedocs.io/en/latest/contracts.html#fallback-function) is
 not only called for plain ether transfers (without data) but also when no other function matches,
@@ -371,7 +365,6 @@ original authors.
 // bad
 pragma solidity ^0.4.4;
 
-
 // good
 pragma solidity 0.4.4;
 ```
@@ -460,7 +453,6 @@ There are three main considerations when using a timestamp to execute a critical
 contract, especially when actions involve fund transfer.
 
 #### Timestamp Manipulation
-
 Be aware that the timestamp of the block can be manipulated by a miner. Consider this
 [contract](https://etherscan.io/address/0xcac337492149bdb66b088bf5914bedfbf78ccc18#code):
 
@@ -485,7 +477,6 @@ precompute an option more favorable to their chances in the lottery. Timestamps 
 should not be used in that context.
 
 #### The 15-second Rule
-
 The [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (Ethereum's reference
 specification) does not specify a constraint on how much blocks can drift in time, but
 [it does specify](https://ethereum.stackexchange.com/a/5926/46821) that each timestamp should be
@@ -501,7 +492,6 @@ in evaluating timestamp usage is:
     it is safe to use a `block.timestamp`.
 
 #### Avoid using `block.number` as a timestamp
-
 It is possible to estimate a time delta using the `block.number` property and
 [average block time](https://etherscan.io/chart/blocktime), however this is not future proof as
 block times may change (such as
@@ -512,7 +502,6 @@ the 15-second rule allows one to achieve a more reliable estimate of time.
 See [SWC-116](https://swcregistry.io/docs/SWC-116)
 
 ## 14. tx-origin
-
 Never use `tx.origin` for authorization, another contract can have a method which will call your
 contract (where the user has some funds for instance) and your contract will authorize that
 transaction as your address is in `tx.origin`.
@@ -610,6 +599,5 @@ function internalAction() internal {
 ```
 
 ### See 
-
 - [SWC-100](https://swcregistry.io/docs/SWC-100) and
 - [SWC-108](https://swcregistry.io/docs/SWC-108)

@@ -1,5 +1,4 @@
 # Error Message Convention
-
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.
 
 - To make it easy to build informative error messages.
@@ -7,13 +6,11 @@ We use the following structure for our error message. It helps our system stay c
 - To make errors helpful as diagnostics for programmers.
 
 ## Library
-
 - Go: https://github.com/dwarvesf/gerr
 - Elixir: https://github.com/dwarvesf/error.ex
 - Swift: https://github.com/dwarvesf/error.swift
 
 ## Error Structure
-
 ```
 - type: list of common or pre-defined error type
 - message: error message
@@ -35,7 +32,6 @@ We make some error handling packages for some languages, such as `golang`, `elix
 - `Debug`, `Info`: log some info or success data
 
 ## Constructing an Error
-
 - Go
 
 ``` go
@@ -76,7 +72,6 @@ func handle(req Request) (*Response, error) {
 ```
 
 ## Errors across the wire
-
 ``` json
 {
     "message": "client error message",
@@ -125,7 +120,6 @@ func handler() {
 ```
 
 ## Remote Error Tracking
-
 System log is like the airplane black box. When defects occur, along with steps used to reproduce from user report, the last thing we know is stored in the system log. 
 
 - We use [Sentry](sentry.io) for both backend and frontend apps. Sentry helps collect and report the system log when errors occurred. 
@@ -134,7 +128,6 @@ System log is like the airplane black box. When defects occur, along with steps 
 Starting a new project, we usually set up and hook the error message to our project management system.
 
 ## Replicating & Handling error
-
 To be able to reproduce an error you need to know what external actions lead to the error. To determine the cause of an error you need to know:
 
 - The exact location in the code where the exception occurred.
@@ -142,7 +135,6 @@ To be able to reproduce an error you need to know what external actions lead to 
 - A sensible description of the error including any relevant variable values, including parameters, internal state variables (members, global variables etc.) and possibly external system state, for instance data in a database.
 
 #### Environment cloning
-
 Every project should contain a method for replicating the state of one environment in another (e.g. copy prod to QA to reproduce an error). We structure our applications in a way that we could restore its snapshot at any point of time. A short command to replicate the context in which cause the error.
 
 We develop strategies and tooling to help ease the debugging process.

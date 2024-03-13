@@ -1,5 +1,4 @@
 # Code style
-
 While the vast majority of base code style is enforced by [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/), please also where possible, stick to the contribution guidelines below. These rules should be kept in mind when reviewing Pull Requests:
 
 - Code should be functional in style rather than Object Orientated or Imperative unless there are no clean alternatives.
@@ -81,7 +80,6 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
   - A smaller bundle size usually also means a faster app. You can visualize the code bundles you've generated with [`@next/bundle-analyzer`](https://www.npmjs.com/package/@next/bundle-analyzer).
 
 ## Read on:
-
 - [Tech ecosystem](tech-ecosystem.md)
 - [Writting test](writing-test.md)
 - [UI checklist](ui-checklist.md)

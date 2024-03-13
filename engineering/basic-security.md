@@ -1,4 +1,5 @@
 # Basic Security
+
 ## Devices
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers). 
 
@@ -43,12 +44,10 @@ We all use personal mobile devices, so your options are either not to add any co
 - [ ] Keep at least one backup of your private key and revocation certificate in a secure location, such as a thumb drive.
 
 ## Handling Vulnerabilities
-
 - [ ] Depending on what you are making, limit access to your user databases.
 - [ ] In case of a hack or data breach, check previous logs for data access, ask people to change passwords. You might require an audit by external agencies depending on where you are incorporated.
 
 ## Security Report
-
 When someone finds a possible security issue in our software, we encourage them to report it to our <security@d.foundation> email address.
 
 When an email comes in through this channel, reply quickly with confirmation (and CC <security@d.foundation> so others know that it has been handled) and the information for our PGP key, which is located at <https://d.foundation/security>.

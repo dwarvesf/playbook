@@ -1,5 +1,4 @@
 # Code Review
-
 How we do code review at Dwarves Foundation.
 
 Every project member must have another team member or team leader to review his/her code, and every changes to the code must be achieved via a Pull request to the main development branch. On larger project (10 developers+) we may requires 2 reviewers. All of this is to ensure correctness, quality of the code and learning opportunities for both assignee (who develop) and reviewer.
@@ -7,7 +6,6 @@ Every project member must have another team member or team leader to review his/
 We review everything on the Pull request - code, tests, documents, config files, .etc.
 
 ## Code Review Flow
-
 - Feature/bug assignee finished coding on a new branch based off `develop` branch
 - Assignee self-review the code he/her wrote one last time before assigning it to reviewer
 - Assignee open a Pull request on project repository and assign the PR to a reviewer, removes any [WIP] prefix in PR title to let reviewer knows this PR is ready for review
@@ -23,9 +21,7 @@ We review everything on the Pull request - code, tests, documents, config files,
 - Aspects of software design are almost never a pure style issue or just a personal preference. They are based on underlying principles and should be weighed on those principles, not simply by personal opinion. Sometimes there are a few valid options. If the author can demonstrate (either through data or based on solid engineering principles) that several approaches are equally valid, then the reviewer should accept the preference of the author. Otherwise the choice is dictated by standard principles of software design.
 - If no other rule applies, then the reviewer may ask the author to be consistent with what is in the current codebase, as long as that doesn’t worsen the overall code health of the system.
 
-
 ## Code Review Standard
-
 At minimal:
 
 - The code must work and tests must pass
@@ -34,16 +30,12 @@ At minimal:
 - Never commit environment files to source control (.ie `.env` files for example), unless you have a good reason for it
 
 ### About testing
-
 We don't follow TDD, we don't need to have tests for everything but we must have test to cover critical parts of the application. Test cases ensure that our app is working and without bugs whenever we introduce new features into it. Test cases also gives us the affordance to refactor and improve our code quality. With refactoring, we learn better coding practices and improve ourselves as a coder.
 
 ### Naming convention
-
 This topic varies depends what programming language we use as each language have their own best practices, but a general rule is to make it clear about our intention - ie. if you have no idea what a particular variable is for while reviewing a helper function, then that variable needs more comments or a new name to better reflects it's intention.
 
-
 ## Reviewer Guides
-
 - Review the code, don't review the coder
 - Check for correctness of code, not how you would do it
 - Discuss possibilities & trade-offs, not what's right & what's wrong

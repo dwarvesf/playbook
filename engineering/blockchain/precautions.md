@@ -5,7 +5,6 @@ The approach we advocate is to "prepare for failure". It is impossible to know i
 Note: There's always a risk when you add a new component to your system. A badly designed fail-safe could itself become a vulnerability - as can the interaction between a number of well-designed fail-safes. Be thoughtful about each technique you use in your contracts, and consider carefully how they work together to create a robust system.
 
 ## Deployment
-
 Contracts should have a substantial and prolonged testing period - before substantial money is put
 at risk.
 
@@ -16,9 +15,7 @@ At minimum, you should:
 - Deploy on the public testnet with substantial testing and bug bounties
 - Exhaustive testing should allow various players to interact with the contract at volume
 - Deploy on the mainnet in beta, with limits to the amount at risk
-
 ##### Automatic Deprecation
-
 During testing, you can force an automatic deprecation by preventing any actions, after a certain
 time period. For example, an alpha contract may work for several weeks and then automatically shut
 down all actions, except for the final withdrawal.
@@ -37,14 +34,11 @@ function withdraw() public {
     // some code
 }
 ```
-
 ##### Restrict amount of Ether per user/contract
-
 In the early stages, you can restrict the amount of Ether for any user (or for the entire contract)
 \- reducing the risk.
 
 ## Circuit breakers
-
 Circuit breakers stop execution if certain conditions are met, and can be useful when new errors
 are discovered. For example, most actions may be suspended in a contract if a bug is discovered,
 and the only action now active is a withdrawal. You can either give certain trusted parties the
@@ -80,7 +74,6 @@ function withdraw() onlyInEmergency public {
 ```
 
 ## Rate limit
-
 Rate limiting halts or requires approval for substantial changes. For example, a depositor may only
 be allowed to withdraw a certain amount or percentage of total deposits over a certain time period
 (e.g., max 100 ether over 1 day) - additional withdrawals in that time period may fail or require
@@ -157,7 +150,6 @@ For an example of the three tiers of rewards, see
 > vulnerabilities.
 
 ## Speed bumps
-
 Speed bumps slow down actions, so that if malicious actions occur, there is time to recover. For
 example, [The DAO](https://github.com/slockit/DAO/) required 27 days between a successful request
 to split the DAO and the ability to do so. This ensured the funds were kept within the contract,
@@ -201,7 +193,6 @@ function withdraw() public {
 ```
 
 ## Upgradeability
-
 !!! warning
     Smart Contract upgradeability is an active area of research. There are many important
     questions, and risks related to smart contract upgradeability. Do your research into the state of
@@ -232,7 +223,6 @@ Regardless of your approach, it is important to have some way to upgrade your co
 will become unusable when the inevitable bugs are discovered in them.
 
 #### Example 1: Use a registry contract to store the latest version of a contract
-
 In this example, the calls aren't forwarded, so users should fetch the current address each time
 before interacting with it.
 
@@ -279,7 +269,6 @@ The alternate approach is to have a contract forward calls and data to the lates
 contract:
 
 #### Example 2: [Use a `DELEGATECALL`](http://ethereum.stackexchange.com/questions/2404/upgradeable-contracts) to forward data and calls
-
 This approach relies on using the
 [fallback function](https://solidity.readthedocs.io/en/latest/contracts.html#fallback-function) (in
 `Relay` contract) to forward the calls to a target contract (`LogicContract`) using

@@ -1,5 +1,5 @@
-#### Use caution when making external calls
 
+#### Use caution when making external calls
 Calls to untrusted contracts can introduce several unexpected risks or errors. External calls may
 execute malicious code in that contract _or_ any other contract that it depends upon. As such,
 every external call should be treated as a potential security risk. When it is not possible, or
@@ -9,7 +9,6 @@ minimize the danger.
 ______________________________________________________________________
 
 #### Mark untrusted contracts
-
 When interacting with external contracts, name your variables, methods, and contract interfaces in
 a way that makes it clear that interacting with them is potentially unsafe. This applies to your
 own functions that call external contracts.
@@ -34,7 +33,6 @@ function makeUntrustedWithdrawal(uint amount) {
 ______________________________________________________________________
 
 #### Avoid state changes after external calls
-
 Whether using *raw calls* (of the form `someAddress.call()`) or *contract calls* (of the form
 `ExternalContract.someMethod()`), assume that malicious code might execute. Even if
 `ExternalContract` is not malicious, malicious code can be executed by any contracts *it* calls.
@@ -51,7 +49,6 @@ See [SWC-107](https://swcregistry.io/docs/SWC-107)
 ______________________________________________________________________
 
 #### Don't use `transfer()` or `send()`.
-
 `.transfer()` and `.send()` forward exactly 2,300 gas to the recipient. The goal of this hardcoded
 gas stipend was to prevent, but this only
 makes sense under the assumption that gas costs are constant. Recently
@@ -88,7 +85,6 @@ taken. To prevent reentrancy attacks, it is recommended that you use the
 ______________________________________________________________________
 
 #### Handle errors in external calls
-
 Solidity offers low-level call methods that work on raw addresses: `address.call()`,
 `address.callcode()`, `address.delegatecall()`, and `address.send()`. These low-level methods never
 throw an exception, but will return `false` if the call encounters an exception. On the other hand,
@@ -118,7 +114,6 @@ See [SWC-104](https://swcregistry.io/docs/SWC-104)
 ______________________________________________________________________
 
 #### Favor *pull* over *push* for external calls
-
 External calls can fail accidentally or deliberately. To minimize the damage caused by such
 failures, it is often better to isolate each external call into its own transaction that can be
 initiated by the recipient of the call. This is especially relevant for payments, where it is
@@ -176,7 +171,6 @@ See [SWC-128](https://swcregistry.io/docs/SWC-128)
 ______________________________________________________________________
 
 #### Don't delegatecall to untrusted code
-
 The `delegatecall` function is used to call functions from other contracts as if they belong to the
 caller contract. Thus the callee may change the state of the calling address. This may be insecure.
 An example below shows how using `delegatecall` can lead to the destruction of the contract and
