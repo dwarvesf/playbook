@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2016-01-11
 ---
 
 Finding solitude in information overwhelming world

@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: hnh
-created: 2023-01-30
 ---
 
 To organize our discord and make it fun to interact between community members, we setup those roles for specific purposes. They are ladder-based and function-based roles.

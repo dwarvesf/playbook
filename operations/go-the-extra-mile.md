@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2020-09-09
 ---
 
 A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it.

@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-02-19
 ---
 
 ## The Common Dilemma

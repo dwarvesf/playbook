@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2020-02-21
 ---
 
 Sustainable growth companies are built by teams of shining constellations rather than just several bright stars

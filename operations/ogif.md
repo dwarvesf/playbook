@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: Han 🐸
-created: 2023-02-16
 ---
 
 I would like to introduce to you our new initiative called <span style='color:red'>**OGIF**</span> — Oh God It's Friday. Moving forward, our Friday Showcase will have a broader range of topics to discuss and share.

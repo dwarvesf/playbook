@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2016-01-10
 ---
 
 Some useful practices we adopted to keep the remote working system goes smoothly. 

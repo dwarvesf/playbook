@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2020-06-10
 ---
 
 We can't always make things (or everything) on our own. If that somehow truly happens, then Inc, Corp, Enterprise or Group won't stand a chance with Freelancers.

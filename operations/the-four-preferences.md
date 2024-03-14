@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-07-16
 ---
 
 **The Four Preferences are:**

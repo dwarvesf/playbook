@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-07-20
 ---
 
 <!-- table_of_contents aee00dbb-f163-4643-8a92-d278eefb13cb -->

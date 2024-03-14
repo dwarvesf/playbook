@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2020-04-10
 ---
 
 * Outsource things which are super important but we are not excellent at.

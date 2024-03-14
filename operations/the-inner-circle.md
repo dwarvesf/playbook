@@ -10,7 +10,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: Han 🐸
-created: 2023-01-19
 ---
 
 The concept of an "inner circle" within a company is not a new one, and at Dwarves, a software company founded by a group of engineers, this idea holds a significant value. Starting from scratch, the company has always placed emphasis on being surrounded by individuals who can efficiently ship software and don't waste time on unimportant tasks. These individuals are highly respected and valued within the company, as they play a crucial role in the development and success of projects.

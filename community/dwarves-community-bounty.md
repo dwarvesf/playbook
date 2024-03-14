@@ -10,7 +10,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2023-06-21
 ---
 As you may know, Dwarves Discord network is where we connect with our friends, alumni, and like-minded people.
 

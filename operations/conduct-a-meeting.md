@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2018-07-10
 ---
 
 Meeting has always played an integral part in every corporate office. To optimize a productive meeting, it is vital to conduct individuals gathering without wasting time and directly get to the point, to deliver new information or discuss crucial issues.

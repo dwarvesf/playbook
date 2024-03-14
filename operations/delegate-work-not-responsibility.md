@@ -10,7 +10,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2019-11-27
 ---
 
 We can bring in all the technology in the world, but if we can’t delegate properly, our companies have no chance of scaling well

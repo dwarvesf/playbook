@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2016-01-10
 ---
 To increase flexibility in how and where employees at Dwarves work, we agree on a shared set of constraints for group work and meetings.
 

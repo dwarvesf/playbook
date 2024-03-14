@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: Han 🐸
-created: 2023-01-31
 ---
 
 In today's competitive business environment, it is crucial for organizations to have a clear understanding of the value and performance of their employees. In a recent post I wrote, titled "[Inner Circle](/db6561d944f4443789dfef3f12a87496)", I expounded on the importance of contribution and value in relation to a person's work or performance. However, there is another key aspect to this topic that must be taken into consideration. One of the most effective ways to determine how well a person is performing is by asking the question, "<span style='color:yellow_background'>Are you helping?</span>" Through evaluating the output of an individual's work, we can gain a clear understanding of how much value they are providing and how well they are performing.
