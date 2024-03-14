@@ -2,11 +2,12 @@
 tags: 
   - tips
   - people
-title: A Tips Of Hiring Dont
+  - hiring
+title: A Tips Of Hiring - Do & Don't
 date: 2020-07-28
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
@@ -23,4 +24,3 @@ That's when you write the job description yourself. Knowing how the job operates
 
 We do believe in hard working. In fact, we urge the team to discover their limit in any possible way. But for the love of God, don't misunderstand it with the state of burying your head in the sand. It trims off the quality, and things end up worse than they should have been just because we try to reach things that are way over our head. Success doesn't work that way.
 There is a point when the quality has been dropped, that's when you know that you need more hands. That's when things get hurt, and hiring gets real.
-
