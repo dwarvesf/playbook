@@ -10,6 +10,7 @@ authors:
 menu: memo
 type: memo
 hide_frontmatter: false
+featured: true
 ---
 
 Follow up on our recent post [[df-protocol-icy-dfg|df protocol, $icy and $dfg]].

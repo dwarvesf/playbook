@@ -14,6 +14,7 @@ type: memo
 hide_frontmatter: false
 pinned: 
 hide_title: false
+featured: true
 ---
 <span style="color: #E13F5E; font-weight: bold;">Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.</span>
 
