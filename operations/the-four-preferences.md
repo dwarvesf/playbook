@@ -1,20 +1,16 @@
 ---
 tags: 
   - mbti
+  - personalities
 title: The Four Preferences
 date: 2021-07-16
-description: null
+description: The four preferences in MBTI personalities
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
-
-**The Four Preferences are:**
-
-<!-- table_of_contents 67886209-8c4e-4827-bb2b-0a7d39c2979c -->
-
----
+## The Four Preferences are:
 
 ### Extraversion and Introversion
 When we talk about "extraversion" and "introversion", we are distinguishing between the two worlds in which all of us live. There is a world inside ourselves, and a world outside ourselves. When we are dealing with the world outside of ourself, we are "extraverting". When we are inside our own minds, we are "introverting".
