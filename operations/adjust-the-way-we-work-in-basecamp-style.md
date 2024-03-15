@@ -27,18 +27,16 @@ And that's when we found Basecamp.
 Moving the whole theme to Basecamp wasn't easy, especially when we have gotten used to the small daily talks. At first, there wasn't much conversation transpire in Basecamp. We only touch it for project briefing and note down the to-do list. As time goes by, we're getting closer to the part where Basecamp acts as a great supporter of team communication & project development. Basically, this is how we organize things, in one place.
 
 # Places
-
-## ◾️ Woodlands/ HQ
+## Woodlands/ HQ
 For company wide-announcement. This keeps the message board of company updates, team chatting & resources everyone needs to know.
 
-## ◾️ Teams
+## Teams
 For team activities, this is customized due to the team's demand. That also includes the schedule for team meetings, workshop/ topics discussion & team research.
 
-## ◾️ Projects
+## Projects
 For project details and people in charge. By categorizing the projects, we instantly know how many projects we're participating in, and the backlog for each one. Each project comes with a separated campfire, to sure you're discussing the right thing, at the right place.
 
 # Into Details
-
 ## Automatic Check-Ins
 Right, the thing that keeps Basecamp interesting. Automatic Check-Ins is the common name we use for the scheduled questions. In fact, there are several ones. Here are some active ones.
 
@@ -48,11 +46,10 @@ Right, the thing that keeps Basecamp interesting. Automatic Check-Ins is the com
 
 Beside, another question might come with every project/team, which is **'What did you work on today?'**
 
-This aims to log the accomplishment of the day, or as I have mentioned in <span style='color:pink_background'>[Daily Check-Ins](https://dwarves.foundation/memo/daily-check-ins)</span>, a subtle cry for help. The answer should not conform to any format, but it needs a sense of progress so we'll know where it's heading to.
+This aims to log the accomplishment of the day, or as I have mentioned in [Daily Check-Ins](https://dwarves.foundation/memo/daily-check-ins), a subtle cry for help. The answer should not conform to any format, but it needs a sense of progress so we'll know where it's heading to.
 
 ## Todos
 Needless to say what this is about, I guess I'll just drop the necessary input.
-
 * **Title**: A concise brief of the task
 * **Assign to**: Name of person in charge (PIC)
 * **When done, notify**: If it's a self-task, leave it blank. If it needs approval, tag the line manager or a PIC
@@ -81,7 +78,7 @@ The storage for team document assets forwarded email or the helpful ebooks. At f
 Docs & Files can also be uploaded through a link from Google Drive, Dropbox or any Cloud storage. So frankly we didn't need to migrate the whole knowledge hub, we just figure a way to sync the two together.
 
 ## Jump Quickly
-When you've had enough with the scrolling, a shortcut is a savior. Basecamp takes you to the place you need using <span style='color:pink_background'>**Ctrl+J**</span>. Latest message board, team, projects, pings. Anything.
+When you've had enough with the scrolling, a shortcut is a savior. Basecamp takes you to the place you need using **Ctrl+J**. Latest message board, team, projects, pings. Anything.
 
 # Furthermore
 Basecamp is formal enough to keep people concentrated on what they do, but still it gives them the chance to be creative.

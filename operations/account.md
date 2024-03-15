@@ -10,16 +10,14 @@ type: null
 hide_frontmatter: false
 ---
 
-**Planning**
-
+### Planning
 Many people would say in order to have a good plan; you need to write out all vibrant details. A good plan needs lots of details, they said. But in real life, where nothing is certain and is filled with sudden surprises, a good plan should prioritize its flexibility and simplicity.
 
 Start with the main goals of the week, then expand on the actual required actions to achieve those desired goals. Always remember to add in extra 2 hours of standby in between early morning and noon to have space for the urgent work. In those days when those free 2 hours were not needed, use it to review the past works or a quick investment time to catch up with the progress of the fast-pace tech world.
 
 Lastly, being neat always help in many cases. It helps one to maintain the transparency in the work and can ensure that they will not miss out on anything.
 
-**Penetration**
-
+### Penetration
 How can we acquire more clients? How can we connect to our clients?
 
 Communication is an art. Every kind of art requires skills and sensitivity to master. In order to connect to the clients, one needs to knows about the clients' feelings. This takes careful sensitivity and awareness.
@@ -32,12 +30,10 @@ How can we acquire more clients? Once we can secure to have a good interaction w
 
 Truly, why would one should feel scare of the uncertainty?
 
-**Retention**
-
+### Retention
 Good service quality, fast response, keep an up-close-and-personal communication line had supported Dwarves Foundation to ensure the satisfaction of its clients. Of course, in order to acquire this achievement, the Account Manager will need to have a sharp “people” sense to understand the thinking and working style of its clients, and to know when we need to take a few step back, to move much further forward.
 
-**Management**
-
+### Management
 Know your team members and know the company goals very well.
 
 Know when to make a tough decision
@@ -48,8 +44,7 @@ Know how to identify when the client is being unreasonable
 
 Know how to let go of the ego, and embrace the present
 
-**Building Relationships**
-
+### Building Relationships
 One way to impress a client is firstly yielding to their paths first. Once they see that you are (kind of) on their sides, they will have more trust in you. Then they will become more open with you.
 
 And then the rest is basically in your hands to control.

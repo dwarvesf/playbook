@@ -12,7 +12,7 @@ type: null
 hide_frontmatter: false
 ---
 
-Many companies out there get lured by the vision of "<span style='color:pink_background'>scaling up</span>". An unwritten rule of 'the more man we have, the better output we create'. But no, hiring with no motivation only leads to one thing: A waste of resource.
+Many companies out there get lured by the vision of **scaling up**. An unwritten rule of 'the more man we have, the better output we create'. But no, hiring with no motivation only leads to one thing: A waste of resource.
 
 Hire without plan bored talent people out. There's no good to put people in a place where they can't create any impact. And we? We tend to fall for creating unnecessary job, which results in a waste of money and training resource. For the sake of that, don't hire because you feel to.
 Unless you're reaching out for help, hiring is the last thing you should keep in mind.

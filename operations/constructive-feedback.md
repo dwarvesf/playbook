@@ -32,5 +32,5 @@ The people who are your best co-workers have two powerful things: the ability to
 It's good to seek for comment from a friend, but it's even better to receive a straightforward one. That means they shorten the distance between the finished outcome and your current work.
 
 ## Constructive, not Destructive
-Feedback can either become a judgement or encouragement. So whether it is giving or receiving feedback, have it conveyed in a useful way. Instead of "<span style='color:pink_background'>*please, I stopped reading it at the first line*</span>", try "*I think the title hasn't been catchy enough. *<span style='color:pink_background'>*Maybe adding a hook sentence would be better*</span>".
+Feedback can either become a judgement or encouragement. So whether it is giving or receiving feedback, have it conveyed in a useful way. Instead of "*please, I stopped reading it at the first line*", try "*I think the title hasn't been catchy enough. Maybe adding a hook sentence would be better*".
 

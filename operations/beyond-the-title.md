@@ -13,7 +13,7 @@ hide_frontmatter: false
 
 ## The Common Dilemma
 1. You're only paid that much to do that much
-1. We only pay you that much if you can do only that much
+2. We only pay you that much if you can do only that much
 
 It's the scenario that people measure and expect their effort should be traded into paychecks. Employers issue fixed rates for labors, while employees refuse to do things that are not in the job description. It gradually forms a mindset where people decide to work "enough" to get paid and miss out on the chance to discover their self-limitation.
 

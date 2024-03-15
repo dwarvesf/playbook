@@ -37,7 +37,6 @@ Delegating work does not absolve you of responsibility. It's an attempt to wrap 
 
 In the case of a failure, the blame is all yours. Investors will go after the CEO, even if an intern made the mistake that hurts the company.
 
-### 
 Everything must be well-transferred and carefully considered before trusting someone with delegated work. That includes the competency and effort towards the work itself. Delegated work also requires the person's willingness to invest in personal development. It is vital to have those people around if you're planning on building a team to drive for constant movement.
 
 Delegation can sometimes be seen as a training task or a challenge for the assignee to overcome. In this way, the delegator will have more compassion than expectation toward the assignee, and allows both of them to collaborate with each other better.
