@@ -1,15 +1,16 @@
 ---
 tags: 
   - people
+  - human-resource
+  - hr
 title: Types Of Employees
 date: 2018-08-26
-description: null
+description: Employees are either job-focused or mission-driven "mitochondria" who drive company growth. Prioritizing the latter through values interviews is key to startup success.
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
-
 There are 2 types of employees:
 
 * **There are employees who think of the company like a job**. They come in, they work hard, and they do their job. Some excel at doing their job. But ultimately, it’s a job. They want to make sure they’re fairly compensated for their work, and have interesting projects to work on. As long as they believe those things are in balance and the compensation arbitrage they can get by going to another company is within a certain bound, they’re stable and stay. In summary, they are rational actors, and the value they add to the company, while valuable, scales linearly.
@@ -26,5 +27,4 @@ A values interview helps you determine if the candidate is going to be a match w
 To be clear, interviewing for values doesn’t guarantee you’ll hire mitochondria. But if you don’t interview for values nor communicate the importance of your values during the interview process, your hiring process is suboptimal at best.
 
 ---
-
-→ Source: [https://medium.com/@sarahtavel/the-mitochondria-in-startups-dc6c33e09d99](https://medium.com/@sarahtavel/the-mitochondria-in-startups-dc6c33e09d99)
+→ Source: `https://medium.com/@sarahtavel/the-mitochondria-in-startups-dc6c33e09d99`

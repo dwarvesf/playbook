@@ -1,18 +1,16 @@
 ---
 tags: 
   - tips
+  - transparency
 title: Transparency
 date: 2020-05-27
-description: null
+description: The essence of transparency within a company
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
-
----
-
-<span style='color:pink_background'>***How much do you know about this woodland?***</span>
+<span style='color:pink_background'>**How much do you know about this woodland?**</span>
 
 → is the question we all get during the first interview. Sure, if you're lucky enough to nail the final offer; you're likely to get a better chance on gradually discovering the company's essential information.
 
