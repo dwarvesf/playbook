@@ -1,17 +1,18 @@
 ---
 tags: 
   - practice
+  - operation
+  - idea
 title: The Dwarves Runs By Ideas
 date: 2020-09-07
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
-
 ## Minimal human intervention
-Our operations runs on four branches: <span style='color:pink_background'>*Account*</span> for client happiness arrangement - <span style='color:pink_background'>*PeopleOps*</span> for resource allocation - <span style='color:pink_background'>*Human Resource*</span> for recruitment and employee experience, & <span style='color:pink_background'>*Communication*</span> for info transmission across the platforms. 
+Our operations runs on four branches: <span style='color:pink'>Account</span> for client happiness arrangement - <span style='color:pink'>PeopleOps</span> for resource allocation - <span style='color:pink'>Human Resource</span> for recruitment and employee experience, & <span style='color:pink'>Communication</span> for info transmission across the platforms. 
 
 It's a bit different from other operations flows out there. But we do it on purpose.
 

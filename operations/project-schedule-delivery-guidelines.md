@@ -1,7 +1,6 @@
 ---
 tags:
-  - dwarves
-  - work
+  - delivery
   - consulting
   - internal
 title: Project Delivery Schedule and Guidelines
@@ -9,14 +8,12 @@ date: 2023-12-05
 description: Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries as well as handle feedback.
 authors:
   - huytq
-menu: consulting
+menu: playbook
 type: consulting
 hide_frontmatter: false
 ---
+## Weekly Activities
 
-Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries.
-
-## Weekly Activities**
 ### 1. Weekly Points/Effort Report
 **Every Friday**
 - **Action**: Fill out the weekly points/effort report.
@@ -35,7 +32,10 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 
 ![[Project Delivery Schedule and Guidelines-20231205231409927.webp]]
 
+---
+
 ## Bi-Weekly and Monthly Activities
+
 ### 3. Project Demo/Showcase:
 **Every 3rd Wednesday**
 - **Audience**: Consulting and Labs team.
@@ -64,6 +64,8 @@ For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Deliv
 - Metrics: to evaluate our members if they are working effectively or not.
 - Start Stop Continue doing feedback model: to understand how we can improve our delivery better.
 - Leadership metrics: how effectiveness on the management from our Team Leader and Team Members.
+
+---
 
 ## Important Reminders
 - **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
