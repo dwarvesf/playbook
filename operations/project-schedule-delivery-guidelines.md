@@ -1,7 +1,6 @@
 ---
 tags:
-  - dwarves
-  - work
+  - delivery
   - consulting
   - internal
 title: Project Delivery Schedule and Guidelines
@@ -9,18 +8,14 @@ date: 2023-12-05
 description: Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries as well as handle feedback.
 authors:
   - huytq
-menu: consulting
+menu: playbook
 type: consulting
 hide_frontmatter: false
 ---
-Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries.
+## Weekly Activities
 
----
-
-## **Weekly Activities**
-### **1. Weekly Points/Effort Report**
+### 1. Weekly Points/Effort Report
 **Every Friday**
-
 - **Action**: Fill out the weekly points/effort report.
 - **Link**: [Weekly Report Spreadsheet](https://docs.google.com/spreadsheets/d/1KXUVyDrC9199Dp6wpT6ovIkIvZRtf455eaqwZmvTAFU/edit#gid=0).
 - **Deadline for Data Sync**: Data is sync by EOD next Tuesday.
@@ -28,7 +23,7 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 
 ![[Project Delivery Schedule and Guidelines-20231205231343953.webp]]
 
-### **2. Sync-Up Between Project Lead and Delivery Manager**
+### 2. Sync-Up Between Project Lead and Delivery Manager
 **Every Friday at 2:30 PM**
 
 - **Topics**:
@@ -40,8 +35,9 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 
 ---
 
-## **Bi-Weekly and Monthly Activities**
-### **3. Project Demo/Showcase:**
+## Bi-Weekly and Monthly Activities
+
+### 3. Project Demo/Showcase:
 **Every 3rd Wednesday**
 
 - **Audience**: Consulting and Labs team.
@@ -53,7 +49,7 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 
 ![[Project Delivery Schedule and Guidelines-20231205231433316.webp]]
 
-### **4. Community Call**
+### 4. Community Call
 **Last Friday of the Month**
 
 - **Contents**:
@@ -75,7 +71,7 @@ For every 3 or 6 months, by _**Monday of the 1st week from the 1st month**_, Del
 
 ---
 
-## **Important Reminders**
+## Important Reminders
 - **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
 - **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 
