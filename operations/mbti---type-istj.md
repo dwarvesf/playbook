@@ -20,11 +20,8 @@ hide_frontmatter: false
 * There are clear lines of responsibility and a planning process.
 * They do not like to ‘wing it’ or take risks without being in possession of the facts and having thought things through so that they are clear.
 
----
-
 ### ISTJ and Career Exploration
 An ISTJ tends to <span style='color:red'>find career satisfaction</span> with careers that have the following characteristics:
-
 * Uses technical skills to work with facts and details
 * Produces a real product or service
 * Are governed by rules and regulations
@@ -36,18 +33,14 @@ An ISTJ tends to <span style='color:red'>find career satisfaction</span> with ca
 * Provides an opportunity for greater responsibility and compensation through promotion and performance evaluation
 
 When <span style='color:red'>exploring career options</span>, an ISTJ will often
-
 * Perform thorough research on currently available careers
 * Logically and realistically assess each career option
 * Need to intentionally consider options that would require change
 * Need to include their personal values as part of the selection criteria
 * Benefit from weighing out all their options to avoid making a hasty career decision
 
----
-
 ### How Type Affects Career Development
-During their <span style='color:red'>job search</span>, an ISTJ will often
-
+During their job search, an ISTJ will often:
 * Do thorough research on all prospective fields
 * Accept the job search process and length
 * Need to intentionally investigate jobs through avenues that they do not commonly use
@@ -60,11 +53,8 @@ During their <span style='color:red'>job search</span>, an ISTJ will often
 * Appear uninterested in a position due to their quiet disposition
 * Need to present their enthusiasm for the position
 
----
-
 ### ISTJ and Work
-At work, the ISTJ will often
-
+At work, the ISTJ will often:
 * Be hardworking, organized, efficient, and productive
 * Set tangible goals
 * Devise action plans to meet their established goals
@@ -76,8 +66,7 @@ At work, the ISTJ will often
 * Reliably complete work without supervision
 * Excel in areas they understand and practice
 
-At work, the ISTJ should <span style='color:red'>be aware</span> that they may
-
+At work, the ISTJ should **be aware** that they may:
 * Experience difficulty in adapting to unexpected events or unscheduled opportunities
 * Resist change and be reluctant to incorporate ideas that have not been tested
 * Need to intentionally stay open to innovative ideas in order to prevent rigidity
@@ -88,19 +77,15 @@ At work, the ISTJ should <span style='color:red'>be aware</span> that they may
 * Focus on policies and procedures and become critical or judgmental if they feel unappreciated or unable to use their abilities
 * Miss good opportunities when relying too heavily on proven experiences and dismiss new, untested processes
 
----
-
 ### Teamwork
-On a team, the ISTJ will often
-
+On a team, the ISTJ will often:
 * Work on their assigned task until completion
 * Work best in a team when all members have designated tasks and each member completes their duties
 * Use logical ideas to influence their team members and solve problems through applying common sense
 * Dislike personal issues that get in the way of the task
 * Disclose little about their personal lives
 
-On a team, the ISTJ should be aware that they may
-
+On a team, the ISTJ should be aware that they may:
 * Be viewed as a ‘picky’ team member
 * Need to place more emphasis on understanding and building rapport with their team members
 * Become irritated when team members do not complete agreed upon tasks and do not cooperate with the group
@@ -108,22 +93,16 @@ On a team, the ISTJ should be aware that they may
 * Need to make a concentrated effort to provide their opinion in a timely manner and maintain a fun attitude
 * Be more effective by focusing on the development of their interpersonal skills
 
----
-
 ### Leadership
-ISTJ <span style='color:red'>generally enjoy and pursue leadership positions</span>. As a leader, the ISTJ will often…
-
+ISTJ **generally enjoy and pursue leadership positions**. As a leader, the ISTJ will often…
 * Be fair, consistent and have clear expectations
 * Focus on the organizational needs
 * Make decisions based on what they have learned through past experiences and gathering facts
 * Lean towards the traditional and hierarchical approach to leadership
 * Usually reward those who have consistently completed the assigned task and followed the rules
 
----
-
 ### Communication
-The ISTJ will often
-
+The ISTJ will often:
 * Communicate in a clear and straightforward manner
 * Take a no-nonsense approach to expressing themselves and providing direction
 * Break down complicated information into specific, detailed sections

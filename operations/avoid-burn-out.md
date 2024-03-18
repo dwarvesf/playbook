@@ -10,8 +10,6 @@ type: null
 hide_frontmatter: false
 ---
 
----
-
 Just to be clear, this term has nothing to compare with the emotional crisis you go through daily - stress. No, burn-out isn't stress.
 
 It describes the state of physical and emotional exhaustion. Burnout reduces and sucks out your productivity. As it develops, it beats every single reason that once was your working motto. The interest, the creativity and motivation gets faded away. Your job might be done, but you no longer feel satisfied. You have nothing more to give, or break the boundaries. You fed up of doing monotonous work with same tools. You stuck in a place where there is only one question lingers: What the heck am I doing here?
@@ -24,7 +22,7 @@ A family dinner or weekend getaway may soften the mood, burnout, on the other ha
 
 So what is the best cure for burnout? Try harder? No shit. Even machines crash when you have them worked at 100% effectiveness every day.
 
-Address the changes, even the tiniest. Those early symptoms are red flags that you'll be thankful for noticing that soon. Feeling drained from a project? Talk to a coworker, seek for some help, adjust your schedule, confess to your boss how you feel or simply just shut your laptop and go grab a junk food. <span style='color:pink_background'>Just Do Something</span>.
+Address the changes, even the tiniest. Those early symptoms are red flags that you'll be thankful for noticing that soon. Feeling drained from a project? Talk to a coworker, seek for some help, adjust your schedule, confess to your boss how you feel or simply just shut your laptop and go grab a junk food. **Just Do Something**.
 
 This is where the term work-life balance comes in. It's not merely some remote days out of the week, it means making time for your own interest. Write, read, paint, travel. Things that boost your mood and remind you that life isn't just about sacrificing for work. Have your limit demarcated and take the ownership of your actions.
 

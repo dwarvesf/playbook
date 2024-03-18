@@ -11,7 +11,7 @@ hide_frontmatter: false
 author: Han 🐸
 ---
 
-I would like to introduce to you our new initiative called <span style='color:red'>**OGIF**</span> — Oh God It's Friday. Moving forward, our Friday Showcase will have a broader range of topics to discuss and share.
+I would like to introduce to you our new initiative called **OGIF** — Oh God It's Friday. Moving forward, our Friday Showcase will have a broader range of topics to discuss and share.
 
 Let's take a moment to reflect on our achievements from the past week, and look forward to the next with optimism and enthusiasm.
 
@@ -29,7 +29,7 @@ Our 70/50 culture is a well-adopted protocol among us. It means dedicating 70% o
 Our goal is to grow and make a positive impact in society, while also making a living. We are proud of the dedication and hard work that have built Dwarves. We have shipped more than 20 software and worked with 20+ clients. Our graduates continue to outperform their peers in their future endeavors.
 
 ### New topics
-We are open to discussing growth opportunities, and welcome any topic related to tech, social development, finance, and career path on Fridays. Let's take this time to <span style='color:red'>***appreciate our accomplishments***</span> and look forward to the future.
+We are open to discussing growth opportunities, and welcome any topic related to tech, social development, finance, and career path on Fridays. Let's take this time to ***appreciate our accomplishments*** and look forward to the future.
 
 Not everyone may agree with our ideas, but we hope to provide a welcoming community for those who do.
 
