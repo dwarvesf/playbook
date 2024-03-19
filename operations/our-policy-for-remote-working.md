@@ -5,7 +5,7 @@ title: Our Policy For Remote Working
 date: 2016-01-10
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

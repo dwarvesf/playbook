@@ -5,7 +5,7 @@ title: Blocking Distraction
 date: 2016-01-11
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

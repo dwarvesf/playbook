@@ -6,7 +6,7 @@ title: Applying Myersbriggs Type Indicator In Hr
 date: 2021-07-17
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
