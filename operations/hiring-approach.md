@@ -5,7 +5,7 @@ title: Hiring Approach
 date: 2018-06-26
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

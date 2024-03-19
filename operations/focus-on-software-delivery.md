@@ -5,7 +5,7 @@ title: Focus On Software Delivery
 date: 2023-02-04
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 author: Han 🐸

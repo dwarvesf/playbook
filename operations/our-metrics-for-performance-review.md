@@ -6,7 +6,7 @@ title: Our Metrics For Performance Review
 date: 2016-04-04
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

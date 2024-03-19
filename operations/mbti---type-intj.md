@@ -6,7 +6,7 @@ title: Mbti Type Intj
 date: 2021-07-26
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

@@ -6,7 +6,7 @@ title: Delegation And Believe It Will Work
 date: 2020-06-10
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

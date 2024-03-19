@@ -5,7 +5,7 @@ title: Avoid Burn Out
 date: 2020-03-17
 description: null
 authors: null
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
