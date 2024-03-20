@@ -79,11 +79,11 @@ Pick a background while editing your screenshot â€” an image or a plain color â€
 
 Or you can add color scheme similar to Dwarves branding guidelines. 
 
-![addbackgroun](<assets/how-to-make-your-screenshot-look-good/CleanShot 2024-03-17 at 14.34.19@2x.ba0df31afc60461298e09ca622c77c1b.png>)
+![addbackground](assets/how-to-make-your-screenshot-look-good/CleanShot 2024-03-17 at 14.34.19@2x.ba0df31afc60461298e09ca622c77c1b.png>)
 
 Or adding Dwarves color scheme as a background.
 
-![addbackground2](<assets/how-to-make-your-screenshot-look-good/CleanShot 2024-03-17 at 14.32.59@2x.66538477c2d8493ba8c8abce9377058c.png>)
+![addbackground2](assets/how-to-make-your-screenshot-look-good/CleanShot 2024-03-17 at 14.32.59@2x.66538477c2d8493ba8c8abce9377058c.png>)
 
 ### Overall
 Taking screenshots with CleanShot X is easy and flexible, adapting to your preferences. You can start with basic functions like capturing part of your screen or recording a screencast. If you want to get fancier, you can blur sensitive info, add backgrounds, or create explanatory visuals. CleanShot X is versatile, so you can use it however you like.
