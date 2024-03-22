@@ -1,11 +1,13 @@
 ---
-tags: ventures
+tags:
+  - ventures
+  - funding
 title: Dwarves Ventures Fund 0
 date: 2021-03-11
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-type: null
+type: 
 hide_frontmatter: false
 ---
 
