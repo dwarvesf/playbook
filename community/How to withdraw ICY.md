@@ -20,10 +20,8 @@ event_date:
 pinned: 
 hide_title: false
 ---
-## A. Set up:
-
+## A. Set up
 ### Create an on-chain crypto wallet
-
 **Install the extension on your browser**
 
 <!-- col-2 #1 -->
@@ -67,6 +65,7 @@ hide_title: false
 
 <!-- col-2 #7 -->
 - Reveal and copy the seed phrase, the save it at a safe place. It will be use to log in or import wallet when you don’t remember password, lose data on your computer, or reinstall the wallet on different platform or browser. **DO NOT SHARE WITH OTHERS** about the seed phrase.
+
 - Then Confirm the seed phrase in step 3, you will have to re-enter the provided seed phrase.
 
 ![[How to withdraw ICY-20240313143849627.webp]]
@@ -74,7 +73,6 @@ hide_title: false
 <!-- /col-2 #7 -->
 
 ### Add Network
-
 <!-- col-3 #8 -->
 Add Polygon network. Because ICY is on Polygon, therefore, to receive and swap ICY to USDT, you need to add the network to your wallet.
 
@@ -85,7 +83,6 @@ Add Polygon network. Because ICY is on Polygon, therefore, to receive and swap I
 <!-- /col-3 #8 -->
 
 **You have 2 ways to to add the network:**
-
 1. Add by shortcut on the network list
 
 <!-- col-2 #9 -->
@@ -128,16 +125,17 @@ Add Polygon network. Because ICY is on Polygon, therefore, to receive and swap I
 <!-- /col-2 #10 -->
 
 ### Create a Binance account
-
 Follow Binance guidelines and create a verified account.
 
 - Go to this link and install Binance on your mobile: [https://www.binance.com/en/download](https://www.binance.com/en/download)
 
 <!-- col-2 #11 -->
 1. After install, follow the guideline of “Crypto Novice” mode
+
 ![[How to withdraw ICY-20240313144410171.webp]]
 
 2. Confirm to create your account
+
 ![[How to withdraw ICY-20240313144425125.webp]]
 
 <!-- /col-2 #11 -->
@@ -159,7 +157,6 @@ Follow Binance guidelines and create a verified account.
 <!-- /col-3 #13 -->
 
 ## B. Withdraw token from Mochi
-
 `/withdraw` command in Mochi
 
 Note:
@@ -180,7 +177,6 @@ Note:
 <!-- /col-2 #14 -->
 
 ## C. Convert ICY to USDT
-
 Go to [https://icy.so/](https://icy.so/) to swap ICY to USDT
 
 - Connect with the created wallet
@@ -197,10 +193,12 @@ Go to [https://icy.so/](https://icy.so/) to swap ICY to USDT
 ![[How to withdraw ICY-20240313144859473.webp]]
 
 ## D. Transfer to Binance
-
 - Go to the tab Wallet and choose the Funding tab
+
 ![[How to withdraw ICY-20240313144911243.webp]]
+
 - Choose “Deposit” on Binance and choose token USDT
+
 ![[How to withdraw ICY-20240313144922569.webp]]
 
 - Select Network “Polygon” and copy the deposit address
@@ -220,7 +218,6 @@ Go to [https://icy.so/](https://icy.so/) to swap ICY to USDT
 <!-- /col-3 #16 -->
 
 ## E. Withdraw to the bank
-
 - Go to P2P trading and choose the suitable service to withdraw to the bank account
 
 ![[How to withdraw ICY-20240313145106740.webp]]
