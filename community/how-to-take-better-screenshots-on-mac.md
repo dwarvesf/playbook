@@ -38,7 +38,7 @@ You can spend time figuring out what workflow and keyboard shortcuts are best fo
 - `Command Shift 3`: captures full screen
 - `Command Shift 5`: captures  all-in-one
 - `Command Shift 5`: captures window
-- `⌘C**`: Copy to clipboard
+- `⌘C`: Copy to clipboard
 - `⌘S`: Save
 - `⌘W`: Close
 - `⌘U`: Upload to Cloud
@@ -51,32 +51,37 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 
 ![annotate](assets/how-to-take-better-screenshots/annotation-tool.png)
 
-- **Background Tool in Annotate**: Easily create beautiful social media posts that stand out from others. You can even change the padding, shadow, alignment, and border-radius of your screenshot. The Auto Balance option will make your screenshot look perfectly aligned by adjusting the space around the content.
+- **Background Tool in Annotate:** easily create beautiful social media posts that stand out from others. You can even change the padding, shadow, alignment, and border-radius of your screenshot. The Auto Balance option will make your screenshot look perfectly aligned by adjusting the space around the content.
 
-![backgroundtool](assets/how-to-take-better-screenshots/background-tool.png)
+- **Using Dwarves color scheme in Background Tool:** when editing your cropped screenshot in Cleanshot, you have the option to place it on a blank canvas or use Dwarves’ branding color scheme. It's also possible to easily customize the screenshot.
 
-When editing your cropped screenshot in Cleanshot, you have the option to place it on a blank canvas or use brand color scheme. It's also possible to easily customize the screenshot. 
+1. Customization at Pain Color: choose a custom color using the RGB sliders and enter a Hex code `F8F8F8`.
+2. Dwarves' Branding Scheme: set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
+3. Alignment: center your screenshot on the canvas for a balanced look.
+4. Padding: adjust the padding to 76 for optimal spacing around your content.
+5. Shadow: apply a shadow effect with a strength of 28 to enhance the depth of your screenshot.
+6. Dwarves Logo: add the Dwarves logo in the top left corner.
 
-![df1](assets/how-to-take-better-screenshots/df-background-1.png)
+![dfcolorscheme](assets/how-to-take-better-screenshots/df-color-scheme.png)
+![rgb](assets/how-to-take-better-screenshots/rgb-df.png)
 
 **Screen Capture Features** 
-- **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling.
+- **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling
+This feature is used when using VSCode to write articles/publications and will submit screenshots to the manager for feedback on both content and visual.
 
 ![scrolling](assets/how-to-take-better-screenshots/scrolling-capture.mp4)
 
-- **Capture Text (OCR)**: Use OCR to capture text from your screen. Simply select an area that contains the text, and it will be copied to your clipboard.
+- **Capture Text (OCR)**: use OCR to capture text from your screen. Simply select an area that contains the text, and it will be copied to your clipboard.
 
 ![capturetext](assets/how-to-take-better-screenshots/cleanshot-x-all-features.mp4)
 
-- **All-In-One mode**: This mode allows you to specify the size and lock the aspect ratio for your screenshots. It also saves your last selection, making it easier to retake your last screenshot.
+- **All-In-One mode**: this mode allows you to specify the size and lock the aspect ratio for your screenshots. It also saves your last selection, making it easier to retake your last screenshot.
 
 ![allinone](assets/how-to-take-better-screenshots/clean-shot.png)
 
-- **Recording Features**: Choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen. With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
+- **Recording Features**: choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen. With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
 
-![trimvideo](assets/how-to-take-better-screenshots/trim-video.png)
-
-- **Open History**: Access your screenshot history. You can remove files from the Capture History or restore recent captures if you ever need them again.
+- **Open History**: access your screenshot history. You can remove files from the Capture History or restore recent captures if you ever need them again.
 
 ### Overall
 This guide will help you quickly make great screenshots with this tool. It does exactly what we need it to do, and I think you'll love it, too. Keep practicing with these tools—they're like the cherry on top, adding that extra something to your work.
