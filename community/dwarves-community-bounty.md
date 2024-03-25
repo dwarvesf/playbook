@@ -36,4 +36,4 @@ Please note that the bounties will only be reward after the Pull Request (PR) 
 💰 More bounties are coming soon at: [https://earn.d.foundation/](https://earn.d.foundation/)
 🤖 Give @smod or @hnh a ping if you want to take any todo
 
-![[64ec467481612369df3f5cff12c2e5e9_MD5.webp]]
+![](assets/dwarves-community-bounty_64ec467481612369df3f5cff12c2e5e9_md5.webp)
