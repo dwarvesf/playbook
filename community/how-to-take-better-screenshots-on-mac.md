@@ -25,7 +25,8 @@ CleanShot X is actually an app I downloaded as part of my Setapp subscription. I
 
 1. Sign up subscription on Setapp
 2. Download and install CleanShot X
-3. Once installed, you will find various commands under the CleanShot X Extension by clicking the CleanShot shortcut in the Control Center.
+3. Once installed, the app is going to ask if you want CleanShot to be your default screenshot tool.
+4. You will find various commands under the CleanShot X Extension by clicking the CleanShot shortcut in the Control Center.
 
 ![menu bar](assets/how-to-take-better-screenshots/menu-bar-shortcut.png)
 
@@ -33,15 +34,15 @@ CleanShot X is actually an app I downloaded as part of my Setapp subscription. I
 **Added keyboard shortcuts to Quick Access Overlay**
 You can spend time figuring out what workflow and keyboard shortcuts are best for you. Open settings, here’s what I found works best for my setup.
 
-- `Command Shift 4` capture area / a part of the screen
-- `Command Shift 3` capture full screen
-- `Command Shift 5`  capture  all-in-one
-- `Command Shift 5`   capture window
-- `⌘C**` - Copy to clipboard
-- `⌘S` - Save
-- `⌘W` - Close
-- `⌘U` - Upload to Cloud
-- `⌘E`- Open annotation tool
+- `Command Shift 4`: capturse an area / a part of the screen
+- `Command Shift 3`: captures full screen
+- `Command Shift 5`: captures  all-in-one
+- `Command Shift 5`: captures window
+- `⌘C**`: Copy to clipboard
+- `⌘S`: Save
+- `⌘W`: Close
+- `⌘U`: Upload to Cloud
+- `⌘E`: Open annotation tool
 
 CleanShot is highly customizable — you can adjust nearly every behavior and tweak settings for your needs.
 
@@ -50,9 +51,7 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 
 ![annotate](assets/how-to-take-better-screenshots/annotation-tool.png)
 
-- **Background Tool in Annotate**: Easily create beautiful social media posts that stand out from others.You can even change the padding, shadow, alignment and border radius of your screenshot.
-
-The Auto Balance option will make your screenshot look perfectly aligned by adjusting the space around the content of your screenshot.
+- **Background Tool in Annotate**: Easily create beautiful social media posts that stand out from others. You can even change the padding, shadow, alignment, and border-radius of your screenshot. The Auto Balance option will make your screenshot look perfectly aligned by adjusting the space around the content.
 
 ![backgroundtool](assets/how-to-take-better-screenshots/background-tool.png)
 
@@ -61,8 +60,7 @@ When editing your cropped screenshot in Cleanshot, you have the option to place 
 ![df1](assets/how-to-take-better-screenshots/df-background-1.png)
 
 **Screen Capture Features** 
-
-- **Scrolling capture** refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly or use auto scrolling.
+- **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling.
 
 ![scrolling](assets/how-to-take-better-screenshots/scrolling-capture.mp4)
 
@@ -70,17 +68,15 @@ When editing your cropped screenshot in Cleanshot, you have the option to place 
 
 ![capturetext](assets/how-to-take-better-screenshots/cleanshot-x-all-features.mp4)
 
-- **All-In-One mode**: With this mode, you can specify the size and lock the aspect ratio for your screenshots. It also saves your last selection, so it's easier to retake your last screenshot.
+- **All-In-One mode**: This mode allows you to specify the size and lock the aspect ratio for your screenshots. It also saves your last selection, making it easier to retake your last screenshot.
 
 ![allinone](assets/how-to-take-better-screenshots/clean-shot.png)
 
-- **Recording Features**: Choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen.
-
-With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
+- **Recording Features**: Choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen. With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
 
 ![trimvideo](assets/how-to-take-better-screenshots/trim-video.png)
 
 - **Open History**: Access your screenshot history. You can remove files from the Capture History or restore recent captures if you ever need them again.
 
 ### Overall
-I believe this guide will help you make great screenshots quickly with this tool. It does exactly what we need it to do, and we think you'll love it too. Keep practicing with these tools—they're like the cherry on top, adding that extra something to your work.
+This guide will help you quickly make great screenshots with this tool. It does exactly what we need it to do, and I think you'll love it, too. Keep practicing with these tools—they're like the cherry on top, adding that extra something to your work.
