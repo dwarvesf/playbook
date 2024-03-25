@@ -5,7 +5,7 @@ Right now our team is scattered between VSCode and Emacs (Spacemacs).
 
 > The Spacemacs gang live far from the human realm, with all 10 fingers moving constantly to ramp through everything they open, writing Elisp to change editor's behavior on-the-fly, switching projects or playing next Spotify song is just a keymap away. They ain't fear nothing.
 
-![](assets/editor/8e380693a95223eb551446f9171e4c4a_MD5.webp)
+![](assets/editor_8e380693a95223eb551446f9171e4c4a_md5.webp)
 
 ## Using the right tool for the job
 *A well personalized (and configured) editor can signigficantly boost your productivity, pick one and make it yours.*

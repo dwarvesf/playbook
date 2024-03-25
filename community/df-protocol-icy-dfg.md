@@ -34,6 +34,6 @@ Hopefully the Dwarves brand could continue to thrive and we will all benefit fro
 
 Enjoy the play 💻
 
-![[💠 df protocol, $icy and $dfg-20231122144733966.webp]]
+![](assets/df-protocol-icy-dfg_💠-df-protocol,-$icy-and-$dfg-20231122144733966.webp)
 
-![[💠 df protocol, $icy and $dfg-20231122144740106.webp]]
+![](assets/df-protocol-icy-dfg_💠-df-protocol,-$icy-and-$dfg-20231122144740106.webp)

@@ -14,9 +14,9 @@ Look at the release notes of those apps or the changelog of Go programming langu
 
 They are not the standard but should capture what we want to deliver.
 
-![](img/changelog-sample.webp)
+![](assets/changelog-sample.webp)
 
-![](img/changelog-go.webp)
+![](assets/changelog-go.webp)
 
 #### What makes a good change log?
 - [ ] Changelogs are for humans, not machines.

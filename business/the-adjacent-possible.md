@@ -37,7 +37,7 @@ Outside of this ‘what we have’ is the realm of ‘***the possible***‘, i.e
 
 However, the realm of *the possible* is far from homogeneous; not all possibilities are equally achievable. Near *the actual*, you’ll find ‘***the adjacent possible***‘, which is the zone of (comparatively) easily achievable possibilities. These are the possibilities ‘within reach’, or ‘just one step away’. *The adjacent possible* is the domain of innovation.
 
-![[ec265ab423ab94bc12c32ecaeec5378c_MD5.webp]]
+![](assets/the-adjacent-possible_ec265ab423ab94bc12c32ecaeec5378c_md5.webp)
 
 *The adjacent possible is the zone stay in between the actual (the current state of the art) & the possible.*
 
