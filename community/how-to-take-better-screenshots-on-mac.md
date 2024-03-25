@@ -55,12 +55,12 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 
 - **Using Dwarves color scheme in Background Tool:** when editing your cropped screenshot in Cleanshot, you have the option to place it on a blank canvas or use Dwarves’ branding color scheme. It's also possible to easily customize the screenshot.
 
-1. Customization at Pain Color: choose a custom color using the RGB sliders and enter a Hex code `F8F8F8`.
-2. Dwarves' Branding Scheme: set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
-3. Alignment: center your screenshot on the canvas for a balanced look.
-4. Padding: adjust the padding to 76 for optimal spacing around your content.
-5. Shadow: apply a shadow effect with a strength of 28 to enhance the depth of your screenshot.
-6. Dwarves Logo: add the Dwarves logo in the top left corner.
+1. **Customization at Pain Color:** choose a custom color using the RGB sliders then enter a Hex code **`F8F8F8`**.
+2. **Dwarves' Branding Scheme:** Set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
+3. **Alignment:** center your screenshot on the canvas for a balanced look.
+4. **Padding:** adjust the padding to 76 for optimal spacing around your content.
+5. **Shadow:** apply a shadow effect with a strength of 28 to enhance the depth of your screenshot.
+6. **Dwarves Logo:** add the Dwarves logo in the top left corner
 
 ![dfcolorscheme](assets/how-to-take-better-screenshots/df-color-scheme.png)
 ![rgb](assets/how-to-take-better-screenshots/rgb-df.png)
