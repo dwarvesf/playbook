@@ -73,11 +73,7 @@ This feature is used when using VSCode to write articles/publications and will s
 
 - **Capture Text (OCR)**: use OCR to capture text from your screen. Simply select an area that contains the text, and it will be copied to your clipboard.
 
-![capturetext](assets/how-to-take-better-screenshots/cleanshot-x-all-features.mp4)
-
 - **All-In-One mode**: this mode allows you to specify the size and lock the aspect ratio for your screenshots. It also saves your last selection, making it easier to retake your last screenshot.
-
-![allinone](assets/how-to-take-better-screenshots/clean-shot.png)
 
 - **Recording Features**: choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen. With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
 
