@@ -66,7 +66,7 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 ![rgb](assets/how-to-take-better-screenshots/rgb-df.png)
 
 **Screen Capture Features** 
-- **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling
+- **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling.
 This feature is used when using VSCode to write articles/publications and will submit screenshots to the manager for feedback on both content and visual.
 
 ![scrolling](assets/how-to-take-better-screenshots/scrolling-capture.mp4)
