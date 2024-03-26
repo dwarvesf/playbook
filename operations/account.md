@@ -1,10 +1,13 @@
 ---
 tags: 
   - operation
+  - management
 title: Account
 date: 2020-03-25
 description: null
-authors: null
+authors: 
+- Han 🐸
+- duy
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -36,13 +39,13 @@ Good service quality, fast response, keep an up-close-and-personal communication
 ### Management
 Know your team members and know the company goals very well.
 
-Know when to make a tough decision
+Know when to make a tough decision.
 
-Know when your team members need to step up in the game
+Know when your team members need to step up in the game.
 
-Know how to identify when the client is being unreasonable
+Know how to identify when the client is being unreasonable.
 
-Know how to let go of the ego, and embrace the present
+Know how to let go of the ego, and embrace the present.
 
 ### Building Relationships
 One way to impress a client is firstly yielding to their paths first. Once they see that you are (kind of) on their sides, they will have more trust in you. Then they will become more open with you.

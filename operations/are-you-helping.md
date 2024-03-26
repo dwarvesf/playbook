@@ -1,9 +1,11 @@
 ---
 tags: 
   - performance
+  - operations
+  - hiring
 title: Are You Helping
 date: 2023-01-31
-description: null
+description: In a recent post I wrote "Inner Circle", I expounded on the importance of contribution and value in relation to a person's work or performance.
 authors: null
 menu: playbook
 type: null

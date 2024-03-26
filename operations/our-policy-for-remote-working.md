@@ -1,10 +1,13 @@
 ---
 tags: 
   - remote
+  - operations
+  - policy
 title: Our Policy For Remote Working
 date: 2016-01-10
-description: null
-authors: null
+description: Some useful practices we adopted to keep the remote working system goes smoothly. This policy is written in the context of our current company setup.
+authors: 
+- Han 🐸
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -73,7 +76,6 @@ If you're leading a meeting, it's your responsibility to start the meeting on ti
 All team members should make themselves available for face-to-face meetings between 10:30am - 1:00p, as long as they are scheduled at least 24 hours in advance. If a meeting needs to happen outside of these hours, the meeting organizer should scheduled it a week in advance.
 
 **Meetings should have a video option**
-
 If you're hosting a meeting with a remote worker invited, it's your responsibility to provide a video link before the meeting starts for them to join.
 
 If you're attending a meeting remotely, you should join the video call before a meeting starts. It's your responsibility to ensure this is possible — this means being in a quiet place with a fast internet connection before the meeting starts. Calling into a meeting via phone or from a public place is unacceptable.
@@ -88,4 +90,3 @@ Having the flexibility to work remotely is a privilege. If an employee's unable 
 If an employee works remotely, they should make the topic of their remote work a regular part of weekly 1:1s.
 
 This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of the company that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
-

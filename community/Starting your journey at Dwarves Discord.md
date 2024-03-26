@@ -3,6 +3,7 @@ tags:
   - discord
   - introduction
   - journey
+  - community
 title: Starting your journey at Dwarves Discord
 date: 2024-03-13
 description: We've grown a lot since launching our Discord server since the first day we made this network grow based on developers-centric. That’s why Dwarves Discord is operated as a 50% company, 50% community...
@@ -32,7 +33,6 @@ That’s why Dwarves Discord is operated as a 50% company, 50% community. Discor
 In this update, we're thrilled to announce a new Discord System that can make it easier to connect with fellow community members.
 
 ## Welcome to our server
-
 ### Community channels
 
 - off-topic (our general hangout zone)
@@ -45,7 +45,6 @@ In this update, we're thrilled to announce a new Discord System that can make it
     - 🎒・topics
 
 ### Internal channels
-
 - project (on-going projects, consulting staffs zone)
 - consulting (peeps zone, company-wide channel for every discussion)
     - 🏢・lobby
@@ -58,38 +57,32 @@ In this update, we're thrilled to announce a new Discord System that can make it
     - 🧊・icy-log
 
 ### Discord Roles
-
 We’ve reorganized the discord roles system, these roles hold significant value as we're growing into an open community. They are ladder-based and function-based roles.
 
 Along with these roles come additional activities and benefits, especially once NFT and $icy staking are introduced.
 
 #### MMA-based new roles system
-
 - @labs (Mastery): your expertise is admired
 - @sers (Meaning): your contributions are recognized, both at work and outside.
 - @chad (Autonomy): your effectiveness in terms of quality, quantity, communication, cooperation, and reliability has been noticed ~ high performer
 
 #### Moderating
-
 - supporter: help with day-to-day activity, welcome new folks.
 - moderator: organize events, tech talks,...
 - smod: run community & company-wide operational works.
 
 #### Community members
-
 - guest: default role upon joining
 - newbie: granted after introduction, verify, get role
 - frens: folks who actively discuss in our public channel
 
 #### Consulting staffs
-
 - apprentice: newcomers, qualified to work with us.
 - baby dwarf: purpose seeking
 - dwarf: joined our r&d, learning activities.
 - specialist: mastery in one specific vertical
 
 ### Discord Bots
-
 We've built some self-built bots to manage tasks and make your experience on the server more enjoyable. Here's a quick rundown:
 
 **Mochi:** tip bot. Mochi helps you send someone a virtual pat on the back, a kudo, to show your appreciation for others.

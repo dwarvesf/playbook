@@ -2,10 +2,13 @@
 tags: 
   - mbti
   - ISTP
-title: Mbti Type Istp
+  - people
+  - operations
+title: MBTI Type ISTP
 date: 2021-07-25
-description: null
-authors: null
+description: All about the ISTP personality type
+authors: 
+- namtran
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -34,7 +37,7 @@ When **exploring career options**, an ISTP will often:
 * Feel uncertain about their career choice
 
 ### How Type Affects Career Development
-During **their job search**, an ISTP will often
+During **their job search**, an ISTP will often:
 * Gather specific job related information
 * Need to intentionally organize a job search plan with specific deadlines
 * Need to expend extra effort in their job search
@@ -51,7 +54,7 @@ During an **interview**, an ISTP will often:
 * Need to be cautious of the amount of detail they provide, be able to discuss future projections, and assess hypothetical situations
 
 ### ISTP and Work
-At work, the ISTP will often
+At work, the ISTP will often:
 * Maintain their concentration while completing projects of interest
 * Gather and organize information in a way that makes it understandable
 * Be drawn to work with real or tangible products
@@ -65,7 +68,7 @@ At work, the ISTP will often
 * Desire freedom to complete a task within their own timeframe
 * Remain calm during crisis or difficult situations
 
-At work, the ISTP should **be aware** that they may
+At work, the ISTP should **be aware** that they may:
 * Need to spend additional time in the planning stage of a project
 * Need to anticipate future possibilities and plan accordingly
 * Be easily enticed by new projects and need to ensure they complete their current commitments
@@ -111,3 +114,44 @@ The ISTP will often:
 * Refrain from unnecessary communication
 * Rely heavily on non-verbal communication
 * Dislike surface level conversations
+
+The ISTP should be aware that they may need to:
+* Intentionally communicate their thoughts and important information with people
+* Prevent hurting people by becoming more comfortable with sharing their emotions
+* Be more considerate of some people’s need to express their feelings
+* Focus on developing their listening abilities
+* Intentionally provide feedback and be cautious of their abrupt communication style
+
+### Decision Making
+When it comes to decision making, the ISTP will often
+* Gather real or tangible data and base their decisions on this information
+* Rationally and logically evaluate their options
+* Need to intentionally examine the larger picture or additional possibilities
+* Benefit from examining the impact their decision has on people
+* Need to intentionally incorporate their values
+
+### Stress
+An ISTP will often experience stress when
+* Feeling that their emotions are out of control
+* Working within strict guidelines and requirements
+* Perceiving their coworkers or supervisors are incompetent
+* Confronted with a situation that cannot be logically assessed or explained
+* Overwhelmed with their required tasks and neglect their personal needs
+* Unable to determine the most efficient process
+* Required to participate in too many extraverted activities
+* Dealing with people who are excessively emotional
+
+When they are affected by stress, an ISTP will often
+* Develop a firm and unwavering focus on logic
+* Respond poorly when others provide helpful ideas
+* Become overly sensitive to how other people perceive them
+* Feel alienated from the people around them
+* Use a tone that is underlined with complaining or sulking
+* Under excessive stress, express emotions through outbursts of anger or tears
+
+Advice: An ISTP can reduce stress by
+* Evaluating the facts in a situation to gain new insight
+* Participating in independent activities that diverts their attention from the stressor
+* Focusing on what they value
+* Spending time on their own to reenergize
+* Ignoring their concern of how other people perceive them

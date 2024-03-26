@@ -2,10 +2,13 @@
 tags: 
   - mbti
   - ESTJ
-title: Mbti Type Estj
+  - people
+  - operations
+title: MBTI Type ESTJ
 date: 2021-07-24
-description: null
-authors: null
+description: All about the ESTJ personality type
+authors: 
+- namtran
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -26,8 +29,6 @@ hide_frontmatter: false
 * Clear lines of responsibility and a planning process.
 * Do not like to ‘wing it’ or take risks without being in possession of the facts and having thought things through.
 
----
-
 ### ESTJ and Career Exploration
 An ESTJ tends to find career satisfaction with careers that have the following characteristics:
 
@@ -46,8 +47,6 @@ When exploring career options, an ESTJ will often…
 * Need to incorporate their values into their career decision
 * Select their career direction early and rarely question their choice
 
----
-
 ### How Type Affects Career Development
 During their job search, an ESTJ will often...
 * Organize an efficient job search
@@ -60,8 +59,6 @@ During an interview, an ESTJ will often...
 * Effectively convey their skills and competencies that relate to the positionProvide examples of past experiences
 * Need to intentionally cultivate a connection with the employer
 * Need to be cautious not to appear too abrupt or talk too much
-
----
 
 ### ESTJ and Work
 At work, the ESTJ will often…
@@ -88,8 +85,6 @@ At work, the ESTJ should be aware that they may…
 * Need to recognize that all people will not be like them and may effectively work at a different pace
 * Need to patiently gather additional information to optimize the quality of their work
 
----
-
 ### Teamwork
 On a team, the ESTJ will often…
 * Contribute their time, energy, and problem-solving abilities
@@ -106,8 +101,6 @@ On a team, the ESTJ should be aware that they may…
 * Become frustrated with slow working members who deviate from the set procedures, lack commitment, or inefficiently complete tasks
 * Need to balance their focus on the task with the needs of each group member
 
----
-
 ### Leadership
 ESTJs generally enjoy and pursue leadership positions. As a leader, the ESTJ will often…
 * Create an organized plan that focuses on achieving results
@@ -119,8 +112,6 @@ ESTJs generally enjoy and pursue leadership positions. As a leader, the ESTJ wil
 * Need to recognize the small accomplishments throughout a project
 * Need to remember to address the personal needs of their group
 
----
-
 ### Communication
 The ESTJ will often…
 * Honestly and clearly present their thoughts, ideas, and opinions
@@ -131,3 +122,46 @@ The ESTJ will often…
 * Limit their involvement in small talk
 
 The ESTJ should be aware that they may need to…
+* Convey their opinions without being overly critical or judgmental
+* Communicate with their coworkers throughout all stages of a project
+* Ensure they listen to others and are not overly forceful of their ideas
+* Refrain from interrupting people during a conversation
+*  Provide positive comments and acknowledge people’s accomplishments
+
+### Decision Making
+When it comes to decision making, the ESTJ will often…
+* Objectively and logically evaluate each option
+* Reflect on past experiences and apply them to current decisions
+* Be able to make difficult decisions and adhere to their principles
+* Need to intentionally consider the effect their decision will have on others
+* Need to ensure they gather all necessary information before making a decision
+* Make quick decisions and may benefit from further considering their options
+
+### Stress
+An ESTJ will often experience stress when…
+* Perceiving others or themselves are unable to complete their duties
+* Dealing with frequent changes or uncertainty
+* Lacking control over their time or duties
+* Working within an inefficient group or unorganized environment
+* Feeling unable to deal with their emotions or the emotional expression of others
+* Requested to extend beyond their current leadership position during a crisis
+* Unintentionally having a negative affect on people as they pursue their goals
+* Planning and organizing does not fix a problem
+
+When they are affected by stress, an ESTJ will often…
+* Become withdrawn and question their personal worth
+* Lose control of their emotions and display outbursts of anger or tears
+* Consume themselves with work and become more impersonal or detached
+* Become rigid, inflexible, or unwilling to consider new ideas
+* Fear that they are not liked by others
+* Experience difficulty in discussing and articulating their feelings
+* Under significant stress, abruptly express their critical judgments of others or experience difficulty in discussing their personal feelings of despair or depression
+
+Advice: An ESTJ can reduce stress by…
+* Talking through their feelings with others
+* Considering how the situation will impact others
+* Reestablishing control through spending time on their own
+* Assessing whether their goals should be adjusted
+* Participating in activities that facilitate reflection on their feelings
+* Spending time making a decision
+Realistically evaluating the expectations they have of others

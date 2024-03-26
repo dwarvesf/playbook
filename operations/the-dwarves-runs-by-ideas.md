@@ -5,14 +5,15 @@ tags:
   - idea
 title: The Dwarves Runs By Ideas
 date: 2020-09-07
-description: null
-authors: null
+description: We figure a small team is easier to share perspectives, update on what's happening and discuss different work aspects. Besides better communication, working cross functional creates a higher chance to understand the whole operation flow. 
+authors: 
+- duy
 menu: playbook
 type: null
 hide_frontmatter: false
 ---
 ## Minimal human intervention
-Our operations runs on four branches: <span style='color:pink'>Account</span> for client happiness arrangement - <span style='color:pink'>PeopleOps</span> for resource allocation - <span style='color:pink'>Human Resource</span> for recruitment and employee experience, & <span style='color:pink'>Communication</span> for info transmission across the platforms. 
+Our operations runs on four branches: **Account** for client happiness arrangement - **PeopleOps** for resource allocation - **Human Resource** for recruitment and employee experience, & **Communication** for info transmission across the platforms. 
 
 It's a bit different from other operations flows out there. But we do it on purpose.
 
@@ -35,4 +36,3 @@ It should be on point. It either solves a problem or optimize a potential workfl
 Idea shouldn't be bullshit. In other words, pointless ideas waste people's time and reduce your reliability when it comes to brainstorm.
 
 Idea connects all the dots into one. Hence, those who carry the best idea gets to call the shot, whether they are a 1-month intern or a 3-year manager. If you don't have new ideas to add, why are you here?
-

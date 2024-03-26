@@ -2,10 +2,13 @@
 tags: 
   - mbti
   - INTJ
-title: Mbti Type Intj
+  - people
+  - operations
+title: MBTI Type INTJ
 date: 2021-07-26
-description: null
-authors: null
+description: All about the INTJ personality type
+authors: 
+- namtran
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -62,8 +65,6 @@ During an interview, an INTJ will often:
 * Need to be open to discussing their ideas and accepting criticism
 * Need to ensure they display an eager attitude for the job
 
----
-
 ### INTJ and Work
 At work, the INTJ will often:
 * Be organized, confident, productive, and committed
@@ -115,3 +116,50 @@ As a leader, the INTJ will often:
 * Create necessary paths to ensure that the ideas become reality
 * Motivate themselves and others to meet their goals
 * Ensure that everyone is kept on task
+
+### Communication
+The INTJ will often:
+* Prefer direct and honest communication
+* Communicate their decisions, opinions, and plans but **rarely discuss their personal insights**
+* Use a task-orientated approach that focuses on their big-picture ideas
+* Have a tendency to point out flaws or be critical
+* Become impatient with others when their ideas are not understood
+
+The INTJ should be aware that they may need to:
+* Incorporate concrete facts and details in order to paint a clear and tangible picture for their audience
+* Consider how their words affect or impact people
+* Accept feedback from people
+* Listening to the peoples personal sharing and respond without being unfriendly or impersonal
+* Communicate their own feelings that relate to a situation
+
+### Decision Making
+When it comes to decision making, the INTJ will often:
+* Be logical and objective
+* Thoroughly analyze and assess the situation or problem
+* Need to consider specific details when evaluating their options
+* Make a decision without consulting an outside source
+* Need to consider the impact their decisions have on people
+
+### Stress
+An INTJ will often experience stress when:
+* Required to alter their plans or are given limited time to adjust to variations
+* Achieving less than desirable results
+* Encountering details that contradict logic
+* Working with people they do not perceive to be competent, rational, or logical
+* Surrounded by a disorganized work environment
+* Pressured to breach policies or accept deception in their workplace
+
+When affected by stress, an INTJ will often:
+* Use card playing, excessive eating, watching tv reruns, or focusing on detail-orientated activities as a mechanism to avoid reality
+* Gather details to support their self-destructive behavior and attack their self image
+* Become preoccupied with the cause of their stress and have trouble focusing their energy on work
+* Mentally review issues which lead to sleepless nights
+* With chronic stress, become irritable, tired, tense, or angry
+
+Advice: An INTJ can reduce stress by:
+* Realigning their perspective by completing a task
+* Taking time to reflect and potentially reduce their commitments
+* Getting involved in a physical activity with friends
+* Allowing other people to help by delegating some responsibilities
+* Learning that relaxing does not require pushing themselves to achieve
+* Learning how to connect with people

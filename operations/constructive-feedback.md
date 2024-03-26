@@ -1,10 +1,13 @@
 ---
 tags: 
-  - tips
+  - team
+  - performance 
+  - operations
 title: Constructive Feedback
 date: 2020-05-28
-description: null
-authors: null
+description: It's in human nature to instantly lose their mind when things get hard, and somehow they split nasty things that can't be undone. So, to reduce the ratio of unnecessary conflicts, let's make the feedback great again.
+authors: 
+- Han 🐸
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -33,4 +36,3 @@ It's good to seek for comment from a friend, but it's even better to receive a s
 
 ## Constructive, not Destructive
 Feedback can either become a judgement or encouragement. So whether it is giving or receiving feedback, have it conveyed in a useful way. Instead of "*please, I stopped reading it at the first line*", try "*I think the title hasn't been catchy enough. Maybe adding a hook sentence would be better*".
-
