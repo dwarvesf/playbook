@@ -157,7 +157,7 @@ git commit --amend
 >
 > Ref: https://www.atlassian.com/git/tutorials/using-branches/git-merge
 
-![](assets/git/c7faf053506c6c85b0d5fc06e49f2f7c_MD5.webp)
+![](assets/git_c7faf053506c6c85b0d5fc06e49f2f7c_md5.webp)
 
 Usage
 
@@ -178,7 +178,7 @@ git merge feat/feature-2 # merge feature-2 into the current branch
 >
 > Ref: https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 
-![[playbook/engineering/assets/git/584a1f36a68a3fb68b4c7bb10bd72eb0_MD5.svg]]
+![](assets/git_584a1f36a68a3fb68b4c7bb10bd72eb0_md5.svg)
 
 Usage
 

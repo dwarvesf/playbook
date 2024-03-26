@@ -7,7 +7,7 @@ The performance and survival of a large number of organizations now depend on th
 - [Craftsmanship](#the-craftsmanship)
 - [Minifesto](#minifesto)
 
-![](img/software.webp)
+![](assets/readme_software.webp)
 
 ## **Engineering Drive**
 *We build a company where software engineering discipline could shine, innovative and quality products are shipped and change the world for the better.*

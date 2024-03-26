@@ -21,7 +21,7 @@ Instead of introducing a list of exciting bonding crap, make yourself comfy with
 
 Or spend less than 20 minutes scanning through <span style='color:pink_background'>**[the Dwarves Culture Handbook](https://github.com/dwarvesf/handbook/blob/master/what-we-value.md)**</span>
 
-![[464cd6715a58d2bd2f0f97ab9e8adeac_MD5.webp]]
+![](assets/the-dwarves-culture-handbook_464cd6715a58d2bd2f0f97ab9e8adeac_md5.webp)
 
 It conveys our spirit and everything that made us who we are. In a broader context, it defines our belief and what we aim to follow in the future. It speaks the original aspects at Dwarves Foundation. It took time to build through observation, through the day-to-day at the office, through the message or the pings. It's what occurs and forms through times when no one is watching.
 

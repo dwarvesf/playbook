@@ -60,7 +60,7 @@ We use GLP stack as a remote logging service.
 - Grafana Loki: multi-tenant log aggregation system. It indexes only metadata and doesn't index the content of the log.
 - Grafana: the visualization tool which consumes data from Loki data sources
 
-![](img/log/glp.webp)
+![](assets/log_glp.webp)
 
 ## Remote Error Tracking Service
 When an error occurs, we also send them to [Sentry](https://github.com/getsentry/sentry). Sentry is cross-platform application monitoring, with a focus on error reporting.
