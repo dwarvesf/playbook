@@ -24,7 +24,7 @@ If you share the same goals and mindsets, you're welcomed to join us.
 
 ![[dwarves-community-20240304213917412.webp|100x100]]
 
-![[dwarves-community-20231215165541626.webp]]
+![](assets/dwarves-community-20231215165541626.webp)
 
 ## Our activities
 ---

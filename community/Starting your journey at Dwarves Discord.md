@@ -100,4 +100,4 @@ We've built some self-built bots to manage tasks and make your experience on the
 
 That’s all for now. You can visit Dwarves and have a good time, we look forward to seeing you [on the server.](http://discord.gg/dwarvesv)
 
-![[Starting your journey at Dwarves Discord-20240313151914065.webp]]
+![](assets/starting-your-journey-at-dwarves-discord-20240313151914065.webp)
