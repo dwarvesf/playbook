@@ -18,7 +18,7 @@ Focused on key security areas crucial for our everyday tasks and operations, our
 - Pull and Push Codes
 - Download and Upload Files
 - Authentication
-- Browsing Web
+- [Browsing Web](./browsing-web.md)
 - Work Remotely
 - Communication via Messaging Apps
 - Using Email
