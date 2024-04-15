@@ -1,11 +1,13 @@
 ---
 tags:
-  - dwarves
-  - work
+  - business
+  - startup
+  - operations
 title: lean-canvas
 date: 2023-10-16
-description:
-authors: []
+description: Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
+authors: 
+- han
 menu:
 type: playbook
 ---
@@ -13,7 +15,7 @@ type: playbook
 ## Lean Canvas
 Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
 
-![alt text](https://leanstack.com/assets/v2/leancanvas-0c61f6b1e7c978ea69a47946f2ab60a5a3be0909da861c2b377d7c63faf1e5d6.png "Lean Canvas")
+![leancanvas](assets/lean-canvas/leancanvas.png)
 
 ### 1. Problem
 What is the crucial problem faced by the product’s consumers? Capture their central frustration. The best way to describe the problem is in terms of the jobs customers need to do, what they are ultimately trying to achieve and what is the pain or frustration they currently feel. Possibly with a concise sentence.

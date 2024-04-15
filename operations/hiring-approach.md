@@ -1,10 +1,15 @@
 ---
 tags: 
   - people
+  - operations
+  - hiring
 title: Hiring Approach
 date: 2018-06-26
-description: null
-authors: null
+description: Hire people who tell us what to do, not the other way around.
+authors: 
+- Han 🐸
+- duy
+- giangthan
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -63,7 +68,7 @@ Make certain you're spreading your net wide enough to find those high-potential,
 ### Protecting vs. Growing Culture
 For many companies, hiring means selecting people who fit the existing culture and keeping out those who don’t. Hiring is gatekeeping.
 
-Our culture is dynamic. It should expand like our business. We welcome its change. Just like we want people to contribute new skills and ideas, we want people to contribute new culture. Hiring culture-fitters does not make our culture better.﻿
+Our culture is dynamic. It should expand like our business. We welcome its change. Just like we want people to contribute new skills and ideas, we want people to contribute new culture. Hiring culture-fitters does not make our culture better.
 Hire culture-contributors who will make our culture better.
 
 ![](assets/hiring-approach_446cd358745fe9024a7304905bb0572a_md5.webp)

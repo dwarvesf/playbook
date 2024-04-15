@@ -1,7 +1,7 @@
 ---
 tags:
-  - dwarves
-  - work
+  - design
+  - 
 title: wireframe
 date: 2023-10-16
 description:

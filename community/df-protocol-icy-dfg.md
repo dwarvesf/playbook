@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - icy
   - protocol
   - dfg

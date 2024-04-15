@@ -2,10 +2,12 @@
 tags: 
   - performance
   - people
+  - operations
 title: Our Metrics For Performance Review
 date: 2016-04-04
-description: null
-authors: null
+description: Performance is a final value that will be calculated from other metrics. This value will help to indicate how good all the activities we've done to make the company could grow.
+authors: 
+- Han 🐸
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -69,7 +71,7 @@ How do you treat others? How is your teamwork skill? You don't have to follow th
 
 <!-- child_page 656deb24-6315-44fe-b5b5-1c3b546f3ffd -->
 
-# Fire quickly
+## Fire quickly
 * False positives: people who you thought fit your values, but don’t once they’re hired
 * False negatives: people who you thought would not fit your values, but would have if you had hired them
 
@@ -98,7 +100,7 @@ Conversely, we should dramatically expand the responsibility of 20x performers. 
 * He’s never done this job before
 * If we promote and she doesn’t work out, what then?
 
-# Evaluating
+## Evaluating
 Using Performance-Values Matrix. All the sample metrics are included in
 
 [📎 Careers_by_design_short.pdf]()
@@ -141,19 +143,11 @@ By building this designation directly into the evaluation matrix, outstanding ni
 
 The key to understanding the Dark Triad is that while all three share a callousness toward others that encourages manipulativeness, they do so for distinct reasons. Psychopaths are driven by short-term tangible rewards, and engage in reckless, antisocial behavior to get it. Machiavellians are fueled by long-term tangible rewards and will strategize schemes to get them. Narcissists are motivated by whatever boosts their ego, whether tangible rewards or simple praise that validates their idealized self-image.
 
-![](https://openpsychometrics.org/tests/SD3/)
-
-<!-- child_page 63d49c22-89e3-4e3e-8196-b39b3458968d -->
-
 I am currently working on a tech startup. Our team have 8 people including product guys and biz guys. As you’ve known, there are many factors to make a success business and teamwork is one of them. I think this is the most important.
-
-![](http://tieubao.me/writing/images/blog/2014-02-05-teamwork-01.jpg)
 
 Startup, in common sense, is found to solve people problems, real problems; is found to provide works for society, and also, to make money. That is a thing that people called the vision, team vision, company vision. As the team member, you should understand it clearly, love it or hate it and follow it, make it your life, your working purpose. Small team does not need employees but contributors.
 
 The team still need heroes and there should be an i in the team but the only way to make the boat go fast is perfect coordination, it also means perfect teamwork and synchronization. Skill set is important but it is not important as vision and coordination. The i must be unselfish and think about the team first. As a team member, it’s important to remember that no one is perfect; everyone has something that they could improve upon, including yourself. So, be supportive. Offer constructive criticism. Listen, listen, listen. People who always talk, but never listen will be stunted in growth. Remember that everyone knows something you don’t know.
-
-![](http://tieubao.me/writing/images/blog/2014-02-05-teamwork-02.jpg)
 
 We effectively have an environment in which competition and collaboration co-exist and feed off each other. Competition, synchronization or collaborating perfectly; make the boat go fast is always the main point. Remember, even if you work harder than anyone else, if you lose synchronization, you slow the boat down.
 
@@ -193,12 +187,12 @@ We effectively have an environment in which competition and collaboration co-exi
 	The “I” becomes part of something much more powerful.
 	They were right there is no “I” in “Team”,
 	But there is “Team” in me.
-	```
+```
 
 Source: [It is hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/)
 
-### **Metrics**
-* Communication: 
+## **Metrics**
+Communication: 
 * Daily: You’re transparent with your manager and teams.
 * Presentation: you communicate effectively through keynote.
 * Written: From emails to blogs...you are a clear, concise, compelling and convincing writer. 
@@ -226,7 +220,7 @@ Bad:
 
 * Someone has been blocked by you during working hours
 
-## **Contribution - C**
+## Contribution - C
 How you contribute to the whole company rather than your team? (outside of your assigned work). It also includes your contributions in building company images, new library or community works, etc.
 
 Metrics:
@@ -249,6 +243,5 @@ Metrics:
 * Be a speaker in a tech event, conference
 * Open source a library, project and be useful for other people (no of stars? shares?)
 
-# Ranking - R
+## Ranking - R
 How you grow up and develop your careers.
-

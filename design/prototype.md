@@ -1,11 +1,13 @@
 ---
 tags:
-  - dwarves
-  - work
+  - guideline
+  - UX-UI
+  - system design
 title: prototype
 date: 2023-10-16
-description:
-authors: []
+description: Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible.
+authors:
+- nikki
 menu:
 type: playbook
 ---
@@ -16,12 +18,10 @@ type: playbook
 Understanding stakeholder, company, business model, goals and challenges of the product in order to set mindset, define style, color palette, and typography, iconography, illustration, and photography.
 
 #### 2. Define product
-* Style
-
+* **Style**
 Based on the target user and product’s requirement, we define layout style. Make references from Dribbble, Behance and other showcase sites to catch up with the current design trends.
 
-* Color
-
+* **Color**
 Define primary and secondary based on the logo and branding of the product. In case the client does not have a logo or verify their color palette, we can use Milanote app to create a moodboard that is a great way to set a visual direction from the client’s ideas.
 
 Using 2 principles color to combine color in UI design:
@@ -31,33 +31,27 @@ Using 2 principles color to combine color in UI design:
 
 Delivering a harmonious color scheme is clean and eye-friendly.
 
-* Typography
-
+* **Typography**
 Define typeface, font-size, font weight of each style (header, subheader, body text, etc.)
 
-* Iconography
-
+* **Iconography**
 Define icon style based on elements’ style and branding characteristics. Icon color is defined following the color palette of the product.
 
-* Illustration & Image
-
+* **Illustration & Image**
 Illustration and image are used in accordance with content and style
 You should apply a mask to bitmaps image when you export to an image file.
 
-* Platform
-
+* **Platform**
 Specify a particular screen (Desktop, Mobile or Tablet); divide into grid layout to align elements into columns, rows.
 
-* Grid Layout
-
+* **Grid Layout**
 Grids are a framework that speeds up the designer-to-developer workflow by allowing developers to pre-set classes in their code that correspond to column sizes.
 
       - Select a suitable grid (we generally use 12 columns)
       - Use a baseline grid to align elements
       - Optimize grids for mobile and web app
 
-* Responsive retrofitting
-
+* **Responsive retrofitting**
 We live in a multiscreen-world. Everything needs to work across devices so responsive is a way to design a flexible screen. According to the requirement’s client or platform, we can decide on having a responsive or not.
 
 ### Demo Design

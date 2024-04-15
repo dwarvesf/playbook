@@ -5,7 +5,7 @@ tags:
   - culture
 title: The Inner Circle
 date: 2023-01-19
-description: null
+description: The concept of an "inner circle" within a company is not a new one, and at Dwarves, a software company founded by a group of engineers, this idea holds a significant value.
 authors: 
   - han
 menu: playbook
@@ -20,5 +20,5 @@ At Dwarves, there is also an inner circle of individuals who run the company and
 
 It is not about who one knows or what they have done in the past, but rather, it's about consistently showing that they matter and can make a significant impact on the company's success. This is the key to being a part of the inner circle at Dwarves.
 
-![](assets/the-inner-circle_b69eeaaf88abe3c06f4937341beb4619_md5.webp)
 
+![](assets/the-inner-circle_b69eeaaf88abe3c06f4937341beb4619_md5.webp)

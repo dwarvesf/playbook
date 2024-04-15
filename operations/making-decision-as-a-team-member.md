@@ -1,10 +1,14 @@
 ---
 tags: 
   - process
+  - team
+  - operations
+  - management
 title: Making Decision As A Team Member
 date: 2021-07-12
-description: null
-authors: null
+description: Being able to make decision trains ourselves to accept responsibility with an open mind. Either it's a success or a failure, we move forward.
+authors: 
+- duy
 menu: memo
 type: null
 hide_frontmatter: false
@@ -32,12 +36,12 @@ All the aspects are equal. Every business decision revolves around these things.
 
 It's about improvement. And it's okay if one or two of those aspects gets better. As long as the rest stay the same and don't get worse.
 
-### with Encouragement
+### With Encouragement
 We encourage members to make decisions. Thinking independently generates original ideas and splendid ways to make them work. We want that. Plus, isn't it cool to come up with good stuff and see them turn into real impact? Unless it's a provoke for revolution, making impact sounds and feels pretty awesome.
 
 Being able to make decision trains ourselves to accept responsibility with an open mind. Either it's a success or a failure, we move forward.
 
-### and the people. Engage them.
+### And the people. Engage them.
 Decision-making is a team thing. And team involves people.
 
 3x2 doesn't allow you to make decisions in isolation. It requires you to seek information and advice from people around you. Seeking help doesn't take power away from you. It only makes the points more solid when you explain them afterward.

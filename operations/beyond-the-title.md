@@ -2,10 +2,13 @@
 tags: 
   - tips
   - productivity
+  - operations
+  - performance 
 title: Beyond The Title
 date: 2021-02-19
-description: null
-authors: null
+description: We want to make impacts or influence people in some ways. That doesn't happen if we wait for the right moment because there isn't. Taking the shot means opening the door to mistakes and failures, and that's a good thing. We learn from them.
+authors: 
+- Han 🐸
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -44,4 +47,3 @@ Of course, it does. But titles have nothing much to do with the day-to-day work 
 Titles hands you the accountability for your decision. You're in charge of the success and the failure, the orders and the messes. It's where your move starts to affect others, and it forces you to act right. Where your voice influences and spreads the common belief to the subordinates. It shows that you've gone far from where you begin, and you're capable of going further.
 
 With us, fancy titles exist when the contribution generates a positive impact. We also believe in how great leaders create other leaders, and we cherish every effort to make room for people to go beyond their titles.
-

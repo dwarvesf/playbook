@@ -1,7 +1,8 @@
 ---
 tags:
-  - dwarves
-  - work
+  - consulting
+  - software
+  - project
 title: service-feedbacks
 date: 2023-10-16
 description:
@@ -10,11 +11,10 @@ menu:
 type: playbook
 ---
 
-# GENERAL QUESTIONS FOR SERVICE FEEDBACKS
+## GENERAL QUESTIONS FOR SERVICE FEEDBACKS
 1. Engineer performances
 
    - a. Communication
-
      - How did the engineer interact with your team?
      - How was the communication between the engineer and your team?
      - Was our engineer proactive in communicating with you?
@@ -22,7 +22,6 @@ type: playbook
      - On which aspect our engineer should improve to provide better communication?
 
    - b. Work ethic, delivery
-
      - Have our engineers “coming to work” on time?
      - Have you ever had to wait too long to get a response from our engineer?
      - Was our engineer able to deliver good work consistently?
@@ -34,7 +33,6 @@ type: playbook
      - What should our engineer do to improve the synchronization with other members?
 
 2. Team management
-
    - What are your opinions for the team management?
    - Was our Team Lead able to help you co-manage the team efficiently and effectively?
    - Was there anytime that you cannot contact our team members in a timely manner? If yes, please specify.
@@ -45,7 +43,6 @@ type: playbook
    - What should our Account Manager do in order to improve the collaboration between two parties?
 
 3. Opportunity
-
    - Would Dwarves Foundation be your first choice when it comes to hiring outsources? If not, why?
    - What should the Dwarves Foundation do to improve its credibility to you?
    - Do you have any further comments for the Dwarves Foundation?

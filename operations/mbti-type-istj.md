@@ -2,10 +2,13 @@
 tags: 
   - mbti
   - ISTJ
-title: Mbti Type Istj
+  - operations
+  - people
+title:  MBTI Type ISTJ
 date: 2021-07-20
-description: null
-authors: null
+description: All about the ISTJ personality type
+authors: 
+- namtran
 menu: playbook
 type: null
 hide_frontmatter: false
@@ -21,7 +24,7 @@ hide_frontmatter: false
 * They do not like to ‘wing it’ or take risks without being in possession of the facts and having thought things through so that they are clear.
 
 ### ISTJ and Career Exploration
-An ISTJ tends to <span style='color:red'>find career satisfaction</span> with careers that have the following characteristics:
+An ISTJ tends to **find career satisfaction** with careers that have the following characteristics:
 * Uses technical skills to work with facts and details
 * Produces a real product or service
 * Are governed by rules and regulations
@@ -32,7 +35,7 @@ An ISTJ tends to <span style='color:red'>find career satisfaction</span> with ca
 * Allows independent work to be completed in an adequate time frame
 * Provides an opportunity for greater responsibility and compensation through promotion and performance evaluation
 
-When <span style='color:red'>exploring career options</span>, an ISTJ will often
+When **exploring career options**, an ISTJ will often
 * Perform thorough research on currently available careers
 * Logically and realistically assess each career option
 * Need to intentionally consider options that would require change
@@ -111,3 +114,42 @@ The ISTJ will often:
 * Listen to others and deal with conflict without being overwhelmed with emotion
 * Articulate their thoughts in conversations
 * Provide consequences or criticism when necessary
+
+The ISTJ should be aware that they may need to:
+* Work on communicating and sharing information about themselves and their viewpoint
+* Communicate and build relationships with their friends, family and co-workers
+* Make a conscious effort to observe the feelings of other people when providing feedback
+* Vocalize their appreciation of other peoples’ accomplishments
+
+### Decision Making
+When it comes to decision making, the ISTJ will often…
+* Make sensible and logical decisions
+* Objectively gather and analyze the facts
+* Weigh information against their perception of what is realistic
+* Need to consider the impact their decisions have on people
+* Benefit from considering additional options and incorporating their values
+* Need to slow down their decision making process in order to consider all information
+
+### Stress
+An ISTJ will often experience stress when…
+* Others inadequate work has a negative impact on their own work
+* Required to make a significant deviation from their routine
+* Given information that is too broad
+* Others disregard common sense
+* Their work habits lead them to deny their personal needs
+* They feel rushed and develop a perceived inability to complete the task
+* Forced to make irrational, unexplainable, or immediate changes to their work
+* Required to complete a task using an inefficient process
+
+When they are affected by stress, an ISTJ will often…
+* Pay even closer attention to the detail
+* Begin to form solutions to problematic situations based on their past experiences
+* Become overwhelmed with the amount of data obtained and lose control of all the details
+* Become impulsive or compulsively worry about the future
+* With great stress, abandon their typical approach and start to imagine all the negative possibilities through ‘catastrophizing’
+
+Advice: An ISTJ can reduce stress by
+* Imagining the worst case scenario and planning accordingly
+* Looking to the big picture and putting their stress into perspective
+* Realistically determine what will matter in the future
+* Leaving the situation and trying something uncharacteristic in order to realign their perspective

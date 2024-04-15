@@ -1,11 +1,13 @@
 ---
 tags:
-  - dwarves
-  - work
+  - business
+  - guidline
+  - project
 title: collaboration-guideline
 date: 2023-10-16
-description:
-authors: []
+description: guidelines for project collaboraton DF and Client
+authors:
+- Han 🐸
 menu:
 type: playbook
 ---
@@ -30,7 +32,6 @@ Guidelines for project collaboration between DF and Clients.
 Meeting notes for Sprint planning and Sprint retrospective will be sent within 30 minutes after meeting.
 
 ## Workflow
-
 ## Project Management
 * All team members must be involved in Sprint planning
 * Milestones and features (epics) should be put on Jira/Basecamp during Project kick-off phase

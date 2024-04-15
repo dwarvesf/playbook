@@ -1,11 +1,14 @@
 ---
 tags:
-  - dwarves
-  - work
+  - framework
+  - guideline
+  - operations
+  - productivity
 title: aarrr
 date: 2023-10-16
-description:
-authors: []
+description: We use the AARRR framework to measure and optimize every phase of a product by optimizing it through the insane focus on one metric at a time.
+authors: 
+- han
 menu:
 type: playbook
 ---
@@ -30,5 +33,5 @@ Gather data, both quantitative (user behavior from analytics) and qualitative (u
 #### Validate the problem
 Validate the problem by conducting the user interview/usability test. This will give us an idea of whether it really is a problem, discover the new problem(s) and a chance to figure out why the problem occurs. In short, we’ll have the problem defined.
 
-#### Ideate on potential solutions.
+#### Ideate on potential solutions
 We might get the stakeholders involved in sketching bunch of ideas and more importantly, get their buy-in early on.

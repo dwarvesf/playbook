@@ -1,11 +1,15 @@
 ---
 tags:
-  - dwarves
-  - work
+  - client
+  - consulting
+  - guideline
+  - business
 title: fbsc
 date: 2023-10-16
 description:
-authors: []
+authors: 
+- nikki
+- huytq
 menu:
 type: playbook
 ---

@@ -1,9 +1,11 @@
 ---
 tags: 
   - culture
+  - performance
+  - software engineer
 title: Ogif
 date: 2023-02-16
-description: null
+description: I would like to introduce to you our new initiative called **OGIF** — Oh God It's Friday. Moving forward, our Friday Showcase will have a broader range of topics to discuss and share.
 authors: null
 menu: playbook
 type: null

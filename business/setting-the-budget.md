@@ -1,10 +1,14 @@
 ---
 tags: 
   - pm
+  - project
+  - client
+  - consulting
 title: Setting The Budget
 date: 2020-10-16
-description: null
-authors: null
+description: After a project has been loosely defined, the profit generating, or cost savings, potential should be estimated. Refining scope and budget will cost time and money. Knowing the potential reward will ensure that the research, design and planning effort stays within perspective.
+authors: 
+- nikki
 menu: memo
 type: null
 hide_frontmatter: false
