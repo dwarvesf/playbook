@@ -15,7 +15,7 @@ type: playbook
 ## Lean Canvas
 Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
 
-![leancanvas](assets/lean-canvas/leancanvas.png)
+![leancanvas](assets/lean-canvas_leancanvas.webp)
 
 ### 1. Problem
 What is the crucial problem faced by the product’s consumers? Capture their central frustration. The best way to describe the problem is in terms of the jobs customers need to do, what they are ultimately trying to achieve and what is the pain or frustration they currently feel. Possibly with a concise sentence.
