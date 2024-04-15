@@ -17,7 +17,7 @@ author: hnh
 
 To organize our discord and make it fun to interact between community members, we setup those roles for specific purposes. They are ladder-based and function-based roles.
 
-![[809b8c41f7237b45d24ab0af9469fa8b_MD5.webp]]
+![](assets/discord-roles_809b8c41f7237b45d24ab0af9469fa8b_md5.webp)
 
 ### Moderating
 * supporter: help with day-to-day activity, welcome new folks.

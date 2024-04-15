@@ -38,4 +38,4 @@ The employee's presence may be **causing low morale** in the team or even leadin
 
 If the employee has a high turnover rate, it could be a sign of a bad hire.
 
-![[8e2d26f28c0d107f0b2dba0b99c0da5e_MD5.webp]]
+![](assets/red-flags_8e2d26f28c0d107f0b2dba0b99c0da5e_md5.webp)

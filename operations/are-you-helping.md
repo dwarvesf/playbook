@@ -23,4 +23,4 @@ In conclusion, organizations must recognize that the value and performance of em
 
 Are you helping?
 
-![[ed16be5f935ca5845b3a42984cdee76a_MD5.webp]]
+![](assets/are-you-helping_ed16be5f935ca5845b3a42984cdee76a_md5.webp)

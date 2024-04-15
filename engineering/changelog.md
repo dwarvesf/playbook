@@ -14,14 +14,14 @@ Look at the release notes of those apps or the changelog of Go programming langu
 
 They are not the standard but should capture what we want to deliver.
 
-![](img/changelog-sample.webp)
+![](assets/changelog-sample.webp)
 
-![](img/changelog-go.webp)
+![](assets/changelog-go.webp)
 
 #### What makes a good change log?
 - [ ] Changelogs are for humans, not machines.
 - [ ] Write all dates in YYYY-MM-DD format.
-- [ ] Follow [Semantic Version](./versioning.md).
+- [ ] Follow [Semantic Version](playbook/engineering/versioning).
 - [ ] The same types of changes should be grouped
     - `Added` for new features.
     - `Changed` for changes in existing functionality.

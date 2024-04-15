@@ -30,7 +30,7 @@ We want to make impacts or influence people in some ways. That doesn't happen if
 
 Once the urge to outgrow ourselves knocks on the door, sitting idly isn't an option. There are always more rooms to explore if we have exceeded the current role. Making a career at our place takes more than the scope of work and performance review. We long for people to stick with us in the long term, and there's only one way to get there: Become better not only at the role but also as a team.
 
-![[e4451267b269ff558c5138fc551830b1_MD5.webp]]
+![](assets/beyond-the-title_e4451267b269ff558c5138fc551830b1_md5.webp)
 
 ## Become Better
 It performs in many aspects, but these two receive a big encouragement.

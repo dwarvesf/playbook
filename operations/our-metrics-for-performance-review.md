@@ -103,14 +103,14 @@ Conversely, we should dramatically expand the responsibility of 20x performers. 
 ## Evaluating
 Using Performance-Values Matrix. All the sample metrics are included in
 
-[📎 Careers_by_design_short.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bfd4f308-9c8b-4368-8963-9d45be5c13f0/Careers_by_design_short.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202351Z&X-Amz-Expires=3600&X-Amz-Signature=d8cb7f9457a0aa75ab20daaca3ff387e30c74a69679b93471f980eff45c48489&X-Amz-SignedHeaders=host&x-id=GetObject)
+[📎 Careers_by_design_short.pdf]()
 
-![[playground/_memo/assets/our-metrics-for-performance-review/c4defc89db73b3ffe140319a420998c1_MD5.webp]]
+![](assets/our-metrics-for-performance-review_c4defc89db73b3ffe140319a420998c1_md5.webp)
 * Core
 * Team
 * Personal
 
-![[playground/_memo/assets/our-metrics-for-performance-review/da1531180d70a98b2ea3efb18dfc4be4_MD5.webp]]
+![](assets/our-metrics-for-performance-review_da1531180d70a98b2ea3efb18dfc4be4_md5.webp)
 
 ## Incompetent Assholes (Fire fast)
 Low-performers and their behavior is incongruent with company values. Fire fast.
@@ -138,8 +138,8 @@ By building this designation directly into the evaluation matrix, outstanding ni
 
 10x engineer can't be an asshole. They will decrease the performance of the people around them.
 
-## The Dark Triad
-[📎 dark-triad.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9d39046-9e7e-406c-b20a-f85095f63434/dark-triad.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202351Z&X-Amz-Expires=3600&X-Amz-Signature=1f19dd11c7a34327a935e52de8d7767eb3450cbcaf1ad0b0b2dd87c43c20ef00&X-Amz-SignedHeaders=host&x-id=GetObject)
+# The Dark Triad
+[📎 dark-triad.pdf]()
 
 The key to understanding the Dark Triad is that while all three share a callousness toward others that encourages manipulativeness, they do so for distinct reasons. Psychopaths are driven by short-term tangible rewards, and engage in reckless, antisocial behavior to get it. Machiavellians are fueled by long-term tangible rewards and will strategize schemes to get them. Narcissists are motivated by whatever boosts their ego, whether tangible rewards or simple praise that validates their idealized self-image.
 

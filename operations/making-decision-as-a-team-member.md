@@ -30,7 +30,7 @@ We hire people to tell us how to work better, instead of holding their hand show
 * People x Customer x Number
 * Now x Then
 
-![[4824b7755ec089244dca64fc4a9d6fa3_MD5.webp]]
+![](assets/making-decision-as-a-team-member_4824b7755ec089244dca64fc4a9d6fa3_md5.webp)
 
 All the aspects are equal. Every business decision revolves around these things. A decision should benefit those aspects as much as possible. Keep asking yourself: Does this do anyone any favor? Is it possible to make a profit out of it? Can it be maintained?
 

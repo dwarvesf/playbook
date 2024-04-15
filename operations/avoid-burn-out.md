@@ -19,7 +19,7 @@ It describes the state of physical and emotional exhaustion. Burnout reduces and
 
 Fellas, welcome to the burnout station.
 
-![[10437bf97d35a54a0ca1b65fc00984b1_MD5.webp]]
+![](assets/avoid-burn-out_10437bf97d35a54a0ca1b65fc00984b1_md5.webp)
 
 A family dinner or weekend getaway may soften the mood, burnout, on the other hand, is a process as its negatives reach to every aspects, all at once. Work, family, passion, friends, relationship. If stress is about being stacked up with too much work at the same time, burnout is when nothing feels enough. It was not a result from job demands, it's a notion that nothing you do brings impact, your idea wasn't listened, and the fact that you live through a day in that place was a freaking waste of time.
 

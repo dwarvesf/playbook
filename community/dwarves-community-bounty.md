@@ -35,4 +35,4 @@ Each month, a pool of 1700 ICY (~2.5k USD) is reserved for the bounty system. Y
 
 Please note that the bounties will only be reward after the Pull Request (PR) has been accepted and successfully merged into the Dwarves GitHub. We hope to provide a welcoming community for those who do. Bounties are here for that.
 
-![[64ec467481612369df3f5cff12c2e5e9_MD5.webp]]
+![](assets/dwarves-community-bounty_64ec467481612369df3f5cff12c2e5e9_md5.webp)

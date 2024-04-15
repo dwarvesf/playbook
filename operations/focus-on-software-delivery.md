@@ -35,4 +35,4 @@ Ship the right thing to your users.
 
 P.s. If anyone blocks you from delivery, they block your way to success.
 
-![[b34c705f1ff97b2dceb3556cfeecf6a0_MD5.webp]]
+![](assets/focus-on-software-delivery_b34c705f1ff97b2dceb3556cfeecf6a0_md5.webp)

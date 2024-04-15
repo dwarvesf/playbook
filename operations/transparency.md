@@ -24,7 +24,7 @@ And you have no idea what's happening in other places. Teammate. Departments. Or
 
 It's the process of being upfront about various company operations, on the ups & downs. We choose to be straightforward in every issue, as it's everyone's mission to keep the team moving forward. 
 
-![[e154f274bd4946e9b9e6decb621dfe7d_MD5.webp]]
+![](assets/transparency_e154f274bd4946e9b9e6decb621dfe7d_md5.webp)
 
 ## Validate the Possibility
 Publishing our ideas & work progress through Automatic Check-Ins gives others a chance to verify the feasibility of your work, when we open yourself up to more feedback. Say, once a new idea is incubated, sharing it out loud and receive their comment is way better than asking them directly, one ping at a time. 
