@@ -7,8 +7,8 @@ title: How People Matter Should Work
 date: 2020-06-24
 description: null
 authors:
-- Han 🐸
-- duy
+  - Han 🐸
+  - duy
 menu: memo
 type: null
 hide_frontmatter: false

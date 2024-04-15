@@ -7,7 +7,7 @@ title: collaboration-guideline
 date: 2023-10-16
 description: guidelines for project collaboraton DF and Client
 authors:
-- Han 🐸
+  - Han 🐸
 menu:
 type: playbook
 ---
