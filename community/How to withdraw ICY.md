@@ -20,14 +20,13 @@ event_date:
 pinned: 
 hide_title: false
 ---
-## A. Set up:
-
+## Set up
 ### Create an on-chain crypto wallet
-
 **Install the extension on your browser**
-
 <!-- col-2 #1 -->
-- Go to [https://metamask.io/download/](https://metamask.io/download/) and Click “Install Metamask for Chromium”
+Go to [this site](https://www.coinbase.com/wallet/downloads) to download Coinbase wallet. Then, add the wallet extension to the Chrome on Firefox Browser (DO NOT use Safari)
+
+![](assets/how-to-withdraw-icy_install-1.webp)
 
 ![](assets/how-to-withdraw-icy-20240313132819285.webp)
 <!-- /col-2 #1 -->
@@ -40,13 +39,13 @@ hide_title: false
 
 **Follow guideline to create a wallet**
 <!-- col-2 #3 -->
-- Click to the Metamask Icon to use the wallet
+1. Click to the extension bar and Coinbase icon to use the wallet
 
 ![](assets/how-to-withdraw-icy-20240313143503939.webp)
 <!-- /col-2 #3 -->
 
 <!-- col-2 #4 -->
-- For those who haven’t had any wallet, please click “Create a new wallet”
+2. For those who haven’t had any wallet, please click “Create a new wallet”
 
 ![](assets/how-to-withdraw-icy-20240313143524973.webp)
 <!-- /col-2 #4 -->
@@ -71,9 +70,11 @@ hide_title: false
 
 ![](assets/how-to-withdraw-icy-20240313143849627.webp)
 
+![](assets/how-to-withdraw-icy_install-4.webp)
 <!-- /col-2 #7 -->
 
-### Add Network
+<!-- col-2 #5 -->
+4. Enter the password for the wallet
 
 <!-- col-3 #8 -->
 Add Polygon network. Because ICY is on Polygon, therefore, to receive and swap ICY to USDT, you need to add the network to your wallet.
@@ -128,10 +129,7 @@ Add Polygon network. Because ICY is on Polygon, therefore, to receive and swap I
 <!-- /col-2 #10 -->
 
 ### Create a Binance account
-
-Follow Binance guidelines and create a verified account.
-
-- Go to this link and install Binance on your mobile: [https://www.binance.com/en/download](https://www.binance.com/en/download)
+Go to this link and install Binance on your mobile: [https://www.binance.com/en/download](https://www.binance.com/en/download)
 
 <!-- col-2 #11 -->
 1. After install, follow the guideline of “Crypto Novice” mode
@@ -142,7 +140,15 @@ Follow Binance guidelines and create a verified account.
 
 <!-- /col-2 #11 -->
 
-<!-- col-3 #12 -->
+<!-- col-2 #12 -->
+
+2. Confirm to create your account
+
+![[How to withdraw ICY-20240313144425125.webp]]
+
+<!-- /col-2 #12 -->
+
+<!-- col-3 #13 -->
 3. Add the passkey to log in without password
 
 ![](assets/how-to-withdraw-icy-20240313144450367.webp)
@@ -150,7 +156,7 @@ Follow Binance guidelines and create a verified account.
 ![](assets/how-to-withdraw-icy-20240313144456227.webp)
 <!-- /col-3 #12 -->
 
-<!-- col-3 #13 -->
+<!-- col-3 #14 -->
 4. Fill in your information and verify the ID document
 
 ![](assets/how-to-withdraw-icy-20240313144633452.webp)
@@ -158,19 +164,18 @@ Follow Binance guidelines and create a verified account.
 ![](assets/how-to-withdraw-icy-20240313144637789.webp)
 <!-- /col-3 #13 -->
 
-## B. Withdraw token from Mochi
+## Withdraw token from Mochi
 
-`/withdraw` command in Mochi
+Use `/withdraw` command in Mochi Bot
 
-Note:
-
-- To swap ICY to USDT in the next step, you will need some Matic
-- Therefore, buy some tokens or withdraw it from your balance.
-
+<!-- col-2 #20 -->
 1. Use the below command to withdraw token from Mochi to the crypto wallet
 
 ![](assets/how-to-withdraw-icy-20240313144652671.webp)
 
+<!-- /col-2 #20 -->
+
+<!-- col-2 #21 -->
 2. Click the button “Enter address” and paste the address of the crypto wallet you have created above
 
 <!-- col-2 #14 -->
@@ -179,10 +184,12 @@ Note:
 ![](assets/how-to-withdraw-icy-20240313144815006.webp)
 <!-- /col-2 #14 -->
 
-## C. Convert ICY to USDT
+Note:
+- To swap ICY to USDT in the next step, you will need some Ethereum on Base Network
+- Therefore, buy some tokens or withdraw it from your balance.
 
+## Convert ICY to USDT
 Go to [https://icy.so/](https://icy.so/) to swap ICY to USDT
-
 - Connect with the created wallet
 - Select the support network to Polygon and approve the request from Metamask to change
 
@@ -196,14 +203,17 @@ Go to [https://icy.so/](https://icy.so/) to swap ICY to USDT
 
 ![](assets/how-to-withdraw-icy-20240313144859473.webp)
 
-## D. Transfer to Binance
+## Bridge USDC from Base to another network
+Go to [Stargate Finance](https://stargate.finance/transfer), choose tab "Transfer" and connect wallet. Then follow these steps:
+1. Choose Base in the section "From network" and choose Binance Network (BNB) in the remaining section. 
+2. Enter the amount of USD you want to bridge
+3. Click to the Transfer button and confirm all requests. 
 
 - Go to the tab Wallet and choose the Funding tab
 ![](assets/how-to-withdraw-icy-20240313144911243.webp)
 - Choose “Deposit” on Binance and choose token USDT
 ![](assets/how-to-withdraw-icy-20240313144922569.webp)
 
-- Select Network “Polygon” and copy the deposit address
 <!-- col-2 #15 -->
 ![](assets/how-to-withdraw-icy-20240313144951021.webp)
 
@@ -219,8 +229,10 @@ Go to [https://icy.so/](https://icy.so/) to swap ICY to USDT
 ![](assets/how-to-withdraw-icy-20240313145055489.webp)
 <!-- /col-3 #16 -->
 
-## E. Withdraw to the bank
+![](assets/how-to-withdraw-icy_withdraw-3.webp)
+<!-- /col-2 #18 -->
 
-- Go to P2P trading and choose the suitable service to withdraw to the bank account
+<!-- col-3 #17 -->
+4. Select Network BNB and copy the deposit address. 
 
 ![](assets/how-to-withdraw-icy-20240313145106740.webp)
