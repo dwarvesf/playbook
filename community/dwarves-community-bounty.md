@@ -8,8 +8,8 @@ title: Community Bounty
 date: 2023-06-21
 description: Bounties are rewards (in ICY - Dwarves’ token) given out to community members for work that encourages community developers to get more involved in the development outside of their core skills.
 authors: 
-- nikki
-- innno_
+  - nikki
+  - innno_
 menu: memo
 type: null
 hide_frontmatter: false

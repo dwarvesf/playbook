@@ -7,7 +7,7 @@ title: Writing Management Objectives In Smart
 date: 2020-02-25
 description: Use S.M.A.R.T goal to define management objectives
 authors: 
-- han
+  - han
 menu: playbook
 type: null
 hide_frontmatter: false

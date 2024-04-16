@@ -8,7 +8,7 @@ title: MBTI Type INTJ
 date: 2021-07-26
 description: All about the INTJ personality type
 authors: 
-- namtran
+  - namtran
 menu: playbook
 type: null
 hide_frontmatter: false

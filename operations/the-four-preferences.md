@@ -7,7 +7,7 @@ title: The Four Preferences
 date: 2021-07-16
 description: The four preferences in MBTI personalities
 authors: 
-- namtran
+  - namtran
 menu: playbook
 type: null
 hide_frontmatter: false

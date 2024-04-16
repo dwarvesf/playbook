@@ -7,7 +7,7 @@ title: The Dwarves Runs By Ideas
 date: 2020-09-07
 description: We figure a small team is easier to share perspectives, update on what's happening and discuss different work aspects. Besides better communication, working cross functional creates a higher chance to understand the whole operation flow. 
 authors: 
-- duy
+  - duy
 menu: playbook
 type: null
 hide_frontmatter: false

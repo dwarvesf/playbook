@@ -8,7 +8,7 @@ title:  MBTI Type ISTJ
 date: 2021-07-20
 description: All about the ISTJ personality type
 authors: 
-- namtran
+  - namtran
 menu: playbook
 type: null
 hide_frontmatter: false

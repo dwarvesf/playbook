@@ -6,8 +6,8 @@ title: Account
 date: 2020-03-25
 description: null
 authors: 
-- Han 🐸
-- duy
+  - Han 🐸
+  - duy
 menu: playbook
 type: null
 hide_frontmatter: false

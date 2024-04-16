@@ -8,8 +8,8 @@ title: Fixed Budget Scope Controlled
 date: 2020-07-22
 description: Fixed-Budget, Scope-Controlled (FBSC) is applied at Atomic Object.
 authors: 
-- Han 🐸
-- nikki
+  - Han 🐸
+  - nikki
 menu: memo
 type: null
 hide_frontmatter: false

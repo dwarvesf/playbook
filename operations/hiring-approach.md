@@ -7,9 +7,9 @@ title: Hiring Approach
 date: 2018-06-26
 description: Hire people who tell us what to do, not the other way around.
 authors: 
-- Han 🐸
-- duy
-- giangthan
+  - Han 🐸
+  - duy
+  - giangthan
 menu: playbook
 type: null
 hide_frontmatter: false

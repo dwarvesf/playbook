@@ -8,7 +8,7 @@ title: The Dwarves Culture Handbook
 date: 2020-07-27
 description: For the past 5 years, we didn't have something called 'Culture Book'. Whenever a newbie steps in, it's natural to pick up the job and go with the flow. We hardly force them into other periodical office traps like team-bonding activities or late night drinks.
 authors: 
-- Han 🐸
+  - Han 🐸
 menu: playbook
 type: null
 hide_frontmatter: false

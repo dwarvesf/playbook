@@ -6,7 +6,7 @@ title: business-playbook-outline
 date: 2023-10-16
 description: introduction business playbook
 authors: 
-- Han 🐸
+  - Han 🐸
 menu:
 type: playbook
 ---

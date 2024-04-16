@@ -8,8 +8,8 @@ title: fbsc
 date: 2023-10-16
 description:
 authors: 
-- nikki
-- huytq
+  - nikki
+  - huytq
 menu:
 type: playbook
 ---

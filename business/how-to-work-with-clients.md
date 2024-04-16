@@ -8,8 +8,8 @@ title: how-to-work-with-clients
 date: 2023-10-16
 description: What skills that an engineer should have in order to work with client effectively?
 authors: 
-- Han 🐸
-- nikki
+  - Han 🐸
+  - nikki
 menu:
 type: playbook
 ---

@@ -8,8 +8,8 @@ title: Dwarves Ventures Fund 1
 date: 2021-08-08
 description: In a span of over 2 years, we tested multiple models of investment with 8 portfolio companies.2021, we are finally confident and ready. Dwarves Ventures is officially on the map with our Fund 1.
 authors: 
-- han
-- nikki
+  - han
+  - nikki
 menu: memo
 type: 
 hide_frontmatter: false

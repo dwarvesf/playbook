@@ -8,7 +8,7 @@ title: MBTI Type ISTP
 date: 2021-07-25
 description: All about the ISTP personality type
 authors: 
-- namtran
+  - namtran
 menu: playbook
 type: null
 hide_frontmatter: false

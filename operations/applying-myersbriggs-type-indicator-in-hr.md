@@ -8,7 +8,7 @@ title: Applying Myersbriggs Type Indicator In Hiring
 date: 2021-07-17
 description: null
 authors: 
-- namtran
+  - namtran
 menu: playbook
 type: null
 hide_frontmatter: false

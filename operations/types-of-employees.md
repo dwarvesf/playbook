@@ -7,7 +7,7 @@ title: Types Of Employees
 date: 2018-08-26
 description: Employees are either job-focused or mission-driven "mitochondria" who drive company growth. Prioritizing the latter through values interviews is key to startup success.
 authors: 
-- han
+  - han
 menu: playbook
 type: null
 hide_frontmatter: false
