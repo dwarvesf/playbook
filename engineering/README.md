@@ -9,7 +9,7 @@ The performance and survival of a large number of organizations now depend on th
 
 ![](assets/readme_software.webp)
 
-## **Engineering Drive**
+## Engineering Drive
 *We build a company where software engineering discipline could shine, innovative and quality products are shipped and change the world for the better.*
 
 #### SYSTEMATIC DISCIPLINE
@@ -29,7 +29,7 @@ All voices are equal here—we hire people to have an opinion and be creative. I
 
 We learned the practice from an A team, and it is beneficial by helping to strengthen the flat organizational structure.
 
-## **The Craftsmanship**
+## The Craftsmanship
 #### WELL-CRAFTED SOFTWARE
 We humbly demonstrate our expertise by delivering quality software. We work toward perfection in every single piece that we produce. We are proud of the well-crafted software that we develop together. We do not tolerate preventable defects.
 
@@ -51,7 +51,7 @@ Quality products always rely on a solid foundation. There will be a lot of works
 #### NOTHING IS PERMANENT
 Software moves fast. New technology has enabled us to create new things. The technology you used yesterday maybe deprecated today. Make sure you understand both the old technology and the new one before buying into the next new thing. New technology needs to provide actual value over existing solutions.
 
-## **Minifesto**
+## Minifesto
 #### RUNNING LEAN
 Lean philosophy regards everything not adding value to the customer as waste. In order to eliminate waste, one should be able to recognize it. Partially done work, extra processes like paperwork and features not often used by customers are waste. Rework or unnecessarily complex solutions are waste. Waiting for other activities, teams, processes is waste. Managerial overhead not producing real value is waste.
 

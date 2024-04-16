@@ -194,9 +194,9 @@ For the above diagram
 
 <!--
 
-### **Data Flow**
+### Data Flow
 
-### **Stack Component Diagram**
+### Stack Component Diagram
  -->
 
 ### Project Drive

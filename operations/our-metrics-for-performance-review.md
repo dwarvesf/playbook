@@ -62,7 +62,7 @@ With coefficient equal to 1
 
 $$ R = 0.3 \times (\frac{3 + 3 + 3}{3}) + 0.7 \times (\frac{4 + 3 + 3}{3}) = 3.23 $$
 
-## **Teamwork - T**
+## Teamwork - T
 How do you treat others? How is your teamwork skill? You don't have to follow the crowd, but cooperation is key to success.
 * Be proactive.
 * None could be blocked by you.
@@ -191,7 +191,7 @@ We effectively have an environment in which competition and collaboration co-exi
 
 Source: [It is hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/)
 
-## **Metrics**
+## Metrics
 Communication: 
 * Daily: You’re transparent with your manager and teams.
 * Presentation: you communicate effectively through keynote.
