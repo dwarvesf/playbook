@@ -10,7 +10,7 @@ description: We want to make impacts or influence people in some ways. That does
 authors: 
   - Han 🐸
 menu: playbook
-type: null
+type: playbook
 hide_frontmatter: false
 ---
 

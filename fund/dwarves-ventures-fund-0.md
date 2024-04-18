@@ -41,6 +41,7 @@ Throughout 2020, we managed to push boundaries and provide values with our uncon
 
 ### Highlights
 **January**
+
 New year, new resoultion. For 2020, we set out to:
 
 Remote team. Following the success of pioneers in the tech industry, our team will go remote-first.
@@ -50,16 +51,19 @@ An allround partner for startups. Rather than the mere financial investment, we 
 We are going to drill our focus on founders, especially those who leverage technology to transform ways of living and working.
 
 **February**
+
 Coronavirus hits hard. The economy is in complete chaos, everything is expected to go digital. The need to focus on technology is at its peak.
 
 Our response: We aim to answer one simple question, “What is the fastest thing we can do to help?” We put forward the Covid-19 relief package, giving portfolio companies, or any business in general, the alternative financial and operational support to get their business online.
 
 **March**
+
 We put our mark in the US startup scene. We welcome Para (http://joinpara.com), a startup in the healthtech sector, into our portlofio. The investment itself is meaningful. Para connects facilities with medial professionals, just in time to support health systems fighting the pandamic.
 
 Our innitiative with going remote helps lay the groundwork for our portfolio companies to follow suit and adapt the framework into their team.
 
 **May**
+
 We welcome Airwatt to our portfolio. Providing solutions to energy usage with AI as the backbone, Airwatt was honored first place in Startup Wheel 2019.
 
 PurchasingCare, one of our earliest portfolio comepanies, couldn’t make because of the pandemic. We see this as an opportunity to learn and reflect on our model.
@@ -79,12 +83,15 @@ The launch of Superbits, our own indie software studio. Superbits’ products ar
 We partner with Salt Cancer Initiative (SCI) to build a knowledge and community hub for breast cancer patients across Vietnam.
 
 **October**
+
 We welcome Wego to our portfolio. Wego is built around the idea of serving quality coffee to the young generations.
 
 **November**
+
 Despite the haywire situation in the US, our portfolio joinPara records stellar development, scoring partnerships with multiple hospital facilities, good numbers of users on the platform and rolling out new products.
 
 **December**
+
 We deploy a new system for a more robust collaboration with our portfolio companies. Now monthly updates and reports are much easier and faster.
 
 The last month of the year is dedicated to looking back and learning from our own doing.

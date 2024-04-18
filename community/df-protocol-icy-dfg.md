@@ -14,6 +14,7 @@ type: memo
 hide_frontmatter: false
 featured: true
 ---
+
 Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm.
 
 Context:

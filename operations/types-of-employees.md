@@ -15,6 +15,7 @@ hide_frontmatter: false
 There are 2 types of employees:
 
 * **There are employees who think of the company like a job**. They come in, they work hard, and they do their job. Some excel at doing their job. But ultimately, it’s a job. They want to make sure they’re fairly compensated for their work, and have interesting projects to work on. As long as they believe those things are in balance and the compensation arbitrage they can get by going to another company is within a certain bound, they’re stable and stay. In summary, they are rational actors, and the value they add to the company, while valuable, scales linearly.
+
 * Then there is another class of employee. This group has a different DNA. They pour their passion into the company because they believe in its mission, and it is how they operate. **They add value to the company beyond their job description and responsibilities. They ask and do what is best for the company**. They work hard and late, because for them, the company isn’t a job. Most of all, they best embody the company’s values, and because they do, their value is not linear: they energize and power startup teams through good times and bad. I think of this class of people as the mitochondria in hyper-growth startups.
 
 At the early stages, this rare group of individuals is the core of the company. As your startup scales, they are your leaders. They should be cherished, recruited, and the mindset encouraged in other employees.

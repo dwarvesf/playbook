@@ -12,7 +12,7 @@ authors:
   - duy
   - hnh
 menu: playbook
-type: null
+type: playbook
 hide_frontmatter: false
 ---
 

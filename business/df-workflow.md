@@ -3,12 +3,12 @@ tags:
   - workflow
   - performance
   - playbook
-title: df-workflow
+title: Dwarves workflow
 date: 2023-10-16
 description:
 authors:
   - Han 🐸
-menu:
+menu: memo
 type: playbook
 ---
 * Monday:

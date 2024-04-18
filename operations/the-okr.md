@@ -3,14 +3,16 @@ tags:
   - performance
   - okr
   - goal
-title: The Okr
+title: The OKR
 date: 2016-04-06
 description: How we use OKR to define goals
-authors: null
+authors: 
+- han
 menu: playbook
 type: null
 hide_frontmatter: false
 ---
+
 ### What is OKR
 OKR (**O**bject and **K**ey **R**esult) is a management methodology, an outcome-driven tracking framework.
 
