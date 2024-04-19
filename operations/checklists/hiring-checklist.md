@@ -3,9 +3,10 @@ tags:
   - people
   - hiring
   - operations
-title: Hiring Checklist
-date: null
-description: null
+  - checklist
+title: "Checklist: Hiring"
+date: 2020-01-01
+description: The checklist presents how the hiring is proceeded. 
 authors: 
   - Han 🐸
   - hnh

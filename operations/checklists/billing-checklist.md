@@ -1,11 +1,11 @@
 ---
 tags: 
   - people
-  - hiring
   - operations
-title: Billing Checklist
-date: null
-description: null
+  - checklist
+title: "Checklist: Billing"
+date: 2020-01-01
+description: This checklist illustrates the process of billing approval.
 authors: 
   - Han 🐸
   - hnh

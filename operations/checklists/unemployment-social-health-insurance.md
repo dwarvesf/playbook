@@ -2,9 +2,10 @@
 tags: 
   - people
   - operations
-title: Unemployment, Social, Health Insurance
-date: null
-description: null
+  - checklist
+title: "Checklist: Unemployment, Social, Health Insurance"
+date: 2020-01-01
+description: The checklist of unemployment, social, health insurance
 authors: 
   - Han 🐸
   - hnh
