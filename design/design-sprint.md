@@ -4,16 +4,16 @@ tags:
   - UX
   - design
   - learning
-title: design-sprint
+title: Design Sprint
 date: 2023-10-16
 description: Design sprint mostly applied to the Exploration phase. Friday is usually Education event or Lab projects at Dwarves Design, learning and continuous professional and personal development are in the core of our DNA. No one wants to settle, everyone wants to take the next step forward.
 authors: 
   - nikki
   - han
-menu:
+menu: memo
 type: playbook
 ---
-# Design Sprint
+
 ### What is the design sprint?
 The sprint is a four-day process for answering critical business questions through design, prototyping and testing ideas with customers.
 Design sprint mostly applied to the Exploration phase.

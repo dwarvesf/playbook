@@ -13,7 +13,7 @@ type: null
 hide_frontmatter: false
 ---
 
-$$ P = f(r, t, c, r) $$
+***P = f(r, t, c, r)***
 
 ## Performance - P
 Performance is a final value that will be calculated from other metrics. This value will help to indicate how good all the activities we've done to make the company could grow.
@@ -60,7 +60,7 @@ Pie: An marks
 * Quality = 3
 With coefficient equal to 1
 
-$$ R = 0.3 \times (\frac{3 + 3 + 3}{3}) + 0.7 \times (\frac{4 + 3 + 3}{3}) = 3.23 $$
+ ***R = 0.3 \times (\frac{3 + 3 + 3}{3}) + 0.7 \times (\frac{4 + 3 + 3}{3}) = 3.23***
 
 ## Teamwork - T
 How do you treat others? How is your teamwork skill? You don't have to follow the crowd, but cooperation is key to success.
@@ -138,7 +138,7 @@ By building this designation directly into the evaluation matrix, outstanding ni
 
 10x engineer can't be an asshole. They will decrease the performance of the people around them.
 
-# The Dark Triad
+## The Dark Triad
 [📎 dark-triad.pdf]()
 
 The key to understanding the Dark Triad is that while all three share a callousness toward others that encourages manipulativeness, they do so for distinct reasons. Psychopaths are driven by short-term tangible rewards, and engage in reckless, antisocial behavior to get it. Machiavellians are fueled by long-term tangible rewards and will strategize schemes to get them. Narcissists are motivated by whatever boosts their ego, whether tangible rewards or simple praise that validates their idealized self-image.
@@ -209,7 +209,7 @@ Communication:
 
 [https://risepeople.com/blog/5-metrics-team-member-performance/](https://risepeople.com/blog/5-metrics-team-member-performance/)
 
-Examples:
+**Examples**
 
 Good:
 

@@ -4,13 +4,13 @@ tags:
   - consulting
   - guideline
   - business
-title: fbsc
+title: FBSC
 date: 2023-10-16
 description:
 authors: 
   - nikki
   - huytq
-menu:
+menu: memo
 type: playbook
 ---
 

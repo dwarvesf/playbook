@@ -14,8 +14,6 @@ type: null
 hide_frontmatter: false
 ---
 
-<!-- table_of_contents aee00dbb-f163-4643-8a92-d278eefb13cb -->
-
 ### Preferred Work Environment
 * Company where the norms are clear
 * The culture is performance driven and where there is a place for everything and everything is in its place.

@@ -12,6 +12,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
+
 During our study about innovation, we find the topic of adjacent possible. Innovation happens but not many people can point out clearly. Getting to know the foundation of innovation helps understanding its natures and could lead to further exploration. Enjoy your reading.
 
 Innovation deepens our knowledge and understanding of the world, it extends our reach and access to resources. More importantly, **innovation expands the realm of what we can do** with all our knowledge and resources: deliver new goods and products, bring forward new types of organisations and services, and in more general terms develop new ideas and concepts.

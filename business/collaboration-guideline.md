@@ -3,15 +3,16 @@ tags:
   - business
   - guidline
   - project
-title: collaboration-guideline
+title: Collaboration Guideline
 date: 2023-10-16
 description: guidelines for project collaboraton DF and Client
 authors:
   - Han 🐸
-menu:
+menu: memo
 type: playbook
 ---
-# Collaboration Guideline
+
+
 Guidelines for project collaboration between DF and Clients.
 
 ## Tools
@@ -32,7 +33,7 @@ Guidelines for project collaboration between DF and Clients.
 Meeting notes for Sprint planning and Sprint retrospective will be sent within 30 minutes after meeting.
 
 ## Workflow
-## Project Management
+### Project Management
 * All team members must be involved in Sprint planning
 * Milestones and features (epics) should be put on Jira/Basecamp during Project kick-off phase
 * New features/change requests will be put into Icebox/Backlog, estimated and planned for future Sprints
@@ -40,21 +41,21 @@ Meeting notes for Sprint planning and Sprint retrospective will be sent within 3
 * The intention of every Sprint is “Potentially Shippable” Software, things can go wrong and features might get pushed to the next Sprint
 * Every 2 weeks, the Team Lead, Product Manager/Project Manager and Account Manager will have a quick 15 minutes meeting to review the work progress and resolve any conflicts (if any)
 
-## Design <> Development
+### Design <> Development
 * Design team should at least provide:
 - Color palette (all that are used throughout the UI)
 - Heading / Font size should be defined by scale
 - Base components (.eg headings, button variants and states,…)
 * New design version is expected to be available and reviewed **by development team** before the Sprint started
 
-## Backend <> Frontend
+### Backend <> Frontend
 * Prerequisite:
 - API versioning & documentation (.eg Swagger)
 - Dedicated environments for Development / Staging / Production
 * Backend should enable CORS on either API gateway or at application level
 * Both sides should agree on the same glossary / naming conventions / data schema, preferably within the first Sprint
 
-## Quality Assurance <> Development
+### Quality Assurance <> Development
 * Bugs/issues raised should include:
 - Steps to reproduce, behaviorally described from - application’s entry to bug encounter
 - Affected platform, version, feature, language (if applicable)

@@ -35,4 +35,4 @@ The following things are pre-requisites for successful group work:
 
 If you're planning to work with another person on the team (i.e. for a meeting during meeting hours or to pair program), you should make sure these are available.
 
-Inspired by [Clef](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+Inspired by [Clef](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md).

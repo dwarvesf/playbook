@@ -10,7 +10,7 @@ description: null
 authors: 
   - namtran
 menu: playbook
-type: null
+type: playbook
 hide_frontmatter: false
 ---
 

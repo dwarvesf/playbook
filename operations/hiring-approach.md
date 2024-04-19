@@ -65,7 +65,7 @@ Well, human interaction is the best way to grade potential, so the interview is 
 **Push Harder for Diversity**
 Make certain you're spreading your net wide enough to find those high-potential, but different, fish who generally don't swim in the streams near you. Ask your HR group what contacts and periodicals they're using to interest potential hires. "We don't know where to find people different from us" is a costly excuse.
 
-### Protecting vs. Growing Culture
+## Protecting vs. Growing Culture
 For many companies, hiring means selecting people who fit the existing culture and keeping out those who don’t. Hiring is gatekeeping.
 
 Our culture is dynamic. It should expand like our business. We welcome its change. Just like we want people to contribute new skills and ideas, we want people to contribute new culture. Hiring culture-fitters does not make our culture better.
@@ -73,7 +73,7 @@ Hire culture-contributors who will make our culture better.
 
 ![](assets/hiring-approach_446cd358745fe9024a7304905bb0572a_md5.webp)
 
-### Culture add, not culture fit
+## Culture add, not culture fit
 Culture fit is a variable that has become increasingly important in the hiring process. Companies aren't just looking for candidates with the right skills - they want someone that matches their company DNA.
 
 It's easy to fall into the trap of hiring people like everyone else in your company as a default. Adding people like you can create a "me-too" culture, not typically an environment where ideas and innovation flourish.

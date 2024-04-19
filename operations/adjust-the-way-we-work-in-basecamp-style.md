@@ -10,7 +10,7 @@ authors:
   - Han 🐸
   - duy
 menu: playbook
-type: null
+type: playbook
 hide_frontmatter: false
 ---
 

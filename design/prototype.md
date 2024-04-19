@@ -3,21 +3,20 @@ tags:
   - guideline
   - UX-UI
   - system design
-title: prototype
+title: "Low-fidelity prototype: UI Design"
 date: 2023-10-16
 description: Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible.
 authors:
   - nikki
-menu:
+menu: memo
 type: playbook
 ---
 
-## Low-fidelity prototype: UI Design
-### Research
-#### 1. Understand prospect
+## Research
+### 1. Understand prospect
 Understanding stakeholder, company, business model, goals and challenges of the product in order to set mindset, define style, color palette, and typography, iconography, illustration, and photography.
 
-#### 2. Define product
+### 2. Define product
 * **Style**
 Based on the target user and product’s requirement, we define layout style. Make references from Dribbble, Behance and other showcase sites to catch up with the current design trends.
 
@@ -54,21 +53,22 @@ Grids are a framework that speeds up the designer-to-developer workflow by allow
 * **Responsive retrofitting**
 We live in a multiscreen-world. Everything needs to work across devices so responsive is a way to design a flexible screen. According to the requirement’s client or platform, we can decide on having a responsive or not.
 
-### Demo Design
+## Demo Design
 Design some demo screens and send to the client to verify style, color palette, typeface, font-size, etc. In case the client hasn’t decided on color palette yet, we will design without color first. Creating a screen in a grayscale color palette before adding color forces to focus layout, text style and spacing.
 
-### Design System
-#### What is Design System
+## Design System
+### What is Design System
 Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible. This is the heart and primary value of design systems. A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
 ![[playbook/design/assets/prototype/d56a8496bb80c42b7c2b89d718b1da48_MD5.avif|"Design System"]]
 
-#### How we build Design System
-##### Purpose and shared values
+### How we build Design System
+#### Purpose and shared values
 Before starting anything, it’s essential to align teams around a clear set of shared goals. It will help to build a vision and making sure everyone looks in the same direction. These goals will evolve with time and it’s normal. We just have to make sure that changes are broadly communicated.
-##### Design principle
+
+#### Design principle
 Design principles are the guiding sentences that help the teams to reach the purpose of the product thanks to the design. So you need to modify your practices and start establishing a style guide for the design system.
-##### Color palette
+#### Color palette
 Kick off your design system process with sprints devoted to unifying and implementing the color palette. Colors affect all the parts of the system, so you have to organize them first.
 
 * Step 1: Create a moodboard
@@ -87,28 +87,32 @@ Use the Contrast Ratio web app for quick access to WCAG color contrast ratios. Y
 
 * Step 10: Finalize the color palette
 After tests and gathering feedback, finalize the palette and communicate it to the company. Add the palette to your design system documentation.
-##### Typographic elements guide
+
+#### Typographic elements guide
 Note preferred text sizes, spaces, fonts, etc. as well as any rules on where and when to use them. For example, how big are section headings or text body? Define details, like font weights, line heights, or custom kerning rules if applicable.
-##### Graphic design assets
+
+#### Graphic design assets
 * Icons: All the icons that products, apps, or sites use. Having a standardized icon library ensures consistency across the entire brand.
 * Photography: A single go-to reference for all product’s photography, both custom images, and purchased stock photos.
 * Illustration: Compile all the custom illustrations commissioned, including page flourishes or border designs.
 * Branding images: Standardized logos and other branding images, like mascots. Rules for logo usage can get strict, so it’s better to pull pre-approved images to ensure compliance.
-##### Pattern library
+
+#### Pattern library
 List all design components with all states such as input, press, hover, etc.; categorize them by function, such as “navigation,” or by type, such as “drop-down menus.”
-##### Tool
+
+#### Tool
 * Sketch
 * Adobe XD
 
-## High-fidelity Prototype: Interactive Design
-### What
+### High-fidelity Prototype: Interactive Design
+#### What
 A high-fidelity prototype is an interaction-supported UI, which means a user can interact with it by triggering an action:
 * Press a button
 * Modify a slider in the filter section
 
 Then, he or she can see or review how the prototype should react like a real product.
 
-### When
+#### When
 It is created after we completed designing UI.
 
 ### Goal
