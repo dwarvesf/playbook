@@ -1,11 +1,11 @@
 ---
 tags: 
   - people
-  - hiring
+  - checklist
   - operations
-title: Consulting Contract Checklist
-date: null
-description: null
+title: "Checklist: Consulting Contract"
+date: 2020-01-01
+description: The checklist presents the process of contract evaluation. 
 authors: 
   - Han 🐸
   - hnh

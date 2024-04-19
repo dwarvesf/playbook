@@ -2,9 +2,10 @@
 tags: 
   - people
   - operations
-title: Offboarding Checklist
-date: null
-description: null
+  - checklist
+title: "Checklist: Offboarding"
+date: 2020-01-01
+description: The process when an employee offboard from the team.
 authors: 
   - Han 🐸
   - hnh

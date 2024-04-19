@@ -2,9 +2,10 @@
 tags: 
   - people
   - operations
-title: Onboarding Checklist
-date: null
-description: null
+  - checklist
+title: "Checklist: Onboarding"
+date: 2020-01-01
+description: What we have to do when a new employee come to our team.
 authors: 
   - Han 🐸
   - hnh

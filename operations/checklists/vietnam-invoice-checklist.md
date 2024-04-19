@@ -2,9 +2,10 @@
 tags: 
   - people
   - operations
-title: Vietnam Invoice Checklist
-date: null
-description: null
+  - checklist
+title: "Checklist: Vietnam Invoice"
+date: 2020-01-01
+description: The processs of taking Vietnam invoice
 authors: 
   - Han 🐸
   - hnh
