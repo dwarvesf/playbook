@@ -7,6 +7,7 @@ tags:
 title: "Email Template: Referral Bonus Confirmation Note"
 date: 2020-01-01
 description: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
+author:
   - nikki
   - hnh
 menu: playbook
