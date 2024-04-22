@@ -7,7 +7,7 @@ date: 2023-10-16
 description: introduction business playbook
 authors: 
   - Han 🐸
-menu:
+menu: memo
 type: playbook
 ---
 # BUSINESS PLAYBOOK

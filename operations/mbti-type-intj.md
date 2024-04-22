@@ -14,8 +14,6 @@ type: null
 hide_frontmatter: false
 ---
 
-<!-- table_of_contents af27c9f7-8c69-45d3-98d1-2bc2e8558fe5 -->
-
 ### Preferred Work Environment
 * Offers opportunities to work with people who are experts in their field
 * Is on the cutting edge or innovative

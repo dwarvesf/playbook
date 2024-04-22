@@ -8,7 +8,7 @@ date: 2023-01-31
 description: In a recent post I wrote "Inner Circle", I expounded on the importance of contribution and value in relation to a person's work or performance.
 authors: null
 menu: playbook
-type: null
+type: playbook
 hide_frontmatter: false
 author: Han 🐸
 ---

@@ -10,10 +10,11 @@ description: What skills that an engineer should have in order to work with clie
 authors: 
   - Han 🐸
   - nikki
-menu:
+menu: memo
 type: playbook
 ---
-# TRAINING COURSE: HOW TO WORK WITH CLIENT
+
+## TRAINING COURSE: HOW TO WORK WITH CLIENT
 What skills that an engineer should have in order to work with client effectively?
 
 1. Strong technical skills: includes

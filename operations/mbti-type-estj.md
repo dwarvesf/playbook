@@ -14,8 +14,6 @@ type: null
 hide_frontmatter: false
 ---
 
-<!-- table_of_contents 891a2785-f7b5-4208-90e0-1153fddd68ae -->
-
 ### Preferred Work Tasks
 * Require thorough analysis
 * Practical planning and organizational skills

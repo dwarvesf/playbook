@@ -9,7 +9,7 @@ date: 2021-07-12
 description: Being able to make decision trains ourselves to accept responsibility with an open mind. Either it's a success or a failure, we move forward.
 authors: 
   - duy
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---

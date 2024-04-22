@@ -25,7 +25,7 @@ We offer a platform for those seeking development work and a dynamic environmen
 * Bounties commonly require skills such as writing, design, research, development, and finance. 
 
 ### How It Works
-After joining Dwarves Network’s Discord, introduce yourself in 😀**・arrival**, then don’t forget to:
+After joining Dwarves Network’s Discord, introduce yourself in **😀・arrival**, then don’t forget to:
 1. Check the bounties board: [https://earn.d.foundation/](https://earn.d.foundation/). Choose the bounty which you want to work on.
 2. Claim a bounty via **⁠🎫・support-ticket.**
 3. Deliver bounty, get $ICY in return

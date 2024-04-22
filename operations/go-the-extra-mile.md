@@ -9,7 +9,7 @@ date: 2020-09-09
 description: A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it. It took me a while. I mean, I've never walked in this shoe before. Wth is a product person? I wondered. And I started digging. Here it is, "Making sure your product/ thing shipped out flawlessly." A perfectionist mindset.
 authors: 
   - duy
-menu: memo
+menu: playbook
 type: null
 hide_frontmatter: false
 ---
