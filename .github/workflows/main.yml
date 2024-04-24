@@ -1,0 +1,22 @@
+name: Dispatch Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Workflow
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{secrets.DWARVES_PAT}}
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: "memo.d.foundation",
+              workflow_id: 'dispatch.yml',
+              ref: 'main',
+            })
