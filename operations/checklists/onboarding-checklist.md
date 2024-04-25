@@ -7,7 +7,7 @@ title: "Checklist: Onboarding"
 date: 2020-01-01
 description: What we have to do when a new employee come to our team.
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

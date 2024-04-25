@@ -7,7 +7,7 @@ title: "Checklist: Project Handover"
 date: 2022-01-01
 description: The checklist shows the process of project handover 
 authors: 
-  - Han 🐸
+  - tieubao
   - huytq
   - nikki
   - thanh

@@ -8,7 +8,7 @@ title: "Checklist: Candidate"
 date: 2020-01-01
 description: The checklist will show how to evaluate a candidate.
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

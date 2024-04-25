@@ -7,7 +7,7 @@ title: Adjust The Way We Work In Basecamp Style
 date: 2021-04-20
 description: Our path with Basecamp didn't cross by accident. Years ago, we embarked on the Slack community and had it applied for internal communication. And project management on another tool, where documents & files are in G-suite.
 authors: 
-  - Han 🐸
+  - tieubao
   - duy
 menu: playbook
 type: playbook

@@ -7,7 +7,7 @@ title: Avoid Burn Out
 date: 2020-03-17
 description: Burnout happens like burning the candle at both ends. But you get to select what time to pull the plug and replace with a new one.
 authors: 
-  - Han 🐸
+  - tieubao
 menu: playbook
 type: null
 hide_frontmatter: false

@@ -7,7 +7,7 @@ title: "Checklist: Project Initialization"
 date: 2022-01-01
 description: The checklist shows the process of project initialization 
 authors: 
-  - Han 🐸
+  - tieubao
   - huytq
   - nikki
   - thanh

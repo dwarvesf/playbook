@@ -4,11 +4,11 @@ tags:
   - software
   - consulting
   - project
-title: how-to-work-with-clients
+title: How to work with clients
 date: 2023-10-16
 description: What skills that an engineer should have in order to work with client effectively?
 authors: 
-  - Han 🐸
+  - tieubao
   - nikki
 menu: memo
 type: playbook

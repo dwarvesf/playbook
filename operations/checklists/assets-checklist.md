@@ -8,7 +8,7 @@ date: 2020-01-01
 description: This checklist is for administrators and employee to manage company's assets. 
 
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

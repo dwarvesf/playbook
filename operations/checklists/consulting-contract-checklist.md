@@ -7,7 +7,7 @@ title: "Checklist: Consulting Contract"
 date: 2020-01-01
 description: The checklist presents the process of contract evaluation. 
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

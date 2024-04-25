@@ -7,7 +7,7 @@ title: Focus On Software Delivery
 date: 2023-02-04
 description: Focus on shipping when you are struggling with what to do next to be better as a software engineer. When you ship something new, users will try out your build and give you feedback.
 authors: 
-  - Han 🐸
+  - tieubao
 menu: playbook
 type: null
 hide_frontmatter: false

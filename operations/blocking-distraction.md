@@ -7,7 +7,7 @@ title: Blocking Distraction
 date: 2016-01-11
 description: null
 authors: 
-  - Han 🐸
+  - tieubao
 menu: playbook
 type: null
 hide_frontmatter: false

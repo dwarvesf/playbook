@@ -8,7 +8,7 @@ title: "Checklist: Hiring"
 date: 2020-01-01
 description: The checklist presents how the hiring is proceeded. 
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

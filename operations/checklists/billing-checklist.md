@@ -7,7 +7,7 @@ title: "Checklist: Billing"
 date: 2020-01-01
 description: This checklist illustrates the process of billing approval.
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

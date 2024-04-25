@@ -8,7 +8,7 @@ title: A Tips Of Hiring - Do & Don't
 date: 2020-07-28
 description: null
 authors: 
-  - Han 🐸
+  - tieubao
   - duy
   - hnh
 menu: playbook

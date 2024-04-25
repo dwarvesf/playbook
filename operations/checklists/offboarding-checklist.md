@@ -7,7 +7,7 @@ title: "Checklist: Offboarding"
 date: 2020-01-01
 description: The process when an employee offboard from the team.
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null

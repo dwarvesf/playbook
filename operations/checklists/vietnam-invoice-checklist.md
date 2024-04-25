@@ -7,7 +7,7 @@ title: "Checklist: Vietnam Invoice"
 date: 2020-01-01
 description: The processs of taking Vietnam invoice
 authors: 
-  - Han 🐸
+  - tieubao
   - hnh
 menu: playbook
 type: null
