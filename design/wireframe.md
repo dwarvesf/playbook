@@ -8,6 +8,7 @@ description:
 authors: []
 menu:
 type: playbook
+draft: true
 ---
 
 ## Wireframe: Workflow Design

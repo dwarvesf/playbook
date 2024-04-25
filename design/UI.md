@@ -9,4 +9,5 @@ description:
 authors: []
 menu:
 type: playbook
+draft: true
 ---
