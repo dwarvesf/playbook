@@ -17,7 +17,7 @@ hide_frontmatter: false
 - Access to Settings -> Settings -> Advanced tab
 - Change Canned Responses (Templates) to **Enabled**
 
-![](assets/setup-email-template.png)
+![](assets/setup-email-template.webp)
 
 ## Adding/Using new template
 When composing an email, you can either:

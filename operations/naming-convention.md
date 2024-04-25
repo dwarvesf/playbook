@@ -18,7 +18,7 @@ hide_frontmatter: false
 -- Exception: Operations members with frequent communication will use <first_name>@d.foundation instead. Example: *han@d.foundation*
 - Google Profile need to be filled with github id OR name: <first_name> <last_name>
 
-![](assets/email-naming.png)
+![](assets/naming-convention_email-naming.webp)
 
 ## Basecamp
 - Photo with your face picture
@@ -31,7 +31,7 @@ hide_frontmatter: false
 - Display name: Suggest to put your github id if you are a developer. Otherwise you can use <first_name> <last_name>
 - What I do: Your role @ dwarves foundation
 
-![](assets/slack-naming.png)
+![](assets/naming-convention_slack-naming.webp)
 
 ## Trello/Jira and other project tools
 - Advised to set avatar as your face picture.
