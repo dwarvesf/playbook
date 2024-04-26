@@ -7,7 +7,7 @@ tags:
 title: "Email Template: Welcome Onboard"
 date: 2020-01-01
 description: The email template is inform new employee about the onboarding meeting and information request.  
-author:
+authors:
   - nikki
   - hnh
 menu: playbook

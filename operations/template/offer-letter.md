@@ -7,7 +7,7 @@ tags:
 title: "Email Template: Offer Letter"
 date: 2020-01-01
 description: The email template is to annouce about new employment. 
-author:
+authors:
   - nikki
   - hnh
 menu: playbook

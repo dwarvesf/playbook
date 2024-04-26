@@ -6,7 +6,7 @@ tags:
 title: "Email Template: Interview Invitation"
 date: 2020-01-01
 description: The email template is to annouce the interview date with the client.
-author:
+authors:
   - nikki
   - hnh
 menu: playbook

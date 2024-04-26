@@ -6,7 +6,7 @@ tags:
 title: "Email Template: Milestone sign-off"
 date: 2020-01-01
 description: The email template is to confirm about the milestone with client.
-author:
+authors:
   - nikki
   - hnh
 menu: playbook

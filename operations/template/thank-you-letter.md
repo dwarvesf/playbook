@@ -6,7 +6,7 @@ tags:
 title: "Email Template: Thank you letter"
 date: 2020-01-01
 description: The email template is to show appreciation to partner after the project closed. 
-author:
+authors:
   - nikki
   - hnh
 menu: playbook
