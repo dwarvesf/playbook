@@ -9,7 +9,6 @@ date: 2024-03-13
 description: This guide show how to swap ICY to fiat. 
 authors:
   - minhcloud
-  - monotykamary
 menu: memo
 toc: false
 notice: 
