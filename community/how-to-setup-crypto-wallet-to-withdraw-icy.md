@@ -1,11 +1,11 @@
 ---
 tags:
   - icy
-  - web3
-  - guideline
-title: How to set up cryto wallet to withdraw ICY
+  - dfg
+  - tutorial
+title: How to set up crypto wallet to withdraw ICY
 date: 2024-03-13
-description: 
+description: To withdraw ICY to Vietnam Bank or other fiat, you need set up 2 types of wallet in advance. This guide will show you how to setup crypto wallet.
 authors:
   - minhcloud
 menu: memo

@@ -1,16 +1,14 @@
 ---
 tags:
   - icy
-  - web3
+  - dfg
   - payment
-  - instructions
-  - guideline
+  - tutorial
 title: How to withdraw ICY
 date: 2024-03-13
-description: 
+description: This guide show how to swap ICY to fiat. 
 authors:
   - minhcloud
-  - monotykamary
 menu: memo
 toc: false
 notice: 
@@ -26,11 +24,11 @@ Before you can withdraw ICY, please make sure that you have already had the cryp
 ### Withdraw token from Mochi
 1. **Use the command to withdraw token**: Withdraw to  Use the below command to withdraw token from Mochi to the crypto wallet.
 
-![[How to withdraw ICY-20240313144652671.webp]]
+![](assets/how-to-withdraw-icy-1.webp)
 
 2. **Enter address**: Click the button “Enter address” and paste the address of the crypto wallet you have created above.
 
-![[How to withdraw ICY-20240313144732450.webp]]
+![](assets/how-to-withdraw-icy-2.webp)
 
 Note:
 - To swap ICY to USDT in the next step, you will need some Ethereum on Base Network.
