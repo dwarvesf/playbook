@@ -9,9 +9,6 @@ description: The processs of taking Vietnam invoice
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Invoice checklist

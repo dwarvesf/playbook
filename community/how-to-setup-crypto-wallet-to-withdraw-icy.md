@@ -8,14 +8,9 @@ date: 2024-03-13
 description: To withdraw ICY to Vietnam Bank or other fiat, you need set up 2 types of wallet in advance. This guide will show you how to setup crypto wallet.
 authors:
   - minhcloud
-menu: memo
 toc: false
 notice: 
-type: 
-hide_frontmatter: false
 event_date: 
-pinned: 
-hide_title: false
 ---
 To withdraw ICY to Vietnam Bank or other fiat, you need set up 2 types of wallet in advance. 
 1. On-chain wallet (Non-custodial wallet, such as: Coinbase, Metamask): This kind of wallet is needed to receive ICY and swap ICY to USDT.

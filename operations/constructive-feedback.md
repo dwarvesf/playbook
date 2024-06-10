@@ -8,9 +8,6 @@ date: 2020-05-28
 description: It's in human nature to instantly lose their mind when things get hard, and somehow they split nasty things that can't be undone. So, to reduce the ratio of unnecessary conflicts, let's make the feedback great again.
 authors: 
   - tieubao
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 It's in human nature to instantly lose their mind when things get hard, and somehow they split nasty things that can't be undone. So, to reduce the ratio of unnecessary conflicts, let's make the feedback great again.

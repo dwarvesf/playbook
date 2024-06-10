@@ -9,9 +9,6 @@ description: Our path with Basecamp didn't cross by accident. Years ago, we emba
 authors: 
   - tieubao
   - duy
-menu: playbook
-type: playbook
-hide_frontmatter: false
 ---
 
 Being in a remote team is dope. Manage your own stuff, remove the time and cost of commuting, select your work ambiance, and got equipped with all types of supporting tools.

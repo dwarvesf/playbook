@@ -8,9 +8,6 @@ date: 2019-11-27
 description: Delegating work does not absolve you of responsibility. In the case of a failure, the blame is all yours. Investors will go after the CEO, even if an intern made the mistake that hurt the company.
 authors: 
   - tieubao
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 We can bring in all the technology in the world, but if we can’t delegate properly, our companies have no chance of scaling well.

@@ -7,9 +7,6 @@ date: 2020-01-01
 description: This is the guide how to name your Email, Basecamp, Slack, Trello username.   
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## Email

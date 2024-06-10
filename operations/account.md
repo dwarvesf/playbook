@@ -8,9 +8,6 @@ description: null
 authors: 
   - tieubao
   - duy
-menu: playbook
-type: playbook
-hide_frontmatter: false
 ---
 
 ### Planning

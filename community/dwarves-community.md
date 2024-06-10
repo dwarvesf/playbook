@@ -9,11 +9,6 @@ date: 2023-12-15
 description: Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 authors:
   - nikki
-menu: memo
-type: memo
-hide_frontmatter: false
-pinned: 
-hide_title: false
 featured: true
 ---
 

@@ -9,9 +9,6 @@ description: The email template is to confirm about the milestone with client.
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title:** Project XX - Milestone Signoff

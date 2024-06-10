@@ -8,9 +8,6 @@ date: 2020-07-05
 description: The concept of the adjacent possible originates from Stuart Kauffman and his work on biological evolution. 
 authors: 
   - tieubao
-menu: memo
-type: null
-hide_frontmatter: false
 ---
 
 During our study about innovation, we find the topic of adjacent possible. Innovation happens but not many people can point out clearly. Getting to know the foundation of innovation helps understanding its natures and could lead to further exploration. Enjoy your reading.

@@ -9,9 +9,6 @@ date: 2016-01-17
 description: Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people.
 authors: 
   - duy
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people excited without costing too much operation cost. 

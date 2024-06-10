@@ -7,9 +7,6 @@ date: 2020-01-01
 description: How to access to team's password folder  
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## 1Password storage

@@ -7,9 +7,6 @@ date: 2020-01-01
 description: A comprehensive compliance program encompassing monthly audits, transparent progress tracking, and consequences for non-compliance, aiming to foster accountability and transparency within the team.
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## Compliance Checklist

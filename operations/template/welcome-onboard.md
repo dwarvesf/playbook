@@ -10,9 +10,6 @@ description: The email template is inform new employee about the onboarding meet
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title**: Dwarves Foundation - Welcome Onboard

@@ -9,9 +9,6 @@ description: The email template is to announce every updates to the comminity an
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Hey there!

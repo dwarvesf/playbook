@@ -10,9 +10,6 @@ description: The email template is to annouce about new employment.
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title**: Dwarves Foundation - Offer letter

@@ -9,9 +9,6 @@ date: 2020-02-21
 description: Sustainable growth companies are built by teams of shining constellations rather than just several bright stars. It all starts with recruiting. 
 authors: 
   - tieubao
-menu: memo
-type: null
-hide_frontmatter: false
 ---
 
 Sustainable growth companies are built by teams of shining constellations rather than just several bright stars.

@@ -10,9 +10,6 @@ description: This checklist is for administrators and employee to manage company
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## For Admin

@@ -7,9 +7,6 @@ date: 2020-01-01
 description: Guide to calculate annual bonus for sales
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 The annual bonus for sales are the sum of 2 portions

@@ -10,9 +10,6 @@ description: The email template is to reject a candidate that is not qualified i
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Screening Rejection

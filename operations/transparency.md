@@ -6,9 +6,6 @@ title: Transparency
 date: 2020-05-27
 description: The essence of transparency within a company
 authors: null
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **How much do you know about this woodland?**

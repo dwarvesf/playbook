@@ -19,8 +19,7 @@ We use the following structure for our error message. It helps our system stay c
 ```
 
 ## Type of error
-We classify the error into some type:
-- HTTP status error: `0 - 599`
+We classify the error into some - HTTP status error: `0 - 599`
 - Internal error - occur inner system: `1000 - 10.000`
 - Service error - occurs with other services that our system interacts: `10.000 - 20.000`
 - Business error - occur when we process logic: `20.000 - ...`
@@ -40,8 +39,7 @@ We make some error handling packages for some languages, such as `golang`, `elix
 // We can reuse:
 //   gerr.ErrSvcAuthRequired.Err()
 // 
-// There's some error type:
-//  - Internal error: start from `InternalCodeCustom`
+// There's some error //  - Internal error: start from `InternalCodeCustom`
 //  - Service error: start from `ServiceCodeCustom`
 //  - Business error: start from `BusinessCodeCustom`
 //

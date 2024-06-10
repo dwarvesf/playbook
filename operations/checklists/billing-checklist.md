@@ -9,9 +9,6 @@ description: This checklist illustrates the process of billing approval.
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## Invoice Process

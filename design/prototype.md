@@ -8,7 +8,6 @@ date: 2023-10-16
 description: Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible.
 authors:
   - nikki
-menu: memo
 type: playbook
 ---
 

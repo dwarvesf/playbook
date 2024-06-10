@@ -9,9 +9,6 @@ description: The checklist presents the process of contract evaluation.
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Content

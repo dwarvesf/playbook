@@ -8,9 +8,6 @@ date: 2016-04-04
 description: Performance is a final value that will be calculated from other metrics. This value will help to indicate how good all the activities we've done to make the company could grow.
 authors: 
   - tieubao
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ***P = f(r, t, c, r)***

@@ -10,9 +10,6 @@ description: The email template is to invite camdidate to the assignment round.
 authors: 
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title:** Dwarves Foundation - Assignment Invitation

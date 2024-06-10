@@ -10,9 +10,6 @@ description: In a span of over 2 years, we tested multiple models of investment 
 authors: 
   - han
   - nikki
-menu: memo
-type: 
-hide_frontmatter: false
 ---
 
 It all started back in 2019 when a handful of tech people came under the name of Dwarves Ventures, with the sole mission was to give force to makers and hustlers.

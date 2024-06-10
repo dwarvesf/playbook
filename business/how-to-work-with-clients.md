@@ -10,8 +10,6 @@ description: What skills that an engineer should have in order to work with clie
 authors: 
   - tieubao
   - nikki
-menu: memo
-type: playbook
 ---
 
 ## TRAINING COURSE: HOW TO WORK WITH CLIENT

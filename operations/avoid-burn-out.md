@@ -8,9 +8,6 @@ date: 2020-03-17
 description: Burnout happens like burning the candle at both ends. But you get to select what time to pull the plug and replace with a new one.
 authors: 
   - tieubao
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Just to be clear, this term has nothing to compare with the emotional crisis you go through daily - stress. No, burn-out isn't stress.

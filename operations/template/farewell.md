@@ -9,9 +9,6 @@ description: The email template is to inform employee that he/she failed the pro
 authors: 
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title**: Dwarves Foundation - Farewell Letter

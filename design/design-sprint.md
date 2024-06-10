@@ -10,8 +10,6 @@ description: Design sprint mostly applied to the Exploration phase. Friday is us
 authors: 
   - nikki
   - han
-menu: memo
-type: playbook
 ---
 
 ### What is the design sprint?

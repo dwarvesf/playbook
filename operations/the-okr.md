@@ -8,9 +8,6 @@ date: 2016-04-06
 description: How we use OKR to define goals
 authors: 
 - han
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### What is OKR

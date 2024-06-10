@@ -9,9 +9,6 @@ date: 2023-11-23
 description: Quick recap about $icy progress and what's next in 2024.
 authors:
   - hnh
-menu: memo
-type: memo
-hide_frontmatter: false
 featured: true
 ---
 

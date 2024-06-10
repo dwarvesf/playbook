@@ -9,9 +9,6 @@ description: The process when an employee offboard from the team.
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 An off-boarding process must ensure three things

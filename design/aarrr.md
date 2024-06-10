@@ -9,8 +9,6 @@ date: 2023-10-16
 description: We use the AARRR framework to measure and optimize every phase of a product by optimizing it through the insane focus on one metric at a time.
 authors: 
   - han
-menu: memo
-type: playbook
 ---
 ## AARRR framework
 We use the AARRR framework to measure and optimize every phase of a product by optimizing it through the insane focus on one metric at a time.

@@ -10,9 +10,6 @@ description: The checklist will show how to evaluate a candidate.
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Background & Skills

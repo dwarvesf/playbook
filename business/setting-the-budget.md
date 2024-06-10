@@ -9,9 +9,6 @@ date: 2020-10-16
 description: After a project has been loosely defined, the profit generating, or cost savings, potential should be estimated. Refining scope and budget will cost time and money. Knowing the potential reward will ensure that the research, design and planning effort stays within perspective.
 authors: 
   - nikki
-menu: memo
-type: null
-hide_frontmatter: false
 ---
 
 One of the most important questions at the start of a project is how much it will cost. It is vital to make sure that enough budget is available to allow for the development of a viable product.

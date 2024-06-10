@@ -9,9 +9,6 @@ date: 2021-07-17
 description: null
 authors: 
   - namtran
-menu: playbook
-type: playbook
-hide_frontmatter: false
 ---
 
 ## Getting Started

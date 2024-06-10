@@ -7,9 +7,6 @@ date: 2020-01-01
 description: How to setup template for email in Gmail 
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## To turn on Gmail Canned Response (Template)

@@ -10,8 +10,6 @@ description:
 authors: 
   - nikki
   - huytq
-menu: memo
-type: playbook
 ---
 
 ## Budget

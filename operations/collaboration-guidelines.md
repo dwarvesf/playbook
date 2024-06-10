@@ -7,9 +7,6 @@ date: 2020-01-01
 description: Guidelines for project collaboration between Dwarves and our Clients.  
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Guidelines for project collaboration between Dwarves and our Clients.

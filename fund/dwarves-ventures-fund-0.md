@@ -10,9 +10,6 @@ description: It all started when us, a couple of product people realized with ou
 authors: 
   - han
   - nikki
-menu: memo
-type: 
-hide_frontmatter: false
 ---
 
 It all started when us, a couple of product people realized with our expertise in technology, our passion for outstanding software, we have the ability to uplift like-minded founders by helping them build and launch their startups. The idea became clearer when our network of makers, industry experts and investors broadened steadily.

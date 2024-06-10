@@ -11,14 +11,9 @@ authors:
   - innno_
   - monotykamary
   - hnh
-menu: memo
 toc: false
 notice: 
-type: 
-hide_frontmatter: false
 event_date: 
-pinned: 
-hide_title: false
 ---
 Welcome to Dwarves Network,
 

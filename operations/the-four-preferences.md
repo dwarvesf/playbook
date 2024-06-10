@@ -8,9 +8,6 @@ date: 2021-07-16
 description: The four preferences in MBTI personalities
 authors: 
   - namtran
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 ## The Four Preferences are
 ### Extraversion and Introversion

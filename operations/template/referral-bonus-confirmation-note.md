@@ -10,9 +10,6 @@ description: Whenever a Dwarves refers to a teammate that successfully deployed 
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Use case**: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.

@@ -9,9 +9,6 @@ date: 2021-07-24
 description: All about the ESTJ personality type
 authors: 
   - namtran
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Preferred Work Tasks

@@ -10,9 +10,6 @@ authors:
   - tieubao
   - duy
   - giangthan
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## Philosophy

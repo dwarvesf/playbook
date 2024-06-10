@@ -9,9 +9,6 @@ date: 2023-11-22
 description: Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm...
 authors:
   - han
-menu: memo
-type: memo
-hide_frontmatter: false
 featured: true
 ---
 

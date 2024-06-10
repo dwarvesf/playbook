@@ -8,9 +8,6 @@ date: 2016-01-11
 description: null
 authors: 
   - tieubao
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Finding solitude in information overwhelming world.

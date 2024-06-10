@@ -9,9 +9,6 @@ description: The checklist of unemployment, social, health insurance
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### When an employee ask for Social insurance and contract

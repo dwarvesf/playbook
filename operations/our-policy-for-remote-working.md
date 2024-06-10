@@ -8,9 +8,6 @@ date: 2016-01-10
 description: Some useful practices we adopted to keep the remote working system goes smoothly. This policy is written in the context of our current company setup.
 authors: 
   - tieubao
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Some useful practices we adopted to keep the remote working system goes smoothly. 

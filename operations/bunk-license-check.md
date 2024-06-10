@@ -7,9 +7,6 @@ date: 2020-01-01
 description: Glice is a Golang license and dependency checker, providing detailed insights into dependencies and their licenses
 authors: 
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ## License detector tool: Glice

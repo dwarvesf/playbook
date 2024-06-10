@@ -7,8 +7,6 @@ title: UX
 date: 2023-10-16
 description:
 authors: []
-menu:
-type: playbook
 ---
 
 ## UX Research Framework

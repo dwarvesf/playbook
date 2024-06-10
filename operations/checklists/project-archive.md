@@ -10,9 +10,6 @@ authors:
   - huytq
   - nikki
   - thanh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Project: Archive**

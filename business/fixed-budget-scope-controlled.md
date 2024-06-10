@@ -10,9 +10,6 @@ description: Fixed-Budget, Scope-Controlled (FBSC) is applied at Atomic Object.
 authors: 
   - tieubao
   - nikki
-menu: memo
-type: null
-hide_frontmatter: false
 ---
 
 Fixed-Budget, Scope-Controlled (FBSC) is applied at Atomic Object. They build custom software for our customers. Because of the complexity involved in building a great software product, software development projects are always more difficult to price than a product.

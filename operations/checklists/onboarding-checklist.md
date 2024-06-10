@@ -9,9 +9,6 @@ description: What we have to do when a new employee come to our team.
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 Through this process, the employee gradually form their own perspective and their fit with the Dwarves. This is the stage when they decide whether or not to commit to our company.

@@ -9,9 +9,6 @@ description: The email template is to show appreciation to partner after the pro
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title:** Dwarves Foundation - Thank you Letter

@@ -10,9 +10,6 @@ description: Bounties are rewards (in ICY - Dwarves’ token) given out to commu
 authors: 
   - nikki
   - innno_
-menu: memo
-type: null
-hide_frontmatter: false
 ---
 As you may know, Dwarves Discord network is where we connect with our friends, alumni, and like-minded people.
 

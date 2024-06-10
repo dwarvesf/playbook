@@ -9,9 +9,6 @@ description: The email template that you need to send to client when it's near h
 authors: 
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title:** Dwarves Foundation - Resource Changes Agreement on [**Name of Project**] from [**date**]

@@ -9,9 +9,6 @@ description: The email template is to annouce the interview date with the client
 authors:
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title:** Dwarves Foundation - Interview Invitation

@@ -9,9 +9,6 @@ description: The email template is to welcome employee back to work.
 authors: 
   - nikki
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 **Title**: Dwarves Foundation - Welcome Back

@@ -9,9 +9,6 @@ date: 2021-07-20
 description: All about the ISTJ personality type
 authors: 
   - namtran
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Preferred Work Environment

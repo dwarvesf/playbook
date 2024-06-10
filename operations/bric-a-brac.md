@@ -7,9 +7,6 @@ date: 2020-04-10
 description: null
 authors: 
   - tieubao
-menu: memo
-type: null
-hide_frontmatter: false
 ---
 
 * Outsource things which are super important but we are not excellent at.

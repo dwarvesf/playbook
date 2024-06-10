@@ -10,9 +10,6 @@ description: The checklist presents how the hiring is proceeded.
 authors: 
   - tieubao
   - hnh
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 
 ### Resume Collecting

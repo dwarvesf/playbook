@@ -8,9 +8,6 @@ date: 2020-09-07
 description: We figure a small team is easier to share perspectives, update on what's happening and discuss different work aspects. Besides better communication, working cross functional creates a higher chance to understand the whole operation flow. 
 authors: 
   - duy
-menu: playbook
-type: null
-hide_frontmatter: false
 ---
 ## Minimal human intervention
 Our operations runs on four branches: **Account** for client happiness arrangement - **PeopleOps** for resource allocation - **Human Resource** for recruitment and employee experience, & **Communication** for info transmission across the platforms. 

@@ -8,8 +8,6 @@ date: 2023-10-16
 description:
 authors:
   - tieubao
-menu: memo
-type: playbook
 ---
 * Monday:
 Sprint Planning
