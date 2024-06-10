@@ -5,7 +5,6 @@ tags:
 title: Effective Meeting
 date: 2016-01-10
 description: null
-authors: null
 ---
 To increase flexibility in how and where employees at Dwarves work, we agree on a shared set of constraints for group work and meetings.
 

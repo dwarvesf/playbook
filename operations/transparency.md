@@ -5,7 +5,6 @@ tags:
 title: Transparency
 date: 2020-05-27
 description: The essence of transparency within a company
-authors: null
 ---
 
 **How much do you know about this woodland?**
