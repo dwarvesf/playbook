@@ -18,37 +18,28 @@ authors:
 - Smoothen the handover and onboarding process
 
 ### Artifacts Checklist
-1. Backup all source codes in every 3 months
-    - [ ]  Clone source code of the project to Dwarves Foundation
-
+Every 3 monts, we update and synchronize project charters and artifacts below.
+1. Backup all source codes 
+    - [ ]  If applicable, establish a pull process to back up all source code
 2. Project charter
-
     - [ ]  Description: What is the purpose of the project and which problem the product solve?
-
     - [ ]  Project scope: Which function our team involved our team?
-
     - [ ]  Tech stack: Which tech stack our team provide?
-
+    - [ ]  Stakeholders: Who you work with and their roles
     - [ ]  Resource allocation: Which role is assigned to whom?
-
     - [ ]  Meetings: When the meeting is setup for which purpose
-
-    - [ ]  Changelog: Please link to the current changelog directory which record the updates of the team’s work.
-
-    - [ ]  Communication channel
-
-    - [ ]  Stakeholder information: Who you work with and their roles.
-
+    - [ ]  Communication channels
+    - [ ]  Changelog: Please link to the current changelog directory which record the updates of the team’s work
 3. Milestone/roadmap: What would you do in the next 3 months?
 4. Document
     - [ ]  High-level diagrams
         - [ ]  ERD or class diagram
-        - [ ]  Component diagrams + document to explain the role of each component
-        - [ ]  Infrastructure diagrams + document to explain the role of each component
-    - [ ]  Flow, activity or state machine diagrams for core/complex features
+        - [ ]  Component diagram and describe the function of each component
+        - [ ]  Infrastructure diagram and describe the function of each component
+    - [ ]  Flow, activity or state machine diagrams for core or complex features
     - [ ]  README
         - [ ]  Project description
         - [ ]  How to install & run source (should actually run source from the instruction)
-        - [ ]  How to contribute (coding convention, source structure/architect explain…)
+        - [ ]  How to contribute (coding convention, source structure or architect explain…)
     - [ ]  .env document
     - [ ]  Document potential issues, roadblocks, tech debt…
