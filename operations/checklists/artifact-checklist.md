@@ -1,21 +1,15 @@
 ---
 tags: 
-  - people
   - operations
   - checklist
+  - delivery
 title: "Checklist: Back up Artifact"
 date: 2024-07-22
-description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done and can be referred to in case of any disputes or misunderstandings with the client.
+description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done.
 authors: 
   - minh_cloud
   - thanh
 ---
-
-### Why do we need artifacts?
-- Track the project’s progress against the plan, making it easier to manage and control
-- Serve as a record of what was done and can be referred to in case of any disputes or misunderstandings with the client
-- Future team members can learn from past projects, understanding the decisions made, the problems faced, and how they were solved
-- Smoothen the handover and onboarding process
 
 ### Artifacts Checklist
 Every 3 monts, we update and synchronize project charters and artifacts below.
@@ -39,7 +33,12 @@ Every 3 monts, we update and synchronize project charters and artifacts below.
     - [ ]  Flow, activity or state machine diagrams for core or complex features
     - [ ]  README
         - [ ]  Project description
-        - [ ]  How to install & run source (should actually run source from the instruction)
+        - [ ]  How to install and run source (should actually run source from the instruction)
         - [ ]  How to contribute (coding convention, source structure or architect explain…)
     - [ ]  .env document
     - [ ]  Document potential issues, roadblocks, tech debt…
+
+### Why do we need artifacts?
+- Track the project’s progress against the plan, making it easier to manage and control
+- Future team members can learn from past projects, understanding the decisions made, the problems faced, and how they were solved
+- Smoothen the handover and onboarding process, track record, and trace back if needed. 
