@@ -29,7 +29,6 @@ We are using the following steps to successfully implement this model.
 - **Time tracking**: we use Notion / Excel to record hours spent on each project and task. If a member is on the hourly billing, said member is required to log their time in an accurate and timely manner.
 
   ![](assets/time-log-for-design.png)
-
 *Example of a timesheet we are using for design work*
 
 - **Project management:** maintain detailed project plans, frequently update clients of progress, changes in scope and how that would effect the hours to be billed.
