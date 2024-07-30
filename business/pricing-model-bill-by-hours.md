@@ -4,7 +4,7 @@ tags:
   - billbyhours
   - business
 title: "Pricing model: Bill by hours"
-date: 2024-07-29
+date: 2024-07-30
 description: A new hourly billing model is introduced to ensure fair compensation for effort, flexibility in project scope, control over additional work, and transparency with clients.
 authors: 
   - nikkingtr
@@ -34,7 +34,7 @@ We are using the following steps to successfully implement this model.
 - **Project management:** maintain detailed project plans, frequently update clients of progress, changes in scope and how that would effect the hours to be billed.
 - **Approval:** timesheets are sent at the end of the month for client’s approval. Only after timesheets are approved that we can send invoices.
 
-  ![](assets/timesheet-for-approval.png)
+  ![](assets/email-for-approval.png)
 *Only after timesheets are approved that we can send invoices.*
 
 This hourly billing model is nothing new, but it require us to be consistent and articulate. Build it up like a habit, and we will be able to take greater responsibilities and better client relationships.
