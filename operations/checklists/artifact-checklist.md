@@ -50,8 +50,8 @@ Every 3 monts, we update and synchronize project charters and artifacts below.
      - [ ] Infrastructure diagram
            
    - [ ] Flow, activity or state machine diagrams for core or complex features
-   - [ ] README
-         
+   
+   - [ ] README    
      - [ ] Project description
      - [ ] How to install and run source code
      - [ ] How to contribute (coding convention, explanation of source structure and architecture…)

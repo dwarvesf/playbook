@@ -27,10 +27,10 @@ An off-boarding process must ensure three things:
 ## Company Offboarding
 ### Exit Interviews and Final Communications
 - [ ] Exit interview with lead/manager 
-  - Gather feedback
-  - Invite to join alumni activities on discords/event
+  - [ ] Gather feedback
+  - [ ] Invite to join alumni activities on discords/event
 - [ ] Exit talk with HR/Ops 
-  - Remind about important points in the Contractor Agreement
+  - [ ] Remind about important points in the Contractor Agreement
 - [ ] Last day & final paycheck informed 
 - [ ] Offboarding email - Remind on survival terms in Contractor Agreement 
 - [ ] Thank you & farewell letter to personal email 
