@@ -21,11 +21,11 @@ authors:
 
 Every 3 monts, we update and synchronize project charters and artifacts below.
 
-1. Backup all source codes
+- [ ] Backup all source codes
 
    - [ ] If applicable, establish a pull process to back up all source code
   
-2. Project charter
+- [ ] Project charter
    
    - [ ] Description: What is the purpose of the project and which problem the product solve?
    - [ ] Project scope: Which function our team involved our team?
@@ -36,11 +36,11 @@ Every 3 monts, we update and synchronize project charters and artifacts below.
    - [ ] Communication channels
    - [ ] Changelog: Link to the current changelog directory which record the updates of the team’s work
          
-4. Milestones/roadmap
+- [ ] Milestones/roadmap
    
    - [ ] What would the team do in the next 3 months?
          
-5. Document
+- [ ] Document
    
    - [ ] High-level diagrams (with description for the function of each component)
          
