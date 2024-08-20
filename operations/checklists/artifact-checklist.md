@@ -36,18 +36,20 @@ Every 3 monts, we update and synchronize project charters and artifacts below.
  - [ ] What would the team do in the next 3 months?
          
 ### Document
-1.  High-level diagrams (with description for the function of each component) 
-    - [ ] ERD or class diagram
-    - [ ] Container diagram
-    - [ ] Component diagram
-    - [ ] Infrastructure diagram
+**High-level diagrams (with description for the function of each component)**
+
+ - [ ] ERD or class diagram
+ - [ ] Container diagram
+ - [ ] Component diagram
+ - [ ] Infrastructure diagram
            
-2. Flow, activity or state machine diagrams for core or complex features
+**Flow, activity or state machine diagrams for core or complex features.**
    
-3. README    
+**README**
    - [ ] Project description
    - [ ] How to install and run source code
    - [ ] How to contribute (coding convention, explanation of source structure and architecture…)
            
-4. .env document
-5. Potential issues, roadblocks
+**`.env` document** 
+
+**Potential issues, roadblocks**
