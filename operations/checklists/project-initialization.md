@@ -3,7 +3,7 @@ tags:
   - project
   - operations
   - checklist
-title: "Checklist: Project Initialization"
+title: Project Initialization
 date: 2022-01-01
 description: The checklist shows the process of project initialization 
 authors: 

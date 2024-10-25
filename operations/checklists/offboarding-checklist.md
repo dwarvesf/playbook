@@ -3,7 +3,7 @@ tags:
   - people
   - operations
   - checklist
-title: "Checklist: Offboarding"
+title: Offboarding
 date: 2024-08-19
 description: The process when an employee offboard from the team.
 authors: 

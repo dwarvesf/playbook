@@ -4,7 +4,7 @@ tags:
   - email
   - operations
   - hiring
-title: "Email Template: Rejection"
+title: Rejection
 date: 2020-01-01
 description: The email template is to reject a candidate that is not qualified in the recruitment process. 
 authors:

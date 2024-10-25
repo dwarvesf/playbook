@@ -3,7 +3,7 @@ tags:
   - template
   - email
   - operations
-title: "Email Template: Farewell Letter"
+title: Farewell Letter
 date: 2020-01-01
 description: The email template is to inform employee that he/she failed the probation.  
 authors: 

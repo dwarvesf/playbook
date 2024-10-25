@@ -3,7 +3,7 @@ tags:
   - project
   - operations
   - checklist
-title: "Checklist: Project Case Study"
+title: Project Case Study
 date: 2022-01-01
 description: The checklist outline the criteria of a project case study article
 authors: 

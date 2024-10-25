@@ -3,7 +3,7 @@ tags:
   - template
   - email
   - operations
-title: "Email Template: Confirm Employee's Resume Date Day"
+title: Confirm Employee's Resume Date Day
 date: 2020-01-01
 description: The email template is to welcome employee back to work.  
 authors: 

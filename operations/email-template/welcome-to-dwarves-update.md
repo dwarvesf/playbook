@@ -3,7 +3,7 @@ tags:
   - template
   - email
   - operations
-title: "Email Template: Welcome to Dwarves Updates"
+title: Welcome to Dwarves Updates
 date: 2020-01-01
 description: The email template is to announce every updates to the comminity and subscriber.  
 authors:

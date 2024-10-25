@@ -3,7 +3,7 @@ tags:
   - template
   - email
   - operations
-title: "Email Template: National Day"
+title: National Day
 date: 2020-01-01
 description: The email template that you need to send to client when it's near holiday to announce about the absence. 
 authors:

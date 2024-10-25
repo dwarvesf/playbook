@@ -4,7 +4,7 @@ tags:
   - email
   - operations
   - hiring
-title: "Email Template: Assignment Inviation"
+title: Assignment Inviation
 date: 2020-01-01
 description: The email template is to invite camdidate to the assignment round.  
 authors: 

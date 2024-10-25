@@ -3,7 +3,7 @@ tags:
   - project
   - operations
   - checklist
-title: "Checklist: Project Handover"
+title: Project Handover
 date: 2022-01-01
 description: The checklist shows the process of project handover 
 authors: 
@@ -24,4 +24,3 @@ authors:
 - [ ]  New members know how and where to find information why certain design/implementation decisions are done.
 - [ ]  Do pair programming for at least 1 hour (an old member with a new member).
 - [ ]  Code review time is scheduled weekly.
-

@@ -3,7 +3,7 @@ tags:
   - template
   - email
   - operations
-title: "Email Template: Thank you letter"
+title: Thank you letter
 date: 2020-01-01
 description: The email template is to show appreciation to partner after the project closed. 
 authors:

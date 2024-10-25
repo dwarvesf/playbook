@@ -3,7 +3,7 @@ tags:
   - project
   - operations
   - checklist
-title: "Checklist: Project Communication"
+title: Project Communication
 date: 2022-01-01
 description: The checklist shows the rule of communication in a project 
 authors: 
@@ -25,4 +25,3 @@ authors:
 - [ ]  Loop the related people if the discussion need him/her
 - [ ]  No swearing
 - [ ]  Do not babble in the discussion in which you do not have any responsibility.
-
