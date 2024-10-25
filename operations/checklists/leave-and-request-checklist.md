@@ -3,7 +3,7 @@ tags:
   - people
   - operations
   - checklist
-title: "Checklist: Leave Request"
+title: Leave Request
 date: 2024-08-20
 description: The checklist of leave and request for the team.
 authors: 

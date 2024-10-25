@@ -1,10 +1,9 @@
 ---
 tags: 
-  - people
   - hiring
   - operations
   - checklist
-title: "Checklist: Candidate"
+title: Candidate
 date: 2020-01-01
 description: The checklist will show how to evaluate a candidate.
 authors: 

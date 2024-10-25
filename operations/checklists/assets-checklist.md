@@ -3,7 +3,7 @@ tags:
   - people
   - operations
   - checklist
-title: "Checklist: Assets"
+title: Assets
 date: 2020-01-01
 description: This checklist is for administrators and employee to manage company's assets. 
 

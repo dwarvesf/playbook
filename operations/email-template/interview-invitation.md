@@ -3,7 +3,7 @@ tags:
   - template
   - email
   - operations
-title: "Email Template: Interview Invitation"
+title: Interview Invitation
 date: 2020-01-01
 description: The email template is to annouce the interview date with the client.
 authors:
