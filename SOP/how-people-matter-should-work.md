@@ -5,7 +5,7 @@ tags:
   - operations
 title: How People Matter Should Work
 date: 2020-06-24
-description: null
+description: A philosophical exploration of authentic employee engagement in software companies, focusing on individual contributions, unconventional hiring practices, knowledge sharing culture, and intrinsic motivation rather than superficial happiness metrics.
 authors:
   - tieubao
   - duy
