@@ -5,7 +5,7 @@ tags:
   - payment
   - tutorial
 title: How to swap ICY to BTC
-date: 2024-03-13
+date: 2025-03-04
 description: This guide show how to swap ICY to BTC.
 authors:
   - quang
@@ -13,8 +13,6 @@ toc: false
 notice:
 event_date:
 ---
-
-# Guide to Swapping ICY to BTC
 
 ## Before You Begin
 Make sure you have a Bitcoin (BTC) wallet ready to receive the BTC after the swap. If you don’t have one, you can set up a BTC wallet using services like Electrum, Trust Wallet, UniSat or any other trusted BTC wallet provider.
