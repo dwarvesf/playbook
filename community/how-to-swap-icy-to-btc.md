@@ -25,7 +25,6 @@ Make sure you have a Bitcoin (BTC) wallet ready to receive the BTC after the swa
 3. Follow the on-screen instructions to connect your wallet to the site.
 ![](assets/how-to-swap-icy-to-btc-1.png)
 4. Ensure your wallet is switched to the **Base network**, since ICY operates on this network.
-![](assets/how-to-swap-icy-to-btc-2.png)
 
 ## Step 2: Swap ICY to BTC
 1. After connecting your wallet, choose **ICY** as the token you want to swap from and **BTC** as the token you want to receive.
