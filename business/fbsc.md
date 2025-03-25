@@ -1,15 +1,15 @@
 ---
-tags:
-  - client
-  - consulting
-  - guideline
-  - business
 title: FBSC
 date: 2023-10-16
 description: null
 authors: 
   - nikki
   - huytq
+tags:
+  - client
+  - consulting
+  - guideline
+  - business
 ---
 
 ## Budget

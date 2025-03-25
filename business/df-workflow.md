@@ -1,13 +1,13 @@
 ---
-tags:
-  - workflow
-  - performance
-  - playbook
 title: Dwarves Workflow
 date: 2023-10-16
 description: null
 authors:
   - tieubao
+tags:
+  - workflow
+  - performance
+  - playbook
 ---
 * Monday:
 Sprint Planning

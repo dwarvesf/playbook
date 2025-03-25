@@ -22,6 +22,7 @@ Given the growing dynamic of our engagement, fixed prices or monthly retainers b
 - **Transparent and foolproof**: clients get detailed time logged, no grey area. Numbers create transparency and trust for both sides.
 
 ### Implementing the Hourly Billing model
+
 We are using the following steps to successfully implement this model.
 
 - **Clear announcement**: ensure our clients are fully informed about our timesheet approval process, as well as how we track time.
