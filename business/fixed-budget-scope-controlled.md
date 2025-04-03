@@ -17,6 +17,7 @@ Fixed-Budget, Scope-Controlled (FBSC) is applied at Atomic Object. They build cu
 As a result two different strategies for pricing services, such as building software, have traditionally been used by most companies. These are called “Fixed Price” and “Time And Materials”.
 
 ### Fixed Price
+
 * A Fixed Price strategy locks in the total price of the project upfront.
 * Static Variables: Scope, Cost
 * Flexible Variable: Quality
@@ -28,18 +29,19 @@ In this strategy, the vendor is taking on all the financial risk of a project. T
 
 Also, they will vigorously fight any variations to the scope of the project during the development of the software. When variations do occur, there will invariably be an argument as to whether this change is included in the fixed price that was agreed to or not. If not, then it’s time to generate the dreaded “change order,” determine the new pricing, and get the new pricing approved by the customer.
 
-This is unrealistic, as it very difficult — almost impossible — to know everything that will affect the project at the very beginning of a project.  Also, it makes it difficult for the scope to change over the course of the project as new information becomes known that helps us to create a better software product.
+This is unrealistic, as it very difficult ,  almost impossible ,  to know everything that will affect the project at the very beginning of a project.  Also, it makes it difficult for the scope to change over the course of the project as new information becomes known that helps us to create a better software product.
 
 Thus what appears to be a strategy for eliminating the financial risk to the client actually ends up introducing a new risk. By fixing the price and thus the scope of the project, we risk building the wrong product, or a product that doesn’t meet the needs of its intended audience.
 
 ### Time and Materials
+
 In a Time And Materials pricing strategy, the vendor will work on a project and bill for every hour worked without regard to any financial constraints. An estimate may have been created, but since they are paid regardless of whether they exceed the estimated amount, they don’t do more than just track their time.
 
 * Static Variables: Scope, Quality
 * Flexible Variable: Cost (and Timeline)
 * Assumption: The client can afford to do whatever it takes to accomplish the scope.
 * Risk: On Client (Consultant has no incentive to be efficient or monitor budget.)
-* Effect of New Information: Either more scope — and more cost — are added to project, or the information is ignored because there’s no more budget.
+* Effect of New Information: Either more scope ,  and more cost ,  are added to project, or the information is ignored because there’s no more budget.
 
 In this scenario, the client is taking on all of the financial risk. The client will most likely have an internal budget they are monitoring and thus are de facto responsible for ensuring the actual amount worked is tracking to the estimated amounts. Unfortunately, what is missing here is what scope has actually been completed. Without this information, the client cannot accurately gauge the progress of the project and thus does not know if the estimate is going to exceed the estimate until it actually does.
 
@@ -47,6 +49,7 @@ Also, the client may still be reluctant to make changes to the project scope in 
 So while the vendor has mitigated their financial risk, the client now shoulders that risk.
 
 ### Fixed-Budget, Scope-Controlled
+
 We don’t feel either of these pricing strategies helps us to build better software within a responsible budget. So Atomic prices the services using a Fixed-Budget, Scope-Controlled (FBSC) strategy. In this strategy we work with our client at the beginning of the project to get a good understanding of the project. Using this information and our knowledge about building software, we then create a responsible budget. We do not fix the scope of the entire project upfront, we only fix the budget and time.
 
 * Static Variables: Budget, Quality

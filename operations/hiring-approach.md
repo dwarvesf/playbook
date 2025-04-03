@@ -13,19 +13,22 @@ authors:
 ---
 
 ## Philosophy
+
 * Hire people who tell us what to do, not the other way around.
 * Company culture is who you Hire, Fire & Promote.
 * Short term vs. long term evaluation
 * Values fit & culture fit
 
 ## Principles
+
 1. Hiring means we failed to execute and need help
 2. Startup employee effectiveness follows a power law
 3. False Positives are ok, False Negatives are not
 4. Culture is defined by who we hire
-5. The best thing you can do for employees — a perk better than foosball or free sushi — is hire only “A” players to work alongside them. Excellent colleagues trump everything else
+5. The best thing you can do for employees ,  a perk better than foosball or free sushi ,  is hire only “A” players to work alongside them. Excellent colleagues trump everything else
 
 ## Heuristics
+
 * Hire for Strength vs Lack of Weakness
 * Hire for Trajectory vs Experience
 * Hire Doers vs Tellers
@@ -63,6 +66,7 @@ Well, human interaction is the best way to grade potential, so the interview is 
 Make certain you're spreading your net wide enough to find those high-potential, but different, fish who generally don't swim in the streams near you. Ask your HR group what contacts and periodicals they're using to interest potential hires. "We don't know where to find people different from us" is a costly excuse.
 
 ## Protecting vs. Growing Culture
+
 For many companies, hiring means selecting people who fit the existing culture and keeping out those who don’t. Hiring is gatekeeping.
 
 Our culture is dynamic. It should expand like our business. We welcome its change. Just like we want people to contribute new skills and ideas, we want people to contribute new culture. Hiring culture-fitters does not make our culture better.
@@ -71,6 +75,7 @@ Hire culture-contributors who will make our culture better.
 ![](assets/hiring-approach_446cd358745fe9024a7304905bb0572a_md5.webp)
 
 ## Culture add, not culture fit
+
 Culture fit is a variable that has become increasingly important in the hiring process. Companies aren't just looking for candidates with the right skills - they want someone that matches their company DNA.
 
 It's easy to fall into the trap of hiring people like everyone else in your company as a default. Adding people like you can create a "me-too" culture, not typically an environment where ideas and innovation flourish.
@@ -86,9 +91,10 @@ In certain situations, this can lead to hiring decisions being made around urgen
 Align you around the goal of hiring the right person, not just hiring quickly. Think about the long-term impact of hiring the wrong person. We're building a company for the long term, we need the best people.
 
 **Always be recruiting**
-Candidates came from everywhere—from professional conferences, from the sidelines of a kids’ soccer game, from conversations on airplanes. But certain fundamentals were strictly enforced. The interview and hiring process gives a powerful first impression about how your company operates, for good or bad
+Candidates came from everywhere, from professional conferences, from the sidelines of a kids’ soccer game, from conversations on airplanes. But certain fundamentals were strictly enforced. The interview and hiring process gives a powerful first impression about how your company operates, for good or bad
 
 ## Offering
+
 * If a candidate is the right fit, move quickly
 * Before you make an offer, make sure you know exactly what the offer package will look like and don’t be vague about it
 * If the candidate turns you down, remain friendly and maintain a relationship. They might change their minds in the future.
