@@ -1,13 +1,13 @@
 ---
-tags: 
-  - people
-  - teamwork
-  - performance
 title: Red Flags
 date: 2023-02-16
 description: These red flags are things we don’t want to see in our peeps. Even when you think they are improper, don’t waste your time with a wrong group of people.
 authors: 
-  - han
+  - tieubao
+tags: 
+  - people
+  - teamwork
+  - performance
 ---
 These red flags are things we don’t want to see in our peeps. Even when you think they are improper, don’t waste your time with a wrong group of people.
 

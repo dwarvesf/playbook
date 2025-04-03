@@ -19,9 +19,9 @@ Hi [name],
 
 Our pleasure to welcome you to Dwarves Team. As discussed, please help to proceed with these items to finish the onboarding process
 
-- Join Dwarves Server: https://discord.gg/dwarvesv
-- Join Pod Town Server: http://discord.gg/pod-town
-- Getting to know The Dwarves: https://github.com/dwarvesf/handbook
+- Join Dwarves Server: <https://discord.gg/dfoundation>
+- Join Pod Town Server: <http://discord.gg/pod-town>
+- Getting to know The Dwarves: <https://github.com/dwarvesf/handbook>
 - Setup TransferWise: [https://wise.com](https://wise.com/)
 - Setup Basecamp Integration by filling up the Metabase link (*we will send this through another separate email*). This will grant you integration into the **Dwarves Basecamp** & allow you to finish the onboarding list.
 - Follow up your 60-day plan

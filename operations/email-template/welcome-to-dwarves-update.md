@@ -13,7 +13,7 @@ authors:
 
 Hey there!
 
-You’re receiving this because you’ve interacted with Dwarves Team through our [website](https://dwarves.foundation/), our [Facebook](https://www.facebook.com/dwarvesf) posts, or the active [Discord Network](https://discord.gg/dwarvesv?fbclid=IwAR0qISIXoxthRyof3yka_P12oWH6ixd5RVwCXBWna5NYJpgqho0M0zRIN8M).
+You’re receiving this because you’ve interacted with Dwarves Team through our [website](https://dwarves.foundation/), our [Facebook](https://www.facebook.com/dwarvesf) posts, or the active [Discord Network](https://discord.gg/dfoundation?fbclid=IwAR0qISIXoxthRyof3yka_P12oWH6ixd5RVwCXBWna5NYJpgqho0M0zRIN8M).
 
 No matter which platform you’ve stopped by, we thank you for doing that! Welcome to **Dwarves Updates**.
 

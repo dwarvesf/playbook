@@ -13,7 +13,8 @@ authors:
 ---
 
 ### Screening Rejection
-**Title**: Dwarves Foundation - Application Result 
+
+**Title**: Dwarves Foundation - Application Result
 
 **Body**
 Hi [**name**],
@@ -22,7 +23,7 @@ We really appreciate your interest in Dwarves Foundation. However, we’re sorry
 
 It was a pleasure to learn more about your skills and accomplishments. We will be keeping your CV on file for future openings that better fit your profile.
 
-Meanwhile, we welcome you to come hangout at [**Dwarves Discord**](http://discord.gg/dwarvesv), or stay tuned with our daily updates in [**Dwarves Fanpage**](https://www.facebook.com/dwarvesf).
+Meanwhile, we welcome you to come hangout at [**Dwarves Discord**](http://discord.gg/dfoundation), or stay tuned with our daily updates in [**Dwarves Fanpage**](https://www.facebook.com/dwarvesf).
 
 We wish you all the best in your future endeavors.
 
@@ -31,6 +32,7 @@ Best regards,
 Dwarves Foundation
 
 ### Interview Rejection
+
 **Title**: Dwarves Foundation - Interview Result
 
 **Body**
@@ -41,7 +43,7 @@ We really appreciate your time for the interview at Dwarves Foundation for the [
 
 It was a pleasure to learn more about your skills and accomplishments. We will be keeping your CV on file for future openings that better fit your profile.
 
-Meanwhile, we welcome you to come hangout at [**Dwarves Discord**](http://discord.gg/dwarvesv), or stay tuned with our daily updates in [**Dwarves Fanpage**](https://www.facebook.com/dwarvesf).
+Meanwhile, we welcome you to come hangout at [**Dwarves Discord**](http://discord.gg/dfoundation), or stay tuned with our daily updates in [**Dwarves Fanpage**](https://www.facebook.com/dwarvesf).
 
 We wish you all the best in your future endeavors.
 
