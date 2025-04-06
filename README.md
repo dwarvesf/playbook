@@ -1,3 +1,15 @@
+---
+title: Dwarves Playbook
+short_title: Playbook
+date: 2021-12-30
+description: 
+authors: 
+  - tieubao
+tags: 
+  - playbook
+hide_title: true
+---
+
 # Dwarves Playbook
 
 Dwarves Foundation is an innovation service firm. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
