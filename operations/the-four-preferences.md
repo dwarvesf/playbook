@@ -1,13 +1,13 @@
 ---
-tags: 
-  - mbti
-  - personalities
-  - operations
 title: The Four Preferences
 date: 2021-07-16
 description: The four preferences in MBTI personalities
-authors: 
+authors:
   - namtran
+tags:
+  - mbti
+  - personalities
+  - operations
 ---
 ## The Four Preferences are
 ### Extraversion and Introversion

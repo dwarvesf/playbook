@@ -1,14 +1,14 @@
 ---
-tags: 
+title: MBTI Type ISTP
+date: 2021-07-25
+description: All about the ISTP personality type
+authors:
+  - namtran
+tags:
   - mbti
   - ISTP
   - people
   - operations
-title: MBTI Type ISTP
-date: 2021-07-25
-description: All about the ISTP personality type
-authors: 
-  - namtran
 ---
 
 ### Preferred Work Environment

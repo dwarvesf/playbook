@@ -1,14 +1,14 @@
 ---
-tags: 
+title: MBTI Type INTJ
+date: 2021-07-26
+description: All about the INTJ personality type
+authors:
+  - namtran
+tags:
   - mbti
   - INTJ
   - people
   - operations
-title: MBTI Type INTJ
-date: 2021-07-26
-description: All about the INTJ personality type
-authors: 
-  - namtran
 ---
 
 ### Preferred Work Environment
@@ -105,7 +105,7 @@ On a team, the INTJ should be aware that they may:
 * Become frustrated with team members who do not finish their assigned jobs, are not open to questions, focus on irrelevant details, require immediate answers, waste peoples time, and are deemed incompetent
 
 ### Leadership
-An INTJ often has a natural inclination towards leadership and will often seek out these types of positions. 
+An INTJ often has a natural inclination towards leadership and will often seek out these types of positions.
 
 As a leader, the INTJ will often:
 * Create necessary paths to ensure that the ideas become reality

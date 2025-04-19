@@ -1,15 +1,15 @@
 ---
-tags: 
-  - people
-  - operations
-  - hiring
 title: Hiring Approach
 date: 2018-06-26
 description: Hire people who tell us what to do, not the other way around.
-authors: 
+authors:
   - tieubao
   - duy
   - giangthan
+tags:
+  - people
+  - operations
+  - hiring
 ---
 
 ## Philosophy
@@ -72,7 +72,7 @@ For many companies, hiring means selecting people who fit the existing culture a
 Our culture is dynamic. It should expand like our business. We welcome its change. Just like we want people to contribute new skills and ideas, we want people to contribute new culture. Hiring culture-fitters does not make our culture better.
 Hire culture-contributors who will make our culture better.
 
-![](assets/hiring-approach_446cd358745fe9024a7304905bb0572a_md5.webp)
+![](hiring-approach_446cd358745fe9024a7304905bb0572a_md5.webp)
 
 ## Culture add, not culture fit
 

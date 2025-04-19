@@ -1,14 +1,14 @@
 ---
-tags: 
+title: Applying Myersbriggs Type Indicator In Hiring
+date: 2021-07-17
+description: A guide to using MBTI personality types to better understand job candidates and team members, with specific traits to look for in engineering, design, sales, and people operations roles.
+authors:
+  - namtran
+tags:
   - people
   - mbti
   - hiring
   - operations
-title: Applying Myersbriggs Type Indicator In Hiring
-date: 2021-07-17
-description: null
-authors: 
-  - namtran
 ---
 
 ## Getting Started
@@ -17,7 +17,7 @@ This is a part from our study how to recognize people traits at the first sight.
 
 No personality type is inherently better or more desirable than another in general. This reference is applied to the tech industry only.
 
-MBTI reveals **how we tend to interact/think.** It’s not that Thinkers don’t feel or Feelers don’t think, but only that they differ in the degree. The same for other preferences (I/E, S/N, P/J)
+MBTI reveals **how we tend to interact/think.** It's not that Thinkers don't feel or Feelers don't think, but only that they differ in the degree. The same for other preferences (I/E, S/N, P/J)
 
 ## The Basic
 
@@ -96,7 +96,7 @@ Extraverted and Feeling
 
 ---
 
-* **I put others’ needs ahead of my own** <> I put my needs first
+* **I put others' needs ahead of my own** <> I put my needs first
 * **I seek attention from others** <> I avoid attention from others
 
 ### People Ops
@@ -110,7 +110,7 @@ Intuition and Feeling
 
 ---
 
-* **I put others’ needs ahead of my own** <> I put my needs first
+* **I put others' needs ahead of my own** <> I put my needs first
 * **I look for ways to help others** <> I look for ways to achieve my own goals
 
 ## Strategy for better guess
@@ -123,4 +123,4 @@ Intuition and Feeling
 
 Search "Type name + function stack", e.g. INFP function stack to get the information.
 
-* Note: **Don’t ever tell the candidates that we care about their MBTI.** It can affect the result’s accuracy.
+* Note: **Don't ever tell the candidates that we care about their MBTI.** It can affect the result's accuracy.

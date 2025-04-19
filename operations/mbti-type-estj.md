@@ -1,14 +1,14 @@
 ---
-tags: 
+title: MBTI Type ESTJ
+date: 2021-07-24
+description: All about the ESTJ personality type
+authors:
+  - namtran
+tags:
   - mbti
   - ESTJ
   - people
   - operations
-title: MBTI Type ESTJ
-date: 2021-07-24
-description: All about the ESTJ personality type
-authors: 
-  - namtran
 ---
 
 ### Preferred Work Tasks
@@ -97,7 +97,7 @@ On a team, the ESTJ should be aware that they may…
 * Need to balance their focus on the task with the needs of each group member
 
 ### Leadership
-ESTJs generally enjoy and pursue leadership positions. As a leader, the ESTJ will often…
+ESTJs generally enjoy and pursue leadership positions. As a leader, the ESTJ will often …
 * Create an organized plan that focuses on achieving results
 * Provide clear instructions and expectations to ensure that individuals adhere to the plan and efficiently complete their job
 * Enjoy directing and organizing people

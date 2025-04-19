@@ -31,12 +31,12 @@ To minimize the time spent for meetings, we tend to combine retrospective of the
 
 All team members must submit a written list of what they plan to do for the week before the meeting.
 
-![alt text](assets/how-we-do-effective-planning-and-reporting_image.webp)
+![alt text](how-we-do-effective-planning-and-reporting_image.webp)
 
 ### Weekly reporting
 Weekly reports should show progress, communicate achievements, and address any challenges within the team Similar to how we do planning, all team members must submit their written report before the meeting.
 
-![alt text](assets/how-we-do-effective-planning-and-reporting_image2.webp)
+![alt text](how-we-do-effective-planning-and-reporting_image2.webp)
 
 Reporting happens at the start of all planning sessions. Since we already have a written report, here we focus mostly on:
 - Quality of completed tasks
@@ -53,7 +53,7 @@ A daily checkin needs to show:
 - Do we need support from any other members?
 - Do we have any takeaways, lessons learned or new things we learned to share with the team?
 
-![alt text](assets/how-we-do-effective-planning-and-reporting_image3.webp)
+![alt text](how-we-do-effective-planning-and-reporting_image3.webp)
 
 ### Summary
 A working week at Dwarves must follow, at the bare minimum, planning and report:

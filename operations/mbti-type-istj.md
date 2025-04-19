@@ -1,14 +1,14 @@
 ---
-tags: 
+title:  MBTI Type ISTJ
+date: 2021-07-20
+description: All about the ISTJ personality type
+authors:
+  - namtran
+tags:
   - mbti
   - ISTJ
   - operations
   - people
-title:  MBTI Type ISTJ
-date: 2021-07-20
-description: All about the ISTJ personality type
-authors: 
-  - namtran
 ---
 
 ### Preferred Work Environment

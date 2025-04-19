@@ -1,14 +1,14 @@
 ---
-tags: 
+title: Farewell Letter
+date: 2020-01-01
+description: The email template is to inform employee that he/she failed the probation.
+authors:
+  - nikki
+  - hnh
+tags:
   - template
   - email
   - operations
-title: Farewell Letter
-date: 2020-01-01
-description: The email template is to inform employee that he/she failed the probation.  
-authors: 
-  - nikki
-  - hnh
 ---
 
 **Title**: Dwarves Foundation - Farewell Letter

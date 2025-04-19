@@ -54,4 +54,4 @@ Once all data is collected, we compile it into a report with highlights for the 
 - **Client Happiness and Performance Ratings:** Rate client satisfaction, lead performance, and account performance on a scale of 1 to 5.
 - **Issues and Resolutions Logs:** Document any issues encountered and the resolutions implemented.
 
-![](assets/how-to-conduct-delivery-reports_delivery-report-sample.webp)
+![](how-to-conduct-delivery-reports_delivery-report-sample.webp)

@@ -1,5 +1,5 @@
 # Logging and Monitoring
-This document provides guidance on some key metrics to track when logging and monitoring a frontend application at Dwarves Foundation.
+This document provides guidance on some key metrics to track when logging and monitoring a frontend application.
 
 ## Errors tracing
 Frontend applications receive a lot of user interactions and unexpected errors can arise quickly. To help developers catch and resolve these errors easily, we need a tool can:

@@ -1,12 +1,12 @@
 ---
-tags: 
-  - operations
-  - performance
 title: Bric A Brac
 date: 2020-04-10
-description: null
-authors: 
+description: Simple operational guidelines for efficiency - outsource what we're not great at, automate repetitive tasks, avoid bottlenecks through broad access, and use existing solutions before building custom ones.
+authors:
   - tieubao
+tags:
+  - operations
+  - performance
 ---
 
 * Outsource things which are super important but we are not excellent at.

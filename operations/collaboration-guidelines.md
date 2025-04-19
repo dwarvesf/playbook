@@ -1,12 +1,12 @@
 ---
-tags: 
-  - operations
-  - project
 title: Collaboration Guidelines
 date: 2020-01-01
-description: Guidelines for project collaboration between Dwarves and our Clients.  
-authors: 
+description: Guidelines for project collaboration between Dwarves and our Clients.
+authors:
   - hnh
+tags:
+  - operations
+  - project
 ---
 
 Guidelines for project collaboration between Dwarves and our Clients.

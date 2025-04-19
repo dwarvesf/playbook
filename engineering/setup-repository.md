@@ -1,5 +1,5 @@
 # Repository setup
-How we expect projects to be setup at Dwarves Foundation.
+How we expect projects to be setup.
 
 ## What we expect
 - [README.md](./readme-how.md) in the root of the repo is the docs

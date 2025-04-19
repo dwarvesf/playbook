@@ -1,5 +1,5 @@
 ---
-title: Design System
+title: Information Architecture
 date: 2023-10-18
 description:
 authors: []

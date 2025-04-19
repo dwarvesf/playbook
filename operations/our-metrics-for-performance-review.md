@@ -1,13 +1,13 @@
 ---
-tags: 
-  - performance
-  - people
-  - operations
 title: Our Metrics For Performance Review
 date: 2016-04-04
 description: Performance is a final value that will be calculated from other metrics. This value will help to indicate how good all the activities we've done to make the company could grow.
-authors: 
+authors:
   - tieubao
+tags:
+  - performance
+  - people
+  - operations
 ---
 
 ***P = f(r, t, c, r)***
@@ -72,7 +72,7 @@ How do you treat others? How is your teamwork skill? You don't have to follow th
 * False positives: people who you thought fit your values, but don’t once they’re hired
 * False negatives: people who you thought would not fit your values, but would have if you had hired them
 
-If you get some false positives anyway, the solution is to fire quickly. To follow the "No Asshole Rule", we need to strictly apply this despite the common excuses: 
+If you get some false positives anyway, the solution is to fire quickly. To follow the "No Asshole Rule", we need to strictly apply this despite the common excuses:
 * for that one bad trait, he has four good traits going for him.
 * [data scientists/engineers/product managers] are hard to replace, so we’ll make do.
 * We’ve decided that we’re not going to fire him because he’s a high performer.
@@ -102,12 +102,12 @@ Using Performance-Values Matrix. All the sample metrics are included in
 
 [📎 Careers_by_design_short.pdf]()
 
-![](assets/our-metrics-for-performance-review_c4defc89db73b3ffe140319a420998c1_md5.webp)
+![](our-metrics-for-performance-review_c4defc89db73b3ffe140319a420998c1_md5.webp)
 * Core
 * Team
 * Personal
 
-![](assets/our-metrics-for-performance-review_da1531180d70a98b2ea3efb18dfc4be4_md5.webp)
+![](our-metrics-for-performance-review_da1531180d70a98b2ea3efb18dfc4be4_md5.webp)
 
 ## Incompetent Assholes (Fire fast)
 Low-performers and their behavior is incongruent with company values. Fire fast.
@@ -120,7 +120,7 @@ Exceptions shouldn’t be made, otherwise it shows your values are merely aspira
 <!-- child_page b99ef74d-4ade-4609-9fc5-be8af4c27c55 -->
 
 ## Incompetent Nice Guys (Manage or Move)
-Low-performers but is the exemplars of your culture and are well-liked by almost everyone. 
+Low-performers but is the exemplars of your culture and are well-liked by almost everyone.
 
 Incompetent nice guys and gals should be put on a traditional performance improvement plan (PIP), and skillfully managed in order to give them the training and feedback to improve their abilities.
 
@@ -189,10 +189,10 @@ We effectively have an environment in which competition and collaboration co-exi
 Source: [It is hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/)
 
 ## Metrics
-Communication: 
+Communication:
 * Daily: You’re transparent with your manager and teams.
 * Presentation: you communicate effectively through keynote.
-* Written: From emails to blogs...you are a clear, concise, compelling and convincing writer. 
+* Written: From emails to blogs...you are a clear, concise, compelling and convincing writer.
 * Meetings: You involve the right people at the right time. You clearly communicate action items and decisions.
 * Resourcefulness: You leverage the company and network to remove blockers
 * Leveraging Feedback/Reviews: You collect feedback and apply it to gain insights and build relationships
@@ -222,7 +222,7 @@ How you contribute to the whole company rather than your team? (outside of your 
 
 Metrics:
 * Culture
-* 10x: 
+* 10x:
 * Optimistic: You bring a positive, collaborative and engaging attitude to your work and the team
 * Team Builder: You reach out and build relationships beyond your core team. You build relationships across disciplines.
 * Innovation

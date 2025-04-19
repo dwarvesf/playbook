@@ -2,7 +2,7 @@
 
 ### Our perspective on Technology
 #### New technology needs to provide actual value over existing solutions.
-Software is changing the world every day. Software moves fast. The technology you used yesterday may be deprecated today. New technology has enabled us to create new things. 
+Software is changing the world every day. Software moves fast. The technology you used yesterday may be deprecated today. New technology has enabled us to create new things.
 
 The world is running by the goodwill of people who try to make it a better place. With the existing set of problems, new solutions will come out along with new technologies. When we look at new tech, we think about the movement of the market & society on which the new tech could fit in. The main idea is to see if the new tech could help to make anything better than before in the long run and also serve our development direction.
 
@@ -14,7 +14,7 @@ We continuously evaluate new technologies using our tech radar. They are classif
 - Assess: Worth exploring with the goal of understanding how it will affect the company.
 - Hold: The items that need to proceed with caution.
 
-### Technology Index at Dwarves Foundation
+### Technology Index
 #### Tools
 - Basecamp: Project management and team communication software by 37signals.
 - Gitlab: Git is like a time machine. We have our self-host source version control.

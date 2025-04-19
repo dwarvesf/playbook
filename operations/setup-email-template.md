@@ -1,12 +1,12 @@
 ---
-tags: 
-  - operations
-  - people
 title: Setup email template in Gmail
 date: 2020-01-01
-description: How to setup template for email in Gmail 
-authors: 
+description: How to setup template for email in Gmail
+authors:
   - hnh
+tags:
+  - operations
+  - people
 ---
 
 ## To turn on Gmail Canned Response (Template)
@@ -14,7 +14,7 @@ authors:
 - Access to Settings -> Settings -> Advanced tab
 - Change Canned Responses (Templates) to **Enabled**
 
-![](assets/setup-email-template.webp)
+![](setup-email-template.webp)
 
 ## Adding/Using new template
 When composing an email, you can either:

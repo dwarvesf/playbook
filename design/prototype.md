@@ -1,13 +1,13 @@
 ---
-tags:
-  - guideline
-  - UX-UI
-  - system design
 title: "Low-fidelity prototype: UI Design"
 date: 2023-10-16
 description: Design systems enable teams to build better products faster by making design reusable, reusability makes scale possible.
 authors:
   - nikki
+tags:
+  - guideline
+  - UX-UI
+  - system design
 type: playbook
 ---
 

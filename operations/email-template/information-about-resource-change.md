@@ -40,4 +40,4 @@ Team Dwarves
 
 **Example**
 
-![](assets/information-about-resource-change_template-resource-change.webp)
+![](information-about-resource-change_template-resource-change.webp)

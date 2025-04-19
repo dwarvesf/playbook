@@ -1,13 +1,13 @@
 ---
-tags:
-  - delivery
-  - consulting
-  - internal
 title: Project Delivery Schedule and Guidelines
 date: 2023-12-05
 description: Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries as well as handle feedback.
 authors:
   - huytq
+tags:
+  - delivery
+  - consulting
+  - internal
 ---
 ## Weekly Activities
 ### Weekly Points/Effort Report
@@ -17,7 +17,7 @@ authors:
 - **Deadline for Data Sync**: Data is sync by EOD next Tuesday.
 - **Outcome**: Weekly leaderboard on delivery.
 
-![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231343953.webp)
+![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231343953.webp)
 
 ### Sync-Up Between Project Lead and Delivery Manager
 **Every Friday at 2:30 PM**
@@ -26,7 +26,7 @@ authors:
 	- Milestone Progress.
 	- Changelog for the week (will be sent out the following Monday.)
 
-![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231409927.webp)
+![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231409927.webp)
 
 ## Bi-Weekly and Monthly Activities
 ### Project Demo/Showcase:
@@ -38,7 +38,7 @@ authors:
 	- Celebrate monthly wins.
 - **Recap**: Sent out the following week and highlighted in the monthly community call.
 
-![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231433316.webp)
+![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231433316.webp)
 
 ### Community Call
 **Last Friday of the Month**
@@ -48,7 +48,7 @@ authors:
 	- Monthly Leaderboard of Delivery.
 - **Rewards**: ICY reward and NFT Badge benefiting the holder's achievements.
 
-![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231500387.webp)
+![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231500387.webp)
 
 ### Project Collect Feedback
 For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Delivery team or Project Leader will send out an email to client to gather feedbacks for our Dwarves members through this form: [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScVkRDy9w5_j_Tkj2MXs2Yi_n8yTUqNNBqy8w1-E3Beauodsw/viewform)
@@ -62,4 +62,4 @@ For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Deliv
 - **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
 - **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 
-![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20240122161522695.webp)
+![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20240122161522695.webp)
