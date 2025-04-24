@@ -15,7 +15,7 @@ NDA, agreements and all kinds of paperwork between parties will be put there. Yo
 
 ### Repository
 
-The codebase is usually in Github or our Gitlab. We have a specific guide for repo setup at [repository-setup.md](./setup-repository.md).
+The codebase is usually in Github or our Gitlab. We have a specific guide for repo setup at [repository-setup.md](setup-repository.md).
 
 A few clients who have an in-house tech team might prefer using their git system. In those cases, we need to set up a symlink to pull out and daily back up the source code to our Gitlab.
 
@@ -54,7 +54,7 @@ For example, we are working with #dental-marketplace team, there should be integ
 
 ### Release
 
-There's a few checklist item to follow at [release.md](./release.md). In short
+There's a few checklist item to follow at [release.md](release.md). In short
 
 - Release should contain a changelog.
 - Things are well-tested and known issues are specified.

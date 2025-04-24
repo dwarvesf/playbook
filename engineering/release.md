@@ -1,4 +1,5 @@
 # Release Checklist
+
 When you are ready to release, remember to check off everything on your release checklist.
 Just remember to not mess up with the end users. Our responsibility is to keep the system stable with seamless deployment.
 
@@ -20,7 +21,7 @@ Just remember to not mess up with the end users. Our responsibility is to keep t
 **Changelog**
 
 - [ ] Changelog was included in the new build.
-- [ ] Changelog was [useful](./changelog.md).
+- [ ] Changelog was [useful](changelog.md).
 - [ ] Known issues and problems was specified.
 
 **Dependencies**

@@ -1,9 +1,11 @@
 # Source Version Control
+
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.
 
 [We use git](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook, and practices. We also have a [self-host Gitlab](git.d.foundation) to store all of our source code.
 
 ## Commit Message Guidelines
+
 Hour commit conventions are based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 
 Commit message should be structured as follows
@@ -43,7 +45,7 @@ Example: marketplace, ui, libs, utils, crawler, api
 
 **`Type` and `Versioning`**
 
-We follow [SenVer](./versioning.md) to release our app/package.
+We follow [SenVer](versioning.md) to release our app/package.
 
 - feat, fix, refactor anything cause breaking change → bump `MAJOR` version
 - feat, perf → bump `MINOR` version
@@ -62,6 +64,7 @@ We use automation tools that are useful to force and check commit message convec
   - nodejs tool: husky and lint-staged
 
 ## Branching
+
 **Naming convention**
 
 Same as commit convention we shared type for branching prefix
@@ -128,6 +131,7 @@ git push origin master
 ```
 
 ## Practices
+
 - **Amend commit**: edit the latest commit
 
 > `git commit --amend` will allow you to change the last commit message or add new files to it
@@ -155,7 +159,7 @@ git commit --amend
 
 > The `git merge` command lets you take the independent lines of development created by `git branch` and integrate them into a single branch.
 >
-> Ref: https://www.atlassian.com/git/tutorials/using-branches/git-merge
+> Ref: <https://www.atlassian.com/git/tutorials/using-branches/git-merge>
 
 ![](assets/git_c7faf053506c6c85b0d5fc06e49f2f7c_md5.webp)
 
@@ -176,7 +180,7 @@ git merge feat/feature-2 # merge feature-2 into the current branch
 
 > Rebasing is the process of moving or combining a sequence of commits to a new base commit
 >
-> Ref: https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+> Ref: <https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase>
 
 ![](assets/git_584a1f36a68a3fb68b4c7bb10bd72eb0_md5.svg)
 
@@ -226,7 +230,7 @@ git cherry-pick f
 
 > `git reflog` is the safety net that allows you to go back to commits even though they are not referenced by any branch or tag. After rewriting history, the reflog contains information about the old state of branches and allows you to go back to that state if necessary
 >
-> Ref: https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog
+> Ref: <https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog>
 
 Example
 
@@ -244,16 +248,18 @@ git reset --hard 8c76ad1
 ```
 
 - **Remote Reflog:**
+
 > Same as reflog this will help you recovering a commit from Github’s Reflog
 >
 > Ref: the [original blog](https://objectpartners.com/2014/02/11/recovering-a-commit-from-githubs-reflog/)
 
-  - Retrieve the commit SHA
+- Retrieve the commit SHA
+
   ```bash
-  $ curl https://api.github.com/repos/{owner}/{repo}/events
+  curl https://api.github.com/repos/{owner}/{repo}/events
   ```
 
-  - You can find the commit you lost in the repo event response. Use the commit SHA and github refs API to create new branch from that commit
+- You can find the commit you lost in the repo event response. Use the commit SHA and github refs API to create new branch from that commit
 
   ```bash
   $ curl -i \

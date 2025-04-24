@@ -1,18 +1,23 @@
 # Database migration
 
 ## Mobile
+
 macOS / iOS:
-- Use ObjectMapper cua CoreData de migrate: https://williamboles.me/step-by-step-core-data-migration/
+
+- Use ObjectMapper cua CoreData de migrate: <https://williamboles.me/step-by-step-core-data-migration/>
 
 Android
-- https://medium.com/flutter-community/migrating-a-mobile-database-in-flutter-sqlite-44ac618e4897
+
+- <https://medium.com/flutter-community/migrating-a-mobile-database-in-flutter-sqlite-44ac618e4897>
 
 ## Backend
+
 - Su dung migration tool tuy ngon ngu
-    - Go: sql-migrate
-    - Elixir: ecto
+  - Go: sql-migrate
+  - Elixir: ecto
 
 ## Tips / Best practices checklist
+
 - Luon viet migrate up / down
 - back up before migration
 - data validation & repair

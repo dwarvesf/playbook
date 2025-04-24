@@ -45,7 +45,8 @@ A common question when beginning an iOS project is whether to write all views in
 
 #### Why code?
 
-* Storyboards are more prone to version conflicts due to their complex XML structure. This makes merging much harder than with code.
+- Storyboards are more prone to version conflicts due to their complex XML structure. This makes merging much harder than with code.
+
 - It's easier to structure and reuse views in code, thereby keeping your codebase [DRY][dry].
 - All information is in one place. In Interface Builder you have to click through all the inspectors to find what you're looking for.
 - Storyboards introduce coupling between your code and UI, which can lead to crashes e.g. when an outlet or action is not set up correctly. These issues are not detected by the compiler.
@@ -54,7 +55,8 @@ A common question when beginning an iOS project is whether to write all views in
 
 #### Why Storyboards?
 
-* For the less technically inclined, Storyboards can be a great way to contribute to the project directly, e.g. by tweaking colors or layout constraints. However, this requires a working project setup and some time to learn the basics.
+- For the less technically inclined, Storyboards can be a great way to contribute to the project directly, e.g. by tweaking colors or layout constraints. However, this requires a working project setup and some time to learn the basics.
+
 - Iteration is often faster since you can preview certain changes without building the project.
 - Custom fonts and UI elements are represented visually in Storyboards, giving you a much better idea of the final appearance while designing.
 - For [size classes](http://futurice.com/blog/adaptive-views-in-ios-8), Interface Builder gives you a live layout preview for the devices of your choice, including iPad split-screen multitasking.
@@ -217,9 +219,10 @@ If you're stuck with an earlier iOS version, [Masonry/SnapKit][snapkit-github] r
 
 ## Architecture
 
-* [Model-View-Controller-Store (MVCS)][mvcs]
+- [Model-View-Controller-Store (MVCS)][mvcs]
   - This is the default Apple architecture (MVC), extended by a Store layer that vends Model instances and handles the networking, caching etc.
   - Every Store exposes to the view controllers either `signals` or `void` methods with custom completion blocks.
+
 - [Model-View-ViewModel (MVVM)][mvvm]
   - Motivated by "massive view controllers": MVVM considers `UIViewController` subclasses part of the View and keeps them slim by maintaining all state in the ViewModel.
   - To learn more about it, check out Bob Spryn's [fantastic introduction][sprynthesis-mvvm].
@@ -431,7 +434,8 @@ The most important point is to keep these consistent across your project's class
 
 ### External Style Guides
 
-* GitHub: [Swift](https://github.com/github/swift-style-guide) and [Objective-C](https://github.com/github/objective-c-style-guide)
+- GitHub: [Swift](https://github.com/github/swift-style-guide) and [Objective-C](https://github.com/github/objective-c-style-guide)
+
 - Ray Wenderlich: [Swift](https://github.com/raywenderlich/swift-style-guide) and [Objective-C](https://github.com/raywenderlich/objective-c-style-guide)
 - Google: [Objective-C](https://google.github.io/styleguide/objcguide.xml)
 - The New York Times: [Objective-C](https://github.com/NYTimes/objective-c-style-guide)

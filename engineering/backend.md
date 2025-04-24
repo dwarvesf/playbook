@@ -218,7 +218,8 @@ Additionally, as mentioned in the secrets section, file permissions might not be
 
 # General questions to consider
 
-* What is the expected/required life-span of the project?
+- What is the expected/required life-span of the project?
+
 - Is the project one-off, or will there be continuous development?
 - What is the release cycle for a version of the service?
 - What environments (dev, test, staging, prod, ...) are going to be set up?
@@ -227,7 +228,8 @@ Additionally, as mentioned in the secrets section, file permissions might not be
 
 # Generally proven useful tools
 
-* [HTTPie](https://github.com/jakubroztocil/httpie) is a great tool for testing APIs on the command line. It's simple to pass in custom headers and cookies, and it even has session support.
+- [HTTPie](https://github.com/jakubroztocil/httpie) is a great tool for testing APIs on the command line. It's simple to pass in custom headers and cookies, and it even has session support.
+
 - [jq](http://stedolan.github.io/jq/) is a CLI JSON processor. Massage JSON data coming in from cURL (or of course HTTPie!) at will. Another great tool for API testing or exploration.
 
 ### Acknowledgements

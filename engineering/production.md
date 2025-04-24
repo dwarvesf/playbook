@@ -1,4 +1,5 @@
 # Production Checklist
+
 - [ ] Long-running processes such as email should delivery being run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?
 - [ ] Are we using SSL? Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).

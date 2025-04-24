@@ -1,4 +1,5 @@
 # RESTful API
+
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.
 
 ## Terminology
@@ -27,8 +28,8 @@ Always version APIs for backward compatibility while introducing new features or
 
 - **URL**: Embed version in the URL, e.g., `POST /v2/users`.
 - **Headers**:
-    - **Custom Header**: Use a custom `X-API-VERSION` header to route requests correctly.
-    - **Accept Header**: Specify version using the accept header.
+  - **Custom Header**: Use a custom `X-API-VERSION` header to route requests correctly.
+  - **Accept Header**: Specify version using the accept header.
 
 Version via the URL, not via headers. Versioning APIs always helps to ensure backward compatibility of service while adding new features or updating existing functionality for new clients. The backend will support the old version for a specific amount of time.
 
@@ -164,6 +165,7 @@ To prevent abuse, apply rate-limiting. Include these headers:
 - `X-Rate-Limit-Reset`: Seconds left in the current period. Use [RFC 1123 date format](https://www.ietf.org/rfc/rfc1123.txt).
 
 ## Caching
+
 HTTP provides a built-in caching framework. All you have to do is include some additional outbound response headers and do a little validation when you receive some inbound request headers.
 
 - **[ETag](http://en.wikipedia.org/wiki/HTTP_ETag)**: When generating a response, include an HTTP header ETag containing a hash or checksum of the representation. This value should change whenever the output representation changes. If an inbound HTTP request includes a If-None-Match header with a matching ETag value, the API should return a 304 Not Modified status code instead of the resource's output representation.
@@ -192,31 +194,31 @@ HTTP status codes indicate the outcome of a request. They help clients understan
 ## Best Practices for HTTP Method response
 
 - **GET**:
-    - Use `200 OK` for successful retrieval of resources.
-    - Use `404 Not Found` if the resource isn't available.
+  - Use `200 OK` for successful retrieval of resources.
+  - Use `404 Not Found` if the resource isn't available.
 - **POST**:
-    - Use `201 Created` for successful resource creation.
-    - Use `400 Bad Request` for malformed requests.
+  - Use `201 Created` for successful resource creation.
+  - Use `400 Bad Request` for malformed requests.
 - **PUT**:
-    - Use `200 OK` or `204 No Content` for successful updates.
-    - Use `404 Not Found` if the resource isn't available.
+  - Use `200 OK` or `204 No Content` for successful updates.
+  - Use `404 Not Found` if the resource isn't available.
 - **PATCH**:
-    - Use `200 OK` for successful partial updates.
-    - Use `404 Not Found` if the resource isn't available.
+  - Use `200 OK` for successful partial updates.
+  - Use `404 Not Found` if the resource isn't available.
 - **DELETE**:
-    - Use `202 Accepted` if the action is accepted but not yet enacted.
-    - Use `204 No Content` for successful deletion.
-    - Use `404 Not Found` if the resource isn't available.
+  - Use `202 Accepted` if the action is accepted but not yet enacted.
+  - Use `204 No Content` for successful deletion.
+  - Use `404 Not Found` if the resource isn't available.
 - Batch delete:
-    - Use `200 OK` for successful partial delete.
-    - Use `400 Bad Request` for malformed requests.
-    - Use `404 Not Found` if the resource isn't available.
+  - Use `200 OK` for successful partial delete.
+  - Use `400 Bad Request` for malformed requests.
+  - Use `404 Not Found` if the resource isn't available.
 
 ## Response Formats
 
 When designing your API responses, consistency is key. Using standardized response formats makes it easier for clients to understand and process the data. Here are the recommended response formats for single and multiple data entries:
 
-### Single Data Entry Response:
+### Single Data Entry Response
 
 ```json
 {
@@ -228,7 +230,7 @@ When designing your API responses, consistency is key. Using standardized respon
 }
 ```
 
-### Multiple Data Entries or Array:
+### Multiple Data Entries or Array
 
 ```json
 {
@@ -254,7 +256,7 @@ When designing your API responses, consistency is key. Using standardized respon
 }
 ```
 
-### Multiple Data Entries with Cursor-Based Pagination:
+### Multiple Data Entries with Cursor-Based Pagination
 
 ```json
 {
@@ -304,15 +306,15 @@ Example:
 
 ```json
 {
-	"error": "field1: required, field2: greater than 10",
-	"code": "CREATE_BODY_INVALID",
-	"errors": [
-		{
-			"field": "field1",
-			"error": "required"
-		}
-	],
-	"traceId": "<trace_id>"
+ "error": "field1: required, field2: greater than 10",
+ "code": "CREATE_BODY_INVALID",
+ "errors": [
+  {
+   "field": "field1",
+   "error": "required"
+  }
+ ],
+ "traceId": "<trace_id>"
 }
 ```
 
@@ -322,9 +324,9 @@ Example:
 
 ```json
 {
-	"error": "Entity not found",
-	"code": "ENTITY_NOT_FOUND",
-	"traceId": "<trace_id>"
+ "error": "Entity not found",
+ "code": "ENTITY_NOT_FOUND",
+ "traceId": "<trace_id>"
 }
 ```
 
@@ -334,9 +336,9 @@ Example:
 
 ```json
 {
-	"error": "Internal server error",
-	"code": "INTERNAL_CODE_001",
-	"traceId": "<trace_id>"
+ "error": "Internal server error",
+ "code": "INTERNAL_CODE_001",
+ "traceId": "<trace_id>"
 }
 ```
 

@@ -1,4 +1,5 @@
 # Diagram and Project Document Structure
+
 We have talked about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
 
 - Unclear/misleading project requirements
@@ -6,6 +7,7 @@ We have talked about [SDLC](https://dwarves.foundation/memo/software-development
 - The wrong approach, develop practices
 
 There is one secret sauce of a successful project: **Artifacts**.
+
 - Which artifacts should be produced?
 - Which tool should we use at Dwarves?
 - Where should we store those diagrams?
@@ -13,6 +15,7 @@ There is one secret sauce of a successful project: **Artifacts**.
 Having the answer for those question give us the ability to solve at least three mentioned constraints. Avoid reinventing the wheel by following these practice which we apply here in Dwarves.
 
 ## Artifacts
+
 - [BPMN](#bpmn)
 - [Product Roadmap](#product-roadmap)
 - [User Journey Mapping](#user-journey-mapping)
@@ -23,14 +26,17 @@ Having the answer for those question give us the ability to solve at least three
 - [Data Flow](#data-flow)
 
 ## Well-Alignment a.k.a Reusability
+
 - [Project Drive](#project-drive)
 - [Message Board](#message-board)
 
 ## Mermaid 101
+
 - [What is Mermaid](#what-is-mermaid)
 - [VScode Plugins](#vscode-plugins)
 
 ### Product Roadmap
+
 In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
 > “What do we want in the matter of time?”
 
@@ -39,6 +45,7 @@ Answer this question by determining the feasibility of the project and how we ca
 Take a look at this **Product Roadmap**
 ![](assets/diagram_product-roadmap.webp)
 It contains main elements:
+
 - Timeline
 - Milestone
 - Deliverables
@@ -49,6 +56,7 @@ Product Roadmap, Milestone is the goal for every developed features of a succesf
 Consider using [Whimsical](https://whimsical.com/) if you are used to drawing tool.
 
 ### User Journey Mapping
+
 User journey mapping visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view.
 Note the emotional state of users at each step of their journey.
 
@@ -87,6 +95,7 @@ Task name: <score>: <comma separated list of actors>
 ```
 
 ### State Machine
+
 A state machine is any device storing the status of something at a given time. The status changes based on inputs, providing the resulting output for the implemented changes.
 
 ```mermaid
@@ -118,6 +127,7 @@ Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. O
 ![](assets/diagram_state-machine-1.webp)
 
 ### Sequence Diagram
+
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
 
 ```mermaid
@@ -149,6 +159,7 @@ sequenceDiagram
 ```
 
 Mainly it's have some main elements
+
 - Participants
 - Aliases
 - Messages
@@ -159,6 +170,7 @@ Mainly it's have some main elements
 - Parallel
 
 ### ERD
+
 An entity–relationship model (or ER model) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between entities (instances of those entity types).
 
 ```mermaid
@@ -180,6 +192,7 @@ The [syntax](https://mm.daf.ug/) mostly focus on Entities, relationship and iden
 ```
 
 For the above diagram
+
 ```
     erDiagram
         CUSTOMER }|..|{ DELIVERY-ADDRESS : has
@@ -200,6 +213,7 @@ For the above diagram
  -->
 
 ### Project Drive
+
 Each project will have its own GDrive folder located on Company GDrive.
 All the project artifact should be export to PNG/JPG/PDF/SVG... and save to corresponding folder within project gdrive.
 You can find your project gdrive follow this pattern.
@@ -208,6 +222,7 @@ You can find your project gdrive follow this pattern.
 Usually we will Link the Project Gdrive into Docs & File within Basecamp project. You could find the link to the gdrive from there.
 
 ### Message Board
+
 Think about this situation:
 
 > We’ve got the elements of a solution now, and we’ve de-risked our concept to the point that we’re confident it’s a good option to give a team. But the concept is still in our heads or in some hard-to-decipher drawings on the whiteboard or our notebook. Now we need to put the concept into a form that other people will be able to understand, digest, and respond to.
@@ -217,6 +232,7 @@ We post [pitches](https://basecamp.com/shapeup/1.5-chapter-06_) as Messages in B
 Message Board is the central place for all discussion about project artifacts. In Message board, we can create a Message Category called Pitch/FYI... so we can easily find them later on.
 
 ### What is Mermaid
+
 We use [Mermaid](https://mm.daf.ug/) to quickly define the diagram during project development lifecycle.
 Mermaid is a markdown-based diagram render. Right now we support the following charts/diagrams:
 
@@ -229,6 +245,7 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 - ER Diagram
 
 ### VSCode Plugin
+
 ![](assets/diagram_mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.

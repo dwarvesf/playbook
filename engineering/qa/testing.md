@@ -1,7 +1,9 @@
 # Testing
 
 ## Testing materials
+
 ### Test Plan
+
 Make sure these items included in your test plan:
 
 - [ ] The components and functions to be tested.
@@ -12,17 +14,20 @@ Make sure these items included in your test plan:
 - [ ] Communication method.
 
 ### Test Suite/ Test Case
+
 Test case should includes those information:
 
 | Name                               | Pre-condition                                                   | Test Steps                   | Expected Result              | Requirement Ref                           |
 | ---------------------------------- | --------------------------------------------------------------- | ---------------------------- | ---------------------------- | ----------------------------------------- |
 | Brief about TC                     | Pre-condition steps before executing TC                         | Test Case Steps              | Expected result for the step | User Story # or requirement specification |
-| Ex: Login successfully with google | User is at login page (https://staging.fort.d.foundation/login) | Hit Login with Google button | Login successfully           | User Story 001                            |
+| Ex: Login successfully with google | User is at login page (<https://staging.fort.d.foundation/login>) | Hit Login with Google button | Login successfully           | User Story 001                            |
 
 ### Defect
-Defect/issue template that we should use: [Issue Template](./defect-template.md)
+
+Defect/issue template that we should use: [Issue Template](defect-template.md)
 
 ## Test closure checklist
+
 - [ ] 100% Test Scripts executed.
 - [ ] 95% pass rate of Test Scripts.
 - [ ] No open Critical and High severity defects.
@@ -34,6 +39,7 @@ Defect/issue template that we should use: [Issue Template](./defect-template.md)
 - [ ] Test Closure Memo completed and signed off.
 
 ## Best practices for an agile QA process
+
 - [ ] Define an agile QA process (Keep QA result-oriented)
 - [ ] Risk analysis
 - [ ] Test early and test often (Make Testing an ongoing activity)
