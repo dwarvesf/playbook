@@ -1,5 +1,5 @@
 ---
-title: The Four Preferences
+title: The four preferences
 date: 2021-07-16
 description: The four preferences in MBTI personalities
 authors:
@@ -9,8 +9,11 @@ tags:
   - personalities
   - operations
 ---
+
 ## The Four Preferences are
+
 ### Extraversion and Introversion
+
 When we talk about "extraversion" and "introversion", we are distinguishing between the two worlds in which all of us live. There is a world inside ourselves, and a world outside ourselves. When we are dealing with the world outside of ourself, we are "extraverting". When we are inside our own minds, we are "introverting".
 
 We are **extraverting** when we:
@@ -30,6 +33,7 @@ We are **introverting** when we:
 Within the context of personality typing, the important distinction is which world we live in more often. Do we define our life's direction externally or internally? Which world gives us our energy, and which do we perhaps find draining?
 
 ### Sensing and Intuition
+
 The "SN" preference refers to how we gather information. We all need data on which to base our decisions. We gather data through our five senses. Jung contended that there are two distinct ways of perceiving the data that we gather. The "Sensing" preference absorbs data in a literal, concrete fashion. The "Intuitive" preference generates abstract possibilities from information that is gathered. We all use both Sensing and Intuition in our lives, but to different degrees of effectiveness and with different levels of comfort.
 
 We are **Sensing** when we:
@@ -49,6 +53,7 @@ We are **Intuitive** when we:
 Within the context of personality typing, the important distinction is which method of gathering information do we trust the most? Do we rely on our five senses and want concrete, practical data to work with? Or do we trust our intuitions without necessarily building upon a solid foundation of facts?
 
 ### Thinking and Feeling
+
 When Jung studied human behavior, he noticed that people have the capability to make decisions based on two very different sets of criteria: Thinking and Feeling. When someone makes a decision that is based on logic and reason, they are operating in Thinking mode. When someone makes a decision that is based on their value system, or what they believe to be right, they are operating in Feeling mode. We all use both modes for making decisions, but we put more trust into one mode or the other. A "Thinker" makes decisions in a rational, logical, impartial manner, based on what they believe to be fair and correct by pre-defined rules of behavior. A "Feeler" makes decisions on the individual case, in a subjective manner based on what they believe to be right within their own value systems.
 
 We are making decisions in the **Thinking** mode when we:
@@ -68,6 +73,7 @@ We are making decisions in the **Feeling** mode when we:
 Some decisions are made entirely by Thinking or Feelings processes. Most decisions involve some Thinking and some Feeling. Decisions that we find most difficult are those in which we have conflicts between our Thinking and Feeling sides. In these situations, our dominant preference will take over. Decisions which we find easy to make and feel good about are usually a result of being in sync with both our Feeling and Thinking sides.
 
 ### Judging and Perceiving
+
 Judging and Perceiving preferences, within the context of personality types, refers to our attitude towards the external world, and how we live our lives on a day-to-day basis. People with the Judging preference want things to be neat, orderly and established. The Perceiving preference wants things to be flexible and spontaneous. Judgers want things settled, Perceivers want thing open-ended.
 
 We are using **Judging** when we:

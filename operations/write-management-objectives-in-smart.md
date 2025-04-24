@@ -1,5 +1,5 @@
 ---
-title: Writing Management Objectives In Smart
+title: Write management objectives in SMART
 date: 2020-02-25
 description: Use S.M.A.R.T goal to define management objectives
 authors:

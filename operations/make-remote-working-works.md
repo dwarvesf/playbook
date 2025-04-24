@@ -1,14 +1,13 @@
 ---
-title: Make Remote Working Works
+title: Make remote working works
 date: 2016-01-17
 description: Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people.
 authors:
-  - duy
+  - duynglam
 tags:
   - remote
   - operations
   - performance
-  - team
 ---
 
 Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people excited without costing too much operation cost.

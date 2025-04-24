@@ -10,6 +10,7 @@ tags:
 ---
 
 ## To turn on Gmail Canned Response (Template)
+
 - Login to your Gmail account
 - Access to Settings -> Settings -> Advanced tab
 - Change Canned Responses (Templates) to **Enabled**
@@ -17,7 +18,9 @@ tags:
 ![](setup-email-template.webp)
 
 ## Adding/Using new template
+
 When composing an email, you can either:
+
 - Save the current draft as template for using later OR
 - Pick a template to use for the email that you picked
 

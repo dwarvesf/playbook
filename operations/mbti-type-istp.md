@@ -12,12 +12,15 @@ tags:
 ---
 
 ### Preferred Work Environment
+
 * Needs a more practical environment, where they can master skills and do things and see tangible results.
 * Need variety and the opportunity to dip in and out of activities.
 * The environment where their natural disregard for rules, authority and structures allows them to focus on and tackle the emergency at hand in the most effective way
 
 ### ISTP and Career Exploration
+
 An ISTP tends to **find career satisfaction** with careers that have the following characteristics:
+
 * Applies their technical knowledge to practical situations
 * Provides an opportunity to master and use their skills for specific tasks
 * Involves efficiently working with their hands or tools
@@ -28,13 +31,16 @@ An ISTP tends to **find career satisfaction** with careers that have the followi
 * Involves challenging and fun work with minimal supervision
 
 When **exploring career options**, an ISTP will often:
+
 * Compile specific facts and statistics that pertain to their career options
 * Naturally focus on current opportunities and benefit from predicting future career possibilities
 * Take all available time to examine their options and chose only when required
 * Feel uncertain about their career choice
 
 ### How Type Affects Career Development
+
 During **their job search**, an ISTP will often:
+
 * Gather specific job related information
 * Need to intentionally organize a job search plan with specific deadlines
 * Need to expend extra effort in their job search
@@ -45,13 +51,16 @@ During **their job search**, an ISTP will often:
 * Objectively analyze and logically assess each option
 
 During an **interview**, an ISTP will often:
+
 * Appear quiet and reserved when initially meeting employers
 * Answer questions in a straightforward manner
 * Benefit from practicing to discuss their skills and abilities
 * Need to be cautious of the amount of detail they provide, be able to discuss future projections, and assess hypothetical situations
 
 ### ISTP and Work
+
 At work, the ISTP will often:
+
 * Maintain their concentration while completing projects of interest
 * Gather and organize information in a way that makes it understandable
 * Be drawn to work with real or tangible products
@@ -66,6 +75,7 @@ At work, the ISTP will often:
 * Remain calm during crisis or difficult situations
 
 At work, the ISTP should **be aware** that they may:
+
 * Need to spend additional time in the planning stage of a project
 * Need to anticipate future possibilities and plan accordingly
 * Be easily enticed by new projects and need to ensure they complete their current commitments
@@ -80,7 +90,9 @@ At work, the ISTP should **be aware** that they may:
 * Focus on the task and think personal feelings and needs are unnecessary
 
 ### Teamwork
+
 On a team, the ISTP will often:
+
 * Provide the necessary data, facts, and information
 * Organize and analyze their work in an efficient manner
 * Resolve conflict through logical explanations and reasoning
@@ -97,7 +109,9 @@ On a team, the ISTP should **be aware** that they may
 * Need to intentionally developing rapport with team members
 
 ### Leadership
+
 ISTP generally enjoy and pursue leadership positions. As a leader, the ISTP will often:
+
 * Use a quiet approach that sets an example for others to follow
 * Desire freedom from policies and procedures
 * Compile all necessary information to persuade others
@@ -106,13 +120,16 @@ ISTP generally enjoy and pursue leadership positions. As a leader, the ISTP will
 * Expect all team members to equally contribute
 
 ### Communication
+
 The ISTP will often:
+
 * Desire to hear logical, objective, and practical information
 * Refrain from unnecessary communication
 * Rely heavily on non-verbal communication
 * Dislike surface level conversations
 
 The ISTP should be aware that they may need to:
+
 * Intentionally communicate their thoughts and important information with people
 * Prevent hurting people by becoming more comfortable with sharing their emotions
 * Be more considerate of some people’s need to express their feelings
@@ -120,7 +137,9 @@ The ISTP should be aware that they may need to:
 * Intentionally provide feedback and be cautious of their abrupt communication style
 
 ### Decision Making
+
 When it comes to decision making, the ISTP will often
+
 * Gather real or tangible data and base their decisions on this information
 * Rationally and logically evaluate their options
 * Need to intentionally examine the larger picture or additional possibilities
@@ -128,7 +147,9 @@ When it comes to decision making, the ISTP will often
 * Need to intentionally incorporate their values
 
 ### Stress
+
 An ISTP will often experience stress when
+
 * Feeling that their emotions are out of control
 * Working within strict guidelines and requirements
 * Perceiving their coworkers or supervisors are incompetent
@@ -139,6 +160,7 @@ An ISTP will often experience stress when
 * Dealing with people who are excessively emotional
 
 When they are affected by stress, an ISTP will often
+
 * Develop a firm and unwavering focus on logic
 * Respond poorly when others provide helpful ideas
 * Become overly sensitive to how other people perceive them
@@ -147,6 +169,7 @@ When they are affected by stress, an ISTP will often
 * Under excessive stress, express emotions through outbursts of anger or tears
 
 Advice: An ISTP can reduce stress by
+
 * Evaluating the facts in a situation to gain new insight
 * Participating in independent activities that diverts their attention from the stressor
 * Focusing on what they value

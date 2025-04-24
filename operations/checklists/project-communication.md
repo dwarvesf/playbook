@@ -8,16 +8,18 @@ date: 2022-01-01
 description: The checklist shows the rule of communication in a project 
 authors: 
   - huytq
-  - nikki
+  - nikkingtr
   - thanh
 ---
 
 **Transparency**
+
 - [ ]  Email communication should follow [email communication and use](https://www.notion.so/3703ec7baf5d438fb817175044898c7b?pvs=21).
 - [ ]  Work related discussion which is common knowledge for the team must be discussed in the public/shared channel
 - [ ]  In case the work related discussion which is common knowledge for the team is unintentionally  chat privately, the person should update with the related people or the rest of the team
 
 **Professionalism**
+
 - [ ]  The message sent out should be professional and polite in any case
 - [ ]  Avoid NSFW chat in work related discussion
 - [ ]  Be responsive to the discussion

@@ -1,5 +1,5 @@
 ---
-title: Bric A Brac
+title: Bric a brac
 date: 2020-04-10
 description: Simple operational guidelines for efficiency - outsource what we're not great at, automate repetitive tasks, avoid bottlenecks through broad access, and use existing solutions before building custom ones.
 authors:

@@ -1,11 +1,10 @@
 ---
-title: Hiring Approach
+title: Hiring approach
 date: 2018-06-26
 description: Hire people who tell us what to do, not the other way around.
 authors:
   - tieubao
-  - duy
-  - giangthan
+  - duynglam
 tags:
   - people
   - operations

@@ -8,7 +8,7 @@ title: Offer Letter
 date: 2020-01-01
 description: The email template is to annouce about new employment. 
 authors:
-  - nikki
+  - nikkingtr
   - hnh
 ---
 

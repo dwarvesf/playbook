@@ -1,5 +1,5 @@
 ---
-title: Types Of Employees
+title: Types of employees
 date: 2018-08-26
 description: Employees are either job-focused or mission-driven "mitochondria" who drive company growth. Prioritizing the latter through values interviews is key to startup success.
 authors: 
@@ -9,6 +9,7 @@ tags:
   - human-resource
   - operations
 ---
+
 There are 2 types of employees:
 
 * **There are employees who think of the company like a job**. They come in, they work hard, and they do their job. Some excel at doing their job. But ultimately, it’s a job. They want to make sure they’re fairly compensated for their work, and have interesting projects to work on. As long as they believe those things are in balance and the compensation arbitrage they can get by going to another company is within a certain bound, they’re stable and stay. In summary, they are rational actors, and the value they add to the company, while valuable, scales linearly.

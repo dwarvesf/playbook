@@ -7,7 +7,7 @@ title: Inform about resource change
 date: 2020-01-01
 description: The email template that you need to send to client when it's near holiday to announce about the resource changes. 
 authors: 
-  - nikki
+  - nikkingtr
   - hnh
 ---
 

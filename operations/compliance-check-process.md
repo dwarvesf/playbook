@@ -1,5 +1,5 @@
 ---
-title: Compliance Check Process
+title: Compliance check process
 date: 2020-01-01
 description: A comprehensive compliance program encompassing monthly audits, transparent progress tracking, and consequences for non-compliance, aiming to foster accountability and transparency within the team.
 authors:
@@ -10,9 +10,11 @@ tags:
 ---
 
 ## Compliance Checklist
+
 Compliance master list is stored [here](https://docs.google.com/spreadsheets/d/16HtA3skVpEdDpuJ9UEkPb5Ae_SK6IiJ5Czfl_94XqN4/edit#gid=449337167).
 
 ## Compliance execution
+
 Compliance check will be done in the monthly basis:
 
 - Each month compliance team will pick 30% projects to execute compliance checklist.
@@ -22,16 +24,18 @@ Example: *df-compliance-project-201905*.
 - Compliance PIC will create a todo on Basecamp and assign to the PICs of those projects.
 
 ## Result verification and action
+
 - After the compliance checklist is completed by the PIC of the project, compliance individual will do the clarification round by either:
-    - Sit with the PIC to ask questions about the result of the checklist.
-    - Assign the checklist for another team member of that project and compare the result.
+  - Sit with the PIC to ask questions about the result of the checklist.
+  - Assign the checklist for another team member of that project and compare the result.
 - PIC of the project will be responsible for the actions to fix the problems discovered during the compliance check session.
 - Compliance report will be produced by compliance PIC and will be presented to the whole team during engineering meeting.
 
 ## Fame or Shame
+
 - Projects that have a good measurement in the compliance session will have "Fame" (TBD)
 - Projects that have a bad measurement in the compliance session will have "Shame" (TBD)
-    - If you have completed the compliance checklist but failed or cannot explain some categories, it is REQUIRED that you need a proper training on that topic.
+  - If you have completed the compliance checklist but failed or cannot explain some categories, it is REQUIRED that you need a proper training on that topic.
 - Compliance checklist will be mandatory for the newcomers in order to pass their probation period.
 
 ---

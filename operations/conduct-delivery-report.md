@@ -1,7 +1,7 @@
 ---
-title: 'How to conduct delivery reports'
+title: 'How to conduct delivery report'
 date: 2024-08-01
-description: How we conduct insightful delivery reports that ensure transparency, improve team performance, and enhance client relationships
+description: How we conduct insightful delivery report that ensure transparency, improve team performance, and enhance client relationships
 authors:
   - thanh
 tags:

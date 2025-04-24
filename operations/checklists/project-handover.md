@@ -9,11 +9,12 @@ description: The checklist shows the process of project handover
 authors: 
   - tieubao
   - huytq
-  - nikki
+  - nikkingtr
   - thanh
 ---
 
 **Source code**
+
 - [ ]  Detailed diagrams created.
 - [ ]  Source code up to standard.
 - [ ]  All tests must be passed prior to the handover.
