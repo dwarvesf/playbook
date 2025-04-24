@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - people
   - hiring
@@ -7,9 +8,9 @@ tags:
 title: Hiring
 date: 2020-01-01
 description: The checklist presents how the hiring is proceeded. 
-authors: 
+authors:
   - tieubao
-  - hnh
+  - huynguyenh
 ---
 
 ### Resume Collecting

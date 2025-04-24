@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - people
   - operations
@@ -6,9 +7,9 @@ tags:
 title: Unemployment, Social, Health Insurance
 date: 2020-01-01
 description: The checklist of unemployment, social, health insurance
-authors: 
+authors:
   - tieubao
-  - hnh
+  - huynguyenh
 ---
 
 ### When an employee ask for Social insurance and contract

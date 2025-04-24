@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - people
   - operations
@@ -7,9 +8,9 @@ title: Assets
 date: 2020-01-01
 description: This checklist is for administrators and employee to manage company's assets. 
 
-authors: 
+authors:
   - tieubao
-  - hnh
+  - huynguyenh
 ---
 
 ## For Admin

@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - template
   - email
@@ -8,7 +9,7 @@ date: 2020-01-01
 description: The email template is to annouce the interview date with the client.
 authors:
   - nikkingtr
-  - hnh
+  - huynguyenh
 ---
 
 **Title:** Dwarves Foundation - Interview Invitation

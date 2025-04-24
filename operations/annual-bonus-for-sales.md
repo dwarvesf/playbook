@@ -1,9 +1,10 @@
 ---
+
 title: Annual bonus for sales
 date: 2020-01-01
 description: Guide to calculate annual bonus for sales
 authors:
-  - hnh
+  - huynguyenh
 tags:
   - operations
   - project

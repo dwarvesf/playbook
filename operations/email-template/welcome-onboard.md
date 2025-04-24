@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - template
   - email
@@ -9,7 +10,7 @@ date: 2020-01-01
 description: The email template is inform new employee about the onboarding meeting and information request.  
 authors:
   - nikkingtr
-  - hnh
+  - huynguyenh
 ---
 
 **Title**: Dwarves Foundation - Welcome Onboard

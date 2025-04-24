@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - project
   - operations
@@ -6,11 +7,11 @@ tags:
 title: Project Initialization
 date: 2022-01-01
 description: The checklist shows the process of project initialization 
-authors: 
+authors:
   - tieubao
-  - huytq
+  - huytieu
   - nikkingtr
-  - thanh
+  - zlatanpham
 ---
 
 **Paperwork**

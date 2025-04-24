@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - project
   - operations
@@ -6,10 +7,10 @@ tags:
 title: Project Case Study
 date: 2022-01-01
 description: The checklist outline the criteria of a project case study article
-authors: 
-  - huytq
+authors:
+  - huytieu
   - nikkingtr
-  - thanh
+  - zlatanpham
 ---
 
 The case study should focus on what the audience want to read

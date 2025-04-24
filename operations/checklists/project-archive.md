@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - project
   - operations
@@ -6,10 +7,10 @@ tags:
 title: Project Archive
 date: 2022-01-01
 description: The checklist shows how the project will be archive
-authors: 
-  - huytq
+authors:
+  - huytieu
   - nikkingtr
-  - thanh
+  - zlatanpham
 ---
 
 **Project: Archive**

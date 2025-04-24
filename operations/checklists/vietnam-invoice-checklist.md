@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - people
   - operations
@@ -6,9 +7,9 @@ tags:
 title: Vietnam Invoice
 date: 2020-01-01
 description: The processs of taking Vietnam invoice
-authors: 
+authors:
   - tieubao
-  - hnh
+  - huynguyenh
 ---
 
 ### Invoice checklist

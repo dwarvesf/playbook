@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - hiring
   - operations
@@ -6,9 +7,9 @@ tags:
 title: Candidate
 date: 2020-01-01
 description: The checklist will show how to evaluate a candidate.
-authors: 
+authors:
   - tieubao
-  - hnh
+  - huynguyenh
 ---
 
 ### Background & Skills

@@ -1,9 +1,10 @@
 ---
+
 title: Naming convention
 date: 2020-01-01
 description: This is the guide how to name your Email, Basecamp, Slack, Trello username.
 authors:
-  - hnh
+  - huynguyenh
 tags:
   - operations
   - people

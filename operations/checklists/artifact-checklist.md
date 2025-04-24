@@ -1,4 +1,5 @@
 ---
+
 tags:
   - operations
   - checklist
@@ -7,8 +8,8 @@ title: Back up Artifact
 date: 2024-07-22
 description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done.
 authors:
-  - minh_cloud
-  - thanh
+  - minhcloud
+  - zlatanpham
 ---
 
 ## Why do we need artifacts?

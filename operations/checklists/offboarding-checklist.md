@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - people
   - operations
@@ -6,10 +7,10 @@ tags:
 title: Offboarding
 date: 2024-08-19
 description: The process when an employee offboard from the team.
-authors: 
+authors:
   - tieubao
-  - hnh
-  - innno_
+  - huynguyenh
+  - innnotruong
 ---
 
 ## Objectives

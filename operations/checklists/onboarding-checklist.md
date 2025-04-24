@@ -1,4 +1,5 @@
 ---
+
 tags: 
   - people
   - operations
@@ -6,9 +7,9 @@ tags:
 title: Onboarding
 date: 2020-01-01
 description: What we have to do when a new employee come to our team.
-authors: 
+authors:
   - tieubao
-  - hnh
+  - huynguyenh
 ---
 
 Through this process, the employee gradually form their own perspective and their fit with the Dwarves. This is the stage when they decide whether or not to commit to our company.
