@@ -12,7 +12,7 @@ The performance and survival of a large number of organizations now depend on th
 
 ## Engineering Drive
 
-*We build a company where software engineering discipline could shine, innovative and quality products are shipped and change the world for the better.*
+_We build a company where software engineering discipline could shine, innovative and quality products are shipped and change the world for the better._
 
 #### SYSTEMATIC DISCIPLINE
 

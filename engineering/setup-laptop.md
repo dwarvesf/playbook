@@ -11,6 +11,7 @@ We recommend using dotfiles to customize your tools and environment to suit your
 If you are new for dotfiles, you can have a quick look at <https://dotfiles.github.io>. They organize most popular dotfiles for you to look at or start with. You can browse some repo to learn from the community, discover new tools for your toolbox and new tricks for the ones you already use.
 
 ## Automate your development environment
+
 <https://github.com/dwarvesf/dotfiles>
 
 We use MacOS and few popular Linux distros as a environment for development. We depend on compilers, databases, programming languages, package management systems, installers, and other critical programs for our daily activities.

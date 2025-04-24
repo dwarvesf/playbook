@@ -222,11 +222,11 @@ When designing your API responses, consistency is key. Using standardized respon
 
 ```json
 {
-    "data": {
-        "id": 1,
-        "name": "Dwarves",
-        "plug": "dwarvesf"
-    }
+  "data": {
+    "id": 1,
+    "name": "Dwarves",
+    "plug": "dwarvesf"
+  }
 }
 ```
 
@@ -234,25 +234,25 @@ When designing your API responses, consistency is key. Using standardized respon
 
 ```json
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "Company A"
-        },
-        {
-            "id": 2,
-            "name": "Company B"
-        }
-        // ... more data entries
-    ],
-    "metadata": {
-        "pageSize": 20,
-        "page": 1,
-        "totalPages": 15,
-        "totalRecords": 295,
-        "sort": ["+createdAt", "-name"],
-        "hasNext": true
+  "data": [
+    {
+      "id": 1,
+      "name": "Company A"
+    },
+    {
+      "id": 2,
+      "name": "Company B"
     }
+    // ... more data entries
+  ],
+  "metadata": {
+    "pageSize": 20,
+    "page": 1,
+    "totalPages": 15,
+    "totalRecords": 295,
+    "sort": ["+createdAt", "-name"],
+    "hasNext": true
+  }
 }
 ```
 
@@ -260,23 +260,23 @@ When designing your API responses, consistency is key. Using standardized respon
 
 ```json
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "Company A"
-        },
-        {
-            "id": 2,
-            "name": "Company B"
-        }
-        // ... more data entries
-    ],
-    "metadata": {
-        "pageSize": 20,
-        "cursor": "id",
-        "sort": ["createdAt", "-name"],
-        "hasNext": true
+  "data": [
+    {
+      "id": 1,
+      "name": "Company A"
+    },
+    {
+      "id": 2,
+      "name": "Company B"
     }
+    // ... more data entries
+  ],
+  "metadata": {
+    "pageSize": 20,
+    "cursor": "id",
+    "sort": ["createdAt", "-name"],
+    "hasNext": true
+  }
 }
 ```
 
@@ -306,15 +306,15 @@ Example:
 
 ```json
 {
- "error": "field1: required, field2: greater than 10",
- "code": "CREATE_BODY_INVALID",
- "errors": [
-  {
-   "field": "field1",
-   "error": "required"
-  }
- ],
- "traceId": "<trace_id>"
+  "error": "field1: required, field2: greater than 10",
+  "code": "CREATE_BODY_INVALID",
+  "errors": [
+    {
+      "field": "field1",
+      "error": "required"
+    }
+  ],
+  "traceId": "<trace_id>"
 }
 ```
 
@@ -324,9 +324,9 @@ Example:
 
 ```json
 {
- "error": "Entity not found",
- "code": "ENTITY_NOT_FOUND",
- "traceId": "<trace_id>"
+  "error": "Entity not found",
+  "code": "ENTITY_NOT_FOUND",
+  "traceId": "<trace_id>"
 }
 ```
 
@@ -336,9 +336,9 @@ Example:
 
 ```json
 {
- "error": "Internal server error",
- "code": "INTERNAL_CODE_001",
- "traceId": "<trace_id>"
+  "error": "Internal server error",
+  "code": "INTERNAL_CODE_001",
+  "traceId": "<trace_id>"
 }
 ```
 

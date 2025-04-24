@@ -1,13 +1,12 @@
 ---
-
-tags: 
+tags:
   - template
   - email
   - operations
   - hiring
 title: Offer Letter
 date: 2020-01-01
-description: The email template is to annouce about new employment. 
+description: The email template is to annouce about new employment.
 authors:
   - nikkingtr
   - huynguyenh

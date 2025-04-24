@@ -1,12 +1,11 @@
 ---
-
-tags: 
+tags:
   - template
   - email
   - operations
 title: Confirm Employee's Resume Date Day
 date: 2020-01-01
-description: The email template is to welcome employee back to work.  
+description: The email template is to welcome employee back to work.
 authors:
   - nikkingtr
   - huynguyenh

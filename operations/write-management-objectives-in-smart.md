@@ -10,18 +10,19 @@ tags:
   - goal
 ---
 
+>
 _S.M.A.R.T. goals are a relatively new idea. In 1981, George T. Doran, a consultant and former director of corporate planning for Washington Water Power Company, published a paper called, “There’s a S.M.A.R.T. Way to Write Management’s Goals and Objectives.” In the document, he introduces S.M.A.R.T. goals as a tool to create criteria to help improve the chances of succeeding in accomplishing a goal_
 
 ## S – Specific
 
 When setting a goal, be specific about what you want to accomplish. Think about this as the mission statement for your goal. This isn’t a detailed list of how you’re going to meet a goal, but it should include an answer to the popular ‘w’ questions:
 
-* Who – Consider who needs to be involved to achieve the goal (this is especially important when you’re working on a group project).
-* What – Think about exactly what you are trying to accomplish and don’t be afraid to get very detailed.
-* When – You’ll get more specific about this question under the “time-bound” section of defining S.M.A.R.T. goals, but you should at least set a time frame.
-* Where – This question may not always apply, especially if you’re setting personal goals, but if there’s a location or relevant event, identify it here.
-* Which – Determine any related obstacles or requirements. This question can be beneficial in deciding if your goal is realistic. For example, if the goal is to open a baking business, but you’ve never baked anything before, that might be an issue. As a result, you may refine the specifics of the goal to be “Learn how to bake in order to open a baking business."
-* Why – What is the reason for the goal? When it comes to using this method for employees, the answer will likely be along the lines of company advancement or career development.
+- Who – Consider who needs to be involved to achieve the goal (this is especially important when you’re working on a group project).
+- What – Think about exactly what you are trying to accomplish and don’t be afraid to get very detailed.
+- When – You’ll get more specific about this question under the “time-bound” section of defining S.M.A.R.T. goals, but you should at least set a time frame.
+- Where – This question may not always apply, especially if you’re setting personal goals, but if there’s a location or relevant event, identify it here.
+- Which – Determine any related obstacles or requirements. This question can be beneficial in deciding if your goal is realistic. For example, if the goal is to open a baking business, but you’ve never baked anything before, that might be an issue. As a result, you may refine the specifics of the goal to be “Learn how to bake in order to open a baking business."
+- Why – What is the reason for the goal? When it comes to using this method for employees, the answer will likely be along the lines of company advancement or career development.
 
 _Incorrect Goal: Make a cross - browser layout of the <www.site.com>. Correct Goal: <www.site.com> must be equally displayed in browsers IE6+, Opera 6+, and Firefox 2+_
 _Incorrect Goal: Make a valid layout of the <www.site.com>. Correct Goal: <www.site.com> must completely pass check validators w3c.org_
@@ -48,10 +49,10 @@ _Incorrect Goal: Make on the website the section “Contact Us” for a demonstr
 
 ## Example: Email Subscription Goal
 
-* **Specific:** I want to boost the number of our email blog subscribers by increasing our Facebook advertising budget on blog posts that historically acquire the most email subscribers.
-* **Measurable:** A 50% increase is our goal.
-* **Attainable:** Since we started using this tactic three months ago, our email blog subscriptions have increased by 40%.
-* **Relevant:** By increasing the number of our email blog subscribers, our blog will drive more traffic, boost brand awareness, and drive more leads to our sales team.
-* **Time**-**Bound:** In 3 months.
+- **Specific:** I want to boost the number of our email blog subscribers by increasing our Facebook advertising budget on blog posts that historically acquire the most email subscribers.
+- **Measurable:** A 50% increase is our goal.
+- **Attainable:** Since we started using this tactic three months ago, our email blog subscriptions have increased by 40%.
+- **Relevant:** By increasing the number of our email blog subscribers, our blog will drive more traffic, boost brand awareness, and drive more leads to our sales team.
+- **Time**-**Bound:** In 3 months.
 
 → **SMART Goal:** In 3 months, we'll see a 50% increase in the number of our email blog subscribers by increasing our Facebook advertising budget on posts that historically acquire the most blog subscribers

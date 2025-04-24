@@ -146,7 +146,7 @@ Place limits on the amount of login attempts allowed per client per unit of time
 The aim of these measures is make online brute-force attacks against usernames/passwords infeasible.
 
 ## User Password Storage
->
+
 > Never EVER store passwords in plaintext!
 
 Never store passwords in reversible encrypted form, unless absolutely required by the application / system. Here is a good article about what and what not to do: <https://crackstation.net/hashing-security.htm>

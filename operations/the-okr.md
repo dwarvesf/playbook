@@ -2,9 +2,9 @@
 title: The OKR
 date: 2016-04-06
 description: How we use OKR to define goals
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - performance
   - okr
   - goal
@@ -50,18 +50,18 @@ Finally, in individual level, each staff from HR team will know their objective.
 
 It is one of the most important thing in OKR, every key result of an object must be measurable because it is the only thing will let us know whether we a getting close to our objective or we just playing around
 
-> *It's not a key result unless it has a number - Marissa Mayer ( CEO of yahoo )*
+> _It's not a key result unless it has a number - Marissa Mayer ( CEO of yahoo )_
 
 So we will say "i will launch this project in **August**" instead of say "i will launch this project **as soon as i can**"
 
 - **Set as personal and team level**
-Like an example above, we set a ORK for both personal and team level as a top-down approach, but in every company individual is a must for development . As a CEO or board member of the company, they should collect their staff ORKs and build a foundation level OKR base on their staff's (bottom-up).
+  Like an example above, we set a ORK for both personal and team level as a top-down approach, but in every company individual is a must for development . As a CEO or board member of the company, they should collect their staff ORKs and build a foundation level OKR base on their staff's (bottom-up).
 
 - **Share**
-The entire company have a access to everyone ORK including team ORK, so everyone will know that they are working for the same goals and what everyone is working on
+  The entire company have a access to everyone ORK including team ORK, so everyone will know that they are working for the same goals and what everyone is working on
 
 - **Graded**
-You will give a point in the scale from 0 to 1, the point will show the percentage of a given Key results. Let's say "Hire 2 senior backend developer" but we only hired 1, so we will point this Key result **0.5 point.** The objective point is an average of Key results.
+  You will give a point in the scale from 0 to 1, the point will show the percentage of a given Key results. Let's say "Hire 2 senior backend developer" but we only hired 1, so we will point this Key result **0.5 point.** The objective point is an average of Key results.
 
 The ideal point is 0.6 - 0.7 point . You may ask why it's not 0.9 or 1, well if it seems easy either your objectives are not ambitious enough or you did it wrong
 
@@ -73,7 +73,7 @@ The ideal point is 0.6 - 0.7 point . You may ask why it's not 0.9 or 1, well if 
 
 The main goal of OKRs is to connect company, team and personal objectives to measurable results, making people move together in right direction.
 
-> *First, and most importantly, the company must have conviction around goal setting. This commitment needs to come from all levels: the CEO, the senior leadership team, and every team member within the company. That’s the best way to ensure success. - John Doerr*
+> _First, and most importantly, the company must have conviction around goal setting. This commitment needs to come from all levels: the CEO, the senior leadership team, and every team member within the company. That’s the best way to ensure success. - John Doerr_
 
 - **OKRs Increase Focus**
 

@@ -47,9 +47,9 @@ For project details and people in charge. By categorizing the projects, we insta
 
 Right, the thing that keeps Basecamp interesting. Automatic Check-Ins is the common name we use for the scheduled questions. In fact, there are several ones. Here are some active ones.
 
-* What's something you recently learned or discovered? Show and tell!
-* Seen any good movies lately?
-* Seen anything recently that others on the team would find interesting?
+- What's something you recently learned or discovered? Show and tell!
+- Seen any good movies lately?
+- Seen anything recently that others on the team would find interesting?
 
 Beside, another question might come with every project/team, which is **'What did you work on today?'**
 
@@ -59,19 +59,19 @@ This aims to log the accomplishment of the day, or as I have mentioned in [Daily
 
 Needless to say what this is about, I guess I'll just drop the necessary input.
 
-* **Title**: A concise brief of the task
-* **Assign to**: Name of person in charge (PIC)
-* **When done, notify**: If it's a self-task, leave it blank. If it needs approval, tag the line manager or a PIC
-* **Due on**: Deadline of the task
-* **Notes**: Detailed description, or material attachment
+- **Title**: A concise brief of the task
+- **Assign to**: Name of person in charge (PIC)
+- **When done, notify**: If it's a self-task, leave it blank. If it needs approval, tag the line manager or a PIC
+- **Due on**: Deadline of the task
+- **Notes**: Detailed description, or material attachment
 
 ### Schedule
 
 We use this for time-reserved activities.
 
-* Daily Team/ Project meeting
-* Webinar/ Topic Discussion
-* Sprint planning/ Retrospective
+- Daily Team/ Project meeting
+- Webinar/ Topic Discussion
+- Sprint planning/ Retrospective
 
 #### Link it with Google Calendar/ Apple Calendar
 

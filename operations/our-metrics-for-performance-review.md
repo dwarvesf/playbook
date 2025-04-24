@@ -10,7 +10,7 @@ tags:
   - operations
 ---
 
-***P = f(r, t, c, r)***
+**_P = f(r, t, c, r)_**
 
 ## Performance - P
 
@@ -18,9 +18,9 @@ Performance is a final value that will be calculated from other metrics. This va
 
 Metrics will be marked from the scale from 1 to 5:
 
-* 1 is bad
-* 3 is normal
-* 5 is outstanding
+- 1 is bad
+- 3 is normal
+- 5 is outstanding
 
 ```plain_text
  1 ---- 2 ---- 3 ---- 4 ---- 5
@@ -29,88 +29,88 @@ bad           good        outstand
 
 **Context of example**
 
-* Han is Director
-* Project: Find Friends
-* Han is PM
-* Thanh and **Hieu** is peer dev
-* Project: Pie
-* An is PM
-* Huy and **Hieu** is peer dev
-* Hieu joins project Pie (70%) and Find Friends (30%)
+- Han is Director
+- Project: Find Friends
+- Han is PM
+- Thanh and **Hieu** is peer dev
+- Project: Pie
+- An is PM
+- Huy and **Hieu** is peer dev
+- Hieu joins project Pie (70%) and Find Friends (30%)
 
 ## Result - R
 
 Result is the metric that help to indicate how good the output when employees get things done.
 
-* What is the output of your assigned works?
-* Who would mark: Project manager or team leader
+- What is the output of your assigned works?
+- Who would mark: Project manager or team leader
 
 ### Metrics
 
-* Punctuality (Efficiency): Team members need to be able to complete their work on time. They should have a good handle on the limitations provided by the time and resources available and should be able to prioritize to get things done as efficiently as possible. This metric will be calculated by the logged hours or total points that you have earned by getting things done.
-* Workload: how much effort you put into the project.
-* Quality: The quality of work your team members put out is perhaps the most important metric, but it is also the most difficult to define. Team members who care about what they do and are engaged at work will likely perform better, and it’s a good idea to recognize resulting achievements.
+- Punctuality (Efficiency): Team members need to be able to complete their work on time. They should have a good handle on the limitations provided by the time and resources available and should be able to prioritize to get things done as efficiently as possible. This metric will be calculated by the logged hours or total points that you have earned by getting things done.
+- Workload: how much effort you put into the project.
+- Quality: The quality of work your team members put out is perhaps the most important metric, but it is also the most difficult to define. Team members who care about what they do and are engaged at work will likely perform better, and it’s a good idea to recognize resulting achievements.
 
-*Example*:
+_Example_:
 FindFriends: Han marks
 
-* Punctuality = 3
-* Workload = 3
-* Quality = 3
+- Punctuality = 3
+- Workload = 3
+- Quality = 3
 
 Pie: An marks
 
-* Punctuality = 4
-* Workload = 3
-* Quality = 3
-With coefficient equal to 1
+- Punctuality = 4
+- Workload = 3
+- Quality = 3
+  With coefficient equal to 1
 
- ***R = 0.3 \times (\frac{3 + 3 + 3}{3}) + 0.7 \times (\frac{4 + 3 + 3}{3}) = 3.23***
+  **_R = 0.3 \times (\frac{3 + 3 + 3}{3}) + 0.7 \times (\frac{4 + 3 + 3}{3}) = 3.23_**
 
 ## Teamwork - T
 
 How do you treat others? How is your teamwork skill? You don't have to follow the crowd, but cooperation is key to success.
 
-* Be proactive.
-* None could be blocked by you.
-* Make sure you can be reached during agreed working hours.
-* Helping and sharing.
+- Be proactive.
+- None could be blocked by you.
+- Make sure you can be reached during agreed working hours.
+- Helping and sharing.
 
 <!-- child_page 656deb24-6315-44fe-b5b5-1c3b546f3ffd -->
 
 ## Fire quickly
 
-* False positives: people who you thought fit your values, but don’t once they’re hired
-* False negatives: people who you thought would not fit your values, but would have if you had hired them
+- False positives: people who you thought fit your values, but don’t once they’re hired
+- False negatives: people who you thought would not fit your values, but would have if you had hired them
 
 If you get some false positives anyway, the solution is to fire quickly. To follow the "No Asshole Rule", we need to strictly apply this despite the common excuses:
 
-* for that one bad trait, he has four good traits going for him.
-* [data scientists/engineers/product managers] are hard to replace, so we’ll make do.
-* We’ve decided that we’re not going to fire him because he’s a high performer.
+- for that one bad trait, he has four good traits going for him.
+- [data scientists/engineers/product managers] are hard to replace, so we’ll make do.
+- We’ve decided that we’re not going to fire him because he’s a high performer.
 
 Other excuses we made:
 
-* For ineffective employee
+- For ineffective employee
 
 We rationalize this behavior with “lies we tell ourselves.” Here are a few lies people use to keep an ineffective employee:
 
-* He is trying really hard.
-* She deserves another chance.
-* People really like her.
-* I feel bad for him.
-* He’s good at other things.
-* He has stuff going on in his personal life
-* She is in the wrong role.
-* For [10x employee](https://www.notion.so/dwarvesv/10x-05358eacebaf4dde8def342d8c22b791)
+- He is trying really hard.
+- She deserves another chance.
+- People really like her.
+- I feel bad for him.
+- He’s good at other things.
+- He has stuff going on in his personal life
+- She is in the wrong role.
+- For [10x employee](https://www.notion.so/dwarvesv/10x-05358eacebaf4dde8def342d8c22b791)
 
 Conversely, we should dramatically expand the responsibility of 20x performers. Most don’t and rationalize limiting their most effective employees by saying:
 
-* She’s great but not ready for a promotion
-* He’s good but I’m not blown away
-* She doesn’t have the right background
-* He’s never done this job before
-* If we promote and she doesn’t work out, what then?
+- She’s great but not ready for a promotion
+- He’s good but I’m not blown away
+- She doesn’t have the right background
+- He’s never done this job before
+- If we promote and she doesn’t work out, what then?
 
 ## Evaluating
 
@@ -120,9 +120,9 @@ Using Performance-Values Matrix. All the sample metrics are included in
 
 ![](our-metrics-for-performance-review_c4defc89db73b3ffe140319a420998c1_md5.webp)
 
-* Core
-* Team
-* Personal
+- Core
+- Team
+- Personal
 
 ![](our-metrics-for-performance-review_da1531180d70a98b2ea3efb18dfc4be4_md5.webp)
 
@@ -214,19 +214,19 @@ Source: [It is hard to become a team member](http://tieubao.me/writing/2014/12/0
 
 Communication:
 
-* Daily: You’re transparent with your manager and teams.
-* Presentation: you communicate effectively through keynote.
-* Written: From emails to blogs...you are a clear, concise, compelling and convincing writer.
-* Meetings: You involve the right people at the right time. You clearly communicate action items and decisions.
-* Resourcefulness: You leverage the company and network to remove blockers
-* Leveraging Feedback/Reviews: You collect feedback and apply it to gain insights and build relationships
-* Attendance (Commitment): Automating time and attendance is a great way to keep an eye on things. If a team member is consistently showing up late, leaving early, or taking an unusual number of sick days, they’re likely not showing their full potential.
-* Helpfulness (Supporting): How helpful and accountable you are during your working routine. Helpfulness is important for fostering a culture of teamwork, allowing your team to perform better when tackling difficult tasks together.
-* Leadership (Initiative): An employee that takes initiative is definitely a sign of team satisfaction and engagement. Looking at team members who take initiative is also important for growing businesses and for rapidly changing workplaces that require people who can adapt and be proactive.
-* Mentoring: A different aspects of Helpfulness. You take time to help co-workers develop their skills.
-* Motivator: You actively support your team members - both professionally and personally.
-* Process: You know the process, how to use it and help your co-workers identify opportunities to improve.
-* Decision making
+- Daily: You’re transparent with your manager and teams.
+- Presentation: you communicate effectively through keynote.
+- Written: From emails to blogs...you are a clear, concise, compelling and convincing writer.
+- Meetings: You involve the right people at the right time. You clearly communicate action items and decisions.
+- Resourcefulness: You leverage the company and network to remove blockers
+- Leveraging Feedback/Reviews: You collect feedback and apply it to gain insights and build relationships
+- Attendance (Commitment): Automating time and attendance is a great way to keep an eye on things. If a team member is consistently showing up late, leaving early, or taking an unusual number of sick days, they’re likely not showing their full potential.
+- Helpfulness (Supporting): How helpful and accountable you are during your working routine. Helpfulness is important for fostering a culture of teamwork, allowing your team to perform better when tackling difficult tasks together.
+- Leadership (Initiative): An employee that takes initiative is definitely a sign of team satisfaction and engagement. Looking at team members who take initiative is also important for growing businesses and for rapidly changing workplaces that require people who can adapt and be proactive.
+- Mentoring: A different aspects of Helpfulness. You take time to help co-workers develop their skills.
+- Motivator: You actively support your team members - both professionally and personally.
+- Process: You know the process, how to use it and help your co-workers identify opportunities to improve.
+- Decision making
 
 [https://risepeople.com/blog/5-metrics-team-member-performance/](https://risepeople.com/blog/5-metrics-team-member-performance/)
 
@@ -234,12 +234,12 @@ Communication:
 
 Good:
 
-* Your shared post in Slack is helpful to other team members. They upvoted and loved it.
-* You help someone and they give commendation or kudos as appreciation
+- Your shared post in Slack is helpful to other team members. They upvoted and loved it.
+- You help someone and they give commendation or kudos as appreciation
 
 Bad:
 
-* Someone has been blocked by you during working hours
+- Someone has been blocked by you during working hours
 
 ## Contribution - C
 
@@ -247,25 +247,25 @@ How you contribute to the whole company rather than your team? (outside of your 
 
 Metrics:
 
-* Culture
-* 10x:
-* Optimistic: You bring a positive, collaborative and engaging attitude to your work and the team
-* Team Builder: You reach out and build relationships beyond your core team. You build relationships across disciplines.
-* Innovation
-* Futurist: You think beyond the current scope of your road map. You invent entirely new business opportunities.
-* Technology: You are in touch with the latest gadgets, trends, technology, competitors, frameworks, etc.
-* Patents: You actively identify opportunities to protect your intellectual property.
-* Process: You recognize that invention goes far beyond products. You are constantly looking for new ways to practice.
-* Fearless: You are fearless. You are dauntless in your next to deliver better experiences.
+- Culture
+- 10x:
+- Optimistic: You bring a positive, collaborative and engaging attitude to your work and the team
+- Team Builder: You reach out and build relationships beyond your core team. You build relationships across disciplines.
+- Innovation
+- Futurist: You think beyond the current scope of your road map. You invent entirely new business opportunities.
+- Technology: You are in touch with the latest gadgets, trends, technology, competitors, frameworks, etc.
+- Patents: You actively identify opportunities to protect your intellectual property.
+- Process: You recognize that invention goes far beyond products. You are constantly looking for new ways to practice.
+- Fearless: You are fearless. You are dauntless in your next to deliver better experiences.
 
-*Examples*:
+_Examples_:
 
-* Have personal blog
-* Writing blog post: personal blog; medium; hackernews ..
-* Post has been featured
-* Join a tech event, conference
-* Be a speaker in a tech event, conference
-* Open source a library, project and be useful for other people (no of stars? shares?)
+- Have personal blog
+- Writing blog post: personal blog; medium; hackernews ..
+- Post has been featured
+- Join a tech event, conference
+- Be a speaker in a tech event, conference
+- Open source a library, project and be useful for other people (no of stars? shares?)
 
 ## Ranking - R
 

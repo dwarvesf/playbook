@@ -12,7 +12,7 @@ How we expect projects to be setup.
 
 ### Technical
 
-Project setup must be self-contained, no *"It works on my machine"* bullshit. If its failed to run the setup script on your coworker's machine, it needs a fix 🔧
+Project setup must be self-contained, no _"It works on my machine"_ bullshit. If its failed to run the setup script on your coworker's machine, it needs a fix 🔧
 
 Every Backend codebase should have:
 

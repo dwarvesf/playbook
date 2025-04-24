@@ -2,7 +2,7 @@
 
 ## Definitions
 
-**Project Charter** is a formal, typically short document that describes your project in its entirety ,  including what the objectives are, how it will be carried out, and who the stakeholders are. It is a crucial ingredient in planning out the project because it is used throughout the project lifecycle.
+**Project Charter** is a formal, typically short document that describes your project in its entirety , including what the objectives are, how it will be carried out, and who the stakeholders are. It is a crucial ingredient in planning out the project because it is used throughout the project lifecycle.
 
 ## Why is the Project Charter So Important?
 
@@ -54,7 +54,7 @@ For example Medical, Transportation/Logistic, Banking, etc..
 
 - Scope: the project will have many aspects. So Project manager should know which part worthwhile to carry and ignore vice versa.
 - Time: for each project, we should have a time standard to make the project measurable such as man-month, man-day.
-- Budget: ****
+- Budget: \*\*\*\*
 
 **5.Platform?**
 
@@ -62,7 +62,7 @@ For example Medical, Transportation/Logistic, Banking, etc..
 
 **7. Risks identified?**
 
-- *Risks are the root causes of the project failure.*
+- _Risks are the root causes of the project failure._
 
 - Be aware of common risks:
   - Time estimation: it's hard to get the estimation exactly, so it should not be too short or small tasks but spending too much time.

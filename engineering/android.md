@@ -8,7 +8,7 @@ Avoid reinventing the wheel by following these guidelines.
 - [Put passwords and sensitive data in gradle.properties](#gradle-configuration)
 - [Use the Jackson library to parse JSON data](#libraries)
 - [Don't write your own HTTP client, use OkHttp libraries](#networklibs)
-- [Avoid Guava and use only a few libraries due to the *65k method limit*](#methodlimitation)
+- [Avoid Guava and use only a few libraries due to the _65k method limit_](#methodlimitation)
 - [Sail carefully when choosing between Activities and Fragments](#activities-and-fragments)
 - [Layout XMLs are code, organize them well](#resources)
 - [Use styles to avoid duplicate attributes in layout XMLs](#styles)
@@ -50,7 +50,7 @@ Although Gradle offers a large degree of flexibility in your project structure, 
 
 **Passwords.** In your app's `build.gradle` you will need to define the `signingConfigs` for the release build. Here is what you should avoid:
 
-*Don't do this*. This would appear in the version control system.
+_Don't do this_. This would appear in the version control system.
 
 ```groovy
 signingConfigs {
@@ -64,7 +64,7 @@ signingConfigs {
 }
 ```
 
-Instead, make a `gradle.properties` file which should *not* be added to the version control system:
+Instead, make a `gradle.properties` file which should _not_ be added to the version control system:
 
 ```
 KEYSTORE_PASSWORD=password123
@@ -101,7 +101,7 @@ dependencies {
 Avoid the use of dynamic dependency versions, such as `2.1.+` as this may result in different and unstable builds or subtle, untracked differences in behavior between builds. The use of static versions such as `2.1.1` helps create a more stable, predictable and repeatable development environment.
 
 **Use different package name for non-release builds**
-Use `applicationIdSuffix` for *debug* [build type](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Build-Types) to be able to install both *debug* and *release* apk on the same device (do this also for custom build types, if you need any). This will be especially valuable after your app has been published.
+Use `applicationIdSuffix` for _debug_ [build type](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Build-Types) to be able to install both _debug_ and _release_ apk on the same device (do this also for custom build types, if you need any). This will be especially valuable after your app has been published.
 
 ```groovy
 android {
@@ -118,7 +118,7 @@ android {
 }
 ```
 
-Use different icons to distinguish the builds installed on a device, for example with different colors or an overlaid  "debug" label. Gradle makes this very easy: with default project structure, simply put *debug* icon in `app/src/debug/res` and *release* icon in `app/src/release/res`. You could also [change app name](http://stackoverflow.com/questions/24785270/how-to-change-app-name-per-gradle-build-type) per build type, as well as  `versionName` (as in the above example).
+Use different icons to distinguish the builds installed on a device, for example with different colors or an overlaid "debug" label. Gradle makes this very easy: with default project structure, simply put _debug_ icon in `app/src/debug/res` and _release_ icon in `app/src/release/res`. You could also [change app name](http://stackoverflow.com/questions/24785270/how-to-change-app-name-per-gradle-build-type) per build type, as well as `versionName` (as in the above example).
 
 **Share debug app keystore file**
 Sharing the debug APK keystore file via the app repository saves time when testing on shared devices and avoids the uninstalling/reinstalling of the app. It also simplifies the processing of working with some Android SDKs, such as Facebook, which require the registration of a single key store hash. Unlike the release key file, the debug key file can safely be added to your repository.
@@ -136,7 +136,7 @@ Avoid adding Android Studio's specific configuration files, such as `.iml` files
 
 **[Jackson](http://wiki.fasterxml.com/JacksonHome)** is a Java library for JSON serialization and deserialization, it has a wide-scoped and versatile API, supporting various ways of processing JSON: streaming, in-memory tree model, and traditional JSON-POJO data binding.
 
-[Gson](https://code.google.com/p/google-gson/) is another popular choice and being a smaller library than Jackson, you might prefer it to avoid 65k methods limitation. Also, if you are using  
+[Gson](https://code.google.com/p/google-gson/) is another popular choice and being a smaller library than Jackson, you might prefer it to avoid 65k methods limitation. Also, if you are using
 
 [Moshi](https://github.com/square/moshi), another of [Square's](https://github.com/square) open source libraries, builds upon learnings from the development of Gson and also integrates well with Kotlin.
 
@@ -176,17 +176,17 @@ Because of Android API's history, you can loosely consider Fragments as UI piece
 
 ### Java packages structure
 
-We recommend using a *feature based* package structure for your code. This has the following benefits:
+We recommend using a _feature based_ package structure for your code. This has the following benefits:
 
 - Clearer feature dependency and interface boundaries.
 - Promotes encapsulation.
-- Easier to understand the components that define the feature.  
+- Easier to understand the components that define the feature.
 - Reduces risk of unknowingly modifying unrelated or shared code.
 - Simpler navigation: most related classes will be in the one package.
 - Easier to remove a feature.
 - Simplifies the transition to module based build structure (better build times and Instant Apps support)
 
-The alternative approach of defining your packages by *how* a feature is built (by placing related Activities, Fragments, Adapters etc in separate packages) can lead to a fragmented code base with less implementation flexibility. Most importantly, it hinders your ability to comprehend your code base in terms of its primary role: to provide features for your app.
+The alternative approach of defining your packages by _how_ a feature is built (by placing related Activities, Fragments, Adapters etc in separate packages) can lead to a fragmented code base with less implementation flexibility. Most importantly, it hinders your ability to comprehend your code base in terms of its primary role: to provide features for your app.
 
 ### Resources
 
@@ -263,13 +263,13 @@ You probably will need to do the same for buttons, but don't stop there yet. Go 
 <a name="colorsxml"></a>
 **`colors.xml` is a color palette.** There should be nothing in your `colors.xml` other than a mapping from a color name to an RGBA value. This helps avoid repeating RGBA values and as such will make it easy to change or refactor colors, and also will make it explicit how many different colors are being used. Normally for a aesthetic UI, it is important to reduce the variety of colors being used.
 
-*So, don't define your colors.xml like this:*
+_So, don't define your colors.xml like this:_
 
 ```xml
 <resources>
     <color name="button_foreground">#FFFFFF</color>
     <color name="button_background">#2A91BD</color>
-</resources>    
+</resources>
 ```
 
 Instead, do this:
@@ -278,7 +278,7 @@ Instead, do this:
 <resources>
     <!-- grayscale -->
     <color name="white">#FFFFFF</color>
-   
+
     <!-- basic colors -->
     <color name="blue">#2A91BD</color>
 </resources>
@@ -295,8 +295,8 @@ By referencing the color palette from your styles allows you to abstract the und
 If needed, even further separation between underlying colors and style usage can be achieved by defined an additional color resource file which references the color palette. As per:
 
 ```xml
-<color name="button_foreground">@color/white</color> 
-<color name="button_background">@color/blue</color> 
+<color name="button_foreground">@color/white</color>
+<color name="button_background">@color/blue</color>
 ```
 
 Then in styles.xml:
@@ -416,7 +416,7 @@ A couple of problems may occur. You might experience performance problems, becau
 Therefore, try to keep your views hierarchy as flat as possible: learn how to use [ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html), how to [optimize your layouts](http://developer.android.com/training/improving-layouts/optimizing-layout.html) and to use the [`<merge>` tag](http://stackoverflow.com/questions/8834898/what-is-the-purpose-of-androids-merge-tag-in-xml-layouts).
 
 <a name="webviews"></a>
-**Beware of problems related to WebViews.** When you must display a web page, for instance for a news article, avoid doing client-side processing to clean the HTML, rather ask for a "*pure*" HTML from the backend programmers. [WebViews can also leak memory](http://stackoverflow.com/questions/3130654/memory-leak-in-webview) when they keep a reference to their Activity, instead of being bound to the ApplicationContext. Avoid using a WebView for simple texts or buttons, prefer the platform's widgets.
+**Beware of problems related to WebViews.** When you must display a web page, for instance for a news article, avoid doing client-side processing to clean the HTML, rather ask for a "_pure_" HTML from the backend programmers. [WebViews can also leak memory](http://stackoverflow.com/questions/3130654/memory-leak-in-webview) when they keep a reference to their Activity, instead of being bound to the ApplicationContext. Avoid using a WebView for simple texts or buttons, prefer the platform's widgets.
 
 ### Test Frameworks
 
@@ -426,7 +426,7 @@ Therefore, try to keep your views hierarchy as flat as possible: learn how to us
 
 **[Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html) makes writing UI tests easy.**
 
-**[AssertJ-Android](http://square.github.io/assertj-android/) an AssertJ extension library making assertions easy in Android tests**  Assert-J comes modules easier for you to test Android specific components, such as the Android Support, Google Play Services and Appcompat libraries.
+**[AssertJ-Android](http://square.github.io/assertj-android/) an AssertJ extension library making assertions easy in Android tests** Assert-J comes modules easier for you to test Android specific components, such as the Android Support, Google Play Services and Appcompat libraries.
 
 A test assertion will look like:
 
@@ -472,13 +472,13 @@ This means one out of two things:
 Check `app/build/outputs/proguard/release/usage.txt` to see if the object in question has been removed.
 Check `app/build/outputs/proguard/release/mapping.txt` to see if the object in question has been obfuscated.
 
-In order to prevent ProGuard from *stripping away* needed classes or class members, add a `keep` options to your ProGuard config:
+In order to prevent ProGuard from _stripping away_ needed classes or class members, add a `keep` options to your ProGuard config:
 
 ```
 -keep class com.dwarvesf.project.MyClass { *; }
 ```
 
-To prevent ProGuard from *obfuscating* classes or class members, add a `keepnames`:
+To prevent ProGuard from _obfuscating_ classes or class members, add a `keepnames`:
 
 ```
 -keepnames class com.dwarvesf.project.MyClass { *; }
@@ -500,9 +500,9 @@ If you only need to persist simple values and your application runs in a single 
 
 There are some situations where SharedPreferences are not suitable:
 
-- *Performance*: Your data is complex or there is a lot of it
-- *Multiple processes accessing the data*: You have widgets or remote services that run in their own processes and require synchronized data
-- *Relational data* Distinct parts of your data are relational and you want to enforce that those relationships are maintained.
+- _Performance_: Your data is complex or there is a lot of it
+- _Multiple processes accessing the data_: You have widgets or remote services that run in their own processes and require synchronized data
+- _Relational data_ Distinct parts of your data are relational and you want to enforce that those relationships are maintained.
 
 You can also store more complex objects by serializing them to JSON to store them and deserializing them when retrieving. You should consider the tradeoffs when doing this as it may not be particularly performant, nor maintainable.
 
@@ -516,7 +516,7 @@ You still need to write some parsing code yourself to read the data objects from
 
 #### Using an ORM
 
-We generally do not recommend using an Object-Relation Mapping library unless you have unusually complex data and you have a dire need. They tend to be complex and require time to learn. If you decide to go with an ORM you should pay attention to whether or not it is *process safe* if your application requires it, as many of the existing ORM solutions surprisingly are not.
+We generally do not recommend using an Object-Relation Mapping library unless you have unusually complex data and you have a dire need. They tend to be complex and require time to learn. If you decide to go with an ORM you should pay attention to whether or not it is _process safe_ if your application requires it, as many of the existing ORM solutions surprisingly are not.
 
 ### Use Stetho
 

@@ -5,10 +5,8 @@ description: Design systems enable teams to build better products faster by maki
 authors:
   - nikkingtr
 tags:
-  - guideline
-  - UX-UI
-  - system design
-type: playbook
+  - product-design
+  - ui
 ---
 
 ## Research
@@ -19,11 +17,11 @@ Understanding stakeholder, company, business model, goals and challenges of the 
 
 ### 2. Define product
 
-* **Style**
-Based on the target user and product’s requirement, we define layout style. Make references from Dribbble, Behance and other showcase sites to catch up with the current design trends.
+- **Style**
+  Based on the target user and product’s requirement, we define layout style. Make references from Dribbble, Behance and other showcase sites to catch up with the current design trends.
 
-* **Color**
-Define primary and secondary based on the logo and branding of the product. In case the client does not have a logo or verify their color palette, we can use Milanote app to create a moodboard that is a great way to set a visual direction from the client’s ideas.
+- **Color**
+  Define primary and secondary based on the logo and branding of the product. In case the client does not have a logo or verify their color palette, we can use Milanote app to create a moodboard that is a great way to set a visual direction from the client’s ideas.
 
 Using 2 principles color to combine color in UI design:
 
@@ -32,28 +30,28 @@ Using 2 principles color to combine color in UI design:
 
 Delivering a harmonious color scheme is clean and eye-friendly.
 
-* **Typography**
-Define typeface, font-size, font weight of each style (header, subheader, body text, etc.)
+- **Typography**
+  Define typeface, font-size, font weight of each style (header, subheader, body text, etc.)
 
-* **Iconography**
-Define icon style based on elements’ style and branding characteristics. Icon color is defined following the color palette of the product.
+- **Iconography**
+  Define icon style based on elements’ style and branding characteristics. Icon color is defined following the color palette of the product.
 
-* **Illustration & Image**
-Illustration and image are used in accordance with content and style
-You should apply a mask to bitmaps image when you export to an image file.
+- **Illustration & Image**
+  Illustration and image are used in accordance with content and style
+  You should apply a mask to bitmaps image when you export to an image file.
 
-* **Platform**
-Specify a particular screen (Desktop, Mobile or Tablet); divide into grid layout to align elements into columns, rows.
+- **Platform**
+  Specify a particular screen (Desktop, Mobile or Tablet); divide into grid layout to align elements into columns, rows.
 
-* **Grid Layout**
-Grids are a framework that speeds up the designer-to-developer workflow by allowing developers to pre-set classes in their code that correspond to column sizes.
+- **Grid Layout**
+  Grids are a framework that speeds up the designer-to-developer workflow by allowing developers to pre-set classes in their code that correspond to column sizes.
 
-      - Select a suitable grid (we generally use 12 columns)
-      - Use a baseline grid to align elements
-      - Optimize grids for mobile and web app
+        - Select a suitable grid (we generally use 12 columns)
+        - Use a baseline grid to align elements
+        - Optimize grids for mobile and web app
 
-* **Responsive retrofitting**
-We live in a multiscreen-world. Everything needs to work across devices so responsive is a way to design a flexible screen. According to the requirement’s client or platform, we can decide on having a responsive or not.
+- **Responsive retrofitting**
+  We live in a multiscreen-world. Everything needs to work across devices so responsive is a way to design a flexible screen. According to the requirement’s client or platform, we can decide on having a responsive or not.
 
 ## Demo Design
 
@@ -81,22 +79,22 @@ Design principles are the guiding sentences that help the teams to reach the pur
 
 Kick off your design system process with sprints devoted to unifying and implementing the color palette. Colors affect all the parts of the system, so you have to organize them first.
 
-* Step 1: Create a moodboard
-Using Milanote app to create a moodboard. Read more about how to make a moodboard
-* Step 2: Identity primary and secondary colors
-* Step 3: Send the color palette to customer
-* Step 4: Decide on the naming convention
-There are different approaches to naming colors in a design system. You can name colors using abstract names (e.g. \#b9b9b9 - pigeon), actual names (e.g. \#b9b9b9 - silver), numbers (e.g. \#b9b9b9 - silver-1) or functional names (e.g. \#b9b9b9 - silver-base)
+- Step 1: Create a moodboard
+  Using Milanote app to create a moodboard. Read more about how to make a moodboard
+- Step 2: Identity primary and secondary colors
+- Step 3: Send the color palette to customer
+- Step 4: Decide on the naming convention
+  There are different approaches to naming colors in a design system. You can name colors using abstract names (e.g. \#b9b9b9 - pigeon), actual names (e.g. \#b9b9b9 - silver), numbers (e.g. \#b9b9b9 - silver-1) or functional names (e.g. \#b9b9b9 - silver-base)
 
-* Step 5: Decide on the system of building accent palette colors
-* Step 6: Test the color palette against the colors in the inventory
-* Step 7: Implement new color palette in CSS (consider using a preprocessor and build a list of variables) on a test server
-* Step 8: Test how the new palette affects the interface
-* Step 9: Check the contrast between colors in the new UI. Make sure you comply with WCAG guidelines.
-Use the Contrast Ratio web app for quick access to WCAG color contrast ratios. You can read more the rules of contrast color to create “Contrast pairs” which clearly shows a WCAG tests.
+- Step 5: Decide on the system of building accent palette colors
+- Step 6: Test the color palette against the colors in the inventory
+- Step 7: Implement new color palette in CSS (consider using a preprocessor and build a list of variables) on a test server
+- Step 8: Test how the new palette affects the interface
+- Step 9: Check the contrast between colors in the new UI. Make sure you comply with WCAG guidelines.
+  Use the Contrast Ratio web app for quick access to WCAG color contrast ratios. You can read more the rules of contrast color to create “Contrast pairs” which clearly shows a WCAG tests.
 
-* Step 10: Finalize the color palette
-After tests and gathering feedback, finalize the palette and communicate it to the company. Add the palette to your design system documentation.
+- Step 10: Finalize the color palette
+  After tests and gathering feedback, finalize the palette and communicate it to the company. Add the palette to your design system documentation.
 
 #### Typographic elements guide
 
@@ -104,10 +102,10 @@ Note preferred text sizes, spaces, fonts, etc. as well as any rules on where and
 
 #### Graphic design assets
 
-* Icons: All the icons that products, apps, or sites use. Having a standardized icon library ensures consistency across the entire brand.
-* Photography: A single go-to reference for all product’s photography, both custom images, and purchased stock photos.
-* Illustration: Compile all the custom illustrations commissioned, including page flourishes or border designs.
-* Branding images: Standardized logos and other branding images, like mascots. Rules for logo usage can get strict, so it’s better to pull pre-approved images to ensure compliance.
+- Icons: All the icons that products, apps, or sites use. Having a standardized icon library ensures consistency across the entire brand.
+- Photography: A single go-to reference for all product’s photography, both custom images, and purchased stock photos.
+- Illustration: Compile all the custom illustrations commissioned, including page flourishes or border designs.
+- Branding images: Standardized logos and other branding images, like mascots. Rules for logo usage can get strict, so it’s better to pull pre-approved images to ensure compliance.
 
 #### Pattern library
 
@@ -115,8 +113,8 @@ List all design components with all states such as input, press, hover, etc.; ca
 
 #### Tool
 
-* Sketch
-* Adobe XD
+- Sketch
+- Adobe XD
 
 ### High-fidelity Prototype: Interactive Design
 
@@ -124,8 +122,8 @@ List all design components with all states such as input, press, hover, etc.; ca
 
 A high-fidelity prototype is an interaction-supported UI, which means a user can interact with it by triggering an action:
 
-* Press a button
-* Modify a slider in the filter section
+- Press a button
+- Modify a slider in the filter section
 
 Then, he or she can see or review how the prototype should react like a real product.
 
@@ -135,12 +133,12 @@ It is created after we completed designing UI.
 
 ### Goal
 
-* Test our assumptions for the product
-* Quickly show our design concepts to the developers and customers
-* Receive feedback for iteration
+- Test our assumptions for the product
+- Quickly show our design concepts to the developers and customers
+- Receive feedback for iteration
 
 ### Tools
 
-* Principle
-* Protopie
-* Adobe XD
+- Principle
+- Protopie
+- Adobe XD

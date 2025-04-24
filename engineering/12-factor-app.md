@@ -1,11 +1,11 @@
 # The 12-factor App
 
-*The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project.*
+_The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project._
 
 You can read more about the philosophy of the 12-factor app <https://12factor.net>. Here we only show how we apply those in real projects.
 
 ## Codebase
->
+
 > One codebase tracked in revision control, many deploys
 
 **A twelve-factor app is always tracked in a version control system.** We use [git](playbook/engineering/git.md) to track any changes in the code of a repo.
@@ -15,22 +15,22 @@ There is only one codebase per app, but there will be many deploys of the app. W
 The codebase is the same across all deploys, although different versions may be active in each deploy. The most stable release should be deployed on staging and production environment.
 
 ## Dependencies
->
+
 > Explicitly declare and isolate dependencies
 
 **A twelve-factor app never relies on implicit existence of system-wide packages**. It declares all dependencies, completely and exactly, via a dependency declaration manifest. Furthermore, it uses a dependency isolation tool during execution to ensure that no implicit dependencies “leak in” from the surrounding system. The full and explicit dependency specification is applied uniformly to both production and development.
 
 - For golang code, we use [go dep](https://github.com/golang/dep) and [go
-module](https://github.com/golang/go/wiki/Modules) to manage dependencies.
+  module](https://github.com/golang/go/wiki/Modules) to manage dependencies.
 - For javascript code, we use [npm](https://www.npmjs.com) to mangage
-dependencies.
+  dependencies.
 - For iOS / macOS app, we use [Carthage](https://github.com/Carthage/Carthage)
 - For Android, we use Gradle which is a built-in tool in Android.
 
 Every dependency should be pin a clear version for stability and should be cloned into the code repo.
 
 ## Config
->
+
 > Store config in the environment
 
 Apps sometimes store config as constants in the code. This is a violation of twelve-factor, which requires strict separation of config from code. Config varies substantially across deploys, code does not.

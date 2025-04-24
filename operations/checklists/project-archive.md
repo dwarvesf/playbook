@@ -1,6 +1,5 @@
 ---
-
-tags: 
+tags:
   - project
   - operations
   - checklist
@@ -15,7 +14,7 @@ authors:
 
 **Project: Archive**
 
-- [ ]  Collect and put all artifact to Google Drive.
-- [ ]  Write a case study to share experience.
-- [ ]  Thank you and ask for referral if possible.
-- [ ]  Update audience database.
+- [ ] Collect and put all artifact to Google Drive.
+- [ ] Write a case study to share experience.
+- [ ] Thank you and ask for referral if possible.
+- [ ] Update audience database.

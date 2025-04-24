@@ -19,7 +19,7 @@ Operations problems are almost the same everywhere (in ultra-specialized and reg
 
 **A good operations leader will be a specialist in being the connector and arbiter between functional areas**.
 
-*Hands-on* experience in the areas of IT, HR, accounting, recruiting, infrastructure, marketing, sales, etc. is very important. Lack of it handicaps.
+_Hands-on_ experience in the areas of IT, HR, accounting, recruiting, infrastructure, marketing, sales, etc. is very important. Lack of it handicaps.
 
 **An operations leader should have no qualms about getting his/her hands dirty**
 

@@ -12,7 +12,7 @@ Frontend engineering is not just about producing high quality code but also atte
 - Are empty states accounted for?
 - Are error states accounted for?
 - Are loading states accounted for?
-- Are we using correct [writing styles](https://material.io/design/communication/writing.html#principles 'https://material.io/design/communication/writing.html#principles') to communicate?
+- Are we using correct [writing styles](https://material.io/design/communication/writing.html#principles "https://material.io/design/communication/writing.html#principles") to communicate?
 - Are existing patterns being used for similar actions/items?\
   _(e.g. text link vs. secondary button, back arrow vs. back link, tooltip vs. exposed helper copy)_
 - Does your icon choice communicate effectively?

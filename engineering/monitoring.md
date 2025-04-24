@@ -122,13 +122,13 @@ All is fine:
 
 ```json
 {
-    "status": "OK",
-    "database": {
-        "status": "OK"
-    },
-    "elastic_search": {
-        "status": "OK"
-    }
+  "status": "OK",
+  "database": {
+    "status": "OK"
+  },
+  "elastic_search": {
+    "status": "OK"
+  }
 }
 ```
 
@@ -136,16 +136,16 @@ Status page with additional metrics:
 
 ```json
 {
+  "status": "OK",
+  "uptime": 18234,
+  "database": {
     "status": "OK",
-    "uptime": 18234,
-    "database": {
-        "status": "OK",
-        "connection_pool": 30
-    },
-    "elastic_search": {
-        "status": "OK",
-        "multinode": false
-    }
+    "connection_pool": 30
+  },
+  "elastic_search": {
+    "status": "OK",
+    "multinode": false
+  }
 }
 ```
 
@@ -153,14 +153,14 @@ Something failing:
 
 ```json
 {
-    "status": "ERROR Database is not accessible. See https://myapp.example.com/healthz for details.",
-    "database": {
-        "status": "ERROR Connection failed",
-        "connection_timeout": 30
-    },
-    "elastic_search": {
-        "status": "OK"
-    }
+  "status": "ERROR Database is not accessible. See https://myapp.example.com/healthz for details.",
+  "database": {
+    "status": "ERROR Connection failed",
+    "connection_timeout": 30
+  },
+  "elastic_search": {
+    "status": "OK"
+  }
 }
 ```
 

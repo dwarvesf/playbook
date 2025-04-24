@@ -8,9 +8,9 @@ To achieve the goal of loosely coupled applications, each component should be ve
 
 [**SemVer**](http://semver.org/) or **Semantic Versioning** is a way of versioning software in the format of **MAJOR.MINOR.PATCH**:
 
-* MAJOR version when you make breaking changes,
-* MINOR version when you add functionality in a backward-compatible manner for any specific MAJOR version, and
-* PATCH version when you make backward-compatible bug fixes to any specific MAJOR.MINOR release.
+- MAJOR version when you make breaking changes,
+- MINOR version when you add functionality in a backward-compatible manner for any specific MAJOR version, and
+- PATCH version when you make backward-compatible bug fixes to any specific MAJOR.MINOR release.
 
 This means that any time you release a new MAJOR release, the minor and patch values reset to 0, and the same is true of the patch value when making a MINOR release.
 

@@ -58,8 +58,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [NextJS](https://nextjs.org/) - The web framework used
-* [Yarn](https://yarnpkg.com/) - Dependency Management
+- [NextJS](https://nextjs.org/) - The web framework used
+- [Yarn](https://yarnpkg.com/) - Dependency Management
 
 ## Contributing
 
@@ -71,7 +71,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Dwarves Foundation** - *Initial work* - [Brainery](https://github.com/brain)
+- **Dwarves Foundation** - _Initial work_ - [Brainery](https://github.com/brain)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc

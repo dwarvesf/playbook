@@ -1,12 +1,11 @@
 ---
-
-tags: 
+tags:
   - template
   - email
   - operations
 title: New Year Day
 date: 2020-01-01
-description: The email template that you need to send to client when it's near holiday to announce about the absence. 
+description: The email template that you need to send to client when it's near holiday to announce about the absence.
 authors:
   - nikkingtr
   - huynguyenh
@@ -24,7 +23,7 @@ New Year's Eve and New Year Day have always been the time that everyone is looki
 
 According to the Government’s regulation about the public holiday [**year**], we are pleased to inform the schedule of the holiday as follow:
 
-*Dwarves Foundation will be closed from* -date- *to the end of* [**date**]*. We will resume our normal business hours on* [**date**]*.*
+_Dwarves Foundation will be closed from_ -date- _to the end of_ [**date**]_. We will resume our normal business hours on_ [**date**]_._
 
 Please note that all the queries and orders should be requested at least **3 days up to 1 week before** the holidays starts. Any further riddle within this time shall be promptly processed as soon as we join back.
 

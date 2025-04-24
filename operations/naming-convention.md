@@ -1,5 +1,4 @@
 ---
-
 title: Naming convention
 date: 2020-01-01
 description: This is the guide how to name your Email, Basecamp, Slack, Trello username.
@@ -14,7 +13,7 @@ tags:
 
 - Email convention: <first_name><last_name_alias>@d.foundation
 - - Example: <huytq@d.foundation>
--- Exception: Operations members with frequent communication will use <first_name>@d.foundation instead. Example: *<han@d.foundation>*
+    -- Exception: Operations members with frequent communication will use <first_name>@d.foundation instead. Example: _<han@d.foundation>_
 - Google Profile need to be filled with github id OR name: <first_name> <last_name>
 
 ![](naming-convention_email-naming.webp)

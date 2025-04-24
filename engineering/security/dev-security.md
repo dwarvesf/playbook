@@ -8,7 +8,7 @@
 - [ ] Use HTTPS in the beginning; it's harder to introduce later.
 - [ ] Use HTTPS redirects for HTTP traffic.
 - [ ] Use [HSTS](http://tools.ietf.org/html/rfc6797) headers to enforce HTTPS
-  traffic.
+      traffic.
 - [ ] Use secure cookies.
 - [ ] Avoid protocol-relative URLs.
 
@@ -40,13 +40,13 @@
 
 - [ ] Use HTTPS everywhere. Never send credentials unencrypted over public network.
 - [ ] Store password hashes using `Bcrypt` (no salt necessary - `Bcrypt` does it for you).
-- [ ] Destroy the session identifier after `logout`.  
-- [ ] Destroy all active sessions on reset password (or offer to).  
+- [ ] Destroy the session identifier after `logout`.
+- [ ] Destroy all active sessions on reset password (or offer to).
 - [ ] Must have the `state` parameter in OAuth2.
 - [ ] No open redirects after successful login or in any other intermediate redirects.
 - [ ] When parsing Signup/Login input, sanitize for javascript://, data://, CRLF characters.
 - [ ] Set secure, httpOnly cookies.
-- [ ] In Mobile `OTP` based mobile verification, do not send the OTP back in the response when `generate OTP` or `Resend OTP`  API is called.
+- [ ] In Mobile `OTP` based mobile verification, do not send the OTP back in the response when `generate OTP` or `Resend OTP` API is called.
 - [ ] Limit attempts to `Login`, `Verify OTP`, `Resend OTP` and `generate OTP` APIs for a particular user. Have an exponential backoff set or/and something like a captcha based challenge.
 - [ ] Lock a user account for specific time after a given number of failed attempts
 - [ ] Check for randomness of reset password token in the emailed link or SMS.
@@ -58,7 +58,7 @@
 - [ ] Any resource access like, `my cart`, `my history` should check the logged in user's ownership of the resource using session id.
 - [ ] Serially iterable resource id should be avoided. Use `/me/orders` instead of `/user/37153/orders`. This acts as a sanity check in case you forgot to check for authorization token.
 - [ ] `Edit email/phone number` feature should be accompanied by a verification email to the owner of the account.
-- [ ] Any upload feature should sanitize the filename provided by the user. Also, for generally reasons apart from security, upload to something like S3 (and post-process using lambda) and not your own server capable of executing code.  
+- [ ] Any upload feature should sanitize the filename provided by the user. Also, for generally reasons apart from security, upload to something like S3 (and post-process using lambda) and not your own server capable of executing code.
 - [ ] `Profile photo upload` feature should sanitize all the `EXIF` tags also if not required.
 - [ ] For user ids and other ids, use [RFC compliant](http://www.ietf.org/rfc/rfc4122.txt) `UUID` instead of integers. You can find an implementation for this for your language on Github.
 - [ ] JWT are awesome. Use them if required for your single page app/APIs.
@@ -66,7 +66,7 @@
 ##### SANITIZATION OF INPUT
 
 - [ ] `Sanitize` all user inputs or any input parameters exposed to user to prevent [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting).
-- [ ] Always use parameterized queries to prevent [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection).  
+- [ ] Always use parameterized queries to prevent [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection).
 - [ ] Sanitize user input if using it directly for functionalities like CSV import.
 - [ ] `Sanitize` user input for special cases like robots.txt as profile names in case you are using a url pattern like coolcorp.io/username.
 - [ ] Do not hand code or build JSON by string concatenation ever, no matter how small the object is. Use your language defined libraries or framework.
@@ -78,7 +78,7 @@
 - [ ] `salt` from payment gateways should not be hardcoded.
 - [ ] `secret` / `auth token` from 3rd party SDK's should not be hardcoded.
 - [ ] API calls intended to be done `server to server` should not be done from the app.
-- [ ] In Android, all the granted  [permissions](https://developer.android.com/guide/topics/security/permissions.html) should be carefully evaluated.
+- [ ] In Android, all the granted [permissions](https://developer.android.com/guide/topics/security/permissions.html) should be carefully evaluated.
 - [ ] On iOS, store sensitive information (authentication tokens, API keys, etc.) in the system keychain. Do **not** store this kind of information in the user defaults.
 - [ ] [Certificate pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) is highly recommended.
 
@@ -91,9 +91,9 @@
 - [ ] `Add` [X-Frame-Options](https://en.wikipedia.org/wiki/Clickjacking#X-Frame-Options) to protect against Clickjacking.
 - [ ] `Add` [X-XSS-Protection](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project#X-XSS-Protection) header to mitigate XSS attacks.
 - [ ] Update DNS records to add [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) record to mitigate spam and phishing attacks.
-- [ ] Add [subresource integrity checks](https://en.wikipedia.org/wiki/Subresource_Integrity) if loading your JavaScript libraries from a third party CDN. For extra security, add the [require-sri-for](https://w3c.github.io/webappsec-subresource-integrity/#parse-require-sri-for) CSP-directive so you don't load resources that don't have an SRI sat.  
+- [ ] Add [subresource integrity checks](https://en.wikipedia.org/wiki/Subresource_Integrity) if loading your JavaScript libraries from a third party CDN. For extra security, add the [require-sri-for](https://w3c.github.io/webappsec-subresource-integrity/#parse-require-sri-for) CSP-directive so you don't load resources that don't have an SRI sat.
 - [ ] Use random CSRF tokens and expose business logic APIs as HTTP POST requests. Do not expose CSRF tokens over HTTP for example in an initial request upgrade phase.
-- [ ] Do not use critical data or tokens in GET request parameters. Exposure of server logs or a machine/stack processing them would expose user data in turn.  
+- [ ] Do not use critical data or tokens in GET request parameters. Exposure of server logs or a machine/stack processing them would expose user data in turn.
 
 ##### OPERATIONS
 

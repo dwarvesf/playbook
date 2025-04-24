@@ -2,10 +2,10 @@
 title: Dwarves Playbook
 short_title: Playbook
 date: 2021-12-30
-description: 
-authors: 
+description:
+authors:
   - tieubao
-tags: 
+tags:
   - playbook
 hide_title: true
 ---

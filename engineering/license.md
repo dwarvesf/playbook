@@ -8,11 +8,11 @@ Understanding licenses will help you to prevent a lot of painful situation in th
 
 ## Copyright and Copyleft
 
-*In general, copyright law is used by an author to prohibit recipients from reproducing, adapting, or distributing copies of their work.*
+_In general, copyright law is used by an author to prohibit recipients from reproducing, adapting, or distributing copies of their work._
 
 When you make a creative work (such as writing, graphics, or **code**), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
 
-*Copyleft, distinguished from copyright, is the practice of offering people the right to freely distribute copies and modified versions of a work **with the stipulation that the same rights be preserved in derivative works created later**.*
+_Copyleft, distinguished from copyright, is the practice of offering people the right to freely distribute copies and modified versions of a work **with the stipulation that the same rights be preserved in derivative works created later**._
 
 Copyleft software licenses are considered protective or reciprocal, as contrasted with permissive free-software licenses.
 

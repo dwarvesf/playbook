@@ -17,9 +17,9 @@ Make sure these items included in your test plan:
 
 Test case should includes those information:
 
-| Name                               | Pre-condition                                                   | Test Steps                   | Expected Result              | Requirement Ref                           |
-| ---------------------------------- | --------------------------------------------------------------- | ---------------------------- | ---------------------------- | ----------------------------------------- |
-| Brief about TC                     | Pre-condition steps before executing TC                         | Test Case Steps              | Expected result for the step | User Story # or requirement specification |
+| Name                               | Pre-condition                                                     | Test Steps                   | Expected Result              | Requirement Ref                           |
+| ---------------------------------- | ----------------------------------------------------------------- | ---------------------------- | ---------------------------- | ----------------------------------------- |
+| Brief about TC                     | Pre-condition steps before executing TC                           | Test Case Steps              | Expected result for the step | User Story # or requirement specification |
 | Ex: Login successfully with google | User is at login page (<https://staging.fort.d.foundation/login>) | Hit Login with Google button | Login successfully           | User Story 001                            |
 
 ### Defect

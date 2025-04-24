@@ -18,17 +18,17 @@ When we talk about "extraversion" and "introversion", we are distinguishing betw
 
 We are **extraverting** when we:
 
-* Talk to other people
-* Listen to what someone is saying
-* Cook dinner, or make a cup of coffee
-* Work on a car
+- Talk to other people
+- Listen to what someone is saying
+- Cook dinner, or make a cup of coffee
+- Work on a car
 
 We are **introverting** when we:
 
-* Read a book
-* Think about what we want to say or do
-* Are aware of how we feel
-* Think through a problem so that we understand it
+- Read a book
+- Think about what we want to say or do
+- Are aware of how we feel
+- Think through a problem so that we understand it
 
 Within the context of personality typing, the important distinction is which world we live in more often. Do we define our life's direction externally or internally? Which world gives us our energy, and which do we perhaps find draining?
 
@@ -38,17 +38,17 @@ The "SN" preference refers to how we gather information. We all need data on whi
 
 We are **Sensing** when we:
 
-* Taste food
-* Notice a stoplight has changed
-* Memorize a speech
-* Follow steps in a plan
+- Taste food
+- Notice a stoplight has changed
+- Memorize a speech
+- Follow steps in a plan
 
 We are **Intuitive** when we:
 
-* Come up with a new way of doing things
-* Think about future implications for a current action
-* Perceive underlying meaning in what people say or do
-* See the big picture
+- Come up with a new way of doing things
+- Think about future implications for a current action
+- Perceive underlying meaning in what people say or do
+- See the big picture
 
 Within the context of personality typing, the important distinction is which method of gathering information do we trust the most? Do we rely on our five senses and want concrete, practical data to work with? Or do we trust our intuitions without necessarily building upon a solid foundation of facts?
 
@@ -58,17 +58,17 @@ When Jung studied human behavior, he noticed that people have the capability to 
 
 We are making decisions in the **Thinking** mode when we:
 
-* Research a product via consumer reports, and buy the best one to meet our needs
-* Do "The Right Thing", whether or not we like it
-* Choose not to buy a blue shirt which we like, because we have two blue shirts
-* Establish guidelines to follow for performing tasks
+- Research a product via consumer reports, and buy the best one to meet our needs
+- Do "The Right Thing", whether or not we like it
+- Choose not to buy a blue shirt which we like, because we have two blue shirts
+- Establish guidelines to follow for performing tasks
 
 We are making decisions in the **Feeling** mode when we:
 
-* Decide to buy something because we like it
-* Refrain from telling someone something which we feel may upset them
-* Decide not to take a job because we don't like the work environment
-* Decide to move somewhere to be close to someone we care about
+- Decide to buy something because we like it
+- Refrain from telling someone something which we feel may upset them
+- Decide not to take a job because we don't like the work environment
+- Decide to move somewhere to be close to someone we care about
 
 Some decisions are made entirely by Thinking or Feelings processes. Most decisions involve some Thinking and some Feeling. Decisions that we find most difficult are those in which we have conflicts between our Thinking and Feeling sides. In these situations, our dominant preference will take over. Decisions which we find easy to make and feel good about are usually a result of being in sync with both our Feeling and Thinking sides.
 
@@ -78,17 +78,17 @@ Judging and Perceiving preferences, within the context of personality types, ref
 
 We are using **Judging** when we:
 
-* Make a list of things to do
-* Schedule things in advance
-* Form and express judgments
-* Bring closure to an issue so that we can move on
+- Make a list of things to do
+- Schedule things in advance
+- Form and express judgments
+- Bring closure to an issue so that we can move on
 
 We are using **Perceiving** when we:
 
-* Postpone decisions to see what other options are available
-* Act spontaneously
-* Decide what to do as we do it, rather than forming a plan ahead of time
-* Do things at the last minute
+- Postpone decisions to see what other options are available
+- Act spontaneously
+- Decide what to do as we do it, rather than forming a plan ahead of time
+- Do things at the last minute
 
 We all use both Judging and Perceiving as we live our day-to-day life. Within the context of personality type, the important distinction is which way of life do we lean towards, and are more comfortable with.
 

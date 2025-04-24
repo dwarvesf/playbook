@@ -2,7 +2,7 @@
 title: How we contribute to homebrew
 date: 2016-03-13
 description: null
-tags: 
+tags:
   - oss
 ---
 
@@ -12,8 +12,8 @@ Homebrew (or brew) is one of the biggest repo on Github with more than 29k stars
 
 For now, you can access homebrew via
 
-* Homepage: <http://brew.sh>
-* Github: <https://github.com/Homebrew/homebrew>
+- Homepage: <http://brew.sh>
+- Github: <https://github.com/Homebrew/homebrew>
 
 ![](assets/how-we-contribute-to-homebrew_2cb764be7c789e87ab8df174d9e799e3_md5.webp)
 
@@ -47,7 +47,7 @@ brew upgrade
 
 ## Contributing to Homebrew
 
-Note: In this post, we just cover the command line or tool part of Homebrew. The example is taken from our **[glod-cli](https://github.com/dwarvesf/glod-cli)****.**
+Note: In this post, we just cover the command line or tool part of Homebrew. The example is taken from our **[glod-cli](https://github.com/dwarvesf/glod-cli)\*\***.\*\*
 
 When you look into the repo of Homebrew, you can easily find the doc directory in `homebrew/share/doc/homebrew/` which contains all the information. The most important file for this tutorial is the `Formula-Cookbook.md.`
 
@@ -151,10 +151,10 @@ brew audit --strict --online $FORMULA
 
 Those tests should be passed to make sure your formula is qualified. The second command is provided to check if your formula have
 
-* More than 50 stars
-* More than 20 fork
-* More than 20 watchers
-* And initialized more than 30 days
+- More than 50 stars
+- More than 20 fork
+- More than 20 watchers
+- And initialized more than 30 days
 
 ### Submit pull request
 
@@ -176,6 +176,6 @@ We did it! You only still need the feedback from Homebrew team. You can leave yo
 
 ## Acknowledgement
 
-* Our pull request: [https://github.com/Homebrew/homebrew/pull/49843](https://github.com/Homebrew/homebrew/pull/49843)
-* [glod-cli](https://github.com/dwarvesf/glod-cli): A small cli written in Go to help download music/video from multiple resources: Youtube, Vimeo, Facebook, Soundcloud … [https://github.com/dwarvesf/glod-cli](https://github.com/dwarvesf/glod-cli)
-* Formula Cookbook
+- Our pull request: [https://github.com/Homebrew/homebrew/pull/49843](https://github.com/Homebrew/homebrew/pull/49843)
+- [glod-cli](https://github.com/dwarvesf/glod-cli): A small cli written in Go to help download music/video from multiple resources: Youtube, Vimeo, Facebook, Soundcloud … [https://github.com/dwarvesf/glod-cli](https://github.com/dwarvesf/glod-cli)
+- Formula Cookbook

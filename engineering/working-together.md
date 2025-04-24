@@ -10,34 +10,34 @@ Generally we use it for complex pull requests review and coaching and fixing
 
 ## How?
 
-* When pair programming, one person should “drive” while the other “navigates.” The navigator will assist the driver with the code they should write and explain the reasoning behind any code that they might dictate
+- When pair programming, one person should “drive” while the other “navigates.” The navigator will assist the driver with the code they should write and explain the reasoning behind any code that they might dictate
 
-* The driver should be implementing the code that the navigator recommends, while frequently pausing to ask questions about the code. When the pair programming session is over, both parties should have a deep understanding of the code that they have committed
+- The driver should be implementing the code that the navigator recommends, while frequently pausing to ask questions about the code. When the pair programming session is over, both parties should have a deep understanding of the code that they have committed
 
-* Generally the one responsible for typing is known as the ‘Driver’, while the other one called the ‘Navigator’ continually revise and review what is being coded or typed. During the whole of their time with each other, the duo invariably keeps in touch, enabling the other partner to participate and help outline the code direction.
+- Generally the one responsible for typing is known as the ‘Driver’, while the other one called the ‘Navigator’ continually revise and review what is being coded or typed. During the whole of their time with each other, the duo invariably keeps in touch, enabling the other partner to participate and help outline the code direction.
 
-* The objective is to share the workload between both the participants in order to maintain the constant development stream and also to help spread knowledge over the team.
+- The objective is to share the workload between both the participants in order to maintain the constant development stream and also to help spread knowledge over the team.
 
 The driver and the reviewer should constantly interact with each other as it will add to the knowledge and efficiency for both the members.
 
 **Before:**
 
-* Agree Scope (Pairing for two hours? Until the ticket is complete? Just get past the bug?)
-* Agree Physical/Virtual Location ("Will we both be comfortable here?")
-* Agree Working Environment (Two keyboards? Text editor and other tools)
-* Agree Pairing Style (Time-based? Ping pong?)
+- Agree Scope (Pairing for two hours? Until the ticket is complete? Just get past the bug?)
+- Agree Physical/Virtual Location ("Will we both be comfortable here?")
+- Agree Working Environment (Two keyboards? Text editor and other tools)
+- Agree Pairing Style (Time-based? Ping pong?)
 
 **During:**
 
-* Keep the chat going (Think aloud. Encourage/support)
-* Keep switching (Follow the pairing style)
-* Keep both involved ("Could we do this another way?")
-* Keep breaking
-* Keep checking in ("Could we search for a guide separately?")
+- Keep the chat going (Think aloud. Encourage/support)
+- Keep switching (Follow the pairing style)
+- Keep both involved ("Could we do this another way?")
+- Keep breaking
+- Keep checking in ("Could we search for a guide separately?")
 
 **After:**
 
-* Ask for Feedback (What did we do well? What could we have done better? It’ll feel weird, do it anyway)
+- Ask for Feedback (What did we do well? What could we have done better? It’ll feel weird, do it anyway)
 
 ## Do
 
@@ -64,34 +64,34 @@ Some notes that we should consider applying
 
 #### During Pairing
 
-* Let me drive
-* Could you assist me?
-* Let’s do it together
-* Here’s my plan
-* What plan do you have in mind?
-* How does this code block work? Let’s perform unit test
-* I’m tired? What’s up?
-* I don’t get the point. Draw me a design
-* Did we overlook something?
+- Let me drive
+- Could you assist me?
+- Let’s do it together
+- Here’s my plan
+- What plan do you have in mind?
+- How does this code block work? Let’s perform unit test
+- I’m tired? What’s up?
+- I don’t get the point. Draw me a design
+- Did we overlook something?
 
 #### Take a Short Break
 
-* Can we take a break?
-* Can we switch roles?
-* Let’s go out for a cup of coffee
+- Can we take a break?
+- Can we switch roles?
+- Let’s go out for a cup of coffee
 
 #### Remember
 
-* Don’t force it
-* Give your partner an opportunity to drive at the RIGHT time
-* Encourage open communication
-* Don’t ignore breaks
-* Trust
-* Identify your mistakes
-* Criticize yourself first
-* Slow down
+- Don’t force it
+- Give your partner an opportunity to drive at the RIGHT time
+- Encourage open communication
+- Don’t ignore breaks
+- Trust
+- Identify your mistakes
+- Criticize yourself first
+- Slow down
 
 ## TAKE AWAY
 
-* Sync
-* Communicate to sync
+- Sync
+- Communicate to sync

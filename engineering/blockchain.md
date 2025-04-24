@@ -60,10 +60,10 @@
 1. README.md in the root of the repo is the docs
 2. Single command run
 3. Single command deploy
-3. Single command upgrade
-4. Repeatable and re-creatable builds
-5. Build artifacts bundle a ["Bill of Materials"](#bill-of-materials)
-6. Use [UTC as the timezone](http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html) all around
+4. Single command upgrade
+5. Repeatable and re-creatable builds
+6. Build artifacts bundle a ["Bill of Materials"](#bill-of-materials)
+7. Use [UTC as the timezone](http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html) all around
 
 # Encryption knowledge
 
@@ -117,16 +117,9 @@ So before understanding how Merkle trees work, we need to understand how hash fu
 - Framework hardhat to develop smart contract ethereum
 - Hardhat projects use a local installation of the npm package hardhat to make sure everyone working on the project is using the same version. This is why you need to use npx or npm scripts to run Hardhat.
 - Using the Hardhat Toolbox
-You can get our recommended setup by installing [@nomicfoundation/hardhat-toolbox](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-toolbox), a single plugin that has everything you need.
+  You can get our recommended setup by installing [@nomicfoundation/hardhat-toolbox](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-toolbox), a single plugin that has everything you need.
 
-When you use it, you'll be able to:
-    - Deploy and interact with your contracts using ethers.js and the hardhat-ethers plugin.
-    - Test your contracts with [Mocha](https://mochajs.org/), [Chai](https://chaijs.com/) and our own Hardhat Chai Matchers plugin.
-    - Interact with Hardhat Network with our Hardhat Network Helpers.
-    - Verify the source code of your contracts with the [hardhat-etherscan](https://hardhat.org/hardhat-runner/plugins/nomiclabs-hardhat-etherscan) plugin.
-    - Get metrics on the gas used by your contracts with the [hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter) plugin.
-    - Measure your tests coverage with [solidity-coverage](https://github.com/sc-forks/solidity-coverage)
-    - And, if you are using TypeScript, get type bindings for your contracts with [Typechain](https://github.com/dethcrypto/TypeChain/)
+When you use it, you'll be able to: - Deploy and interact with your contracts using ethers.js and the hardhat-ethers plugin. - Test your contracts with [Mocha](https://mochajs.org/), [Chai](https://chaijs.com/) and our own Hardhat Chai Matchers plugin. - Interact with Hardhat Network with our Hardhat Network Helpers. - Verify the source code of your contracts with the [hardhat-etherscan](https://hardhat.org/hardhat-runner/plugins/nomiclabs-hardhat-etherscan) plugin. - Get metrics on the gas used by your contracts with the [hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter) plugin. - Measure your tests coverage with [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - And, if you are using TypeScript, get type bindings for your contracts with [Typechain](https://github.com/dethcrypto/TypeChain/)
 
 [Multiple Solidity versions] (<https://hardhat.org/hardhat-runner/docs/advanced/multiple-solidity-versions>)
 
@@ -213,7 +206,7 @@ Pick SWARM when you want faster loading speed and Swarm has a very strong anti-c
 - [General](https://github.com/ethereum/EIPs/tree/master/EIPS)
   EIP stands for Ethereum Improvement Proposal. An EIP is a design document providing information to the Ethereum community, or describing a new feature for Ethereum or its processes or environment. The EIP should provide a concise technical specification of the feature and a rationale for the feature. The EIP author is responsible for building consensus within the community and documenting dissenting opinions.
 - Most basics
-    Examples of currently accepted standards include:
+  Examples of currently accepted standards include:
   - [EIP-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) Token contract like USDT, USDC ...
   - [EIP-721](https://eips.ethereum.org/EIPS/eip-721)(non-fungible token)
   - [EIP-1155](https://eips.ethereum.org/EIPS/eip-1155) Multi Token Standard

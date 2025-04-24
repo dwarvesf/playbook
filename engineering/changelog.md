@@ -34,7 +34,7 @@ They are not the standard but should capture what we want to deliver.
   - `Security` in case of vulnerabilities.
 
 ## The template
->
+
 > **1.0.1**
 >
 > 2018-12-28

@@ -1,5 +1,4 @@
 ---
-
 title: Collaboration guidelines
 date: 2020-01-01
 description: Guidelines for project collaboration between Dwarves and our Clients.
@@ -170,13 +169,13 @@ To avoid us as a project team from stepping on each other's foot and to ensure a
 - Managing the production of the required deliverables, and project administration
 - Adopting any delegation and use of project assurance roles within agreed reporting structures
 - Managing project risks, including the development of contingency plans.
-liaison with program management (if the project is part of a program) and related projects to ensure that work is neither overlooked nor duplicated.
+  liaison with program management (if the project is part of a program) and related projects to ensure that work is neither overlooked nor duplicated.
 - Monitoring overall progress and use of resources, initiating corrective action where necessary
-applying change control and configuration management processes.
+  applying change control and configuration management processes.
 - Reporting through agreed lines on project progress through highlight reports and end-stage assessments.
 - Liaison with appointed project assurance representatives to assure the overall direction and integrity of the project.
 - Maintaining an awareness of potential interdependencies with other projects and their impact
-adopting and applying appropriate technical and quality strategies and standards
+  adopting and applying appropriate technical and quality strategies and standards
 - Identifying and obtaining support and advice required for the management, planning and control of the project.
 - Conducting a project evaluation review to assess how well the project was managed
-preparing any follow-on action recommendations
+  preparing any follow-on action recommendations

@@ -2,7 +2,7 @@
 title: Lean Canvas
 date: 2023-10-16
 description: Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
-authors: 
+authors:
   - tieubao
 tags:
   - business
@@ -29,9 +29,9 @@ How can these problems be solved today? These are the current competitors. Custo
 Now that we know which are the problems that we are willing to solve with our products’ ideas, let’s focus on who is actually having these pains. This is crucial, as customers are at the center of any new business or new product development that actually works.
 Define 3-4 personas suffering because of the problems you are going to solve?
 
-* Do these people have specific job titles or roles?
-* Do they work in specific industries?
-* Do they have particular demographics/salary range?
+- Do these people have specific job titles or roles?
+- Do they work in specific industries?
+- Do they have particular demographics/salary range?
 
 #### EARLY ADOPTERS
 
@@ -46,17 +46,17 @@ How does the product fit into the bigger picture; where does it fall in the gran
 
 It usually combines:
 
-* the target segment
-* the key problem
-* the key benefits customers are going to get after having used the product
-* the special and unique way the product will be delivered.
+- the target segment
+- the key problem
+- the key benefits customers are going to get after having used the product
+- the special and unique way the product will be delivered.
 
 **“We help (who?) achieve (what benefit?) by doing (the special and unique way the new business/new product is doing it)”.**
 
 ### 4. Solution
 
-* Define what are solutions to consumers’ problems?
-* Present the defining elements of the product: what makes it the top tool for addressing consumers’ needs?
+- Define what are solutions to consumers’ problems?
+- Present the defining elements of the product: what makes it the top tool for addressing consumers’ needs?
 
 ### 5. Channels
 
@@ -70,9 +70,9 @@ How will you generate income? Present a pricing model for the product, and then 
 
 What will it cost to launch and maintain the product?
 
-* Development
-* Marketing
-* Employees
+- Development
+- Marketing
+- Employees
 
 ### 8. Key Metrics
 

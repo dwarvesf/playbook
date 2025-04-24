@@ -38,6 +38,7 @@ Having the answer for those question give us the ability to solve at least three
 ### Product Roadmap
 
 In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
+
 > “What do we want in the matter of time?”
 
 Answer this question by determining the feasibility of the project and how we can implement the project successfully with the lowest risk in mind.
@@ -217,6 +218,7 @@ For the above diagram
 Each project will have its own GDrive folder located on Company GDrive.
 All the project artifact should be export to PNG/JPG/PDF/SVG... and save to corresponding folder within project gdrive.
 You can find your project gdrive follow this pattern.
+
 > Dwarves Foundation/Works/[Project Name]
 
 Usually we will Link the Project Gdrive into Docs & File within Basecamp project. You could find the link to the gdrive from there.

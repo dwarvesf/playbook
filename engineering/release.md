@@ -48,7 +48,7 @@ Just remember to not mess up with the end users. Our responsibility is to keep t
 - [ ] There is a well defined process for accessing and searching through logs
 - [ ] Logging includes exceptions and stack traces where appropriate
 - [ ] Errors can be mapped to stack traces
-- [ ] The product has been load tested? *
+- [ ] The product has been load tested? \*
 
 **Environment**
 

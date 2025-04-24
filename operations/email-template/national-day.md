@@ -1,12 +1,11 @@
 ---
-
-tags: 
+tags:
   - template
   - email
   - operations
 title: National Day
 date: 2020-01-01
-description: The email template that you need to send to client when it's near holiday to announce about the absence. 
+description: The email template that you need to send to client when it's near holiday to announce about the absence.
 authors:
   - nikkingtr
   - huynguyenh
@@ -24,7 +23,7 @@ Dwarves Foundation would like to express our gratitude toward your kind cooperat
 
 According to the Government’s regulation about the public holiday 2019, we are pleased to inform the schedule of the holiday as follow:
 
-*Dwarves Foundation will be closed* from [**date**] *to the end of* [**date**]. *We will resume our normal business hours on* [**date**]*.*
+_Dwarves Foundation will be closed_ from [**date**] _to the end of_ [**date**]. _We will resume our normal business hours on_ [**date**]_._
 
 Please note that all the queries and orders should be requested at least from **3 days up to** **1 week before** the holidays starts. Any further riddle within this time shall be promptly processed as soon as we join back.
 

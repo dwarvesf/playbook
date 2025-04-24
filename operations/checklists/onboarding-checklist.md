@@ -1,6 +1,5 @@
 ---
-
-tags: 
+tags:
   - people
   - operations
   - checklist
@@ -18,12 +17,12 @@ Through this process, the employee gradually form their own perspective and thei
 
 ## Important Notes
 
-- [ ]  Starting on-boarding on the new hire’s first day
-- [ ]  Not setting expectations and company policies.
-- [ ]  Instituting a one-size-fits-all approach for every new hire.
-- [ ]  Involving only the new hire’s direct team or department.
-- [ ]  Limiting on-boarding to one week.
-- [ ]  Forgetting to follow-up.
+- [ ] Starting on-boarding on the new hire’s first day
+- [ ] Not setting expectations and company policies.
+- [ ] Instituting a one-size-fits-all approach for every new hire.
+- [ ] Involving only the new hire’s direct team or department.
+- [ ] Limiting on-boarding to one week.
+- [ ] Forgetting to follow-up.
 
 ## Offer Email
 
@@ -77,7 +76,7 @@ The detail information for each section is shown below.
 
 ## Add new member to working space and communication channel
 
-- [ ]  Self-introduction in Discord. The introduction should include:
+- [ ] Self-introduction in Discord. The introduction should include:
 
 - How we should address you (name/nickname/English name)
 - Your role at Dwarves
@@ -85,24 +84,24 @@ The detail information for each section is shown below.
 - What your goals are as a software engineer
 - Ops: mention the teammates on Discord for a warm welcome
 
-- [ ]  Thanh/ Giang/ Ngoc/Huy onboard to project
+- [ ] Thanh/ Giang/ Ngoc/Huy onboard to project
 
 ## Meeting with team lead
 
 ### Probation Guideline (60-day plan)
 
-- [ ]  Goals and targets for 2 month probation period
-- [ ]  Schedule review date after 2 months
-- [ ]  Introduce the new hire to the department head
-- [ ]  Make sure he/she has a line manager/leader
-- [ ]  Understand the work scope & expectations
-- [ ]  Check-in for work exp & culture fit ,  Bi-weekly checkins
+- [ ] Goals and targets for 2 month probation period
+- [ ] Schedule review date after 2 months
+- [ ] Introduce the new hire to the department head
+- [ ] Make sure he/she has a line manager/leader
+- [ ] Understand the work scope & expectations
+- [ ] Check-in for work exp & culture fit , Bi-weekly checkins
 
 - First 2-weeks: Culture fit & workflow
 - First probation: SOW & expectation
 - Second probation: The next 6-month
 
-- [ ]  Engage and Share ,  Dwarves Activities. Share with the team about
+- [ ] Engage and Share , Dwarves Activities. Share with the team about
 
 - Technical topics
 - News

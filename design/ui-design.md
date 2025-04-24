@@ -5,7 +5,7 @@ description:
 authors: []
 tags:
   - playbook
-  - UX-UI
   - design
+  - ui
 draft: true
 ---

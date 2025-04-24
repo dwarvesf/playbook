@@ -11,14 +11,14 @@ In Agile, they are User Story is requirement. User Story is:
 - Used to provide a great placeholder for a conversation
 - Written at various levels of granularity and are easy to refine
 - Often used with the template:
-`As a <role>, I want <feature> so that <reason>`
+  `As a <role>, I want <feature> so that <reason>`
 
 Example:
 
 - As a **User**, I want to **login into the system** so that **I can use other useful features**
 - As an **Admin**, I want **the system to log the login information** so that **I can monitor who accesses the system**
 
-**Epic**:  A very large user story that will not fit into a single iteration, does not pass the test for inclusion in an iteration, and will need to be subdivided to be considered.
+**Epic**: A very large user story that will not fit into a single iteration, does not pass the test for inclusion in an iteration, and will need to be subdivided to be considered.
 
 **Theme**: A collection of features, epics, & stories that describe a broad business purpose.
 

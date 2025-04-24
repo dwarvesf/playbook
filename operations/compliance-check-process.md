@@ -1,5 +1,4 @@
 ---
-
 title: Compliance check process
 date: 2020-01-01
 description: A comprehensive compliance program encompassing monthly audits, transparent progress tracking, and consequences for non-compliance, aiming to foster accountability and transparency within the team.
@@ -20,7 +19,7 @@ Compliance check will be done in the monthly basis:
 
 - Each month compliance team will pick 30% projects to execute compliance checklist.
 - The master compliance checklist will be cloned to another file and name as df-compliance-<field-where-executed>-<yyyy><mm>. The file will be stored at same root folder with the master checklist.
-Example: *df-compliance-project-201905*.
+  Example: _df-compliance-project-201905_.
 - Each file will contain the sheets for each project that being checked.
 - Compliance PIC will create a todo on Basecamp and assign to the PICs of those projects.
 

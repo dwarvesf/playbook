@@ -13,10 +13,10 @@ tags:
 
 ## Philosophy
 
-* Hire people who tell us what to do, not the other way around.
-* Company culture is who you Hire, Fire & Promote.
-* Short term vs. long term evaluation
-* Values fit & culture fit
+- Hire people who tell us what to do, not the other way around.
+- Company culture is who you Hire, Fire & Promote.
+- Short term vs. long term evaluation
+- Values fit & culture fit
 
 ## Principles
 
@@ -24,16 +24,16 @@ tags:
 2. Startup employee effectiveness follows a power law
 3. False Positives are ok, False Negatives are not
 4. Culture is defined by who we hire
-5. The best thing you can do for employees ,  a perk better than foosball or free sushi ,  is hire only “A” players to work alongside them. Excellent colleagues trump everything else
+5. The best thing you can do for employees , a perk better than foosball or free sushi , is hire only “A” players to work alongside them. Excellent colleagues trump everything else
 
 ## Heuristics
 
-* Hire for Strength vs Lack of Weakness
-* Hire for Trajectory vs Experience
-* Hire Doers vs Tellers
-* Hire Learners vs Experts
-* Hire Different vs Similar
-* Always pass on ego
+- Hire for Strength vs Lack of Weakness
+- Hire for Trajectory vs Experience
+- Hire Doers vs Tellers
+- Hire Learners vs Experts
+- Hire Different vs Similar
+- Always pass on ego
 
 **Hire for Attitude Rather than Skill**
 Teaching skills is a snap compared with doing attitude transplants. When looking to hire the right candidate), among the qualities you'll want most is a fierce sense of optimism.
@@ -85,7 +85,7 @@ Instead, look for people that add to your culture. Hiring candidates that bring 
 Rule one with how to interview: Most interviewers talk way too much. When a candidate finally gets to you, listen for the "story line" of his or her life, at home and at work. It's been said that being a leader is like practicing psychiatry without a license. That may be more true in hiring than in any other part of the job.
 
 **Don't get desperate**
-In certain situations, this can lead to hiring decisions being made around urgency, not quality. A hiring manager just needs *someone*, they don't care who. Building a great team means not compromising on your hiring bar.
+In certain situations, this can lead to hiring decisions being made around urgency, not quality. A hiring manager just needs _someone_, they don't care who. Building a great team means not compromising on your hiring bar.
 
 Align you around the goal of hiring the right person, not just hiring quickly. Think about the long-term impact of hiring the wrong person. We're building a company for the long term, we need the best people.
 
@@ -94,6 +94,6 @@ Candidates came from everywhere, from professional conferences, from the sidelin
 
 ## Offering
 
-* If a candidate is the right fit, move quickly
-* Before you make an offer, make sure you know exactly what the offer package will look like and don’t be vague about it
-* If the candidate turns you down, remain friendly and maintain a relationship. They might change their minds in the future.
+- If a candidate is the right fit, move quickly
+- Before you make an offer, make sure you know exactly what the offer package will look like and don’t be vague about it
+- If the candidate turns you down, remain friendly and maintain a relationship. They might change their minds in the future.

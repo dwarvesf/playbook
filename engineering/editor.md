@@ -10,7 +10,7 @@ Right now our team is scattered between VSCode and Emacs (Spacemacs).
 
 ## Using the right tool for the job
 
-*A well personalized (and configured) editor can signigficantly boost your productivity, pick one and make it yours.*
+_A well personalized (and configured) editor can signigficantly boost your productivity, pick one and make it yours._
 
 Everyone has their own set of favorite tools, if you're unsure which tool to pick - just use the one that works for the task you're up to. In the end it all comes down to the result you deliver, not what you used to achieve it.
 
@@ -27,4 +27,4 @@ Learn your editor's keybindings - after you have gotten used to your editor, try
 
 ### Should I learn Vim?
 
-Yes, seriously. Maybe not now, maybe you will end up hating it and move back to VSCode (or turned into a [Spacemacs](http://spacemacs.org/) fanboy), but its a [big](https://pascalprecht.github.io/posts/why-i-use-vim/) [fat](https://www.quora.com/What-are-the-advantages-of-Vim-over-other-text-editors) [*YES*](https://www.quora.com/How-useful-is-learning-VI-VIM-for-a-new-programmer).
+Yes, seriously. Maybe not now, maybe you will end up hating it and move back to VSCode (or turned into a [Spacemacs](http://spacemacs.org/) fanboy), but its a [big](https://pascalprecht.github.io/posts/why-i-use-vim/) [fat](https://www.quora.com/What-are-the-advantages-of-Vim-over-other-text-editors) [_YES_](https://www.quora.com/How-useful-is-learning-VI-VIM-for-a-new-programmer).

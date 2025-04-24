@@ -187,7 +187,7 @@ struct CoreDataMigrationStep {
 }
 ```
 
->*It's possible to have multiple mapping models between versions, (this can be especially useful when migrating large data sets) in this post in an attempt to keep things simple I assume only one mapping model.*
+> _It's possible to have multiple mapping models between versions, (this can be especially useful when migrating large data sets) in this post in an attempt to keep things simple I assume only one mapping model._
 
 ### How can we combine the migration steps into a migration path?
 
@@ -497,6 +497,7 @@ For Relationships:
 - Change a Relationship from one-to-one to one-to-many, unordered to ordered, and vice versa
 
 For Entities:
+
 - Add, remove.
 - Rename (by providing a Renaming ID).
 - Change (add to or remove from) an inheritance hierarchy and pull or push properties

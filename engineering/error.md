@@ -18,7 +18,7 @@ We use the following structure for our error message. It helps our system stay c
 - type: list of common or pre-defined error type
 - message: error message
 - errors: actual error value in details
-- trace_id: 
+- trace_id:
 ```
 
 ## Type of error
@@ -40,12 +40,12 @@ We make some error handling packages for some languages, such as `golang`, `elix
 
 - Go
 
-``` go
+```go
 // We defined some common error inside `gerr` package.
 //
 // We can reuse:
 //   gerr.ErrSvcAuthRequired.Err()
-// 
+//
 // There's some error //  - Internal error: start from `InternalCodeCustom`
 //  - Service error: start from `ServiceCodeCustom`
 //  - Business error: start from `BusinessCodeCustom`
@@ -73,33 +73,34 @@ func handle(req Request) (*Response, error) {
 
 - Elixir
 
-``` elixir
+```elixir
+
 ```
 
 ## Errors across the wire
 
-``` json
+```json
 {
-    "message": "client error message",
-    "trace_id": "vldlCdkR3vAoupWkiENI",
-    "code": 4001,
-    "errors": {
-        "attribute_1": "error message for attribute 1",
-        "items": {
-            "0": {
-                "attr1": "error message for items[0].attr1"
-            },
-            "1": {
-                "attr2": "error message for items[1].attr2"
-            }
-        }
+  "message": "client error message",
+  "trace_id": "vldlCdkR3vAoupWkiENI",
+  "code": 4001,
+  "errors": {
+    "attribute_1": "error message for attribute 1",
+    "items": {
+      "0": {
+        "attr1": "error message for items[0].attr1"
+      },
+      "1": {
+        "attr2": "error message for items[1].attr2"
+      }
     }
+  }
 }
 ```
 
 - Logging:
 
-``` js
+```js
 { time="2020-10-08T12:10:57+07:00", level="error", env="dev", ip="115.73.208.232", method="POST", path="/orders", service="example-be", statusCode="500", traceId="vldlCdkR3vAoupWkiENI", userAgent="insomnia/2020.4.1" }
 Internal Server Error
  - at pkg/handler/order.go:34 (Handler.CreateOrder)
@@ -117,12 +118,12 @@ The errors contain a code. It's a number that makes a difference in many errors.
 
 In Go, our package provides a utility function to match errors
 
-``` go
+```go
 func handler() {
     err := getProduct(1)
 
     if err != nil && gerr.Match(err, errors.ErrNotFound) {
-        // Do logic when err is ErrNotFound 
+        // Do logic when err is ErrNotFound
     }
 }
 ```

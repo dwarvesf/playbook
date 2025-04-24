@@ -32,21 +32,21 @@ After acknowledging the alert, we should triage the problem by assigning it a ca
 
 #### Priority Level
 
-- **P0**: *This priority level is critical and should have the most immediate response action possible, with ideally a target resolution time of within 1 hour.*
- 	- complete loss of access to application or API
- 	- degraded access to or performance
- 	- loss of access to a data center
-- **P1**: *A high priority level that should have minimal response time with ideally a target resolution time of 4 hours.*
- 	- outage to important outbound third-party interface
- 	- corruption or loss of data
- 	- loss of an important function of an application
-- **P2**: *There should be some effort in resolving these issues, but response and action can be more relaxed, ideally with a target resolution time of within 24 hours.*
- 	- irregular or localized performance issue
- 	- system issues with no noticeable client impact yet
- 	- single client outage/degradation
-- **P3**: *This priority not need any immediate action and can be resolved in batch with other issues, ideally with a target resolution time of within 1 week.*
- 	- operational issues, procedural problems or service requests that have little or no effect on end-users
- 	- the default priority level for issues with undetermined severity level
+- **P0**: _This priority level is critical and should have the most immediate response action possible, with ideally a target resolution time of within 1 hour._
+  - complete loss of access to application or API
+  - degraded access to or performance
+  - loss of access to a data center
+- **P1**: _A high priority level that should have minimal response time with ideally a target resolution time of 4 hours._
+  - outage to important outbound third-party interface
+  - corruption or loss of data
+  - loss of an important function of an application
+- **P2**: _There should be some effort in resolving these issues, but response and action can be more relaxed, ideally with a target resolution time of within 24 hours._
+  - irregular or localized performance issue
+  - system issues with no noticeable client impact yet
+  - single client outage/degradation
+- **P3**: _This priority not need any immediate action and can be resolved in batch with other issues, ideally with a target resolution time of within 1 week._
+  - operational issues, procedural problems or service requests that have little or no effect on end-users
+  - the default priority level for issues with undetermined severity level
 
 ## Postmortems
 

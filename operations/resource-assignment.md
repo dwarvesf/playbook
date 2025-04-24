@@ -11,7 +11,7 @@ tags:
 
 In software consulting, our goal is to deliver outstanding results for every client project. To achieve this, we carefully manage how our team members’ expertise is allocated, ensuring focus and efficiency. Dedicated team members are assigned to a single project, allowing them to immerse themselves fully in delivering exceptional outcomes. For fractional roles, where team members contribute specialized skills across projects, we limit assignments to a maximum of two projects at any given time.
 
-Drawing on insights from *Quality Software Management* by Gerald Weinberg, we understand the impact of context switching on productivity, as shown in the chart below:
+Drawing on insights from _Quality Software Management_ by Gerald Weinberg, we understand the impact of context switching on productivity, as shown in the chart below:
 
 ![](assets/resource-assignment_e10c107b698bfb55469b4d7252a98160_md5.webp)
 

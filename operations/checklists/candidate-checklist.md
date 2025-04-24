@@ -1,6 +1,5 @@
 ---
-
-tags: 
+tags:
   - hiring
   - operations
   - checklist
@@ -13,22 +12,24 @@ authors:
 ---
 
 ### Background & Skills
-- [ ]  Logic qualified
-- [ ]  English skills qualified
-- [ ]  Technical (specialized) knowledge & skills qualified
+
+- [ ] Logic qualified
+- [ ] English skills qualified
+- [ ] Technical (specialized) knowledge & skills qualified
 
 ### Personalities
+
 This [hiring practice](https://memo.d.foundation/playbook/operations/hiring-approach/) can tell
 
 But we can have some shortcuts
 
-- [ ]  Doer
-- [ ]  Curiosity
-- [ ]  Problem-solving
-- [ ]  Learner
-- [ ]  Teamwork
-- [ ]  Open-minded
-- [ ]  Collaborative
-- [ ]  Supportive
-- [ ]  Any issues in previous works?
-- [ ]  Personality check via social?
+- [ ] Doer
+- [ ] Curiosity
+- [ ] Problem-solving
+- [ ] Learner
+- [ ] Teamwork
+- [ ] Open-minded
+- [ ] Collaborative
+- [ ] Supportive
+- [ ] Any issues in previous works?
+- [ ] Personality check via social?

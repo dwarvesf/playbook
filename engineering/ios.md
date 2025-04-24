@@ -220,6 +220,7 @@ If you're stuck with an earlier iOS version, [Masonry/SnapKit][snapkit-github] r
 ## Architecture
 
 - [Model-View-Controller-Store (MVCS)][mvcs]
+
   - This is the default Apple architecture (MVC), extended by a Store layer that vends Model instances and handles the networking, caching etc.
   - Every Store exposes to the view controllers either `signals` or `void` methods with custom completion blocks.
 
@@ -238,11 +239,11 @@ If you're stuck with an earlier iOS version, [Masonry/SnapKit][snapkit-github] r
 
 These are the idiomatic ways for components to notify others about things:
 
-- __Delegation:__ _(one-to-one)_ Apple uses this a lot (some would say, too much). Use when you want to communicate stuff back e.g. from a modal view.
-- __Callback blocks:__ _(one-to-one)_ Allow for a more loose coupling, while keeping related code sections close to each other. Also scales better than delegation when there are many senders.
-- __Notification Center:__ _(one-to-many)_ Possibly the most common way for objects to emit “events” to multiple observers. Very loose coupling ,  notifications can even be observed globally without reference to the dispatching object.
-- __Key-Value Observing (KVO):__ _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
-- __Signals:__ _(one-to-many)_ The centerpiece of [ReactiveCocoa][reactivecocoa-github], they allow chaining and combining to your heart's content, thereby offering a way out of "callback hell".
+- **Delegation:** _(one-to-one)_ Apple uses this a lot (some would say, too much). Use when you want to communicate stuff back e.g. from a modal view.
+- **Callback blocks:** _(one-to-one)_ Allow for a more loose coupling, while keeping related code sections close to each other. Also scales better than delegation when there are many senders.
+- **Notification Center:** _(one-to-many)_ Possibly the most common way for objects to emit “events” to multiple observers. Very loose coupling , notifications can even be observed globally without reference to the dispatching object.
+- **Key-Value Observing (KVO):** _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
+- **Signals:** _(one-to-many)_ The centerpiece of [ReactiveCocoa][reactivecocoa-github], they allow chaining and combining to your heart's content, thereby offering a way out of "callback hell".
 
 ### Models
 
@@ -352,7 +353,7 @@ You can include the original [vector graphics (PDFs)][vector-assets] produced by
 Xcode automatically tries to optimise resources living in asset catalogs (yet another reason to use them). Developers can choose from lossless and lossy compression algorithms. App icons are an exception: Apps with large or unoptimised app icons are known to be rejected by Apple. For app icons and more advanced optimisation of PNG files we recommend using [pngcrush][pngcrush-website] or [ImageOptim][imageoptim-website], its GUI counterpart.
 
 [pngcrush-website]: http://pmt.sourceforge.net/pngcrush/
-[imageoptim-website]:https://imageoptim.com/mac
+[imageoptim-website]: https://imageoptim.com/mac
 
 ## Coding Style
 
@@ -499,7 +500,7 @@ The analyzer can work in either “shallow” or “deep” mode. The latter is 
 Recommendations:
 
 - Enable _all_ of the checks in the analyzer (by enabling all of the options in the “Static Analyzer” build setting sections).
-- Enable the _“Analyze during ‘Build’”_ build setting for your release build configuration to have the analyzer run automatically during release builds. (Seriously, do this ,  you’re not going to remember to run it manually.)
+- Enable the _“Analyze during ‘Build’”_ build setting for your release build configuration to have the analyzer run automatically during release builds. (Seriously, do this , you’re not going to remember to run it manually.)
 - Set the _“Mode of Analysis for ‘Analyze’”_ build setting to _Shallow (faster)_.
 - Set the _“Mode of Analysis for ‘Build’”_ build setting to _Deep_.
 
@@ -545,7 +546,7 @@ This has the additional advantage of allowing you to swap out the entire Analyti
 
 ### Crash Logs
 
-First you should make your app send crash logs onto a server somewhere so that you can access them. You can implement this manually (using [PLCrashReporter][plcrashreporter] and your own backend) but it’s recommended that you use an existing service instead ,  for example one of the following:
+First you should make your app send crash logs onto a server somewhere so that you can access them. You can implement this manually (using [PLCrashReporter][plcrashreporter] and your own backend) but it’s recommended that you use an existing service instead , for example one of the following:
 
 - [Fabric](https://get.fabric.io)
 - [HockeyApp](http://hockeyapp.net)
@@ -559,7 +560,7 @@ Once you have this set up, ensure that you _save the Xcode archive (`.xcarchive`
 
 ## Building
 
-This section contains an overview of this topic ,  please refer here for more comprehensive information:
+This section contains an overview of this topic , please refer here for more comprehensive information:
 
 - [iOS Developer Library: Xcode Concepts][apple-xcode-concepts]
 - [Samantha Marshall: Managing Xcode][pewpew-managing-xcode]
@@ -611,21 +612,21 @@ Deploying software on iOS devices isn't exactly straightforward. That being said
 
 ### Signing
 
-Whenever you want to run software on an actual device (as opposed to the simulator), you will need to sign your build with a __certificate__ issued by Apple. Each certificate is linked to a private/public keypair, the private half of which resides in your Mac's Keychain. There are two types of certificates:
+Whenever you want to run software on an actual device (as opposed to the simulator), you will need to sign your build with a **certificate** issued by Apple. Each certificate is linked to a private/public keypair, the private half of which resides in your Mac's Keychain. There are two types of certificates:
 
-- __Development certificate:__ Every developer on a team has their own, and it is generated upon request. Xcode might do this for you, but it's better not to press the magic "Fix issue" button and understand what is actually going on. This certificate is needed to deploy development builds to devices.
-- __Distribution certificate:__ There can be several, but it's best to keep it to one per organization, and share its associated key through some internal channel. This certificate is needed to ship to the App Store, or your organization's internal "enterprise app store".
+- **Development certificate:** Every developer on a team has their own, and it is generated upon request. Xcode might do this for you, but it's better not to press the magic "Fix issue" button and understand what is actually going on. This certificate is needed to deploy development builds to devices.
+- **Distribution certificate:** There can be several, but it's best to keep it to one per organization, and share its associated key through some internal channel. This certificate is needed to ship to the App Store, or your organization's internal "enterprise app store".
 
 ### Provisioning
 
-Besides certificates, there are also __provisioning profiles__, which are basically the missing link between devices and certificates. Again, there are two types to distinguish between development and distribution purposes:
+Besides certificates, there are also **provisioning profiles**, which are basically the missing link between devices and certificates. Again, there are two types to distinguish between development and distribution purposes:
 
-- __Development provisioning profile:__ It contains a list of all devices that are authorized to install and run the software. It is also linked to one or more development certificates, one for each developer that is allowed to use the profile. The profile can be tied to a specific app or use a wildcard App ID (*). The latter is [discouraged][jared-sinclair-signing-tips], because Xcode is notoriously bad at picking the correct files for signing unless guided in the right direction. Also, certain capabilities like Push Notifications or App Groups require an explicit App ID.
+- **Development provisioning profile:** It contains a list of all devices that are authorized to install and run the software. It is also linked to one or more development certificates, one for each developer that is allowed to use the profile. The profile can be tied to a specific app or use a wildcard App ID (\*). The latter is [discouraged][jared-sinclair-signing-tips], because Xcode is notoriously bad at picking the correct files for signing unless guided in the right direction. Also, certain capabilities like Push Notifications or App Groups require an explicit App ID.
 
-- __Distribution provisioning profile:__ There are three different ways of distribution, each for a different use case. Each distribution profile is linked to a distribution certificate, and will be invalid when the certificate expires.
-  - __Ad-Hoc:__ Just like development profiles, it contains a whitelist of devices the app can be installed to. This type of profile can be used for beta testing on 100 devices per year. For a smoother experience and up to 1000 distinct users, you can use Apple's newly acquired [TestFlight][testflight] service. Supertop offers a good [summary of its advantages and issues][testflight-discussion].
-  - __App Store:__ This profile has no list of allowed devices, as anyone can install it through Apple's official distribution channel. This profile is required for all App Store releases.
-  - __Enterprise:__ Just like App Store, there is no device whitelist, and the app can be installed by anyone with access to the enterprise's internal "app store", which can be just a website with links. This profile is available only on Enterprise accounts.
+- **Distribution provisioning profile:** There are three different ways of distribution, each for a different use case. Each distribution profile is linked to a distribution certificate, and will be invalid when the certificate expires.
+  - **Ad-Hoc:** Just like development profiles, it contains a whitelist of devices the app can be installed to. This type of profile can be used for beta testing on 100 devices per year. For a smoother experience and up to 1000 distinct users, you can use Apple's newly acquired [TestFlight][testflight] service. Supertop offers a good [summary of its advantages and issues][testflight-discussion].
+  - **App Store:** This profile has no list of allowed devices, as anyone can install it through Apple's official distribution channel. This profile is required for all App Store releases.
+  - **Enterprise:** Just like App Store, there is no device whitelist, and the app can be installed by anyone with access to the enterprise's internal "app store", which can be just a website with links. This profile is available only on Enterprise accounts.
 
 [jared-sinclair-signing-tips]: http://blog.jaredsinclair.com/post/116436789850/
 [testflight]: https://developer.apple.com/testflight/
@@ -653,13 +654,13 @@ After uploading the build, be patient as it can take up to an hour for it to sho
 
 When validating in-app purchase receipts, remember to perform the following checks:
 
-- __Authenticity:__ That the receipt comes from Apple
-- __Integrity:__ That the receipt has not been tampered with
-- __App match:__ That the app bundle ID in the receipt matches your app’s bundle identifier
-- __Product match:__ That the product ID in the receipt matches your expected product identifier
-- __Freshness:__ That you haven’t seen the same receipt ID before.
+- **Authenticity:** That the receipt comes from Apple
+- **Integrity:** That the receipt has not been tampered with
+- **App match:** That the app bundle ID in the receipt matches your app’s bundle identifier
+- **Product match:** That the product ID in the receipt matches your expected product identifier
+- **Freshness:** That you haven’t seen the same receipt ID before.
 
-Whenever possible, design your IAP system to store the content for sale server-side, and provide it to the client only in exchange for a valid receipt that passes all of the above checks. This kind of a design thwarts common piracy mechanisms, and ,  since the validation is performed on the server ,  allows you to use Apple’s HTTP receipt validation service instead of interpreting the receipt `PKCS #7` / `ASN.1` format yourself.
+Whenever possible, design your IAP system to store the content for sale server-side, and provide it to the client only in exchange for a valid receipt that passes all of the above checks. This kind of a design thwarts common piracy mechanisms, and , since the validation is performed on the server , allows you to use Apple’s HTTP receipt validation service instead of interpreting the receipt `PKCS #7` / `ASN.1` format yourself.
 
 ### Acknowledgements
 

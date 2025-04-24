@@ -1,6 +1,5 @@
 ---
-
-tags: 
+tags:
   - template
   - email
   - operations
@@ -23,12 +22,11 @@ Hi [name]
 
 This email is to confirm your referral bonus for the referring case of
 
-
 We’re glad to announce that [referred employee] has been successfully deployed. As in the [Referral bonus policy](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral), your referral bonus will be as followed:
 
 - Referral bonus amount: [$]
 
-*Please be noted that this bonus will be included into your monthly payslip and will be paid upon completion of the project invoice.*
+_Please be noted that this bonus will be included into your monthly payslip and will be paid upon completion of the project invoice._
 
 Thank you for helping us meet another cool teammate. If you have any questions regarding the effective date, please let me know.
 

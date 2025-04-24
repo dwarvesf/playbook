@@ -1,6 +1,5 @@
 ---
-
-tags: 
+tags:
   - people
   - operations
   - checklist
@@ -13,14 +12,16 @@ authors:
 ---
 
 ### When an employee ask for Social insurance and contract
-- [ ]  Adjusted salary will be noted
-- [ ]  Notice to Quang & Han about salary adjustment
+
+- [ ] Adjusted salary will be noted
+- [ ] Notice to Quang & Han about salary adjustment
 
 ### Required documents
-- [ ]  Social Insurance number
-- [ ]  PIT number
-- [ ]  Household Registration Book
-- [ ]  ID card (photo)
-- [ ]  Number of inhabitants (photo)
-- [ ]  Declaration of Temporary ### Residence
-- [ ]  Labour Contract
+
+- [ ] Social Insurance number
+- [ ] PIT number
+- [ ] Household Registration Book
+- [ ] ID card (photo)
+- [ ] Number of inhabitants (photo)
+- [ ] Declaration of Temporary ### Residence
+- [ ] Labour Contract

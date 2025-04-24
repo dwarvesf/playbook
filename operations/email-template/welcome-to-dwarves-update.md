@@ -1,12 +1,11 @@
 ---
-
-tags: 
+tags:
   - template
   - email
   - operations
 title: Welcome to Dwarves Updates
 date: 2020-01-01
-description: The email template is to announce every updates to the comminity and subscriber.  
+description: The email template is to announce every updates to the comminity and subscriber.
 authors:
   - nikkingtr
   - huynguyenh
@@ -30,4 +29,4 @@ Got a minute? Let’s walk through some of our previous issues at [**log.d.found
 - [**Nov 30: Engineering Organization Structure**](https://log.d.foundation/06d0a46163914f10831d3146867dde2d#6fc9a667168242bb8b50990293562996)
 - [**Oct 31: The path to growth at Dwarves**](https://log.d.foundation/06d0a46163914f10831d3146867dde2d#3c1fa5109e9643ab9ca31c5fcc3a3a5c)
 
-*In case this email doesn’t suit your need, please kindly unsubscribe here. Hope to see you again real soon.*
+_In case this email doesn’t suit your need, please kindly unsubscribe here. Hope to see you again real soon._
