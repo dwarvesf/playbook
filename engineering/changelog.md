@@ -30,7 +30,7 @@ They are not the standard but should capture what we want to deliver.
 
 - [ ] Changelogs are for humans, not machines.
 - [ ] Write all dates in YYYY-MM-DD format.
-- [ ] Follow [Semantic Version](playbook/engineering/versioning).
+- [ ] Follow [Semantic Version](versioning.md).
 - [ ] The same types of changes should be grouped
   - `Added` for new features.
   - `Changed` for changes in existing functionality.

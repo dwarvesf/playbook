@@ -63,7 +63,7 @@ Design some demo screens and send to the client to verify style, color palette, 
 
 Design systems enable teams to build better products faster by making design reusable, reusability makes scale possible. This is the heart and primary value of design systems. A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
-![](assets/d56a8496bb80c42b7c2b89d718b1da48_MD5.avif|"Design System")
+![](assets/d56a8496bb80c42b7c2b89d718b1da48_MD5.avif)
 
 ### How we build Design System
 

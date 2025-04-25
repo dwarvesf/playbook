@@ -5,12 +5,10 @@ description: null
 date: 2021-12-30
 authors:
   - tieubao
-hide_title: true
 tags:
   - playbook
+hide_title: true
 ---
-
-# Dwarves Playbook
 
 Dwarves Foundation is an innovation service firm. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
 
@@ -18,7 +16,7 @@ We stand for the craftsmanship in software development. More than telling people
 
 This repo is our playbook which contains our practices in software development and also how we collaborate to make them succeed.
 
-![](engineering/assets/team-images.webp)
+![](assets/team-images.webp)
 
 ## Product Design
 

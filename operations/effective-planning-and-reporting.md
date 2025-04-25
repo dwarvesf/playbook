@@ -17,14 +17,14 @@ This protocol establishes a structured workflow for efficient weekly work alloca
 
 Weekly planning is for setting priorities, aligning team members, and ensuring progress towards our monthly goals. The following is how we do weekly planning:
 
-##### Set an agenda
+### Set an agenda
 
 Teams can make adjustments in the agenda to fit their work nature.
 
 - Outline the agenda, announce it to all team members, and follow this agenda for all planning sessions
 - Include key items such as updates, task prioritization, blockers/issues, lessons learned,and goals for the week
 
-##### Conduct the planning session
+### Conduct the planning session
 
 To minimize the time spent for meetings, we tend to combine retrospective of the week before and planning of the following week.
 
@@ -34,13 +34,13 @@ To minimize the time spent for meetings, we tend to combine retrospective of the
 
 All team members must submit a written list of what they plan to do for the week before the meeting.
 
-![alt text](how-we-do-effective-planning-and-reporting_image.webp)
+![](assets/how-we-do-effective-planning-and-reporting_image.webp)
 
 ### Weekly reporting
 
 Weekly reports should show progress, communicate achievements, and address any challenges within the team Similar to how we do planning, all team members must submit their written report before the meeting.
 
-![alt text](how-we-do-effective-planning-and-reporting_image2.webp)
+![](assets/how-we-do-effective-planning-and-reporting_image2.webp)
 
 Reporting happens at the start of all planning sessions. Since we already have a written report, here we focus mostly on:
 
@@ -60,7 +60,7 @@ A daily checkin needs to show:
 - Do we need support from any other members?
 - Do we have any takeaways, lessons learned or new things we learned to share with the team?
 
-![alt text](how-we-do-effective-planning-and-reporting_image3.webp)
+![](assets/how-we-do-effective-planning-and-reporting_image3.webp)
 
 ### Summary
 

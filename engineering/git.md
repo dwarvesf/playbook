@@ -8,7 +8,7 @@ date: null
 
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.
 
-[We use git](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). Git is one of the most popular distributed source version control. We use [Github](github.com/dwarvesf/) to open source our works, playbook, and practices. We also have a [self-host Gitlab](git.d.foundation) to store all of our source code.
+[We use git](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). Git is one of the most popular distributed source version control. We use [Github](https://github.com/dwarvesf/) to open source our works, playbook, and practices. We also have a `self-host cgit` to store all of our source code.
 
 ## Commit Message Guidelines
 
@@ -16,7 +16,7 @@ Hour commit conventions are based on [Conventional Commits](https://www.conventi
 
 Commit message should be structured as follows
 
-```
+```bash
 # A - inline command
 git commit -m "<type>(optional scope): <commit message>"
 

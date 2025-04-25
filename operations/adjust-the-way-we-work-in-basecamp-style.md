@@ -17,7 +17,7 @@ Basecamp, for example.
 
 Our path with Basecamp didn't cross by accident. Years ago, we embarked on the Slack community and had it applied for internal communication. And project management on another tool, where documents & files are in G-suite. Every day is a short strip from one place to another. Then get back. Then do it again tomorrow.
 
-![](adjust-the-way-we-work-in-basecamp-style_658f6b0263106796290e37aa78015232_md5.webp)
+![](assets/adjust-the-way-we-work-in-basecamp-style_658f6b0263106796290e37aa78015232_md5.webp)
 
 As much as we enjoyed the fast replies and high-engaging interaction amongst the member, it's challenging to focus on the work. Every smallest message can become a team gossip/ discussion, not to mention the biggest distracting part - memes. That shit is unstoppable.
 
@@ -98,7 +98,7 @@ When you've had enough with the scrolling, a shortcut is a savior. Basecamp take
 
 Basecamp is formal enough to keep people concentrated on what they do, but still it gives them the chance to be creative.
 
-![](adjust-the-way-we-work-in-basecamp-style_f6faf06ec700b2002c00cd15aa3ea707_md5.webp)
+![](assets/adjust-the-way-we-work-in-basecamp-style_f6faf06ec700b2002c00cd15aa3ea707_md5.webp)
 
 Another thing that drives us toward is how Basecamp makes things transparent. The 'Activity' tab reveals everything we need to know, whenever we need it. That somehow helps us focus on what matters, and reduce the risk of FOMO.
 

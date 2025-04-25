@@ -32,7 +32,7 @@ Information architecture (IA) is, like a blueprint, a visual representation of t
 
 - Sitemap
 
-!["Sitemap"](assets/wireframe/203ab5b0117c8ecbeb2cf2db4b549d51_MD5.gif)
+!["Sitemap"](assets/203ab5b0117c8ecbeb2cf2db4b549d51_MD5.gif)
 
 - Card Sorting
 

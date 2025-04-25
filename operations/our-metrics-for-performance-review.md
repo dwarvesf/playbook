@@ -76,8 +76,6 @@ How do you treat others? How is your teamwork skill? You don't have to follow th
 - Make sure you can be reached during agreed working hours.
 - Helping and sharing.
 
-<!-- child_page 656deb24-6315-44fe-b5b5-1c3b546f3ffd -->
-
 ## Fire quickly
 
 - False positives: people who you thought fit your values, but don’t once they’re hired
@@ -118,13 +116,13 @@ Using Performance-Values Matrix. All the sample metrics are included in
 
 [📎 Careers_by_design_short.pdf]()
 
-![](our-metrics-for-performance-review_c4defc89db73b3ffe140319a420998c1_md5.webp)
+![](assets/our-metrics-for-performance-review_c4defc89db73b3ffe140319a420998c1_md5.webp)
 
 - Core
 - Team
 - Personal
 
-![](our-metrics-for-performance-review_da1531180d70a98b2ea3efb18dfc4be4_md5.webp)
+![](assets/our-metrics-for-performance-review_da1531180d70a98b2ea3efb18dfc4be4_md5.webp)
 
 ## Incompetent Assholes (Fire fast)
 
@@ -136,8 +134,6 @@ High-performers but exhibit behavioral tendencies that are incongruent with your
 
 Exceptions shouldn’t be made, otherwise it shows your values are merely aspirational. It should be made clear that value-incongruent behavior is not tolerated and they will need to remediate their behavior in a measurable way within a limited time.
 
-<!-- child_page b99ef74d-4ade-4609-9fc5-be8af4c27c55 -->
-
 ## Incompetent Nice Guys (Manage or Move)
 
 Low-performers but is the exemplars of your culture and are well-liked by almost everyone.
@@ -145,8 +141,6 @@ Low-performers but is the exemplars of your culture and are well-liked by almost
 Incompetent nice guys and gals should be put on a traditional performance improvement plan (PIP), and skillfully managed in order to give them the training and feedback to improve their abilities.
 
 Of course, if that is not possible or does not work out, they should also be separated from the company.
-
-<!-- child_page 59afd2f7-27c8-414b-888c-3d2b61a51cd8 -->
 
 ## Competent and Outstanding Nice Guys (Praise and Raise)
 

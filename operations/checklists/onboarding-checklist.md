@@ -13,7 +13,7 @@ tags:
 
 Through this process, the employee gradually form their own perspective and their fit with the Dwarves. This is the stage when they decide whether or not to commit to our company.
 
-![](onboarding-checklist_onboard.webp)
+![](assets/onboarding-checklist_onboard.webp)
 
 ## Important Notes
 
