@@ -1,14 +1,14 @@
 ---
+title: Thank you letter
+description: The email template is to show appreciation to partner after the project closed.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: Thank you letter
-date: 2020-01-01
-description: The email template is to show appreciation to partner after the project closed.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title:** Dwarves Foundation - Thank you Letter
@@ -28,3 +28,4 @@ We look forward to having our paths crossed again and genuinely we wish you an a
 Best regards,
 
 Team Dwarves
+

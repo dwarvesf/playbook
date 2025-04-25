@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Error Message Convention
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.
@@ -156,3 +162,4 @@ We develop strategies and tooling to help ease the debugging process.
 - Verify the system/environment used to produce the error
 - Gather Screenshots and Logs
 - Gather step-by-step description from the user
+

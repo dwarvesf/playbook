@@ -1,12 +1,12 @@
 ---
 title: MBTI Type ESTJ
-date: 2021-07-24
 description: All about the ESTJ personality type
+date: 2021-07-24
 authors:
   - namtran
 tags:
   - mbti
-  - ESTJ
+  - estj
   - people
   - operations
 ---
@@ -184,3 +184,4 @@ Advice: An ESTJ can reduce stress by…
 - Participating in activities that facilitate reflection on their feelings
 - Spending time making a decision
   Realistically evaluating the expectations they have of others
+

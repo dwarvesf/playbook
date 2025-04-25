@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Production Checklist
 
 - [ ] Long-running processes such as email should delivery being run in background jobs?
@@ -36,3 +42,4 @@
 
 - [ ] Are we tracking errors?
 - [ ] Errors can be mapped to stack traces
+

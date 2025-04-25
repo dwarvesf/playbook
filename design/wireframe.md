@@ -1,11 +1,10 @@
 ---
 title: wireframe
+description: null
 date: 2023-10-16
-description:
-authors: []
+draft: true
 tags:
   - design
-draft: true
 ---
 
 ## Wireframe: Workflow Design
@@ -47,3 +46,4 @@ Information architecture (IA) is, like a blueprint, a visual representation of t
 
 - Whimsical
 - Draw.io
+

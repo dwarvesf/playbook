@@ -1,15 +1,15 @@
 ---
-tags:
-  - project
-  - operations
-  - checklist
 title: Project Case Study
-date: 2022-01-01
 description: The checklist outline the criteria of a project case study article
+date: 2022-01-01
 authors:
   - huytieu
   - nikkingtr
   - zlatanpham
+tags:
+  - project
+  - operations
+  - checklist
 ---
 
 The case study should focus on what the audience want to read
@@ -26,3 +26,4 @@ The tech guys want to know how cool you are in tech perspective
 
 - [ ] Does it contain the technical challenge?
 - [ ] Does it contain the system design & architecture design?
+

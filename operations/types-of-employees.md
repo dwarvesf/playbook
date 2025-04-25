@@ -1,7 +1,7 @@
 ---
 title: Types of employees
-date: 2018-08-26
 description: Employees are either job-focused or mission-driven "mitochondria" who drive company growth. Prioritizing the latter through values interviews is key to startup success.
+date: 2018-08-26
 authors:
   - tieubao
 tags:
@@ -29,3 +29,4 @@ A values interview helps you determine if the candidate is going to be a match w
 To be clear, interviewing for values doesn’t guarantee you’ll hire mitochondria. But if you don’t interview for values nor communicate the importance of your values during the interview process, your hiring process is suboptimal at best.
 
 → Source: `https://medium.com/@sarahtavel/the-mitochondria-in-startups-dc6c33e09d99`
+

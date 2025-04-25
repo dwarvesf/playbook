@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Licensing
 
 ## Why license?
@@ -35,3 +41,4 @@ Copyleft software licenses are considered protective or reciprocal, as contraste
 - Do include the approriate license.md in your source code
 - Inform clients about all of the opensource that you are about to use in your code and in an official document
 - **If you are not sure about licensing, contact your supervisor or lawyer for their opinion**
+

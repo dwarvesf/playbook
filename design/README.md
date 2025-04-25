@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Dwarves Design Playbook
 
 Dwarves Design is a young and small design studio, founded in 2018.
@@ -31,3 +37,4 @@ At each stage, there are several technologies and methodologies being used, we a
 - [UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping](/design/UX.md)
 - [Wireframe](/design/wireframe.md)
 - [Prototype](/design/prototype.md)
+

@@ -1,14 +1,14 @@
 ---
+title: Inform about resource change
+description: "The email template that you need to send to client when it's near holiday to announce about the resource changes."
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: Inform about resource change
-date: 2020-01-01
-description: The email template that you need to send to client when it's near holiday to announce about the resource changes.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title:** Dwarves Foundation - Resource Changes Agreement on [**Name of Project**] from [**date**]
@@ -41,3 +41,4 @@ Team Dwarves
 **Example**
 
 ![](information-about-resource-change_template-resource-change.webp)
+

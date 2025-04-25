@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 **Incident management** is the practice of responding to an unplanned event, user disruption, or service interruption and involves restoring the service to an operational or acceptable state. There are 2 general labels for incidents:
 
 - **Incident:** An unplanned interruption to a service or reduction in the service quality.
@@ -160,3 +166,4 @@ Discuss the incident response's positive aspects, its shortcomings, and its pote
 ### Corrective Actions
 
 Descrive actions to stop this kind of situation from happening again. Make sure to note who is responsible and what task will need to be completed in what time span.
+

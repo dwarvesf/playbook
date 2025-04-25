@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # RESTful API
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.
@@ -354,3 +360,4 @@ A well-structured error response should include the following fields:
 By consistently using this error response structure, you can facilitate efficient error handling and resolution across your API.
 
 For more detailed information and best practices on error handling, please refer to [Error Handling](/engineering/error.md).
+

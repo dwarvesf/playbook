@@ -1,15 +1,15 @@
 ---
-tags:
-  - people
-  - operations
-  - checklist
 title: Offboarding
-date: 2024-08-19
 description: The process when an employee offboard from the team.
+date: 2024-08-19
 authors:
   - tieubao
   - huynguyenh
   - innnotruong
+tags:
+  - people
+  - operations
+  - checklist
 ---
 
 ## Objectives
@@ -73,3 +73,4 @@ An off-boarding process must ensure three things:
 - [ ] Capture information about ongoing experiments or research
 
 Note: This aims for a smooth, positive offboarding that maintains good relations with the departing employee while protecting company interests. The checklist can be adapted to the specific role and company technology/processes.
+

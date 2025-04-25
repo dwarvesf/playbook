@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Repository setup
 
 How we expect projects to be setup.
@@ -58,3 +64,4 @@ Nice to have:
 - Your `docker-compose.yml` file should cover everything your app needs to function properly, including database and migrations. This also ensures everyone is locked on the same Go/Nodejs/Clojure/.etc version
 - For Golang projects, leverage Docker Compose to build & run your app in Alpine/Linux environment, this ensures your app shall work correctly when deployed to the cloud
 - Avoid putting secrets in the source code. Those should be stored in environment variables to make it configurable in CI/CD pipelines as well as deployment process
+

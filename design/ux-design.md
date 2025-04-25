@@ -1,12 +1,11 @@
 ---
 title: UX
+description: null
 date: 2023-10-16
-description:
 tags:
   - playbook
   - design
   - ux
-authors: []
 ---
 
 ## UX Research Framework
@@ -106,3 +105,4 @@ For each user flow, the questions you need to consider are:
 - What are the user’s hesitations or barriers to accomplishing the task?
 
 ![](assets/ux_3d7c3626f0c1880f74be8d46181f9e1b_md5.webp)
+

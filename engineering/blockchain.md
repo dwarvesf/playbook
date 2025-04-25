@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Best practices in blockchain development
 
 - [N Commandments](#n-commandments)
@@ -218,3 +224,4 @@ Pick SWARM when you want faster loading speed and Swarm has a very strong anti-c
 - Multisign wallet
 - Secrets
 - Audit checklist
+

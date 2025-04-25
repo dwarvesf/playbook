@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Writing test
 
 Testing your application is a vital part of serious development. For the front-end, you don't need 100% code coverage, about 70% is probably good enough. Following are some principles:
@@ -296,3 +302,4 @@ Note: sometimes, it's required to have e2e tests by making requests against a re
 - [Code style](code-style.md)
 - [UI checklist](ui-checklist.md)
 - [Logging and monitoring](logging-monitoring.md)
+

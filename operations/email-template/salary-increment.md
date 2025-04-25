@@ -1,14 +1,14 @@
 ---
+title: Salary Increment Announcement
+description: "The email template that you need to send to client when it's near holiday to announce about the absence."
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: Salary Increment Announcement
-date: 2020-01-01
-description: The email template that you need to send to client when it's near holiday to announce about the absence.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title:** Dwarves Foundation - Salary Increment
@@ -29,3 +29,4 @@ On behalf of other Dwarves, we want to extend our warm congratulations. Its a fo
 
 Best regards,
 Dwarves Foundation
+

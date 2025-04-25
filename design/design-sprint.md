@@ -1,12 +1,12 @@
 ---
 title: Design Sprint
-date: 2023-10-16
 description: Design sprint mostly applied to the Exploration phase. Friday is usually Education event or Lab projects at Dwarves Design, learning and continuous professional and personal development are in the core of our DNA. No one wants to settle, everyone wants to take the next step forward.
+date: 2023-10-16
 authors:
   - nikkingtr
   - tieubao
 tags:
-  - UX
+  - ux
   - design
   - learning
 ---
@@ -83,3 +83,4 @@ The Design Sprint meeting room has to be big enough to fit all the people in the
 
 The exploration phase could take many Sprints as possible until we finalize a suitable solution.
 In the Detailed Design phase, we still apply the Agile method to implement and user-testing the Final version before handoff to our Client.
+

@@ -1,7 +1,7 @@
 ---
 title: Setup email template in Gmail
-date: 2020-01-01
 description: How to setup template for email in Gmail
+date: 2020-01-01
 authors:
   - huynguyenh
 tags:
@@ -25,3 +25,4 @@ When composing an email, you can either:
 - Pick a template to use for the email that you picked
 
 **Note**: If your template contains place holders, please mark it as _red_ so that other team members will notice to replace those when they use the template
+

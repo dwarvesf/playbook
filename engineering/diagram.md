@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Diagram and Project Document Structure
 
 We have talked about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
@@ -251,3 +257,4 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 ![](assets/diagram_mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.
+

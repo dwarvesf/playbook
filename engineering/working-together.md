@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Pair Programming
 
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes.
@@ -95,3 +101,4 @@ Some notes that we should consider applying
 
 - Sync
 - Communicate to sync
+

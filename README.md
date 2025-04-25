@@ -1,13 +1,13 @@
 ---
 title: Dwarves Playbook
 short_title: Playbook
+description: null
 date: 2021-12-30
-description:
 authors:
   - tieubao
+hide_title: true
 tags:
   - playbook
-hide_title: true
 ---
 
 # Dwarves Playbook
@@ -102,3 +102,4 @@ We love pull requests. If you have something you want to add or remove, please o
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 @ [Dwarves Foundation](https://d.foundation)
+

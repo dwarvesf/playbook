@@ -1,14 +1,14 @@
 ---
+title: Milestone sign-off
+description: The email template is to confirm about the milestone with client.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: Milestone sign-off
-date: 2020-01-01
-description: The email template is to confirm about the milestone with client.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title:** Project XX - Milestone Signoff
@@ -23,3 +23,4 @@ Thank you for your collaboration.
 
 Sincerely,
 Dwarves Foundation
+

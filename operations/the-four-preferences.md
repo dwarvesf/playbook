@@ -1,7 +1,7 @@
 ---
 title: The four preferences
-date: 2021-07-16
 description: The four preferences in MBTI personalities
+date: 2021-07-16
 authors:
   - namtran
 tags:
@@ -95,3 +95,4 @@ We all use both Judging and Perceiving as we live our day-to-day life. Within th
 The differences between Judging and Perceiving are probably the most marked differences of all the four preferences. People with strong Judging preferences might have a hard time accepting people with strong Perceiving preferences, and vice-versa. On the other hand, a "mixed" couple (one Perceiving and one Judging) can complement each other very well, if they have developed themselves enough to be able to accept each other's differences.
 
 Source: [The Four Preferences](https://www.personalitypage.com/html/four-prefs.html)
+

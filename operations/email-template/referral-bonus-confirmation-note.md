@@ -1,15 +1,15 @@
 ---
+title: Referral Bonus Confirmation Note
+description: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
   - hiring
-title: Referral Bonus Confirmation Note
-date: 2020-01-01
-description: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Use case**: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
@@ -31,3 +31,4 @@ _Please be noted that this bonus will be included into your monthly payslip and 
 Thank you for helping us meet another cool teammate. If you have any questions regarding the effective date, please let me know.
 
 Regards,
+

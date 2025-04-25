@@ -1,14 +1,14 @@
 ---
+title: Unemployment, Social, Health Insurance
+description: The checklist of unemployment, social, health insurance
+date: 2020-01-01
+authors:
+  - tieubao
+  - huynguyenh
 tags:
   - people
   - operations
   - checklist
-title: Unemployment, Social, Health Insurance
-date: 2020-01-01
-description: The checklist of unemployment, social, health insurance
-authors:
-  - tieubao
-  - huynguyenh
 ---
 
 ### When an employee ask for Social insurance and contract
@@ -25,3 +25,4 @@ authors:
 - [ ] Number of inhabitants (photo)
 - [ ] Declaration of Temporary ### Residence
 - [ ] Labour Contract
+

@@ -1,13 +1,13 @@
 ---
+title: Leave Request
+description: The checklist of leave and request for the team.
+date: 2024-08-20
+authors:
+  - innnotruong
 tags:
   - people
   - operations
   - checklist
-title: Leave Request
-date: 2024-08-20
-description: The checklist of leave and request for the team.
-authors:
-  - innnotruong
 ---
 
 ### Objectives
@@ -56,3 +56,4 @@ After receiving the Basecamp ticket notification:
 - [ ] Remind clients informally via Slack or other communication channels.
 - [ ] Review the holiday plan with the team to address any last-minute issues or concerns.
 - [ ] Send a short reminder about the holiday schedule on Discord.
+

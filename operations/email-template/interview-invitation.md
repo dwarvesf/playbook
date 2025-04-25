@@ -1,14 +1,14 @@
 ---
+title: Interview Invitation
+description: The email template is to annouce the interview date with the client.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: Interview Invitation
-date: 2020-01-01
-description: The email template is to annouce the interview date with the client.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title:** Dwarves Foundation - Interview Invitation
@@ -34,3 +34,4 @@ Just let us know if you have any question about the interview. We looking forwar
 
 Best regards,
 Dwarves Foundation
+

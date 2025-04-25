@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Source Version Control
 
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.
@@ -269,3 +275,4 @@ git reset --hard 8c76ad1
     -d '{"ref":"refs/heads/D-commit", "sha":"your-commit-sha"}' \
     https://api.github.com/repos/{owner}/{repo}/git/refs
   ```
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # The Dwarf Principles
 
 Our definition of Engineering Philosophy, the guiding ideas that help to shape up the way we think and work, to ensure the core values and to deliver quality softwares.
@@ -85,3 +91,4 @@ Being productive is about occupying your time, filling your schedule to the brim
 #### FAIL FAST, LEARN OFTEN
 
 Don't be afraid of starting all over again. Evaluate your work constantly. Don't be afraid of throwing to the rubbish a project you've working on last months. When you start from scratch, innovation comes organically inspired by previous experiences. Evaluate your work constantly.
+

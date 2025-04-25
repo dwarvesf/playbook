@@ -1,7 +1,7 @@
 ---
-title: "How to conduct delivery report"
-date: 2024-08-01
+title: How to conduct delivery report
 description: How we conduct insightful delivery report that ensure transparency, improve team performance, and enhance client relationships
+date: 2024-08-01
 authors:
   - zlatanpham
 tags:
@@ -55,3 +55,4 @@ Once all data is collected, we compile it into a report with highlights for the 
 - **Issues and Resolutions Logs:** Document any issues encountered and the resolutions implemented.
 
 ![](how-to-conduct-delivery-reports_delivery-report-sample.webp)
+

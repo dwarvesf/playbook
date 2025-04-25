@@ -1,7 +1,7 @@
 ---
 title: Naming convention
-date: 2020-01-01
 description: This is the guide how to name your Email, Basecamp, Slack, Trello username.
+date: 2020-01-01
 authors:
   - huynguyenh
 tags:
@@ -37,3 +37,4 @@ tags:
 
 - Advised to set avatar as your face picture.
 - Name/Nickname should be set as your github name. Otherwise please use <first_name> <last_name>
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # API Security Checklist
 
 ## Authentication
@@ -58,3 +64,4 @@
 - [ ] Return the proper status code according to the operation completed. (e.g. `200 OK`, `400 Bad Request`, `401 Unauthorized`, `405 Method Not Allowed`, etc.).
 
 Source: [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+

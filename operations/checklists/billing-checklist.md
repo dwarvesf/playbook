@@ -1,14 +1,14 @@
 ---
+title: Billing
+description: This checklist illustrates the process of billing approval.
+date: 2020-01-01
+authors:
+  - tieubao
+  - huynguyenh
 tags:
   - people
   - operations
   - checklist
-title: Billing
-date: 2020-01-01
-description: This checklist illustrates the process of billing approval.
-authors:
-  - tieubao
-  - huynguyenh
 ---
 
 ## Invoice Process
@@ -51,3 +51,4 @@ For example: Nam will be the second person in charge of the Attrace account, as 
 - [ ] The Person In Charge have to follow up overdue invoice within 3 days
 - [ ] After the payment is deposited in DF's account, an official confirmation will be sent to the Clients
 - [ ] Invoice must be sent before or right on the monthly invoice date or after completing a payment milestone.
+

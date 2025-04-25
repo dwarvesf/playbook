@@ -1,7 +1,7 @@
 ---
 title: Bric a brac
+description: "Simple operational guidelines for efficiency - outsource what we're not great at, automate repetitive tasks, avoid bottlenecks through broad access, and use existing solutions before building custom ones."
 date: 2020-04-10
-description: Simple operational guidelines for efficiency - outsource what we're not great at, automate repetitive tasks, avoid bottlenecks through broad access, and use existing solutions before building custom ones.
 authors:
   - tieubao
 tags:
@@ -14,3 +14,4 @@ tags:
 - Automate repetitive tasks.
 - Give everyone "admin" access to as much as possible to avoid bottlenecks.
 - Our problems are not unique. We will try manual processes first. When we do build something, it is usually after using other things for years.
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Database migration in iOS development
 
 Database migration is one of the most important aspects of software development in general and of iOS development in specific. If we do not handle it correctly, it would cause some bad user experiences, such as data loss, app crashing, etc. And finally, lead to the bad reputation for the company. So, we **MUST** handle it correctly. And this post is a lighthouse which lead you to the right path.
@@ -515,3 +521,4 @@ For Entities:
 - [Lightweight migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmLightweightMigration.html)
 - [Standard migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmMappingOverview.html#%23%23//apple_ref/doc/uid/TP40004399-CH5-SW1)
 - [Migration Policy](https://stackoverflow.com/questions/40647764/swift-coredata-migration-set-new-attribute-value-according-to-old-attribute/40662940#40662940)
+

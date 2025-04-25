@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Handover
 
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a
@@ -83,3 +89,4 @@ Used to verify if handover was successful. Go through this list after one week o
 - [ ] All things that were not clear (mentioned earlier) were resolved.
 - [ ] All handover time is recorded.
 - [ ] Every new member is confident with the project. No? Ask Why.
+

@@ -1,14 +1,14 @@
 ---
+title: "Confirm Employee's Resume Date Day"
+description: The email template is to welcome employee back to work.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: Confirm Employee's Resume Date Day
-date: 2020-01-01
-description: The email template is to welcome employee back to work.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title**: Dwarves Foundation - Welcome Back
@@ -30,3 +30,4 @@ On behalf of other Dwarves, it’s good to have you back!
 
 Best regards,
 Dwarves Foundation
+

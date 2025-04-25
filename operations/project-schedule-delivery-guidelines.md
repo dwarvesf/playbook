@@ -1,7 +1,7 @@
 ---
 title: Project delivery schedule and guidelines
+description: "Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries as well as handle feedback."
 date: 2023-12-05
-description: Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries as well as handle feedback.
 authors:
   - huytieu
 tags:
@@ -77,3 +77,4 @@ For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Deliv
 - **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 
 ![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20240122161522695.webp)
+

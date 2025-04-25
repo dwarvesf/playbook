@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Code Review
 
 How we do code review.
@@ -81,3 +87,4 @@ If you ask a developer to explain a piece of code that you don't understand, tha
 Encourage developers to simplify code or add code comments instead of just explaining the complexity to you
 
 ![](assets/code-review-hierarchy.webp)
+

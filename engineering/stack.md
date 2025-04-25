@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Technology Stack
 
 ### Our perspective on Technology
@@ -51,3 +57,4 @@ We continuously evaluate new technologies using our tech radar. They are classif
 - Vue.js
 - Kotlin
 - Swift
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Writing a useful changelog
 
 Remember the last time you read over the changelog of your favorite app and found it sucks with useless information like they don't care about the product that they sell out. Something like below
@@ -48,3 +54,4 @@ They are not the standard but should capture what we want to deliver.
 >
 > -
 > -
+

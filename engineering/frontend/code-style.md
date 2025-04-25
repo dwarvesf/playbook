@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Code style
 
 While the vast majority of base code style is enforced by [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/), please also where possible, stick to the contribution guidelines below. These rules should be kept in mind when reviewing Pull Requests:
@@ -86,3 +92,4 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
 - [Writting test](writing-test.md)
 - [UI checklist](ui-checklist.md)
 - [Logging and monitoring](logging-monitoring.md)
+

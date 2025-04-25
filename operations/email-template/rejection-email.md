@@ -1,15 +1,15 @@
 ---
+title: Rejection
+description: The email template is to reject a candidate that is not qualified in the recruitment process.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
   - hiring
-title: Rejection
-date: 2020-01-01
-description: The email template is to reject a candidate that is not qualified in the recruitment process.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 ### Screening Rejection
@@ -50,3 +50,4 @@ We wish you all the best in your future endeavors.
 Best regards,
 
 Dwarves Foundation
+

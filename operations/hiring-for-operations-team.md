@@ -1,7 +1,7 @@
 ---
 title: Hiring for Operations team
-date: 2020-01-25
 description: Operations is a very sensitive area of the company, so be very picky. A great ops person can dramatically improve the way your company works and make your life a lot easier.
+date: 2020-01-25
 authors:
   - tieubao
   - duynglam
@@ -40,3 +40,4 @@ A large contact list of suppliers, vendors, and specialists is essential for our
 **We should be able to speak the “language” of every professional on the team.**
 
 Earning credibility with everyone in the organization is extremely important to the success of the person in this position. It is hard! No, it is actually extremely hard. It is the hardest thing in this list and perfection here is almost impossible. Job is much easier if the board and CEO how respect due to the operations team.
+

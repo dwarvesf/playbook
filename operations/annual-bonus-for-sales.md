@@ -1,7 +1,7 @@
 ---
 title: Annual bonus for sales
-date: 2020-01-01
 description: Guide to calculate annual bonus for sales
+date: 2020-01-01
 authors:
   - huynguyenh
 tags:
@@ -26,3 +26,4 @@ For previous deals, you will earn extra **2% of the old money commission**.
 ### FAQ
 
 - Upselling is considered as new money
+

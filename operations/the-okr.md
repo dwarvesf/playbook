@@ -1,7 +1,7 @@
 ---
 title: The OKR
-date: 2016-04-06
 description: How we use OKR to define goals
+date: 2016-04-06
 authors:
   - tieubao
 tags:
@@ -103,3 +103,4 @@ Hygger: [https://dwarvesv.hygger.io/b/64499](https://dwarvesv.hygger.io/b/64499)
 
 1. [https://blog.betterworks.com/keys-okr-success-qa-john-doerr/](https://blog.betterworks.com/keys-okr-success-qa-john-doerr/)
 1. [https://www.youtube.com/watch?v=mJB83EZtAjc](https://www.youtube.com/watch?v=mJB83EZtAjc&feature=youtu.be)
+

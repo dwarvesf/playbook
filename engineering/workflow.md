@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 The workflow we chose to adopt is a team agreement on why we should be a team player and how we should act to benefit as a whole, not just an individual.
 
 tl;dr; We apply agile philosophy. A few notes to take before working on a project.
@@ -70,3 +76,4 @@ Agile methodology only suggests putting the team to the center of collaboration.
 - What to remember about Scrum?
 
 The small feedback loops.
+

@@ -1,15 +1,14 @@
 ---
+title: Assets
+description: "This checklist is for administrators and employee to manage company's assets."
+date: 2020-01-01
+authors:
+  - tieubao
+  - huynguyenh
 tags:
   - people
   - operations
   - checklist
-title: Assets
-date: 2020-01-01
-description: This checklist is for administrators and employee to manage company's assets.
-
-authors:
-  - tieubao
-  - huynguyenh
 ---
 
 ## For Admin
@@ -42,3 +41,4 @@ authors:
 - [ ] Check the asset status
 - [ ] Report for damage (if any)
 - [ ] Sync up with the Admin/Ops Associate
+

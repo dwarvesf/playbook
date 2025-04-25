@@ -1,14 +1,14 @@
 ---
+title: Back up Artifact
+description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done.
+date: 2024-07-22
+authors:
+  - minhcloud
+  - zlatanpham
 tags:
   - operations
   - checklist
   - delivery
-title: Back up Artifact
-date: 2024-07-22
-description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done.
-authors:
-  - minhcloud
-  - zlatanpham
 ---
 
 ## Why do we need artifacts?
@@ -60,3 +60,4 @@ Every 3 monts, we update and synchronize project charters and artifacts below.
 **`.env` document**
 
 **Potential issues, roadblocks**
+

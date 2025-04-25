@@ -1,7 +1,7 @@
 ---
 title: Traits to assess during an interview
-date: 2019-09-20
 description: null
+date: 2019-09-20
 tags:
   - people
 ---
@@ -15,3 +15,4 @@ tags:
 * **Polish**: Polish is equal parts what candidates say and how they say it, so be sure you’re considering both. How do they conduct themselves when they interject? Do they send a thoughtful thank you note following your conversation? Do they communicate gracefully and efficiently, saying whip-smart things in the fewest words possible?
 
 → Template: [https://docs.google.com/spreadsheets/d/1q2a6n4s0UpzsGcUUgsvWLpt-hYhgnzhxY9gbcbLfbho/edit#gid=0](https://docs.google.com/spreadsheets/d/1q2a6n4s0UpzsGcUUgsvWLpt-hYhgnzhxY9gbcbLfbho/edit#gid=0)
+

@@ -1,14 +1,14 @@
 ---
+title: New Year Day
+description: "The email template that you need to send to client when it's near holiday to announce about the absence."
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
-title: New Year Day
-date: 2020-01-01
-description: The email template that you need to send to client when it's near holiday to announce about the absence.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title**: Dwarves Foundation - Holiday Announcement
@@ -33,3 +33,4 @@ We sincerely apology for any inconvenience this may cause. Thank you for your un
 
 Best regards,
 Team Dwarves
+

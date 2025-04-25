@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Best practices in Android development
 
 Avoid reinventing the wheel by following these guidelines.
@@ -539,3 +545,4 @@ There is a wide variety of continuous integration software which provide differe
 ### Acknowledgements
 
 Thanks to [Futurice](https://github.com/futurice/android-best-practices). We hard forked and made a revised version based on their guideline.
+

@@ -1,7 +1,7 @@
 ---
 title: Make remote working works
+description: "Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people."
 date: 2016-01-17
-description: Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people.
 authors:
   - duynglam
 tags:
@@ -29,3 +29,4 @@ So here are some points that keeps us sane in remote working:
 - **Do your job.** Don't bother people with mundane tasks. Make sure you've tried all solutions before coming to them for advice.
 
 - **Document.** Working remotely means face-to-face discourse and body language are limited. That's when the documents dive in. Note down things and note it detailedly.
+

@@ -1,14 +1,14 @@
 ---
+title: Consulting Contract
+description: The checklist presents the process of contract evaluation.
+date: 2020-01-01
+authors:
+  - tieubao
+  - huynguyenh
 tags:
   - people
   - checklist
   - operations
-title: Consulting Contract
-date: 2020-01-01
-description: The checklist presents the process of contract evaluation.
-authors:
-  - tieubao
-  - huynguyenh
 ---
 
 ### Content
@@ -27,3 +27,4 @@ authors:
 - [ ] Contract must be signed before initiate the project
 - [ ] The final and signed contract is put on the Official folder on Drive
 - [ ] The contract is stored on Drive including the final PDF and the final source file (i.e Word/Google Docs/Pages)
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # The 12-factor App
 
 _The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project._
@@ -124,3 +130,4 @@ Twelve-factor strongly favors languages which provide a REPL shell out of the bo
 
 - In a local deploy, developers invoke one-off admin processes by a direct shell command inside the app’s checkout directory.
 - In a production deploy, developers can use ssh or other remote command execution mechanism provided by that deploy’s execution environment to run such a process.
+

@@ -1,7 +1,7 @@
 ---
 title: Our metrics for performance review
+description: "Performance is a final value that will be calculated from other metrics. This value will help to indicate how good all the activities we've done to make the company could grow."
 date: 2016-04-04
-description: Performance is a final value that will be calculated from other metrics. This value will help to indicate how good all the activities we've done to make the company could grow.
 authors:
   - tieubao
 tags:
@@ -270,3 +270,4 @@ _Examples_:
 ## Ranking - R
 
 How you grow up and develop your careers.
+

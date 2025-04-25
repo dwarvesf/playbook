@@ -1,7 +1,7 @@
 ---
 title: Farewell Letter
-date: 2020-01-01
 description: The email template is to inform employee that he/she failed the probation.
+date: 2020-01-01
 authors:
   - nikkingtr
   - huynguyenh
@@ -25,3 +25,4 @@ We encourage you to re-apply for any of our next vacant positions in your expert
 
 Thank you,
 Dwarves Foundation
+

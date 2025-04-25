@@ -1,14 +1,14 @@
 ---
+title: Vietnam Invoice
+description: The processs of taking Vietnam invoice
+date: 2020-01-01
+authors:
+  - tieubao
+  - huynguyenh
 tags:
   - people
   - operations
   - checklist
-title: Vietnam Invoice
-date: 2020-01-01
-description: The processs of taking Vietnam invoice
-authors:
-  - tieubao
-  - huynguyenh
 ---
 
 ### Invoice checklist
@@ -27,3 +27,4 @@ authors:
 
 - [ ] Revoke the error invoices
 - [ ] Clamp 3 sheets of the invoice
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Environments
 
 This section describes the environments you should have, at a minimum. It might sound like a lot, but there is a purpose for each one.
@@ -31,3 +37,4 @@ Staging is set up precisely like production. No changes to the production enviro
 The big iron. Logged, monitored, cleaned up periodically, squared away and secured.
 
 This set helps developers to come up with the best technical solutions and resolve issues quickly, and users will only ever notice a new release by the product's increased awesomeness.
+

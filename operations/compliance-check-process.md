@@ -1,7 +1,7 @@
 ---
 title: Compliance check process
-date: 2020-01-01
 description: A comprehensive compliance program encompassing monthly audits, transparent progress tracking, and consequences for non-compliance, aiming to foster accountability and transparency within the team.
+date: 2020-01-01
 authors:
   - huynguyenh
 tags:
@@ -53,3 +53,4 @@ Now that I think about it, and after seeing what happened in setel, the most imp
 We can leverage 2-3 to put an invisble heavy stone on someone's back for having to plan it himself to do it properly.
 
 Also it should be noted that all above 5 points above happened publicy - which helps to enforce individuals to aware & participate - seeing others progressing while I don't even know how to do it is a real stress, forcing me to proactively ask/lookup for more info. That's where work begins, with consistency it can educate members to fit in our workflow.
+

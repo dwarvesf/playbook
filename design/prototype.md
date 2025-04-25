@@ -1,7 +1,7 @@
 ---
 title: "Low-fidelity prototype: UI Design"
-date: 2023-10-16
 description: Design systems enable teams to build better products faster by making design reusable, reusability makes scale possible.
+date: 2023-10-16
 authors:
   - nikkingtr
 tags:
@@ -142,3 +142,4 @@ It is created after we completed designing UI.
 - Principle
 - Protopie
 - Adobe XD
+

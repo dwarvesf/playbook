@@ -1,15 +1,15 @@
 ---
+title: Assignment Inviation
+description: The email template is to invite camdidate to the assignment round.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
   - hiring
-title: Assignment Inviation
-date: 2020-01-01
-description: The email template is to invite camdidate to the assignment round.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title:** Dwarves Foundation - Assignment Invitation
@@ -29,3 +29,4 @@ Feel free to let us know if you have any other questions about the assignment.
 Sincerely,
 
 Dwarves Foundation
+

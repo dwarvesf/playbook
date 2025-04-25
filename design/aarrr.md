@@ -1,7 +1,7 @@
 ---
 title: aarrr
-date: 2023-10-16
 description: We use the AARRR framework to measure and optimize every phase of a product by optimizing it through the insane focus on one metric at a time.
+date: 2023-10-16
 authors:
   - tieubao
 tags:
@@ -41,3 +41,4 @@ Validate the problem by conducting the user interview/usability test. This will 
 ### Ideate on potential solutions
 
 We might get the stakeholders involved in sketching bunch of ideas and more importantly, get their buy-in early on.
+

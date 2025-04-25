@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # QA best practises
 
 This is a summary of best practices our QA engineers at Dwarves use and recommends to be used. It is not supposed to be a detailed description and sometimes cannot fully be used for all tasks but as an overview of the most important QA processes and a list of good practices that should be used.
@@ -72,3 +78,4 @@ Following items in proposed DoD have been bolded due
 2. Usually it’s very difficult to run these in Demo environment due to security policies / high overhead of maintaining this. TEST environment should be integrated with appropriate test environment
 3. Similar to the first item. In traditional project methods this is usually done by Vendor’s PM after approvals have been made during project steering group. In agile concept documentation is normally not maintained at all. However as the concept documentation is most likely an acceptance criteria of this project it needs to be maintained to showcase the changes that we have made during the project.
 4. Approval of the documentation should be part of DoD especially initially. Each organization has their own documentation practices and the purpose of this is to ensure that we start doing it “right” from the very beginning.
+

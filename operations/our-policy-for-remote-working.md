@@ -1,7 +1,7 @@
 ---
 title: Our policy for remote working
-date: 2016-01-10
 description: Some useful practices we adopted to keep the remote working system goes smoothly. This policy is written in the context of our current company setup.
+date: 2016-01-10
 authors:
   - tieubao
 tags:
@@ -99,3 +99,4 @@ Having the flexibility to work remotely is a privilege. If an employee's unable 
 If an employee works remotely, they should make the topic of their remote work a regular part of weekly 1:1s.
 
 This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of the company that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
+

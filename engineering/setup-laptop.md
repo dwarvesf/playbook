@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Dotfiles
 
 In UNIX, the files start with a dot “.” are hidden. If you list files in the directory, they don’t show up and keep them safe from the end users. Because of that reason, the developer usually uses it to store configurations of their tools.
@@ -21,3 +27,4 @@ We have our [dotfiles](https://github.com/dwarvesf/dotfiles), a script to share 
 Using an automated setup helps us to stay up-to-date with new operating system and program versions. Also, because the setup is standardized, new team members are able to quickly join a project without wasting time re-configuring their machine.
 
 Using the [dotfiles](https://github.com/dwarvesf/dotfiles) make pair programming with teammates easier and make each other more productive.
+

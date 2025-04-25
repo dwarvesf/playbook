@@ -1,7 +1,7 @@
 ---
 title: Write management objectives in SMART
-date: 2020-02-25
 description: Use S.M.A.R.T goal to define management objectives
+date: 2020-02-25
 authors:
   - tieubao
 tags:
@@ -56,3 +56,4 @@ _Incorrect Goal: Make on the website the section “Contact Us” for a demonstr
 - **Time**-**Bound:** In 3 months.
 
 → **SMART Goal:** In 3 months, we'll see a 50% increase in the number of our email blog subscribers by increasing our Facebook advertising budget on posts that historically acquire the most blog subscribers
+

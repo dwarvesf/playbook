@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # UI Checklist
 
 Frontend engineering is not just about producing high quality code but also attentive design. Whether you work on a design or transform a design to code, make sure the below checklist is done before you ship.
@@ -23,3 +29,4 @@ Frontend engineering is not just about producing high quality code but also atte
 - [Code style](code-style.md)
 - [Writting test](writing-test.md)
 - [Logging and monitoring](logging-monitoring.md)
+

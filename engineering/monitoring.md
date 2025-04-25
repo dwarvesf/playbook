@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Monitoring
 
 - [Monitoring](#monitoring)
@@ -179,3 +185,4 @@ The load balancer health check page should be placed at a `/status/healthz` URL.
 ## Access control
 
 The status pages may need proper authorization in place, especially in case they expose debugging information in status messages or application metrics. HTTP basic authentication or IP-based restrictions are usually good enough candidates to consider.
+

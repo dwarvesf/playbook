@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Logging and Monitoring
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.
@@ -56,3 +62,4 @@ Based on analytic data, we can identify which page needs to be improved to decre
 - [Code style](code-style.md)
 - [Writting test](writing-test.md)
 - [UI checklist](ui-checklist.md)
+

@@ -1,7 +1,7 @@
 ---
 title: Hiring approach
-date: 2018-06-26
 description: Hire people who tell us what to do, not the other way around.
+date: 2018-06-26
 authors:
   - tieubao
   - duynglam
@@ -97,3 +97,4 @@ Candidates came from everywhere, from professional conferences, from the sidelin
 - If a candidate is the right fit, move quickly
 - Before you make an offer, make sure you know exactly what the offer package will look like and don’t be vague about it
 - If the candidate turns you down, remain friendly and maintain a relationship. They might change their minds in the future.
+

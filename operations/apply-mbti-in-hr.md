@@ -1,7 +1,7 @@
 ---
 title: Apply MBTI in hiring
-date: 2021-07-17
 description: A guide to using MBTI personality types to better understand job candidates and team members, with specific traits to look for in engineering, design, sales, and people operations roles.
+date: 2021-07-17
 authors:
   - namtran
 tags:
@@ -126,3 +126,4 @@ Intuition and Feeling
 Search "Type name + function stack", e.g. INFP function stack to get the information.
 
 - Note: **Don't ever tell the candidates that we care about their MBTI.** It can affect the result's accuracy.
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # README
 
 A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
@@ -71,3 +77,4 @@ foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+

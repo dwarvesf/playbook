@@ -1,12 +1,12 @@
 ---
 title: MBTI Type ISTJ
-date: 2021-07-20
 description: All about the ISTJ personality type
+date: 2021-07-20
 authors:
   - namtran
 tags:
   - mbti
-  - ISTJ
+  - istj
   - operations
   - people
 ---
@@ -171,3 +171,4 @@ Advice: An ISTJ can reduce stress by
 - Looking to the big picture and putting their stress into perspective
 - Realistically determine what will matter in the future
 - Leaving the situation and trying something uncharacteristic in order to realign their perspective
+

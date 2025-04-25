@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Release Checklist
 
 When you are ready to release, remember to check off everything on your release checklist.
@@ -63,3 +69,4 @@ Just remember to not mess up with the end users. Our responsibility is to keep t
 - [ ] Email sent to customers.
 - [ ] Email sent to the product owner.
 - [ ] Email sent to the project team.
+

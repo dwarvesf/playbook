@@ -1,7 +1,7 @@
 ---
 title: How I create content for multiple platforms
+description: "To help all our Dwarves team members, create original, helpful, and consistent writing across various platforms, we've put together this content guideline as a reference whenever we're writing for Dwarves."
 date: 2024-05-03
-description: To help all our Dwarves team members, create original, helpful, and consistent writing across various platforms, we've put together this content guideline as a reference whenever we're writing for Dwarves.
 authors:
   - innno_
   - nikkingtr
@@ -149,3 +149,4 @@ If you're newish to posting - just post. Don't run around chasing algorithms or 
 ## Reference
 
 Adapted from ["Write content for multimedia guidelines"](write-content-for-multimedia-guidelines.md)
+

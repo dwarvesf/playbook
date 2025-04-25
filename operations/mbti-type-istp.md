@@ -1,12 +1,12 @@
 ---
 title: MBTI Type ISTP
-date: 2021-07-25
 description: All about the ISTP personality type
+date: 2021-07-25
 authors:
   - namtran
 tags:
   - mbti
-  - ISTP
+  - istp
   - people
   - operations
 ---
@@ -175,3 +175,4 @@ Advice: An ISTP can reduce stress by
 - Focusing on what they value
 - Spending time on their own to reenergize
 - Ignoring their concern of how other people perceive them
+

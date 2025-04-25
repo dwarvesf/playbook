@@ -1,15 +1,15 @@
 ---
+title: Offer Letter
+description: The email template is to annouce about new employment.
+date: 2020-01-01
+authors:
+  - nikkingtr
+  - huynguyenh
 tags:
   - template
   - email
   - operations
   - hiring
-title: Offer Letter
-date: 2020-01-01
-description: The email template is to annouce about new employment.
-authors:
-  - nikkingtr
-  - huynguyenh
 ---
 
 **Title**: Dwarves Foundation - Offer letter
@@ -37,3 +37,4 @@ We look forward to having you in the team!
 Best regards,
 
 Dwarves Foundation
+

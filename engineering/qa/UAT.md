@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # UAT Checklist
 
 User Acceptance Testing can be a daunting and frustrating experience. Too often, the exercise becomes an ordeal of tight deadlines, stress, and system issues. While UAT will always be a high-effort activity, good preparation, responsiveness, and follow-up will multiply your chances of success.
@@ -23,3 +29,4 @@ User Acceptance Testing can be a daunting and frustrating experience. Too often,
 - [ ] Outstanding defects that are not fixed should be communicated to the UAT team and got their approval
 - [ ] All parties need to Sign-off UAT officially via Email/Paper or Jira log...
 - [ ] UAT test report should be conducted by UAT/QC team and sent out to all parties
+
