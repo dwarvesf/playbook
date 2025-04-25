@@ -4,8 +4,10 @@ description: Guidelines for project collaboration between Dwarves and our Client
 date: 2020-01-01
 authors:
   - huynguyenh
+  - tieubao
 tags:
   - operations
+  - consulting
   - project
 ---
 
