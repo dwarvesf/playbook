@@ -24,4 +24,3 @@ Our resource management strategy is designed to:
 - **Sustain long-term performance**: Thoughtful planning prevents burnout, ensuring consistent excellence for our clients.
 
 By aligning our resources strategically, we deliver the results clients expect while maintaining a high-performing, engaged team they can rely on.
-

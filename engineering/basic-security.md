@@ -66,4 +66,3 @@ We all use personal mobile devices, so your options are either not to add any co
 When someone finds a possible security issue in our software, we encourage them to report it to our <security@d.foundation> email address.
 
 When an email comes in through this channel, reply quickly with confirmation (and CC <security@d.foundation> so others know that it has been handled) and the information for our PGP key, which is located at <https://d.foundation/security>.
-

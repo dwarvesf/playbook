@@ -78,4 +78,3 @@ We use GLP stack as a remote logging service.
 When an error occurs, we also send them to [Sentry](https://github.com/getsentry/sentry). Sentry is cross-platform application monitoring, with a focus on error reporting.
 
 The developer will receive notification about the case with a detailed stack trace so they could jump in and quickly get it fixed.
-

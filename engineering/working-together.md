@@ -101,4 +101,3 @@ Some notes that we should consider applying
 
 - Sync
 - Communicate to sync
-

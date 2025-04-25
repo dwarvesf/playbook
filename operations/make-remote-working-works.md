@@ -29,4 +29,3 @@ So here are some points that keeps us sane in remote working:
 - **Do your job.** Don't bother people with mundane tasks. Make sure you've tried all solutions before coming to them for advice.
 
 - **Document.** Working remotely means face-to-face discourse and body language are limited. That's when the documents dive in. Note down things and note it detailedly.
-

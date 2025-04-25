@@ -76,4 +76,3 @@ Agile methodology only suggests putting the team to the center of collaboration.
 - What to remember about Scrum?
 
 The small feedback loops.
-

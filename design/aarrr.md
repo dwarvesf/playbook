@@ -41,4 +41,3 @@ Validate the problem by conducting the user interview/usability test. This will 
 ### Ideate on potential solutions
 
 We might get the stakeholders involved in sketching bunch of ideas and more importantly, get their buy-in early on.
-

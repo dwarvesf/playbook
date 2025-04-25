@@ -166,4 +166,3 @@ Discuss the incident response's positive aspects, its shortcomings, and its pote
 ### Corrective Actions
 
 Descrive actions to stop this kind of situation from happening again. Make sure to note who is responsible and what task will need to be completed in what time span.
-

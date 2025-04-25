@@ -26,4 +26,3 @@ The tech guys want to know how cool you are in tech perspective
 
 - [ ] Does it contain the technical challenge?
 - [ ] Does it contain the system design & architecture design?
-

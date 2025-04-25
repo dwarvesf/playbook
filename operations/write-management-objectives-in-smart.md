@@ -10,8 +10,7 @@ tags:
   - goal
 ---
 
->
-_S.M.A.R.T. goals are a relatively new idea. In 1981, George T. Doran, a consultant and former director of corporate planning for Washington Water Power Company, published a paper called, “There’s a S.M.A.R.T. Way to Write Management’s Goals and Objectives.” In the document, he introduces S.M.A.R.T. goals as a tool to create criteria to help improve the chances of succeeding in accomplishing a goal_
+> _S.M.A.R.T. goals are a relatively new idea. In 1981, George T. Doran, a consultant and former director of corporate planning for Washington Water Power Company, published a paper called, “There’s a S.M.A.R.T. Way to Write Management’s Goals and Objectives.” In the document, he introduces S.M.A.R.T. goals as a tool to create criteria to help improve the chances of succeeding in accomplishing a goal_
 
 ## S – Specific
 
@@ -56,4 +55,3 @@ _Incorrect Goal: Make on the website the section “Contact Us” for a demonstr
 - **Time**-**Bound:** In 3 months.
 
 → **SMART Goal:** In 3 months, we'll see a 50% increase in the number of our email blog subscribers by increasing our Facebook advertising budget on posts that historically acquire the most blog subscribers
-

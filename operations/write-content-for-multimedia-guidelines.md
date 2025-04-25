@@ -148,4 +148,3 @@ Here’s a simple chart to help you assess and generate the right tone in a cert
 ## Overall
 
 Remember, the goal is to write content that resonates with your audience. The more they can relate to what you're saying, the more likely they are to engage with your content.
-

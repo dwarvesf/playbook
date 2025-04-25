@@ -41,4 +41,3 @@ tags:
 - [ ] Check the asset status
 - [ ] Report for damage (if any)
 - [ ] Sync up with the Admin/Ops Associate
-

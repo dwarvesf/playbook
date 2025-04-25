@@ -92,4 +92,3 @@ While the vast majority of base code style is enforced by [ESLint](https://eslin
 - [Writting test](writing-test.md)
 - [UI checklist](ui-checklist.md)
 - [Logging and monitoring](logging-monitoring.md)
-

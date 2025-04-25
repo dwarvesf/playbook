@@ -270,4 +270,3 @@ _Examples_:
 ## Ranking - R
 
 How you grow up and develop your careers.
-

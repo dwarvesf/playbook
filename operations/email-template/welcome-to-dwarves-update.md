@@ -30,4 +30,3 @@ Got a minute? Let’s walk through some of our previous issues at [**log.d.found
 - [**Oct 31: The path to growth at Dwarves**](https://log.d.foundation/06d0a46163914f10831d3146867dde2d#3c1fa5109e9643ab9ca31c5fcc3a3a5c)
 
 _In case this email doesn’t suit your need, please kindly unsubscribe here. Hope to see you again real soon._
-

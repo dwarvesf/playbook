@@ -21,7 +21,7 @@ tags:
 - **Deadline for Data Sync**: Data is sync by EOD next Tuesday.
 - **Outcome**: Weekly leaderboard on delivery.
 
-![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231343953.webp)
+![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231343953.webp)
 
 ### Sync-Up Between Project Lead and Delivery Manager
 
@@ -32,7 +32,7 @@ tags:
   - Milestone Progress.
   - Changelog for the week (will be sent out the following Monday.)
 
-![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231409927.webp)
+![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231409927.webp)
 
 ## Bi-Weekly and Monthly Activities
 
@@ -47,7 +47,7 @@ tags:
   - Celebrate monthly wins.
 - **Recap**: Sent out the following week and highlighted in the monthly community call.
 
-![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231433316.webp)
+![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231433316.webp)
 
 ### Community Call
 
@@ -59,7 +59,7 @@ tags:
   - Monthly Leaderboard of Delivery.
 - **Rewards**: ICY reward and NFT Badge benefiting the holder's achievements.
 
-![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231500387.webp)
+![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231500387.webp)
 
 ### Project Collect Feedback
 
@@ -76,5 +76,4 @@ For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Deliv
 - **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
 - **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 
-![](project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20240122161522695.webp)
-
+![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20240122161522695.webp)

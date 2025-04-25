@@ -77,4 +77,3 @@ For example Medical, Transportation/Logistic, Banking, etc..
   - Unclear specifications: because of incorrect project initiation, specs may not be clear or complete enough for the team members to start the work.
   - Neglecting design: some developers tend to neglect the design processes.
   - Technical risk: the feature about to be implemented is underestimated - not as easy as it seems to be.
-

@@ -57,4 +57,3 @@ We continuously evaluate new technologies using our tech radar. They are classif
 - Vue.js
 - Kotlin
 - Swift
-

@@ -69,4 +69,3 @@ Just remember to not mess up with the end users. Our responsibility is to keep t
 - [ ] Email sent to customers.
 - [ ] Email sent to the product owner.
 - [ ] Email sent to the project team.
-

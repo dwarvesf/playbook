@@ -60,4 +60,3 @@ Every 3 monts, we update and synchronize project charters and artifacts below.
 **`.env` document**
 
 **Potential issues, roadblocks**
-

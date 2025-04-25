@@ -66,4 +66,3 @@ There's a few checklist item to follow at [release.md](release.md). In short
 - Things are well-tested and known issues are specified.
 - Having people in charge of product quality sign-off the release.
 - Be careful with the deployment step, migration, and back-up.
-

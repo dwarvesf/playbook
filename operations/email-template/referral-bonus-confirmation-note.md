@@ -31,4 +31,3 @@ _Please be noted that this bonus will be included into your monthly payslip and 
 Thank you for helping us meet another cool teammate. If you have any questions regarding the effective date, please let me know.
 
 Regards,
-

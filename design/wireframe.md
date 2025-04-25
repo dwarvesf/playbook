@@ -46,4 +46,3 @@ Information architecture (IA) is, like a blueprint, a visual representation of t
 
 - Whimsical
 - Draw.io
-

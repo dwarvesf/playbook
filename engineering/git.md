@@ -275,4 +275,3 @@ git reset --hard 8c76ad1
     -d '{"ref":"refs/heads/D-commit", "sha":"your-commit-sha"}' \
     https://api.github.com/repos/{owner}/{repo}/git/refs
   ```
-

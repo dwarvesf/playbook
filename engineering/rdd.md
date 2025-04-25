@@ -37,4 +37,3 @@ By writing your Readme first you give yourself some pretty significant advantage
 Consider the process of writing the Readme for your project as the true act of creation. This is where all your brilliant ideas should be expressed. This document should stand on its own as a testament to your creativity and expressiveness. The Readme should be the single most important document in your codebase; writing it first is the proper thing to do.
 
 Source: <http://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
-

@@ -27,4 +27,3 @@ tags:
 - [ ] Contract must be signed before initiate the project
 - [ ] The final and signed contract is put on the Official folder on Drive
 - [ ] The contract is stored on Drive including the final PDF and the final source file (i.e Word/Google Docs/Pages)
-

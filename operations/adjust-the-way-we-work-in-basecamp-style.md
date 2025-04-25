@@ -103,4 +103,3 @@ Basecamp is formal enough to keep people concentrated on what they do, but still
 Another thing that drives us toward is how Basecamp makes things transparent. The 'Activity' tab reveals everything we need to know, whenever we need it. That somehow helps us focus on what matters, and reduce the risk of FOMO.
 
 We encourage the Dwarves to bring project/team discussion out to the Campfire, or drop their comment in the thread below every Message Board. Private pings happen sometimes, but not as much as previously. Keep conversations public helps create engaging participation, builds culture, and reduces the need for one-on-one conversations as you feel more obligated to bring something to the table.
-

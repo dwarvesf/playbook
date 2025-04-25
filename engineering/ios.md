@@ -671,4 +671,3 @@ Whenever possible, design your IAP system to store the content for sale server-s
 ### Acknowledgements
 
 Thanks to [Futurice](https://github.com/futurice/ios-good-practices). We hard forked and made a revised version based on their guideline.
-

@@ -162,4 +162,3 @@ We develop strategies and tooling to help ease the debugging process.
 - Verify the system/environment used to produce the error
 - Gather Screenshots and Logs
 - Gather step-by-step description from the user
-

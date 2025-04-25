@@ -33,4 +33,3 @@ But we can have some shortcuts
 - [ ] Supportive
 - [ ] Any issues in previous works?
 - [ ] Personality check via social?
-

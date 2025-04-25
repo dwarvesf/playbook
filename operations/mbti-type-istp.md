@@ -175,4 +175,3 @@ Advice: An ISTP can reduce stress by
 - Focusing on what they value
 - Spending time on their own to reenergize
 - Ignoring their concern of how other people perceive them
-

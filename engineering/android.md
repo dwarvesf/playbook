@@ -545,4 +545,3 @@ There is a wide variety of continuous integration software which provide differe
 ### Acknowledgements
 
 Thanks to [Futurice](https://github.com/futurice/android-best-practices). We hard forked and made a revised version based on their guideline.
-

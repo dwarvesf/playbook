@@ -28,4 +28,3 @@ tags:
 - [ ] Project meeting scheduled
 - [ ] Requirements are clear
 - [ ] Project init and setup
-

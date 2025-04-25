@@ -182,4 +182,3 @@ Advice: An INTJ can reduce stress by:
 - Allowing other people to help by delegating some responsibilities
 - Learning that relaxing does not require pushing themselves to achieve
 - Learning how to connect with people
-

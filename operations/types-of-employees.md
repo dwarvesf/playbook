@@ -29,4 +29,3 @@ A values interview helps you determine if the candidate is going to be a match w
 To be clear, interviewing for values doesn’t guarantee you’ll hire mitochondria. But if you don’t interview for values nor communicate the importance of your values during the interview process, your hiring process is suboptimal at best.
 
 → Source: `https://medium.com/@sarahtavel/the-mitochondria-in-startups-dc6c33e09d99`
-

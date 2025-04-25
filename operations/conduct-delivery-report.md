@@ -55,4 +55,3 @@ Once all data is collected, we compile it into a report with highlights for the 
 - **Issues and Resolutions Logs:** Document any issues encountered and the resolutions implemented.
 
 ![](how-to-conduct-delivery-reports_delivery-report-sample.webp)
-

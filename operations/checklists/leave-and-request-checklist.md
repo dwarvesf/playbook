@@ -56,4 +56,3 @@ After receiving the Basecamp ticket notification:
 - [ ] Remind clients informally via Slack or other communication channels.
 - [ ] Review the holiday plan with the team to address any last-minute issues or concerns.
 - [ ] Send a short reminder about the holiday schedule on Discord.
-

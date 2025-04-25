@@ -27,4 +27,3 @@ tags:
 - [ ] Loop the related people if the discussion need him/her
 - [ ] No swearing
 - [ ] Do not babble in the discussion in which you do not have any responsibility.
-

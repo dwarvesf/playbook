@@ -25,4 +25,3 @@ We encourage you to re-apply for any of our next vacant positions in your expert
 
 Thank you,
 Dwarves Foundation
-

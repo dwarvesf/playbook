@@ -52,4 +52,3 @@ Defect/issue template that we should use: [Issue Template](defect-template.md)
 - [ ] Do WHITE-BOX vs. BLACK-BOX
 - [ ] Automate when feasible
 - [ ] As a Development Team (Arrange for demonstrations from developers)
-

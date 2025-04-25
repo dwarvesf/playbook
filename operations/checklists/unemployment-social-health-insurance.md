@@ -25,4 +25,3 @@ tags:
 - [ ] Number of inhabitants (photo)
 - [ ] Declaration of Temporary ### Residence
 - [ ] Labour Contract
-

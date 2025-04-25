@@ -179,4 +179,3 @@ To avoid us as a project team from stepping on each other's foot and to ensure a
 - Identifying and obtaining support and advice required for the management, planning and control of the project.
 - Conducting a project evaluation review to assess how well the project was managed
   preparing any follow-on action recommendations
-

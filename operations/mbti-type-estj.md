@@ -184,4 +184,3 @@ Advice: An ESTJ can reduce stress by…
 - Participating in activities that facilitate reflection on their feelings
 - Spending time making a decision
   Realistically evaluating the expectations they have of others
-

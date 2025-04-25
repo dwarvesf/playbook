@@ -31,4 +31,3 @@ Android
 - `Do not` deploy the code first: Do not deploy the code first that write to new columns, and then run the migration. It will only result in errors as the code might try to access non-existing column(s).
 - Ensure the new changes work before you drop anything
 - Use `Feature Flags` whenever possible
-

@@ -34,4 +34,3 @@ Learn your editor's keybindings - after you have gotten used to your editor, try
 ### Should I learn Vim?
 
 Yes, seriously. Maybe not now, maybe you will end up hating it and move back to VSCode (or turned into a [Spacemacs](http://spacemacs.org/) fanboy), but its a [big](https://pascalprecht.github.io/posts/why-i-use-vim/) [fat](https://www.quora.com/What-are-the-advantages-of-Vim-over-other-text-editors) [_YES_](https://www.quora.com/How-useful-is-learning-VI-VIM-for-a-new-programmer).
-

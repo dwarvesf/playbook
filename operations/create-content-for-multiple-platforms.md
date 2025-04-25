@@ -101,7 +101,7 @@ When crafting newsletter:
 
 Dwarves Discord network is where we discuss new tech, industry practices, hang out with friends, and spread positive vibes. If I want to use the platform reflected in what I do, then our copy needs to do just that.
 
- To maintain consistency with our platform's culture:
+To maintain consistency with our platform's culture:
 
 - Keep our posts original, relatable, and reliable content that resonates with the audience.
 - Add a bit of joy, making memorable moments around Discord.
@@ -149,4 +149,3 @@ If you're newish to posting - just post. Don't run around chasing algorithms or 
 ## Reference
 
 Adapted from ["Write content for multimedia guidelines"](write-content-for-multimedia-guidelines.md)
-

@@ -13,7 +13,7 @@ tags:
 
 - Email convention: <first_name><last_name_alias>@d.foundation
 - - Example: <huytq@d.foundation>
-    -- Exception: Operations members with frequent communication will use <first_name>@d.foundation instead. Example: _<han@d.foundation>_
+    -- Exception: Operations members with frequent communication will use <first*name>@d.foundation instead. Example: *<han@d.foundation>\_
 - Google Profile need to be filled with github id OR name: <first_name> <last_name>
 
 ![](naming-convention_email-naming.webp)
@@ -37,4 +37,3 @@ tags:
 
 - Advised to set avatar as your face picture.
 - Name/Nickname should be set as your github name. Otherwise please use <first_name> <last_name>
-

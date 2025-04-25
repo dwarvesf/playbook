@@ -29,4 +29,3 @@ User Acceptance Testing can be a daunting and frustrating experience. Too often,
 - [ ] Outstanding defects that are not fixed should be communicated to the UAT team and got their approval
 - [ ] All parties need to Sign-off UAT officially via Email/Paper or Jira log...
 - [ ] UAT test report should be conducted by UAT/QC team and sent out to all parties
-

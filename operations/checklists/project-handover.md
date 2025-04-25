@@ -25,4 +25,3 @@ tags:
 - [ ] New members know how and where to find information why certain design/implementation decisions are done.
 - [ ] Do pair programming for at least 1 hour (an old member with a new member).
 - [ ] Code review time is scheduled weekly.
-

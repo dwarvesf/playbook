@@ -241,4 +241,3 @@ Additionally, as mentioned in the secrets section, file permissions might not be
 ### Acknowledgements
 
 Thanks to [Futurice](https://github.com/futurice/backend-best-practices). We hard forked and made a revised version based on their guideline.
-

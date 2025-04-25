@@ -77,4 +77,3 @@ We achieve an efficient deployment pipeline by following these best practices:
   - production use `specific semantic tag` e.g. v1.0.0
 - [ ] Make sure the deployment has been shipped to correct environment (production, staging, ...)
 - [ ] For development environment, the database has been setup auto migrate after deploying new version
-

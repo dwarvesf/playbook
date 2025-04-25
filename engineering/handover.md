@@ -89,4 +89,3 @@ Used to verify if handover was successful. Go through this list after one week o
 - [ ] All things that were not clear (mentioned earlier) were resolved.
 - [ ] All handover time is recorded.
 - [ ] Every new member is confident with the project. No? Ask Why.
-

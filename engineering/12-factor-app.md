@@ -130,4 +130,3 @@ Twelve-factor strongly favors languages which provide a REPL shell out of the bo
 
 - In a local deploy, developers invoke one-off admin processes by a direct shell command inside the app’s checkout directory.
 - In a production deploy, developers can use ssh or other remote command execution mechanism provided by that deploy’s execution environment to run such a process.
-

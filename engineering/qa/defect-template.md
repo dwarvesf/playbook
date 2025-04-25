@@ -108,4 +108,3 @@ Read all the sentences, wordings and steps that are used in the bug report. See 
 **Do not use abusive language**
 
 It’s nice that you did a good work and found a bug but do not use this credit for criticizing the developer or to attack any individual.
-

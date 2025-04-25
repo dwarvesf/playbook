@@ -37,4 +37,3 @@ Staging is set up precisely like production. No changes to the production enviro
 The big iron. Logged, monitored, cleaned up periodically, squared away and secured.
 
 This set helps developers to come up with the best technical solutions and resolve issues quickly, and users will only ever notice a new release by the product's increased awesomeness.
-

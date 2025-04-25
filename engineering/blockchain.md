@@ -224,4 +224,3 @@ Pick SWARM when you want faster loading speed and Swarm has a very strong anti-c
 - Multisign wallet
 - Secrets
 - Audit checklist
-

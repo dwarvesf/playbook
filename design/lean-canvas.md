@@ -82,4 +82,3 @@ How we track consumer engagement, excitement, and usage of the product. (SASS, A
 
 How do we stand out from competitors? What puts we ahead of the pack? Why should consumers have confidence in our product above others?
 It has to be something that you already have, and cannot be copied or bought, and would require a considerable amount of time for anyone else to build.
-

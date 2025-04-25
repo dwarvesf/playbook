@@ -83,4 +83,3 @@ The Design Sprint meeting room has to be big enough to fit all the people in the
 
 The exploration phase could take many Sprints as possible until we finalize a suitable solution.
 In the Detailed Design phase, we still apply the Agile method to implement and user-testing the Final version before handoff to our Client.
-

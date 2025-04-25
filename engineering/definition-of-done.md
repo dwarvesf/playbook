@@ -21,4 +21,3 @@ Definition of done also known as **DoD** is a list of criteria which must be met
 - [ ] and it meets his or her expectations.
 
 The Definition of Done ensures everyone on the Team knows exactly what is expected of everything the Team delivers. It ensures transparency and quality fit for the purpose of the product and organization. Getting stories done can double a Teams Velocity.
-

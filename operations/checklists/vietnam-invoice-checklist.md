@@ -27,4 +27,3 @@ tags:
 
 - [ ] Revoke the error invoices
 - [ ] Clamp 3 sheets of the invoice
-

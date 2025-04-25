@@ -69,4 +69,3 @@ A working week at Dwarves must follow, at the bare minimum, planning and report:
 - Weekly planning: written plan as bullet point list & meeting at week start / week end
 - Weekly report: written report as bullet point list, focusing on progress, challenges/issues, lessons learned
 - Daily checkin: written checkin at day end
-

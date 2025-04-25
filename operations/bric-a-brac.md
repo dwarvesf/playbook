@@ -14,4 +14,3 @@ tags:
 - Automate repetitive tasks.
 - Give everyone "admin" access to as much as possible to avoid bottlenecks.
 - Our problems are not unique. We will try manual processes first. When we do build something, it is usually after using other things for years.
-

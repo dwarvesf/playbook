@@ -142,4 +142,3 @@ It is created after we completed designing UI.
 - Principle
 - Protopie
 - Adobe XD
-

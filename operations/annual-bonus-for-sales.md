@@ -26,4 +26,3 @@ For previous deals, you will earn extra **2% of the old money commission**.
 ### FAQ
 
 - Upselling is considered as new money
-

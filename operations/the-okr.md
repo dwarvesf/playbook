@@ -103,4 +103,3 @@ Hygger: [https://dwarvesv.hygger.io/b/64499](https://dwarvesv.hygger.io/b/64499)
 
 1. [https://blog.betterworks.com/keys-okr-success-qa-john-doerr/](https://blog.betterworks.com/keys-okr-success-qa-john-doerr/)
 1. [https://www.youtube.com/watch?v=mJB83EZtAjc](https://www.youtube.com/watch?v=mJB83EZtAjc&feature=youtu.be)
-

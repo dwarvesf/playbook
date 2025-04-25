@@ -126,4 +126,3 @@ Intuition and Feeling
 Search "Type name + function stack", e.g. INFP function stack to get the information.
 
 - Note: **Don't ever tell the candidates that we care about their MBTI.** It can affect the result's accuracy.
-

@@ -257,4 +257,3 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 ![](assets/diagram_mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.
-

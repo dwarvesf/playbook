@@ -24,4 +24,3 @@ We believe in consistency over freedom in coding standards, but you can still fe
 
 - If you have access to the repo, you can simply create a proposal branch with a name that reflects the addition or update.
 - If not, fork the repo and then create a pull request when you're ready to share your changes with us.
-

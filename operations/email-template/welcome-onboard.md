@@ -40,4 +40,3 @@ We are looking forward to working with you. Do not hesitate to contact us if you
 Best regards,
 
 Dwarves Foundation
-

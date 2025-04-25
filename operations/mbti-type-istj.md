@@ -171,4 +171,3 @@ Advice: An ISTJ can reduce stress by
 - Looking to the big picture and putting their stress into perspective
 - Realistically determine what will matter in the future
 - Leaving the situation and trying something uncharacteristic in order to realign their perspective
-

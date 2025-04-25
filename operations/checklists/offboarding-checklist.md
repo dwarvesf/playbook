@@ -73,4 +73,3 @@ An off-boarding process must ensure three things:
 - [ ] Capture information about ongoing experiments or research
 
 Note: This aims for a smooth, positive offboarding that maintains good relations with the departing employee while protecting company interests. The checklist can be adapted to the specific role and company technology/processes.
-

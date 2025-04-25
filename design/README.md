@@ -37,4 +37,3 @@ At each stage, there are several technologies and methodologies being used, we a
 - [UX Research: Probrem & Solution, Personas, User Stories, Journey Mapping](/design/UX.md)
 - [Wireframe](/design/wireframe.md)
 - [Prototype](/design/prototype.md)
-
