@@ -34,7 +34,7 @@ Meeting notes for Sprint planning and Sprint retrospective will be sent within 3
 
 ## Workflow
 
-### Project Management
+### Project management
 
 - All team members must be involved in Sprint planning
 - Milestones and features (epics) should be put on Jira/Basecamp during the Project kick-off phase
@@ -43,7 +43,7 @@ Meeting notes for Sprint planning and Sprint retrospective will be sent within 3
 - The intention of every Sprint is “Potentially Shippable” Software, things can go wrong and features might get pushed to the next Sprint
 - Every 2 weeks, the Team Lead, Product Manager/Project Manager, and Account Manager will have a quick 15 minutes meeting to review the work progress and resolve any conflicts (if any)
 
-### Design <> Development
+### Design <> development
 
 - The design team should at least provide:
   - Color palette (all that are used throughout the UI)
@@ -51,7 +51,7 @@ Meeting notes for Sprint planning and Sprint retrospective will be sent within 3
   - Base components (.eg headings, button variants, and states,...)
 - A new design version is expected to be available and reviewed **by the development team** before the Sprint started
 
-### Backend <> Frontend
+### Backend <> frontend
 
 - Pre-requisite:
   - API versioning & documentation (.eg Swagger)
@@ -59,7 +59,7 @@ Meeting notes for Sprint planning and Sprint retrospective will be sent within 3
 - Backend should enable CORS on either API gateway or at the application level
 - Both sides should agree on the same glossary/naming conventions / data schema, preferably within the first Sprint
 
-### Quality Assurance <> Development
+### Quality assurance <> development
 
 - Bugs/issues raised should include:
   - Steps to reproduce, behaviorally described from application's entry to bug encounter
@@ -145,7 +145,7 @@ The Client will have **10** **(Ten) business days** to complete these invoice
 
 Our Accountant and Account Manager will send out reminders to the Clients who may have forgotten about the outstanding invoices. If any Client failed to complete the payment on time and failed to submit a request for an extended payment deadline to Dwarves Foundation, we will add a *10% interest rate/month* to the outstanding invoice(s).
 
-## Project Responsibility Scope
+## Project responsibility scope
 
 To avoid us as a project team from stepping on each other's foot and to ensure a healthy relationship for the team and Client.
 

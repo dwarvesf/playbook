@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Production Checklist
+# Production checklist
 
 - [ ] Long-running processes such as email should delivery being run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?

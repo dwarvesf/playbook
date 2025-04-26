@@ -4,11 +4,11 @@ description: null
 date: null
 ---
 
-# Continuous Integration
+# Continuous integration
 
 ## What
 
-Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
+Continuous integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
 
 One of the key benefits of integrating regularly is that you can detect errors quickly and locate them more easily. As each change introduced is typically small, pinpointing the specific change that introduced a defect can be done quickly.
 
@@ -27,7 +27,7 @@ Without a robust CI pipeline, a disconnect between the engineering team and the 
   - dependencies caching: cached go vendor or `node_modules` dir can significantly improve pipeline speed
 - Collect build artifacts: can be helpful to re-verify previous builds manually
 
-# Continuous Delivery
+# Continuous delivery
 
 Continuous integration, deployment, and delivery are three phases of an automated software release pipeline. These three phases take software from idea to delivery to the end-user. The integration phase is the first step in the process. Integration covers the process of multiple developers attempting to merge their code changes with the master code repository of a project.
 

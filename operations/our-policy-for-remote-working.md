@@ -25,7 +25,7 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 ## Adoption
 
-### Plan & Prepare Beforehand
+### Plan & prepare beforehand
 
 It's your responsibility to both make sure you are effective and don't let your teammates down , regardless of the location you work from. This means that you should plan & prepare in your free time before you leave to work remotely.
 
@@ -47,11 +47,11 @@ It's also a good idea to be proactive about letting teammates know what you're w
 
 With increased individual flexibility, since we're all working at the same time less, it's important to go above and beyond in letting people know when we are around.
 
-### Calendar Updates
+### Calendar updates
 
 If you're working remotely or from home, you should put a calendar event indicating where you are working from for all the time you are out of the office.
 
-### Extended Remote Work
+### Extended remote work
 
 If you're planning to work remotely for more than 3 consecutive days, or you're planning to work remotely from a place that's not your home (i.e. from a partner's home in a different city), you'll need to follow these additional guidelines. Even more than standard remote work, working remotely for an extended period of time is a privilege , it will require a large amount of extra work from you to make sure that the team is effective with you working remotely.
 
@@ -88,7 +88,7 @@ If you're attending a meeting remotely, you should join the video call before a 
 
 For some meetings, voice calls will be sufficient - this decision is up to the meeting organizer when they create the meeting.
 
-## Manager Retrospectives
+## Manager retrospectives
 
 ### Loss of the privilege
 

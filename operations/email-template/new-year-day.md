@@ -1,5 +1,5 @@
 ---
-title: New Year Day
+title: New year day
 description: "The email template that you need to send to client when it's near holiday to announce about the absence."
 date: 2020-01-01
 authors:
@@ -19,7 +19,7 @@ Dear [**company name**],
 
 Dwarves Foundation would like to thank you for your kind cooperation during the time.
 
-New Year's Eve and New Year Day have always been the time that everyone is looking forward to and we are no different from you. It is the symbol for festivities to say goodbye to the last year and mark the start of the new one.
+New Year's Eve and New year day have always been the time that everyone is looking forward to and we are no different from you. It is the symbol for festivities to say goodbye to the last year and mark the start of the new one.
 
 According to the Government’s regulation about the public holiday [**year**], we are pleased to inform the schedule of the holiday as follow:
 

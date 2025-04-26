@@ -4,9 +4,9 @@ description: null
 date: null
 ---
 
-# Development Security Checklist
+# Development security checklist
 
-##### TRANSMITING INFORMATION
+##### Transmitting information
 
 - [ ] Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).
 - [ ] Don't accept passwords or session tokens over HTTP.
@@ -18,7 +18,7 @@ date: null
 - [ ] Use secure cookies.
 - [ ] Avoid protocol-relative URLs.
 
-##### STORING INFORMATION
+##### Storing information
 
 - [ ] Never store secrets (passwords, keys, etc.) in the sources in version control.
 - [ ] Don't log passwords.
@@ -59,7 +59,7 @@ date: null
 - [ ] Set an expiration on the reset password token for a reasonable period.
 - [ ] Expire the reset token after it has been successfully used.
 
-##### USER DATA & AUTHORIZATION
+##### User data & authorization
 
 - [ ] Any resource access like, `my cart`, `my history` should check the logged in user's ownership of the resource using session id.
 - [ ] Serially iterable resource id should be avoided. Use `/me/orders` instead of `/user/37153/orders`. This acts as a sanity check in case you forgot to check for authorization token.
@@ -69,7 +69,7 @@ date: null
 - [ ] For user ids and other ids, use [RFC compliant](http://www.ietf.org/rfc/rfc4122.txt) `UUID` instead of integers. You can find an implementation for this for your language on Github.
 - [ ] JWT are awesome. Use them if required for your single page app/APIs.
 
-##### SANITIZATION OF INPUT
+##### Sanitization of input
 
 - [ ] `Sanitize` all user inputs or any input parameters exposed to user to prevent [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting).
 - [ ] Always use parameterized queries to prevent [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection).
@@ -79,7 +79,7 @@ date: null
 - [ ] Sanitize inputs that take some sort of URLs to prevent [SSRF](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit#heading=h.t4tsk5ixehdd).
 - [ ] Sanitize Outputs before displaying to users.
 
-##### ANDROID / IOS APP
+##### Android / iOS app
 
 - [ ] `salt` from payment gateways should not be hardcoded.
 - [ ] `secret` / `auth token` from 3rd party SDK's should not be hardcoded.
@@ -88,7 +88,7 @@ date: null
 - [ ] On iOS, store sensitive information (authentication tokens, API keys, etc.) in the system keychain. Do **not** store this kind of information in the user defaults.
 - [ ] [Certificate pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning) is highly recommended.
 
-##### SECURITY HEADERS & CONFIGURATIONS
+##### Security headers & configurations
 
 - [ ] `Add` [CSP](https://en.wikipedia.org/wiki/Content_Security_Policy) header to mitigate XSS and data injection attacks. This is important.
 - [ ] `Add` [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery) header to prevent cross site request forgery. Also add [SameSite](https://tools.ietf.org/html/draft-ietf-httpbis-cookie-same-site-00) attributes on cookies.

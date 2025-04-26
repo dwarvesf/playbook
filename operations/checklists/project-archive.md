@@ -1,5 +1,5 @@
 ---
-title: Project Archive
+title: Project archive
 description: The checklist shows how the project will be archive
 date: 2022-01-01
 authors:

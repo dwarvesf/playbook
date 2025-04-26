@@ -6,24 +6,24 @@ date: null
 
 # Best practices in blockchain development
 
-- [N Commandments](#n-commandments)
+- [N commandments](#n-commandments)
 - [Encryption knowledge](#encryption-knowledge)
   - [Basic concepts](#basic-concepts)
   - [Digital signature extension](#digital-signature)
   - [Merkle tree](#merkle-tree)
-- [Blockchain Basics](#blockchain-basics)
-  - [Learn the basics of Distributed Ledger Technology]
+- [Blockchain basics](#blockchain-basics)
+  - [Learn the basics of distributed ledger technology]
   - [Ethereum blockchain](#ethereum-blockchain)
-  - [Elliptic Curve Cryptography](#elliptic-curve-cryptography)
+  - [Elliptic curve cryptography](#elliptic-curve-cryptography)
   - [Proof of Work](#proof-of-work)
-  - [Proof of Stake](#proof-of-stake)
-  - [Practical Byzantine Fault Tolerance]
+  - [Proof of stake](#proof-of-stake)
+  - [Practical byzantine fault tolerance]
 - [Development environment setup in README.md]
   - [Hardhat]
   - [Anchor]
 - [Blockchain data]
   - [General considerations]
-  - [Introduction to Distributed Storage]
+  - [Introduction to distributed storage]
   - [Persistence solutions]
     - [IPFS]
     - [SWARM]
@@ -61,7 +61,7 @@ date: null
 - [General questions to consider](#general-questions-to-consider)
 - [Generally proven useful tools](#generally-proven-useful-tools)
 
-# N Commandments
+# N commandments
 
 1. README.md in the root of the repo is the docs
 2. Single command run
@@ -75,14 +75,14 @@ date: null
 
 ## [Basic concepts](https://www.geeksforgeeks.org/digital-signatures-certificates/)
 
-### Types of Encryption
+### Types of encryption
 
 - Symmetric Encryption
 - Asymmetric Encryption
 - Public key– Key which is known to everyone. Ex-public key of A is 7, this information is known to everyone.
 - Private key– Key which is only known to the person who’s private key it is.
 
-### Digital Signature Multi-signature, Blind signature, Group signature, Ring signature
+### Digital signature multi-signature, blind signature, group signature, ring signature
 
 A digital signature is a mathematical technique used to validate the authenticity and integrity of a message, software, or digital document.
 
@@ -90,27 +90,27 @@ A digital signature is a mathematical technique used to validate the authenticit
 - Signing Algorithms: To create a digital signature, signing algorithms like email programs create a one-way hash of the electronic data which is to be signed.
 - Signature Verification Algorithms : Verifier receives Digital Signature along with the data. It then uses Verification algorithm to process on the digital signature and the public key (verification key) and generates some value.
 
-### Merkle Tree
+### Merkle tree
 
 Merkle tree also known as hash tree is a data structure used for data verification and synchronization. It is a tree data structure where each non-leaf node is a hash of it’s child nodes. All the leaf nodes are at the same depth and are as far left as possible. It maintains data integrity and uses hash functions for this purpose.
 
-#### Hash Functions
+#### Hash functions
 
 So before understanding how Merkle trees work, we need to understand how hash functions work. A hash function maps an input to a fixed output and this output is called hash. The output is unique for every input and this enables fingerprinting of data. So, huge amounts of data can be easily identified through their hash.
 
-## Blockchain Basics
+## Blockchain basics
 
-- [Learn the basics of Distributed Ledger Technology](https://developer.ibm.com/tutorials/cl-blockchain-basics-intro-bluemix-trs/)
+- [Learn the basics of distributed ledger technology](https://developer.ibm.com/tutorials/cl-blockchain-basics-intro-bluemix-trs/)
   A distributed ledger is a type of database that is shared, replicated, and synchronized among the members of a decentralized network. The distributed ledger records the transactions, such as the exchange of assets or data, among the participants in the network.
 
 ### Ethereum blockchain
 
-- [Elliptic Curve Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
+- [Elliptic curve cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
 
 #### [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/#top)
 
-- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-- [Practical Byzantine Fault Tolerance](https://blockonomi.com/practical-byzantine-fault-tolerance/)
+- [Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+- [Practical byzantine fault tolerance](https://blockonomi.com/practical-byzantine-fault-tolerance/)
 
 ### Development environment setup
 
@@ -147,16 +147,16 @@ If you find yourself using this all the time, you can set it with an environment
 - Using anchor framework to develop smart contracts on Solana network
 - Anchor is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
 
-##### High-level Overview
+##### High-level overview
 
 An Anchor program consists of three parts. The program module, the Accounts structs which are marked with #[derive(Accounts)], and the declare_id macro. The program module is where you write your business logic. The Accounts structs is where you validate accounts. Thedeclare_id macro creates an ID field that stores the address of your program. Anchor uses this hardcoded ID for security checks and it also allows other crates to access your program's address.
 
-##### The Accounts Struct
+##### The accounts struct
 
 The Accounts struct is where you define which accounts your instruction expects and which constraints these accounts should adhere to. You do this via two constructs: Types and constraints.
 Bạn nên cân nhắc kĩ những gì sẽ được lưu trong account để đảm bảo chi phí và dữ liệu được lưu đầy đủ. Account có giới hạn về kích thước bộ nhớ nên sẽ không thể lưu vô hạn
 
-##### The Program Module
+##### The program module
 
 - Your source code should be split down into small modules and linked together appropriately.
 - Context is the first parameter passed to the function, through the context can access the list of accounts, program id, remaining accounts.
@@ -167,7 +167,7 @@ Bạn nên cân nhắc kĩ những gì sẽ được lưu trong account để đ
 
 - General considerations
 
-### Introduction to Distributed Storage
+### Introduction to distributed storage
 
 ### Persistence solutions
 
@@ -181,7 +181,7 @@ Pick SWARM when you want faster loading speed and Swarm has a very strong anti-c
 
 [Compare swarm and IPFS](https://github.com/ethersphere/swarm/wiki/IPFS-&-SWARM)
 
-## Solidity - Smart contract
+## Solidity - smart contract
 
 - Solidity Smart contract best practice
   - [General](../engineering/blockchain/general.md) Guiding principles that should be kept in mind during development.
@@ -207,7 +207,7 @@ Pick SWARM when you want faster loading speed and Swarm has a very strong anti-c
 - Web3JS
 - Provider
 
-## EIP Ethereum Improvement Proposals
+## EIP Ethereum improvement proposals
 
 - [General](https://github.com/ethereum/EIPs/tree/master/EIPS)
   EIP stands for Ethereum Improvement Proposal. An EIP is a design document providing information to the Ethereum community, or describing a new feature for Ethereum or its processes or environment. The EIP should provide a concise technical specification of the feature and a rationale for the feature. The EIP author is responsible for building consensus within the community and documenting dissenting opinions.

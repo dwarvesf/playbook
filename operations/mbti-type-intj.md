@@ -1,5 +1,5 @@
 ---
-title: MBTI Type INTJ
+title: MBTI type INTJ
 description: All about the INTJ personality type
 date: 2021-07-26
 authors:
@@ -11,7 +11,7 @@ tags:
   - operations
 ---
 
-### Preferred Work Environment
+### Preferred work environment
 
 - Offers opportunities to work with people who are experts in their field
 - Is on the cutting edge or innovative
@@ -19,7 +19,7 @@ tags:
 - Is hard driving and achievement oriented
 - Challenges people intellectually
 
-### How Type Affects Career Exploration
+### How type affects career exploration
 
 How you go about exploring career options will be influenced by your INTJ preferences. Your type will help you in your career exploration activities in distinct ways, just as it may present some distinct challenges for you.
 
@@ -44,7 +44,7 @@ When exploring career options, an INTJ will often
 - Research jobs and their future outlook but may neglect considering specific aspects of a career
 - Use an objective approach to evaluate the pros and cons of each potential career
 
-### How Type Affects Career Development
+### How type affects career development
 
 The career development process will be influenced by INTJ preferences. Career development almost always involves coping with new demands that do not come naturally to you and often requires working and communicating with people with different preferences. At times, career change can be a beneficial stimulus to further development of your type. Type development means knowing and accepting your natural preferences and then consciously choosing to use nonpreferred preferences in certain situations when appropriate. Listed below are some typical strengths of and challenges faced by INTJs, as well as some suggestions for development.
 
@@ -67,7 +67,7 @@ During an interview, an INTJ will often:
 - Need to be open to discussing their ideas and accepting criticism
 - Need to ensure they display an eager attitude for the job
 
-### INTJ and Work
+### INTJ and work
 
 At work, the INTJ will often:
 
@@ -145,7 +145,7 @@ The INTJ should be aware that they may need to:
 - Listening to the peoples personal sharing and respond without being unfriendly or impersonal
 - Communicate their own feelings that relate to a situation
 
-### Decision Making
+### Decision making
 
 When it comes to decision making, the INTJ will often:
 

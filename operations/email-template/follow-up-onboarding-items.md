@@ -1,5 +1,5 @@
 ---
-title: Follow-up Onboarding Items
+title: Follow-up onboarding items
 description: The email template is inform new employee about company communication channel and mentor profile. - nikkingtr - hnh
 date: 2020-01-01
 tags:

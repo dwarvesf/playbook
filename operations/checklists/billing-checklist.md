@@ -11,7 +11,7 @@ tags:
   - checklist
 ---
 
-## Invoice Process
+## Invoice process
 
 ### Person In Charge (PIC)
 

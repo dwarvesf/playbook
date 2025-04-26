@@ -1,5 +1,5 @@
 ---
-title: Project Communication
+title: Project communication
 description: The checklist shows the rule of communication in a project
 date: 2022-01-01
 authors:

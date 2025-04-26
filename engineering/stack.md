@@ -4,9 +4,9 @@ description: null
 date: null
 ---
 
-# Technology Stack
+# Technology stack
 
-### Our perspective on Technology
+### Our perspective on technology
 
 #### New technology needs to provide actual value over existing solutions
 
@@ -23,7 +23,7 @@ We continuously evaluate new technologies using our tech radar. They are classif
 - Assess: Worth exploring with the goal of understanding how it will affect the company.
 - Hold: The items that need to proceed with caution.
 
-### Technology Index
+### Technology index
 
 #### Tools
 

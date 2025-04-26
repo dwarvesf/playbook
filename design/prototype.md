@@ -1,5 +1,5 @@
 ---
-title: "Low-fidelity prototype: UI Design"
+title: "Low-fidelity prototype: UI design"
 description: Design systems enable teams to build better products faster by making design reusable, reusability makes scale possible.
 date: 2023-10-16
 authors:
@@ -36,14 +36,14 @@ Delivering a harmonious color scheme is clean and eye-friendly.
 - **Iconography**
   Define icon style based on elements’ style and branding characteristics. Icon color is defined following the color palette of the product.
 
-- **Illustration & Image**
+- **Illustration & image**
   Illustration and image are used in accordance with content and style
   You should apply a mask to bitmaps image when you export to an image file.
 
 - **Platform**
   Specify a particular screen (Desktop, Mobile or Tablet); divide into grid layout to align elements into columns, rows.
 
-- **Grid Layout**
+- **Grid layout**
   Grids are a framework that speeds up the designer-to-developer workflow by allowing developers to pre-set classes in their code that correspond to column sizes.
 
         - Select a suitable grid (we generally use 12 columns)
@@ -53,19 +53,19 @@ Delivering a harmonious color scheme is clean and eye-friendly.
 - **Responsive retrofitting**
   We live in a multiscreen-world. Everything needs to work across devices so responsive is a way to design a flexible screen. According to the requirement’s client or platform, we can decide on having a responsive or not.
 
-## Demo Design
+## Demo design
 
 Design some demo screens and send to the client to verify style, color palette, typeface, font-size, etc. In case the client hasn’t decided on color palette yet, we will design without color first. Creating a screen in a grayscale color palette before adding color forces to focus layout, text style and spacing.
 
-## Design System
+## Design system
 
-### What is Design System
+### What is Design system
 
 Design systems enable teams to build better products faster by making design reusable, reusability makes scale possible. This is the heart and primary value of design systems. A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
 ![](assets/d56a8496bb80c42b7c2b89d718b1da48_MD5.avif)
 
-### How we build Design System
+### How we build Design system
 
 #### Purpose and shared values
 
@@ -116,7 +116,7 @@ List all design components with all states such as input, press, hover, etc.; ca
 - Sketch
 - Adobe XD
 
-### High-fidelity Prototype: Interactive Design
+### High-fidelity prototype: interactive design
 
 #### What
 

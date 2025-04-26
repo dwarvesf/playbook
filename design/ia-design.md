@@ -1,5 +1,5 @@
 ---
-title: Information Architecture
+title: Information architecture
 description: null
 date: 2023-10-18
 draft: true

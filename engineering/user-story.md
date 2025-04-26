@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Agile requirement - User Story
+# Agile requirement - user story
 
 ## What is User Story?
 
@@ -45,7 +45,7 @@ INVEST is an acronym which encompasses the following concepts which make up a go
 - **S**mall (appropriately sized)
 - **T**estable
 
-## Some Myths about User Story that you should know
+## Some myths about user story that you should know
 
 - User Stories are NOT a final requirement but rather a conversation starter between all roles
 - User Stories do not always result in a feature that end-user could use, like [Spike User Story](https://www.leadingagile.com/2016/09/whats-a-spike-who-should-enter-it-how-to-word-it/)

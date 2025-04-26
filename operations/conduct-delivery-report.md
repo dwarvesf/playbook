@@ -17,9 +17,9 @@ Our goal is to allocate resources efficiently, assign the right staff to the rig
 
 Below is the process that our delivery team follows to answer these questions effectively:
 
-### Data Gathering
+### Data gathering
 
-#### Artifact Collection
+#### Artifact collection
 
 Collect the proof of work each project team delivered during the month. This includes:
 
@@ -29,7 +29,7 @@ Collect the proof of work each project team delivered during the month. This inc
 
 From this process, we also observe and gather potential problems, both technical and managerial.
 
-#### Team Performance
+#### Team performance
 
 Evaluate the team's performance based on the following criteria:
 
@@ -38,7 +38,7 @@ Evaluate the team's performance based on the following criteria:
 - Do tech leads/project managers ensure delivery quality and effective team management?
 - Assess each team member's performance and workload (to be discussed with team leads).
 
-#### Project Priority
+#### Project priority
 
 Assess the importance of each project based on factors such as:
 
@@ -46,12 +46,12 @@ Assess the importance of each project based on factors such as:
 - Potential to open new opportunities
 - Strategic partnerships
 
-### Conducting the Report
+### Conducting the report
 
 Once all data is collected, we compile it into a report with highlights for the following items:
 
-- **Project Sorting by Importance:** Rank projects based on their priority and significance to our overall goals.
-- **Client Happiness and Performance Ratings:** Rate client satisfaction, lead performance, and account performance on a scale of 1 to 5.
-- **Issues and Resolutions Logs:** Document any issues encountered and the resolutions implemented.
+- **Project sorting by importance:** Rank projects based on their priority and significance to our overall goals.
+- **Client happiness and performance ratings:** Rate client satisfaction, lead performance, and account performance on a scale of 1 to 5.
+- **Issues and resolutions logs:** Document any issues encountered and the resolutions implemented.
 
 ![](assets/how-to-conduct-delivery-reports_delivery-report-sample.webp)

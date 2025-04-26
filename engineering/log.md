@@ -63,7 +63,7 @@ Trace: call service is failed
          - at pkg/handler/order.go:60 (Handler.doValidateCreateOrder)
 ```
 
-## Remote Logging Service
+## Remote logging service
 
 We use GLP stack as a remote logging service.
 
@@ -73,7 +73,7 @@ We use GLP stack as a remote logging service.
 
 ![](assets/log_glp.webp)
 
-## Remote Error Tracking Service
+## Remote error tracking service
 
 When an error occurs, we also send them to [Sentry](https://github.com/getsentry/sentry). Sentry is cross-platform application monitoring, with a focus on error reporting.
 

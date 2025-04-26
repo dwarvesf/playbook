@@ -1,5 +1,5 @@
 ---
-title: "Confirm Employee's Resume Date Day"
+title: "Confirm employee's resume date day"
 description: The email template is to welcome employee back to work.
 date: 2020-01-01
 authors:

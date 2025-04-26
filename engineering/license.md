@@ -12,7 +12,7 @@ By definition, license is a permit from an authority to own or use something. In
 
 Understanding licenses will help you to prevent a lot of painful situation in the future, including lawsuit involvement.
 
-## Copyright and Copyleft
+## Copyright and copyleft
 
 _In general, copyright law is used by an author to prohibit recipients from reproducing, adapting, or distributing copies of their work._
 
@@ -34,7 +34,7 @@ Copyleft software licenses are considered protective or reciprocal, as contraste
 
 ### Using other's work
 
-- **NEVER, EVER** use anyone code/product without the proper license (Cracked software, Unauthorize licenses...).
+- **Never, ever** use anyone code/product without the proper license (Cracked software, Unauthorize licenses...).
 
 - If you use an opensource that is under any copyleft license (Example: GNU General Public License), you should understand that your code must be under the same license, meaning, it must be public.
 - **Don't use any code that under copyleft license OR does not have any license associated (copyrighted) in client project.**

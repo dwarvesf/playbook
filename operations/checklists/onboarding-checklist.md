@@ -15,7 +15,7 @@ Through this process, the employee gradually form their own perspective and thei
 
 ![](assets/onboarding-checklist_onboard.webp)
 
-## Important Notes
+## Important notes
 
 - [ ] Starting on-boarding on the new hire’s first day
 - [ ] Not setting expectations and company policies.
@@ -24,14 +24,14 @@ Through this process, the employee gradually form their own perspective and thei
 - [ ] Limiting on-boarding to one week.
 - [ ] Forgetting to follow-up.
 
-## Offer Email
+## Offer email
 
 An offer email should cover these points
 
 - [ ] Net/gross salary
 - [ ] Onboarding day
 
-## Onboarding Email
+## Onboarding email
 
 After sending the offer email and getting the confirmation from candidate, the onboarding email is sent to request users to complete the oboarding process which include
 

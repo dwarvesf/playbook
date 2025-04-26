@@ -69,21 +69,21 @@ The ideal point is 0.6 - 0.7 point . You may ask why it's not 0.9 or 1, well if 
 
 ### Why is it better than normal KPI indicators?
 
-- **OKRs Increase Clarity**
+- **OKRs increase clarity**
 
 The main goal of OKRs is to connect company, team and personal objectives to measurable results, making people move together in right direction.
 
 > _First, and most importantly, the company must have conviction around goal setting. This commitment needs to come from all levels: the CEO, the senior leadership team, and every team member within the company. That’s the best way to ensure success. - John Doerr_
 
-- **OKRs Increase Focus**
+- **OKRs increase focus**
 
 We'd only focus on the right result leads to our objectives, keep track of the progress and know that we are moving in the right direction
 
-- **OKRs Increase Collaboration**
+- **OKRs increase collaboration**
 
 We’d simply get in touch with the people you’d need to work with on these projects and find a common ground with them so that the work ended up on each person’s OKR list.
 
-### How to apply OKR to team Foundation
+### How to apply OKR to team foundation
 
 **The process**
 

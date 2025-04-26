@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Diagram and Project Document Structure
+# Diagram and project document structure
 
 We have talked about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
 
@@ -23,25 +23,25 @@ Having the answer for those question give us the ability to solve at least three
 ## Artifacts
 
 - [BPMN](#bpmn)
-- [Product Roadmap](#product-roadmap)
-- [User Journey Mapping](#user-journey-mapping)
-- [State Machine](#state-machine)
-- [Sequence Diagram](#sequence-diagram)
-- [Stack Component Diagram](#stack-component-diagram)
-- [Entity Relation Diagram](#erd)
-- [Data Flow](#data-flow)
+- [Product roadmap](#product-roadmap)
+- [User journey mapping](#user-journey-mapping)
+- [State machine](#state-machine)
+- [Sequence diagram](#sequence-diagram)
+- [Stack component diagram](#stack-component-diagram)
+- [Entity relation diagram](#erd)
+- [Data flow](#data-flow)
 
-## Well-Alignment a.k.a Reusability
+## Well-alignment a.k.a reusability
 
-- [Project Drive](#project-drive)
-- [Message Board](#message-board)
+- [Project drive](#project-drive)
+- [Message board](#message-board)
 
 ## Mermaid 101
 
 - [What is Mermaid](#what-is-mermaid)
-- [VScode Plugins](#vscode-plugins)
+- [VSCode plugins](#vscode-plugins)
 
-### Product Roadmap
+### Product roadmap
 
 In SDLC after the requirement analysis phase complete, we need a plan, a map to identify where should we go. **Product Roamap** is the map we need.
 
@@ -49,7 +49,7 @@ In SDLC after the requirement analysis phase complete, we need a plan, a map to 
 
 Answer this question by determining the feasibility of the project and how we can implement the project successfully with the lowest risk in mind.
 
-Take a look at this **Product Roadmap**
+Take a look at this **Product roadmap**
 ![](assets/diagram_product-roadmap.webp)
 It contains main elements:
 
@@ -58,11 +58,11 @@ It contains main elements:
 - Deliverables
 
 Product Manager usually produce this artifact after discussion with Product Owners. This artifact will change periodically. We will review this one after each milestone to make sure the project is still on track.
-Product Roadmap, Milestone is the goal for every developed features of a succesfull project.
+Product roadmap, Milestone is the goal for every developed features of a succesfull project.
 
 Consider using [Whimsical](https://whimsical.com/) if you are used to drawing tool.
 
-### User Journey Mapping
+### User journey mapping
 
 User journey mapping visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view.
 Note the emotional state of users at each step of their journey.
@@ -101,7 +101,7 @@ Tasks syntax is
 Task name: <score>: <comma separated list of actors>
 ```
 
-### State Machine
+### State machine
 
 A state machine is any device storing the status of something at a given time. The status changes based on inputs, providing the resulting output for the implemented changes.
 
@@ -133,7 +133,7 @@ Consider using [Whimsical](https://whimsical.com/) if you want a neat diagram. O
 
 ![](assets/diagram_state-machine-1.webp)
 
-### Sequence Diagram
+### Sequence diagram
 
 A sequence diagram shows object interactions arranged in time sequence. It depicts the objects involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
 
@@ -214,12 +214,12 @@ For the above diagram
 
 <!--
 
-### Data Flow
+### Data flow
 
-### Stack Component Diagram
+### Stack component diagram
  -->
 
-### Project Drive
+### Project drive
 
 Each project will have its own GDrive folder located on Company GDrive.
 All the project artifact should be export to PNG/JPG/PDF/SVG... and save to corresponding folder within project gdrive.
@@ -229,7 +229,7 @@ You can find your project gdrive follow this pattern.
 
 Usually we will Link the Project Gdrive into Docs & File within Basecamp project. You could find the link to the gdrive from there.
 
-### Message Board
+### Message board
 
 Think about this situation:
 
@@ -237,7 +237,7 @@ Think about this situation:
 
 This is where we say “Okay, this is ready to write up as a pitch.”
 We post [pitches](https://basecamp.com/shapeup/1.5-chapter-06_) as Messages in Basecamp.
-Message Board is the central place for all discussion about project artifacts. In Message board, we can create a Message Category called Pitch/FYI... so we can easily find them later on.
+Message board is the central place for all discussion about project artifacts. In Message board, we can create a Message Category called Pitch/FYI... so we can easily find them later on.
 
 ### What is Mermaid
 
@@ -245,14 +245,14 @@ We use [Mermaid](https://mm.daf.ug/) to quickly define the diagram during projec
 Mermaid is a markdown-based diagram render. Right now we support the following charts/diagrams:
 
 - Flow chart
-- Sequence Diagram
+- Sequence diagram
 - Class Diagram
 - State Diagram
 - Gantt Chart
 - Pie Chart
 - ER Diagram
 
-### VSCode Plugin
+### VSCode plugin
 
 ![](assets/diagram_mermaid-plugins.webp)
 

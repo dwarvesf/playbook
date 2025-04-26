@@ -11,7 +11,7 @@ tags:
   - operations
 ---
 
-## Getting Started
+## Getting started
 
 This is a part from our study how to recognize people traits at the first sight. This guide is made to help HRs or Project Lead have a quick view of potential candidates and/or new teammates personality. Working with nature is more productive than working against it.
 
@@ -19,31 +19,31 @@ No personality type is inherently better or more desirable than another in gener
 
 MBTI reveals **how we tend to interact/think.** It's not that Thinkers don't feel or Feelers don't think, but only that they differ in the degree. The same for other preferences (I/E, S/N, P/J)
 
-## The Basic
+## The basic
 
 The MBTI (Myers-Briggs Type Indicator) is a framework designed to identify a person's personality type, strengths, and preference. Each type have [4 preferences](/cdeaa142edca44669867f8fbb120c342) among 8 available preferences.
 
 <!-- link_to_page 1d622110-b3bd-4b69-81e1-10161a3247e6 -->
 
-### Introverted , Extroverted
+### Introverted , extroverted
 
 **Low energy vs. High energy**
 
 I , E: How we interact
 
-### Sensing , Intuition
+### Sensing , intuition
 
 **Abstract vs. Details, facts**
 
 S , N: How we gather information
 
-### Thinking , Feeling
+### Thinking , feeling
 
 **Logical vs. Emotional**
 
 T , F: How we make decision
 
-### Perceiving , Judging
+### Perceiving , judging
 
 **Open minded , Decisive**
 
@@ -87,7 +87,7 @@ Intuition, Feeling and Judging
 - **I work first, play later** <> I play first, work later
 - **I enjoy experiencing new things** <> I enjoy activities that are familiar
 
-### Sales , Marketing
+### Sales , marketing
 
 Extraverted and Feeling
 (E + F)
@@ -101,7 +101,7 @@ Extraverted and Feeling
 - **I put others' needs ahead of my own** <> I put my needs first
 - **I seek attention from others** <> I avoid attention from others
 
-### People Ops
+### People ops
 
 Intuition and Feeling
 (N + F)

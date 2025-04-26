@@ -10,7 +10,7 @@ Database migration is one of the most important aspects of software development 
 
 ## Summary
 
-- [We use the Core Data as a database framework.](#the-tool)
+- [We use the Core Data as a database framework](#the-tool)
 - [You can skip the migration if you just use the storage as an offline cache.](#when-not)
 - [We follow the **Progressive migration** method to model the migration steps.](#progressive-migration)
 
@@ -26,9 +26,9 @@ There are some cases in which you can avoid a migration. If an app is using Core
 
 Migrations in Core Data can be handled using one of two techniques:
 
-- [Lightweight Migration](#lightweight-migration) - when Core Data can automatically infer how the migration should happen and creates the mapping model on the fly.
+- [Lightweight migration](#lightweight-migration) - when Core Data can automatically infer how the migration should happen and creates the mapping model on the fly.
 
-- [Standard Migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmMappingOverview.html###//apple_ref/doc/uid/TP40004399-CH5-SW1) - when Core Data cannot infer how the migration should happen and so we must write a custom migration by providing a mapping model (`xcmappingmodel`) and/or a migration policy (`NSEntityMigrationPolicy`).
+- [Standard migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmMappingOverview.html###//apple_ref/doc/uid/TP40004399-CH5-SW1) - when Core Data cannot infer how the migration should happen and so we must write a custom migration by providing a mapping model (`xcmappingmodel`) and/or a migration policy (`NSEntityMigrationPolicy`).
 
 ## The default migration process
 
@@ -517,7 +517,7 @@ For Entities:
 - [Few tips on Core Data migration](https://yalantis.com/blog/few-tips-on-coredata-migration/)
 - [Progressive Core Data migration](https://williamboles.me/progressive-core-data-migration/)
 - [Core Data programming guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1)
-- [Using Lightweight migration](https://developer.apple.com/documentation/coredata/using_lightweight_migration)
+- [Using lightweight migration](https://developer.apple.com/documentation/coredata/using_lightweight_migration)
 - [Lightweight migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmLightweightMigration.html)
 - [Standard migration](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/vmMappingOverview.html#%23%23//apple_ref/doc/uid/TP40004399-CH5-SW1)
-- [Migration Policy](https://stackoverflow.com/questions/40647764/swift-coredata-migration-set-new-attribute-value-according-to-old-attribute/40662940#40662940)
+- [Migration policy](https://stackoverflow.com/questions/40647764/swift-coredata-migration-set-new-attribute-value-according-to-old-attribute/40662940#40662940)

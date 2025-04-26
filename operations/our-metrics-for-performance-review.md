@@ -150,7 +150,7 @@ By building this designation directly into the evaluation matrix, outstanding ni
 
 10x engineer can't be an asshole. They will decrease the performance of the people around them.
 
-## The Dark Triad
+## The dark triad
 
 [📎 dark-triad.pdf]()
 

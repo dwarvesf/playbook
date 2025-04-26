@@ -10,20 +10,20 @@ tags:
   - internal
 ---
 
-## Weekly Activities
+## Weekly activities
 
-### Weekly Points/Effort Report
+### Weekly points/effort report
 
 **Every Friday**
 
 - **Action**: Fill out the weekly points/effort report.
 - **Link**: [Weekly Report Spreadsheet](https://docs.google.com/spreadsheets/d/1KXUVyDrC9199Dp6wpT6ovIkIvZRtf455eaqwZmvTAFU/edit#gid=0).
-- **Deadline for Data Sync**: Data is sync by EOD next Tuesday.
+- **Deadline for data sync**: Data is sync by EOD next Tuesday.
 - **Outcome**: Weekly leaderboard on delivery.
 
 ![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231343953.webp)
 
-### Sync-Up Between Project Lead and Delivery Manager
+### Sync-up between project lead and delivery manager
 
 **Every Friday at 2:30 PM**
 
@@ -34,9 +34,9 @@ tags:
 
 ![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231409927.webp)
 
-## Bi-Weekly and Monthly Activities
+## Bi-weekly and monthly activities
 
-### Project Demo/Showcase
+### Project demo/showcase
 
 **Every 3rd Wednesday**
 
@@ -49,7 +49,7 @@ tags:
 
 ![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231433316.webp)
 
-### Community Call
+### Community call
 
 **Last Friday of the Month**
 
@@ -61,7 +61,7 @@ tags:
 
 ![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20231205231500387.webp)
 
-### Project Collect Feedback
+### Project collect feedback
 
 For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Delivery team or Project Leader will send out an email to client to gather feedbacks for our Dwarves members through this form: [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScVkRDy9w5_j_Tkj2MXs2Yi_n8yTUqNNBqy8w1-E3Beauodsw/viewform)
 
@@ -71,9 +71,9 @@ For every 3 or 6 months, by **Monday of the 1st week from the 1st month**, Deliv
 - Start Stop Continue doing feedback model: to understand how we can improve our delivery better.
 - Leadership metrics: how effectiveness on the management from our Team Leader and Team Members.
 
-## Important Reminders
+## Important reminders
 
-- **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
-- **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
+- **Weekly report completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
+- **Project achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 
 ![](assets/project-schedule-delivery-guidelines_project-delivery-schedule-and-guidelines-20240122161522695.webp)

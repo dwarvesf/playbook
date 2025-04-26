@@ -1,5 +1,5 @@
 ---
-title: Vietnam Invoice
+title: Vietnam invoice
 description: The processs of taking Vietnam invoice
 date: 2020-01-01
 authors:
@@ -23,7 +23,7 @@ tags:
 - [ ] Mark new address
 - [ ] Send invoice to customer
 
-### For Error Invoice
+### For error invoice
 
 - [ ] Revoke the error invoices
 - [ ] Clamp 3 sheets of the invoice

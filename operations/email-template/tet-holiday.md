@@ -1,5 +1,5 @@
 ---
-title: Tet Holiday
+title: Tet holiday
 description: "The email template that you need to send to client when it's near holiday to announce about the absence."
 date: 2020-01-01
 authors:
@@ -19,7 +19,7 @@ Dear [**company name**],
 
 Dwarves Foundation would like to thank you for your kind cooperation during the time.
 
-Tet Holiday, or Vietnamese Lunar New Year, is the most important public holiday in Vietnamese culture. We celebrate the arrival of spring based on the Chinese Calendar by visiting relatives and family reunion.
+Tet holiday, or Vietnamese Lunar New Year, is the most important public holiday in Vietnamese culture. We celebrate the arrival of spring based on the Chinese Calendar by visiting relatives and family reunion.
 
 According to the Government’s regulation about the public holiday -year-, we are pleased to inform the schedule of the holiday as follow:
 

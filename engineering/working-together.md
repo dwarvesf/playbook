@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Pair Programming
+# Pair programming
 
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes.
 
@@ -64,11 +64,11 @@ Paired programmers are only 15% slower than two independent individual programme
 Around 96% of the pair programmers reported in an online survey that they enjoyed their work in a pair programming environment than working alone.
 Establishing a senior-junior combo might be a great step to refine the junior’s skills and proficiency.
 
-## Significant Pair Programming Markers
+## Significant Pair programming Markers
 
 Some notes that we should consider applying
 
-#### During Pairing
+#### During pairing
 
 - Let me drive
 - Could you assist me?
@@ -80,7 +80,7 @@ Some notes that we should consider applying
 - I don’t get the point. Draw me a design
 - Did we overlook something?
 
-#### Take a Short Break
+#### Take a short break
 
 - Can we take a break?
 - Can we switch roles?
@@ -97,7 +97,7 @@ Some notes that we should consider applying
 - Criticize yourself first
 - Slow down
 
-## TAKE AWAY
+## Take away
 
 - Sync
 - Communicate to sync

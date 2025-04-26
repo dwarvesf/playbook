@@ -1,5 +1,5 @@
 ---
-title: Leave Request
+title: Leave request
 description: The checklist of leave and request for the team.
 date: 2024-08-20
 authors:
@@ -16,7 +16,7 @@ As an Ops Team/Manager member, it’s important to manage leave requests effecti
 
 This checklist guides you through verifying, approving, or denying leave requests, and handling holiday notifications, helping to keep everything on track.
 
-### Verification & Notification
+### Verification & notification
 
 - [ ] Acknowledge the employee's leave request.
 - [ ] Discuss the request with the employee.
@@ -25,7 +25,7 @@ This checklist guides you through verifying, approving, or denying leave request
 - [ ] Reassign critical tasks (if necessary).
 - [ ] Plan for to covering the employee’s responsibilities (if necessary).
 
-### Approval/Denial Process
+### Approval/denial process
 
 After receiving the Basecamp ticket notification:
 

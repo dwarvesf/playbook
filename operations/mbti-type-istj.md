@@ -1,5 +1,5 @@
 ---
-title: MBTI Type ISTJ
+title: MBTI type ISTJ
 description: All about the ISTJ personality type
 date: 2021-07-20
 authors:
@@ -11,7 +11,7 @@ tags:
   - people
 ---
 
-### Preferred Work Environment
+### Preferred work environment
 
 - Company where the norms are clear
 - The culture is performance driven and where there is a place for everything and everything is in its place.
@@ -19,7 +19,7 @@ tags:
 - There are clear lines of responsibility and a planning process.
 - They do not like to ‘wing it’ or take risks without being in possession of the facts and having thought things through so that they are clear.
 
-### ISTJ and Career Exploration
+### ISTJ and career exploration
 
 An ISTJ tends to **find career satisfaction** with careers that have the following characteristics:
 
@@ -41,7 +41,7 @@ When **exploring career options**, an ISTJ will often
 - Need to include their personal values as part of the selection criteria
 - Benefit from weighing out all their options to avoid making a hasty career decision
 
-### How Type Affects Career Development
+### How type affects career development
 
 During their job search, an ISTJ will often:
 
@@ -57,7 +57,7 @@ During their job search, an ISTJ will often:
 - Appear uninterested in a position due to their quiet disposition
 - Need to present their enthusiasm for the position
 
-### ISTJ and Work
+### ISTJ and work
 
 At work, the ISTJ will often:
 
@@ -133,7 +133,7 @@ The ISTJ should be aware that they may need to:
 - Make a conscious effort to observe the feelings of other people when providing feedback
 - Vocalize their appreciation of other peoples’ accomplishments
 
-### Decision Making
+### Decision making
 
 When it comes to decision making, the ISTJ will often…
 

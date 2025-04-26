@@ -8,7 +8,7 @@ date: null
 
 ## Testing materials
 
-### Test Plan
+### Test plan
 
 Make sure these items included in your test plan:
 
@@ -19,7 +19,7 @@ Make sure these items included in your test plan:
 - [ ] External testing team (For example: UAT).
 - [ ] Communication method.
 
-### Test Suite/ Test Case
+### Test suite/ test case
 
 Test case should includes those information:
 

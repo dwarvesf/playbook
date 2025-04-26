@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# The 12-factor App
+# The 12-factor app
 
 _The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project._
 
@@ -59,7 +59,7 @@ The code for a twelve-factor app makes no distinction between local and third pa
 
 We use environment variables to configure backing services (database for example), so we can easily change them.
 
-## Build, Release and Run
+## Build, release and run
 
 You must strictly separate the Build (binary), Release (binary and + env config) and Run (exec runtime) stages. Our instances are immutable so we can't make change upstream (ex: it is impossible to make changes to the code at runtime since there is no way to propagate those changes back to the build stage.)
 
@@ -73,7 +73,7 @@ You must strictly separate the Build (binary), Release (binary and + env config)
 
 Twelve-factor processes are stateless and share-nothing. Any data that needs to persist must be stored in a stateful backing service. That’s because resources in a cloud environment are ephemeral and should also be immutable. It, therefore, makes no sense to store files or session data in memory. We have a perfect match with containers because they are designed to run with just one scope, and of course, they are ephemeral.
 
-## Port Binding
+## Port binding
 
 If we said in the backing service pattern that every service should be accessed via URL, that includes our app. Exporting services via port binding will allow us to become a backing service for another app via URL.
 
@@ -122,7 +122,7 @@ The event stream for an app can be routed to a file, or watched via realtime tai
 - Large-scale graphing of trends (such as requests per minute).
 - Active alerting according to user-defined heuristics (such as an alert when the quantity of errors per minute exceeds a certain threshold).
 
-## Admin Process
+## Admin process
 
 It's not an admin dashboard. An admin process is a way to interact with your app process to do one-off administrative or maintenance tasks for the app.
 

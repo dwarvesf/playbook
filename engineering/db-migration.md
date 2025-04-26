@@ -22,7 +22,7 @@ Android
   - Go: sql-migrate
   - Elixir: ecto
 
-## Tips / Best practices checklist
+## Tips / best practices checklist
 
 - Luon viet migrate up / down
 - back up before migration

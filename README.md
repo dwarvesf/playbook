@@ -1,13 +1,13 @@
 ---
-title: Dwarves Playbook
+title: Dwarves playbook
 short_title: Playbook
 description: null
 date: 2021-12-30
 authors:
   - tieubao
+hide_title: true
 tags:
   - playbook
-hide_title: true
 ---
 
 Dwarves Foundation is an innovation service firm. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
@@ -18,25 +18,25 @@ This repo is our playbook which contains our practices in software development a
 
 ![](assets/team-images.webp)
 
-## Product Design
+## Product design
 
-- [Design Workshop](/)
-- [Design Sprint](/design/design-sprint.md)
-- [AARRR Framework](/design/AARRR.md)
-- [Lean Canvas](/design/lean-canvas.md)
+- [Design workshop](/)
+- [Design sprint](/design/design-sprint.md)
+- [AARRR framework](/design/AARRR.md)
+- [Lean canvas](/design/lean-canvas.md)
 - [Wireframe](/design/wireframe.md)
 - [Prototype](/design/prototype.md)
-- [UX Research](/design/UX-research.md)
-- [Information Structure: IA Design](/design/IA.md)
-- [Low Fidelity Prototype: UI Design](/design/UI.md)
-- [High Fidelity Prototype: Interative Design](/design/IX.md)
-- [The Design System](/design/design-system.md)
+- [UX research](/design/UX-research.md)
+- [Information structure: IA design](/design/IA.md)
+- [Low fidelity prototype: UI design](/design/UI.md)
+- [High fidelity prototype: interative design](/design/IX.md)
+- [The design system](/design/design-system.md)
 
 ## Developing
 
-- [Software Philosophy: Engineering-Driven, Craftsmanship & Minifesto](/engineering/README.md)
-- [Workflow: Agile & Scrum Framework](/engineering/workflow.md)
-- [Technology stack: Our POV on Technology](/engineering/stack.md)
+- [Software philosophy: engineering-driven, craftsmanship & minifesto](/engineering/README.md)
+- [Workflow: agile & scrum framework](/engineering/workflow.md)
+- [Technology stack: our POV on technology](/engineering/stack.md)
 
 ### Setup
 
@@ -51,25 +51,25 @@ This repo is our playbook which contains our practices in software development a
 - [Write a good README file](/engineering/readme-how.md)
 - [Environments](/engineering/environment.md)
 - [Version control with Git](/engineering/git.md)
-- [Working together: Pair Programming](/engineering/working-together.md)
-- [README Driven Development](/engineering/rdd.md)
-- [Agile requirement: User Story](/engineering/user-story.md)
+- [Working together: pair programming](/engineering/working-together.md)
+- [README driven development](/engineering/rdd.md)
+- [Agile requirement: user story](/engineering/user-story.md)
 - [Document diagrams](/engineering/diagram.md)
 - [Writing REST API](/engineering/restful.md)
 - [Error convention](/engineering/error.md)
 - [Writing test & materials](/engineering/testing/testing.md)
 - [Code review](/engineering/code-review.md)
-- [Definition of Done](/engineering/definition-of-done.md)
+- [Definition of done](/engineering/definition-of-done.md)
 - [Versioning](/engineering/versioning.md)
 - [Write a useful changelog](/engineering/changelog.md)
 - [CI/CD](/engineering/ci-cd.md)
 - [The 12 factor app](/engineering/12-factor-app.md)
-- [Development Security Rules](/engineering/security/dev-security.md)
+- [Development security rules](/engineering/security/dev-security.md)
 - [Licenses](/engineering/license.md)
-- [Release Checklist](/engineering/release.md)
-- [UAT Checklist](/engineering/testing/UAT.md)
-- [QA Best Practices](/engineering/testing/QA-best-practices.md)
-- [Defect Template](/engineering/testing/defect-template.md)
+- [Release checklist](/engineering/release.md)
+- [UAT checklist](/engineering/testing/UAT.md)
+- [QA best practices](/engineering/testing/QA-best-practices.md)
+- [Defect template](/engineering/testing/defect-template.md)
 
 ### Platforms
 
@@ -83,14 +83,14 @@ This repo is our playbook which contains our practices in software development a
 
 - [Logging](/engineering/log.md)
 - [Monitoring](/engineering/monitoring.md)
-- [Production Checklist](/engineering/production.md)
-- [Handover Checklist](/engineering/handover.md)
+- [Production checklist](/engineering/production.md)
+- [Handover checklist](/engineering/handover.md)
 
 ## Business
 
-- [Overall Process](/business/README.md)
-- [Fixed Budget, Scope Controlled](/business/fbsc.md)
-- [Collaboration Guildeline](/collaboration-guideline.md)
+- [Overall process](/business/README.md)
+- [Fixed budget, scope controlled](/business/fbsc.md)
+- [Collaboration guildeline](/collaboration-guideline.md)
 
 ## Contributing
 

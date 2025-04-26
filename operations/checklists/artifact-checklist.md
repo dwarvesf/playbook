@@ -1,5 +1,5 @@
 ---
-title: Back up Artifact
+title: Back up artifact
 description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done.
 date: 2024-07-22
 authors:
@@ -17,7 +17,7 @@ tags:
 - Future team members can learn from past projects, understanding the decisions made, the problems faced, and how they were solved
 - Smoothen the handover and onboarding process, track record, and trace back if needed.
 
-## Artifacts Checklist
+## Artifacts checklist
 
 Every 3 monts, we update and synchronize project charters and artifacts below.
 

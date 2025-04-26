@@ -9,7 +9,7 @@ tags:
   - project
 ---
 
-## Compliance Checklist
+## Compliance checklist
 
 Compliance master list is stored [here](https://docs.google.com/spreadsheets/d/16HtA3skVpEdDpuJ9UEkPb5Ae_SK6IiJ5Czfl_94XqN4/edit#gid=449337167).
 
@@ -31,7 +31,7 @@ Compliance check will be done in the monthly basis:
 - PIC of the project will be responsible for the actions to fix the problems discovered during the compliance check session.
 - Compliance report will be produced by compliance PIC and will be presented to the whole team during engineering meeting.
 
-## Fame or Shame
+## Fame or shame
 
 - Projects that have a good measurement in the compliance session will have "Fame" (TBD)
 - Projects that have a bad measurement in the compliance session will have "Shame" (TBD)

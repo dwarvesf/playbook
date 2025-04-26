@@ -1,5 +1,5 @@
 ---
-title: Unemployment, Social, Health Insurance
+title: Unemployment, social, health insurance
 description: The checklist of unemployment, social, health insurance
 date: 2020-01-01
 authors:
@@ -11,7 +11,7 @@ tags:
   - checklist
 ---
 
-### When an employee ask for Social insurance and contract
+### When an employee ask for social insurance and contract
 
 - [ ] Adjusted salary will be noted
 - [ ] Notice to Quang & Han about salary adjustment

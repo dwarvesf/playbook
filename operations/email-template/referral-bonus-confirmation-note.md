@@ -1,5 +1,5 @@
 ---
-title: Referral Bonus Confirmation Note
+title: Referral bonus confirmation note
 description: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
 date: 2020-01-01
 authors:
@@ -14,7 +14,7 @@ tags:
 
 **Use case**: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
 
-**Title**: Dwarves Foundation: Referral Bonus Confirmation Note
+**Title**: Dwarves Foundation: Referral bonus confirmation note
 
 **Body:**
 

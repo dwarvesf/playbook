@@ -8,13 +8,13 @@ tags:
   - ux
 ---
 
-## UX Research Framework
+## UX research framework
 
-### 1. Gather Data
+### 1. gather data
 
 In the first phase, we focus on gathering as much valuable data as humanly possible. It’s time for open-question asking, non-judgmental listening, and meticulous note-taking.
 
-#### Stakeholder Interview
+#### Stakeholder interview
 
 In order to create successful products as a designer, it’s crucial to discover how the stakeholders think - what is the vision for the product (from each of the stakeholders' perspectives), and how can these be amalgamated?
 
@@ -26,7 +26,7 @@ In order to create successful products as a designer, it’s crucial to discover
 - Context of use
 - User goals
 
-#### User Interview
+#### User interview
 
 There is no better way to recognize the problems and pain points of the target audience than simply by talking to them. The result of the interview should answer these questions:
 
@@ -38,7 +38,7 @@ There is no better way to recognize the problems and pain points of the target a
 - Is there a need for the product/feature?
 - What are the right requirements for the product?
 
-#### Competitor Analysis
+#### Competitor analysis
 
 A competitive analysis is a way to collect and compare data about products (and companies) in the marketplace. This method is often used to highlight the strengths and weaknesses of products in order to make more informed decisions about your product strategy. A typical competitive analysis might include information, such as:
 
@@ -61,7 +61,7 @@ Look back over collected data and identify the problems we managed to draw from 
 - Important
 - Crucial
 
-#### Solution Definition
+#### Solution definition
 
 Take the most crucial problems and brainstorm solutions for them. Try to find as many possible solutions to this problem as possible. Then with your team vote for the best one.
 
@@ -77,20 +77,20 @@ Different target groups have different needs, approaches, and opinions. Creating
 - Profile
 - Problems
 
-#### User Story
+#### User story
 
 User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template:
 
 - As a < type of user >, I want < some goal > so that < some reason >.
 
-#### User Journey Mapping
+#### User journey mapping
 
 User journey mapping visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view.
 
 - **Context**: What is going on in users’ day when they engage with our product? Are they in a rush? Worried? Planning an adventure?
 - **Motivation**: What drives a user to interact with our product? What are they hoping to get out of it? Why are they using our product instead of a competitor’s - or nothing at all?
-- **Mental Models**: How does user conceive of the problem space that our product addresses? What concepts and connections come naturally to them, and what do they need to be taught?
-- **Pain Points**: What are the challenges users are facing? Is our product helping them solve these or aggravating them? Are there any obstacles they have to use our product?
+- **Mental models**: How does user conceive of the problem space that our product addresses? What concepts and connections come naturally to them, and what do they need to be taught?
+- **Pain points**: What are the challenges users are facing? Is our product helping them solve these or aggravating them? Are there any obstacles they have to use our product?
 
 Note the emotional state of users at each step of their journey.
 

@@ -1,6 +1,6 @@
 ---
-title: Lean Canvas
-description: Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
+title: Lean canvas
+description: Lean canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
 date: 2023-10-16
 authors:
   - tieubao
@@ -10,9 +10,9 @@ tags:
   - operations
 ---
 
-## Lean Canvas
+## Lean canvas
 
-Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean Canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
+Lean canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). Lean canvas promises an actionable and entrepreneur-focused business plan. It focuses on problems, solutions, key metrics, and competitive advantages.
 
 ![leancanvas](assets/lean-canvas_leancanvas.webp)
 
@@ -20,11 +20,11 @@ Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder w
 
 What is the crucial problem faced by the product’s consumers? Capture their central frustration. The best way to describe the problem is in terms of the jobs customers need to do, what they are ultimately trying to achieve and what is the pain or frustration they currently feel. Possibly with a concise sentence.
 
-#### EXISTING ALTERNATIVES
+#### Existing alternatives
 
 How can these problems be solved today? These are the current competitors. Customers may be solving the problems through a single service, or through a combination of them, or even through basic and primitive techniques, and for some reason, all these services are failing them. By listing competitors, we will be able to compile a competitive analysis and differentiate your value proposition later in the process.
 
-### 2. Customer Segments
+### 2. Customer segments
 
 Now that we know which are the problems that we are willing to solve with our products’ ideas, let’s focus on who is actually having these pains. This is crucial, as customers are at the center of any new business or new product development that actually works.
 Define 3-4 personas suffering because of the problems you are going to solve?
@@ -33,11 +33,11 @@ Define 3-4 personas suffering because of the problems you are going to solve?
 - Do they work in specific industries?
 - Do they have particular demographics/salary range?
 
-#### EARLY ADOPTERS
+#### Early adopters
 
 Identifying early adopters is extremely important because these are the ones that are going to be your first customers and the first version of the business is going to be crafted around them.
 
-### 3. Unique Value Proposition
+### 3. Unique value proposition
 
 This message should explain what we do, how we are different, and why we are worth investing in. What is the promise to consumers?
 How does the product fit into the bigger picture; where does it fall in the grand scheme of things?
@@ -62,11 +62,11 @@ It usually combines:
 
 How will we interact with consumers, inform them of the product? Print ads, social media platforms, promotional events, or even word of mouth, consider the most effective ways to reach users.
 
-### 6. Revenue Streams
+### 6. Revenue streams
 
 How will you generate income? Present a pricing model for the product, and then highlight other sources of revenue, ad sales, subscription fees, or asset sales.
 
-### 7. Cost Structure
+### 7. Cost structure
 
 What will it cost to launch and maintain the product?
 
@@ -74,11 +74,11 @@ What will it cost to launch and maintain the product?
 - Marketing
 - Employees
 
-### 8. Key Metrics
+### 8. Key metrics
 
 How we track consumer engagement, excitement, and usage of the product. (SASS, AARRR, user, download, quote…)
 
-### 9. Unfair Advantage
+### 9. Unfair advantage
 
 How do we stand out from competitors? What puts we ahead of the pack? Why should consumers have confidence in our product above others?
 It has to be something that you already have, and cannot be copied or bought, and would require a considerable amount of time for anyone else to build.

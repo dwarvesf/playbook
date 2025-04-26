@@ -14,24 +14,24 @@ Getting on board with iOS can be intimidating. Neither Swift nor Objective-C are
 
 ## Summary
 
-- [Getting Started](#getting-started)
-- [Common Libraries](#common-libraries)
+- [Getting started](#getting-started)
+- [Common libraries](#common-libraries)
 - [Architecture](#architecture)
 - [Stores](#stores)
 - [Assets](#assets)
-- [Coding Style](#coding-style)
+- [Coding style](#coding-style)
 - [Security](#security)
 - [Diagnostics](#diagnostics)
 - [Analytics](#analytics)
 - [Building](#building)
 - [Deployment](#deployment)
-- [In-App Purchases (IAP)](#in-app-purchases-iap)
+- [In-app purchases (IAP)](#in-app-purchases-iap)
 
-## Getting Started
+## Getting started
 
-### Human Interface Guidelines
+### Human interface guidelines
 
-If you're coming from another platform, do take some time to familiarize yourself with Apple's [Human Interface Guidelines][ios-hig] for the platform. There is a strong emphasis on good design in the iOS world, and your app should be no exception. The guidelines also provide a handy overview of native UI elements, technologies such as 3D Touch or Wallet, and icon dimensions for designers.
+If you're coming from another platform, do take some time to familiarize yourself with Apple's [Human interface guidelines][ios-hig] for the platform. There is a strong emphasis on good design in the iOS world, and your app should be no exception. The guidelines also provide a handy overview of native UI elements, technologies such as 3D Touch or Wallet, and icon dimensions for designers.
 
 [ios-hig]: https://developer.apple.com/ios/human-interface-guidelines/
 
@@ -39,13 +39,13 @@ If you're coming from another platform, do take some time to familiarize yoursel
 
 [Xcode][xcode] is the IDE of choice for most iOS developers, and the only one officially supported by Apple. There are some alternatives, of which [AppCode][appcode] is arguably the most famous, but unless you're already a seasoned iOS person, go with Xcode. Despite its shortcomings, it's actually quite usable nowadays!
 
-To install, simply download [Xcode on the Mac App Store][xcode-app-store]. It comes with the newest SDK and simulators, and you can install more stuff under _Preferences > Downloads_.
+To install, simply download [Xcode on the Mac App store][xcode-app-store]. It comes with the newest SDK and simulators, and you can install more stuff under _Preferences > Downloads_.
 
 [xcode]: https://developer.apple.com/xcode/
 [appcode]: https://www.jetbrains.com/objc/
 [xcode-app-store]: https://itunes.apple.com/us/app/xcode/id497799835
 
-### Project Setup
+### Project setup
 
 A common question when beginning an iOS project is whether to write all views in code or use Interface Builder with Storyboards or XIB files. Both are known to occasionally result in working software. However, there are a few considerations:
 
@@ -78,7 +78,7 @@ A good first step when putting a project under version control is to have a dece
 [swift-gitignore]: https://github.com/github/gitignore/blob/master/Swift.gitignore
 [objc-gitignore]: https://github.com/github/gitignore/blob/master/Objective-C.gitignore
 
-### Dependency Management
+### Dependency management
 
 #### CocoaPods
 
@@ -119,7 +119,7 @@ To get started, follow the [instructions][carthage-instructions] in Carthage's d
 [simple-made-easy]: http://www.infoq.com/presentations/Simple-Made-Easy
 [carthage-instructions]: https://github.com/Carthage/Carthage#installing-carthage
 
-### Project Structure
+### Project structure
 
 To keep all those hundreds of source files from ending up in the same directory, it's a good idea to set up some folder structure depending on your architecture. For instance, you can use the following:
 
@@ -176,7 +176,7 @@ Instead of preprocessor macro definitions (via `#define`), use actual constants:
 
 Actual constants are type-safe, have more explicit scope (they’re not available in all imported/included files until undefined), cannot be redefined or undefined in later parts of the code, and are available in the debugger.
 
-### Minimum iOS Version Requirement
+### Minimum iOS version requirement
 
 It’s useful to make an early decision on the minimum iOS version you want to support in your project: knowing which OS versions you need to develop and test against, and which system APIs you can rely on, helps you estimate your workload, and enables you to determine what’s possible and what’s not.
 
@@ -189,7 +189,7 @@ Use these resources to gather the data necessary for making this choice:
   - [DavidSmith: iOS Version Stats](https://david-smith.org/iosversionstats/): Version penetration stats for David Smith’s Audiobooks apps.
   - [Mixpanel Trends: iOS versions](https://mixpanel.com/trends/#report/ios_frag): Version penetration stats from Mixpanel.
 
-## Common Libraries
+## Common libraries
 
 Generally speaking, make it a conscious decision to add an external dependency to your project. Sure, this one neat library solves your problem now, but maybe later gets stuck in maintenance limbo, with the next OS version that breaks everything being just around the corner. Another scenario is that a feature only achievable with external libraries suddenly becomes part of the official APIs. In a well-designed codebase, switching out the implementation is a small effort that pays off quickly. Always consider solving the problem using Apple's extensive (and mostly excellent) frameworks first!
 
@@ -209,7 +209,7 @@ As a general rule, [don't write your date calculations yourself][timezones-youtu
 [timezones-youtube]: https://www.youtube.com/watch?v=-5wpm-gesOY
 [datetools-github]: https://github.com/MatthewYork/DateTools
 
-### Auto Layout Libraries
+### Auto layout libraries
 
 If you prefer to write your views in code, chances are you've heard of either Apple's awkward syntaxes – the regular `NSLayoutConstraint` factory or the so-called [Visual Format Language][visual-format-language]. The former is extremely verbose and the latter based on strings, which effectively prevents compile-time checking. Fortunately, they've addressed the issue in iOS 9, allowing [a more concise specification of constraints][nslayoutanchor].
 
@@ -247,7 +247,7 @@ These are the idiomatic ways for components to notify others about things:
 
 - **Delegation:** _(one-to-one)_ Apple uses this a lot (some would say, too much). Use when you want to communicate stuff back e.g. from a modal view.
 - **Callback blocks:** _(one-to-one)_ Allow for a more loose coupling, while keeping related code sections close to each other. Also scales better than delegation when there are many senders.
-- **Notification Center:** _(one-to-many)_ Possibly the most common way for objects to emit “events” to multiple observers. Very loose coupling , notifications can even be observed globally without reference to the dispatching object.
+- **Notification center:** _(one-to-many)_ Possibly the most common way for objects to emit “events” to multiple observers. Very loose coupling , notifications can even be observed globally without reference to the dispatching object.
 - **Key-Value Observing (KVO):** _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
 - **Signals:** _(one-to-many)_ The centerpiece of [ReactiveCocoa][reactivecocoa-github], they allow chaining and combining to your heart's content, thereby offering a way out of "callback hell".
 
@@ -344,11 +344,11 @@ If you don't want to use signals, futures or similar mechanisms to represent you
 
 [asset-catalogs]: http://help.apple.com/xcode/mac/8.0/#/dev10510b1f7
 
-### Using Bitmap Images
+### Using bitmap images
 
 Asset catalogs expose only the names of image sets, abstracting away the actual file names within the set. This nicely prevents asset name conflicts, as files such as `button_large@2x.png` are now namespaced inside their image sets. Appending the modifiers `-568h`, `@2x`, `~iphone` and `~ipad` are not required per se, but having them in the file name when dragging the file to an image set will automatically place them in the right "slot", thereby preventing assignment mistakes that can be hard to hunt down.
 
-### Using Vector Images
+### Using vector images
 
 You can include the original [vector graphics (PDFs)][vector-assets] produced by designers into the asset catalogs, and have Xcode automatically generate the bitmaps from that. This reduces the complexity of your project (the number of files to manage.)
 
@@ -361,7 +361,7 @@ Xcode automatically tries to optimise resources living in asset catalogs (yet an
 [pngcrush-website]: http://pmt.sourceforge.net/pngcrush/
 [imageoptim-website]: https://imageoptim.com/mac
 
-## Coding Style
+## Coding style
 
 ### Naming
 
@@ -439,7 +439,7 @@ The most important point is to keep these consistent across your project's class
 
 [nshipster-pragma-marks]: http://nshipster.com/pragma/
 
-### External Style Guides
+### External style guides
 
 - GitHub: [Swift](https://github.com/github/swift-style-guide) and [Objective-C](https://github.com/github/objective-c-style-guide)
 
@@ -453,7 +453,7 @@ The most important point is to keep these consistent across your project's class
 
 Even in an age where we trust our portable devices with the most private data, app security remains an often-overlooked subject. Try to find a good trade-off given the nature of your data; following just a few simple rules can go a long way here. A good resource to get started is Apple's own [iOS Security Guide][apple-security-guide].
 
-### Data Storage
+### Data storage
 
 If your app needs to store sensitive data, such as a username and password, an authentication token or some personal user details, you need to keep these in a location where they cannot be accessed from outside the app. Never use `NSUserDefaults`, other plist files on disk or Core Data for this, as they are not encrypted! In most such cases, the iOS Keychain is your friend. If you're uncomfortable working with the C APIs directly, you can use a wrapper library such as [SSKeychain][sskeychain] or [UICKeyChainStore][uickeychainstore].
 
@@ -467,7 +467,7 @@ Keep any HTTP traffic to remote servers encrypted with TLS at all times. To avoi
 
 Take extra care to set up proper log levels before releasing your app. Production builds should never log passwords, API tokens and the like, as this can easily cause them to leak to the public. On the other hand, logging the basic control flow can help you pinpoint issues that your users are experiencing.
 
-### User Interface
+### User interface
 
 When using `UITextField`s for password entry, remember to set their `secureTextEntry` property to `true` to avoid showing the password in cleartext. You should also disable auto-correction for the password field, and clear the field whenever appropriate, such as when your app enters the background.
 
@@ -495,7 +495,7 @@ To treat warnings as errors for Swift code, add `-warnings-as-errors` to the _"O
 
 [warnings-slides]: https://speakerdeck.com/hasseg/the-compiler-is-your-friend
 
-### Clang Static Analyzer
+### Clang static analyzer
 
 The Clang compiler (which Xcode uses) has a _static analyzer_ that performs control and data flow analysis on your code and checks for lots of errors that the compiler cannot.
 
@@ -550,7 +550,7 @@ func pushAddItemEvent(with item: Item, editMode: EditMode) {
 
 This has the additional advantage of allowing you to swap out the entire Analytics framework behind the scenes if needed, without the rest of the app noticing.
 
-### Crash Logs
+### Crash logs
 
 First you should make your app send crash logs onto a server somewhere so that you can access them. You can implement this manually (using [PLCrashReporter][plcrashreporter] and your own backend) but it’s recommended that you use an existing service instead , for example one of the following:
 
@@ -574,9 +574,9 @@ This section contains an overview of this topic , please refer here for more com
 [apple-xcode-concepts]: https://developer.apple.com/library/ios/featuredarticles/XcodeConcepts/
 [pewpew-managing-xcode]: http://pewpewthespells.com/blog/managing_xcode.html
 
-### Build Configurations
+### Build configurations
 
-Even simple apps can be built in different ways. The most basic separation that Xcode gives you is that between _debug_ and _release_ builds. For the latter, there is a lot more optimization going on at compile time, at the expense of debugging possibilities. Apple suggests that you use the _debug_ build configuration for development, and create your App Store packages using the _release_ build configuration. This is codified in the default scheme (the dropdown next to the Play and Stop buttons in Xcode), which commands that _debug_ be used for Run and _release_ for Archive.
+Even simple apps can be built in different ways. The most basic separation that Xcode gives you is that between _debug_ and _release_ builds. For the latter, there is a lot more optimization going on at compile time, at the expense of debugging possibilities. Apple suggests that you use the _debug_ build configuration for development, and create your App store packages using the _release_ build configuration. This is codified in the default scheme (the dropdown next to the Play and Stop buttons in Xcode), which commands that _debug_ be used for Run and _release_ for Archive.
 
 However, this is a bit too simple for real-world applications. You might have different environments for testing, staging and other activities related to your service. Each might have its own base URL, log level, bundle identifier (so you can install them side-by-side), provisioning profile and so on. Therefore a simple debug/release distinction won't cut it. You can add more build configurations on the "Info" tab of your project settings in Xcode.
 
@@ -608,7 +608,7 @@ A suggested naming convention for schemes is `MyApp (<Language>) [Environment]`:
     MyApp (German) [Development]
     MyApp [Testing]
     MyApp [Staging]
-    MyApp [App Store]
+    MyApp [App store]
 
 For most environments the language is not needed, as the app will probably be installed through other means than Xcode, e.g. TestFlight, and the launch argument thus be ignored anyway. In that case, the device language should be set manually to test localization.
 
@@ -621,7 +621,7 @@ Deploying software on iOS devices isn't exactly straightforward. That being said
 Whenever you want to run software on an actual device (as opposed to the simulator), you will need to sign your build with a **certificate** issued by Apple. Each certificate is linked to a private/public keypair, the private half of which resides in your Mac's Keychain. There are two types of certificates:
 
 - **Development certificate:** Every developer on a team has their own, and it is generated upon request. Xcode might do this for you, but it's better not to press the magic "Fix issue" button and understand what is actually going on. This certificate is needed to deploy development builds to devices.
-- **Distribution certificate:** There can be several, but it's best to keep it to one per organization, and share its associated key through some internal channel. This certificate is needed to ship to the App Store, or your organization's internal "enterprise app store".
+- **Distribution certificate:** There can be several, but it's best to keep it to one per organization, and share its associated key through some internal channel. This certificate is needed to ship to the App store, or your organization's internal "enterprise app store".
 
 ### Provisioning
 
@@ -631,8 +631,8 @@ Besides certificates, there are also **provisioning profiles**, which are basica
 
 - **Distribution provisioning profile:** There are three different ways of distribution, each for a different use case. Each distribution profile is linked to a distribution certificate, and will be invalid when the certificate expires.
   - **Ad-Hoc:** Just like development profiles, it contains a whitelist of devices the app can be installed to. This type of profile can be used for beta testing on 100 devices per year. For a smoother experience and up to 1000 distinct users, you can use Apple's newly acquired [TestFlight][testflight] service. Supertop offers a good [summary of its advantages and issues][testflight-discussion].
-  - **App Store:** This profile has no list of allowed devices, as anyone can install it through Apple's official distribution channel. This profile is required for all App Store releases.
-  - **Enterprise:** Just like App Store, there is no device whitelist, and the app can be installed by anyone with access to the enterprise's internal "app store", which can be just a website with links. This profile is available only on Enterprise accounts.
+  - **App store:** This profile has no list of allowed devices, as anyone can install it through Apple's official distribution channel. This profile is required for all App store releases.
+  - **Enterprise:** Just like App store, there is no device whitelist, and the app can be installed by anyone with access to the enterprise's internal "app store", which can be just a website with links. This profile is available only on Enterprise accounts.
 
 [jared-sinclair-signing-tips]: http://blog.jaredsinclair.com/post/116436789850/
 [testflight]: https://developer.apple.com/testflight/
@@ -640,7 +640,7 @@ Besides certificates, there are also **provisioning profiles**, which are basica
 
 To sync all certificates and profiles to your machine, go to Accounts in Xcode's Preferences, add your Apple ID if needed, and double-click your team name. There is a refresh button at the bottom, but sometimes you just need to restart Xcode to make everything show up.
 
-#### Debugging Provisioning
+#### Debugging provisioning
 
 Sometimes you need to debug a provisioning issue. For instance, Xcode may refuse to install the build to an attached device, because the latter is not on the (development or ad-hoc) profile's device list. In those cases, you can use Craig Hockenberry's excellent [Provisioning][provisioning] plugin by browsing to `~/Library/MobileDevice/Provisioning Profiles`, selecting a `.mobileprovision` file and hitting Space to launch Finder's Quick Look feature. It will show you a wealth of information such as devices, entitlements, certificates, and the App ID.
 
@@ -650,7 +650,7 @@ When dealing with an existing app archive (`.ipa`), you can inspect its provisio
 
 ### Uploading
 
-[App Store Connect][appstore-connect] is Apple's portal for managing your apps on the App Store. To upload a build, Xcode requires an Apple ID that is part of the developer account used for signing. Nowadays Apple has allowed for single Apple IDs to be part of multiple App Store Connect accounts (i.e. client organizations) in both Apple's developer portal as well as App Store Connect.
+[App store Connect][appstore-connect] is Apple's portal for managing your apps on the App store. To upload a build, Xcode requires an Apple ID that is part of the developer account used for signing. Nowadays Apple has allowed for single Apple IDs to be part of multiple App store Connect accounts (i.e. client organizations) in both Apple's developer portal as well as App store Connect.
 
 After uploading the build, be patient as it can take up to an hour for it to show up under the Builds section of your app version. When it appears, you can link it to the app version and submit your app for review.
 

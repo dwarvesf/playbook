@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Error Message Convention
+# Error message convention
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.
 
@@ -18,7 +18,7 @@ We use the following structure for our error message. It helps our system stay c
 - Elixir: <https://github.com/dwarvesf/error.ex>
 - Swift: <https://github.com/dwarvesf/error.swift>
 
-## Error Structure
+## Error structure
 
 ```
 - type: list of common or pre-defined error type
@@ -42,7 +42,7 @@ We make some error handling packages for some languages, such as `golang`, `elix
 - `Warn`: business error, HTTP error. The error occurs in business logic. We just log it for debugging later
 - `Debug`, `Info`: log some info or success data
 
-## Constructing an Error
+## Constructing an error
 
 - Go
 
@@ -134,7 +134,7 @@ func handler() {
 }
 ```
 
-## Remote Error Tracking
+## Remote error tracking
 
 System log is like the airplane black box. When defects occur, along with steps used to reproduce from user report, the last thing we know is stored in the system log.
 
@@ -143,7 +143,7 @@ System log is like the airplane black box. When defects occur, along with steps 
 
 Starting a new project, we usually set up and hook the error message to our project management system.
 
-## Replicating & Handling error
+## Replicating & handling error
 
 To be able to reproduce an error you need to know what external actions lead to the error. To determine the cause of an error you need to know:
 

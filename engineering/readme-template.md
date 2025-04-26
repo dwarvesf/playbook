@@ -4,11 +4,11 @@ description: null
 date: null
 ---
 
-# Project Title
+# Project title
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -62,7 +62,7 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## Built with
 
 - [NextJS](https://nextjs.org/) - The web framework used
 - [Yarn](https://yarnpkg.com/) - Dependency Management
@@ -77,7 +77,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Dwarves Foundation** - _Initial work_ - [Brainery](https://github.com/brain)
+- **Dwarves foundation** - _Initial work_ - [Brainery](https://github.com/brain)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 

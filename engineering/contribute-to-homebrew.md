@@ -123,7 +123,7 @@ class GlodCli < Formula
 end
 ```
 
-### Install/ Debug local formula
+### Install/ debug local formula
 
 ```javascript
 brew install --verbose --debug $FORMULA

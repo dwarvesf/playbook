@@ -20,16 +20,16 @@ An off-boarding process must ensure three things:
 2. The departure causes minimal disruption.
 3. The termination process must be well-wrapped to make sure the company policy and procedures are all conformed.
 
-## Project Offboarding
+## Project offboarding
 
 - [ ] Last day confirmation with client by email
 - [ ] Resource replacement
 - [ ] Project handoff completed
 - [ ] Source code backup
 
-## Company Offboarding
+## Company offboarding
 
-### Exit Interviews and Final Communications
+### Exit interviews and final communications
 
 - [ ] Exit interview with lead/manager
   - [ ] Gather feedback
@@ -43,7 +43,7 @@ An off-boarding process must ensure three things:
 - [ ] Update DF resource planning file
 - [ ] Update LinkedIn + endorse Dwarves
 
-### Account and Access Management
+### Account and access management
 
 - [ ] Remove email account
 - [ ] Remove Git account
@@ -54,7 +54,7 @@ An off-boarding process must ensure three things:
 - [ ] Update Fortress profile
 - [ ] Update Discord Role → Alumni + Remove Discord Access from work-related channels
 
-### Equipment and Resources
+### Equipment and resources
 
 - [ ] Office card / work device (laptop, phone) if applicable
 - [ ] Any other company-owned equipment
@@ -66,7 +66,7 @@ An off-boarding process must ensure three things:
 - [ ] Conduct a brief team meeting to address any gaps left by the departure
 - [ ] Update relevant documentation and contact lists
 
-### Handover Transfer
+### Handover transfer
 
 - [ ] Conduct handover transfer sessions with team members
 - [ ] Document any unique scripts or tools created by the employee

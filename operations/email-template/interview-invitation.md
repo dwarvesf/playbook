@@ -1,5 +1,5 @@
 ---
-title: Interview Invitation
+title: Interview invitation
 description: The email template is to annouce the interview date with the client.
 date: 2020-01-01
 authors:
@@ -11,7 +11,7 @@ tags:
   - operations
 ---
 
-**Title:** Dwarves Foundation - Interview Invitation
+**Title:** Dwarves Foundation - Interview invitation
 
 **Body**
 

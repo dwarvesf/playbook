@@ -36,7 +36,7 @@ Once we have an idea of what the problem is, we need to report this incident in 
 
 After acknowledging the alert, we should triage the problem by assigning it a category and priority level. Jira tickets and templates have common classifiers for high priority problems. How we assign the priority labels are up to use, but in general, the following levels are categorized as such:
 
-#### Priority Level
+#### Priority level
 
 - **P0**: _This priority level is critical and should have the most immediate response action possible, with ideally a target resolution time of within 1 hour._
   - complete loss of access to application or API
@@ -63,7 +63,7 @@ Documentation on the resolution and aftermath of an incident is key to distillin
 
 Since we often use Jira and Confluence for managing projects, we often use templates available on their platform. The following [template](https://www.atlassian.com/incident-management/postmortem/templates) format is taken from Atlassian (make sure to check their examples as well):
 
-### Incident Summary
+### Incident summary
 
 A general summary of the incident in a few sentences or paragraph; includes what happened, incident severity, and how long the impact lasted.
 
@@ -163,6 +163,6 @@ Look back at any old incidents to see if they have if they have the same root ca
 
 Discuss the incident response's positive aspects, its shortcomings, and its potential for improvement.
 
-### Corrective Actions
+### Corrective actions
 
 Descrive actions to stop this kind of situation from happening again. Make sure to note who is responsible and what task will need to be completed in what time span.

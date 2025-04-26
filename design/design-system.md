@@ -1,5 +1,5 @@
 ---
-title: Design System
+title: Design system
 description: null
 date: 2023-10-18
 draft: true

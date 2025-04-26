@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Defect Report template
+# Defect report template
 
 ### Summary
 
@@ -58,7 +58,7 @@ You may need to write specifications such as the version of the project, the ope
 - Mobile Browser [e.g. stock browser, safari]
 - Version [e.g. 22]
 
-### Logs / Stack trace
+### Logs / stack trace
 
 ```
 Insert your log/stack trace here

@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Logging and Monitoring
+# Logging and monitoring
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.
 
@@ -50,7 +50,7 @@ This metric will be difficult to monitor and maintain because there are many dif
 
 We recommend using [BrowserStack](https://www.browserstack.com/) to run automated testing in CI/CD, and sending us a report after any releases.
 
-### Event and Data flow tracking
+### Event and data flow tracking
 
 We use [Google Analytics](https://analytics.google.com/) on our projects by default to log important user interactions. In addition, custom events can be set for specific goals based on Marketing team requirements.
 

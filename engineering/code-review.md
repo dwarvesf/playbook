@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Code Review
+# Code review
 
 How we do code review.
 
@@ -12,7 +12,7 @@ Every project member must have another team member or team leader to review his/
 
 We review everything on the Pull request - code, tests, documents, config files, .etc.
 
-## Code Review Flow
+## Code review Flow
 
 - Feature/bug assignee finished coding on a new branch based off `develop` branch
 - Assignee self-review the code he/her wrote one last time before assigning it to reviewer
@@ -30,7 +30,7 @@ We review everything on the Pull request - code, tests, documents, config files,
 - Aspects of software design are almost never a pure style issue or just a personal preference. They are based on underlying principles and should be weighed on those principles, not simply by personal opinion. Sometimes there are a few valid options. If the author can demonstrate (either through data or based on solid engineering principles) that several approaches are equally valid, then the reviewer should accept the preference of the author. Otherwise the choice is dictated by standard principles of software design.
 - If no other rule applies, then the reviewer may ask the author to be consistent with what is in the current codebase, as long as that doesn’t worsen the overall code health of the system.
 
-## Code Review Standard
+## Code review Standard
 
 At minimal:
 
@@ -47,7 +47,7 @@ We don't follow TDD, we don't need to have tests for everything but we must have
 
 This topic varies depends what programming language we use as each language have their own best practices, but a general rule is to make it clear about our intention - ie. if you have no idea what a particular variable is for while reviewing a helper function, then that variable needs more comments or a new name to better reflects it's intention.
 
-## Reviewer Guides
+## Reviewer guides
 
 - Review the code, don't review the coder
 - Check for correctness of code, not how you would do it
@@ -60,7 +60,7 @@ Code review can have an important function of teaching developers something new 
 
 Reviewers should always feel free to leave comments expressing that something could be better, but if it’s not very important, prefix it with something like **“Nit: “** to let the author know that it’s just a point of polish that they could choose to ignore
 
-### Comments & Feedbacks
+### Comments & feedbacks
 
 #### Courtesy
 
@@ -74,13 +74,13 @@ In general, it is important to be courteous and respectful while also being very
 
 Explain your reason helps the developer understand why you are making your comment. You don't always need to include this information in your review comments, but sometimes it's appropriate to give a bit more explanation around your intent, the best practice you're following, or how your suggestion improves code health
 
-#### Giving Guidance
+#### Giving guidance
 
 You should strike an appropriate balance between pointing out problems and providing direct guidance. Pointing out problems and letting the developer make a decision often helps the developer learn, and makes it easier to do code reviews. It also can result in a better solution, because the developer is closer to the code than the reviewer is.
 
 However, sometimes direct instructions, suggestions, or even code are more helpful. The primary goal of code review is to get the best code/solution possible. A secondary goal is improving the skills of developers so that they require less and less review over time
 
-#### Accepting Explanations
+#### Accepting explanations
 
 If you ask a developer to explain a piece of code that you don't understand, that should usually result in them rewriting the code more clearly. Explanations written only in the code review tool are not helpful to future code readers
 

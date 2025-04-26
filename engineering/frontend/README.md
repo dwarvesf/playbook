@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Dwarves Frontend Guide
+# Dwarves frontend guide
 
 This document is a guide to the principles and standards of building web applications by Dwarves's frontend team. We also believe that this consistency will allow us to work concurrently with multiple devs on the same codebase at the same time in the same way, producing code that is less prone to bugs and regressions, is easier to understand and debug, and supports re-use.
 

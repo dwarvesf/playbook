@@ -12,7 +12,7 @@ tags:
   - hiring
 ---
 
-### Screening Rejection
+### Screening rejection
 
 **Title**: Dwarves Foundation - Application Result
 
@@ -31,7 +31,7 @@ Best regards,
 
 Dwarves Foundation
 
-### Interview Rejection
+### Interview rejection
 
 **Title**: Dwarves Foundation - Interview Result
 

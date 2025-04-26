@@ -15,7 +15,7 @@ Avoid reinventing the wheel by following these guidelines.
 - [Use the Jackson library to parse JSON data](#libraries)
 - [Don't write your own HTTP client, use OkHttp libraries](#networklibs)
 - [Avoid Guava and use only a few libraries due to the _65k method limit_](#methodlimitation)
-- [Sail carefully when choosing between Activities and Fragments](#activities-and-fragments)
+- [Sail carefully when choosing between Activities and fragments](#activities-and-fragments)
 - [Layout XMLs are code, organize them well](#resources)
 - [Use styles to avoid duplicate attributes in layout XMLs](#styles)
 - [Use multiple style files to avoid a single huge one](#splitstyles)
@@ -171,7 +171,7 @@ Note that from Android Studio 3.0, [Retrolambda is no longer required](https://d
 <a name="methodlimitation"></a>
 **Beware of the dex method limitation, and avoid using many libraries.** Android apps, when packaged as a dex file, have a hard limitation of 65536 referenced methods [[1]](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71) [[2]](http://blog.persistent.info/2014/05/per-package-method-counts-for-androids.html) [[3]](http://jakewharton.com/play-services-is-a-monolith/). You will see a fatal error on compilation if you pass the limit. For that reason, use a minimal amount of libraries, and use the [dex-method-counts](https://github.com/mihaip/dex-method-counts) tool to determine which set of libraries can be used in order to stay under the limit. Especially avoid using the Guava library, since it contains over 13k methods.
 
-### Activities and Fragments
+### Activities and fragments
 
 There is no consensus among the community how to best organize Android architectures with Fragments and Activities. Square even has [a library for building architectures mostly with Views](https://github.com/square/mortar), bypassing the need for Fragments, but this still is not considered a widely recommendable practice in the community.
 
@@ -424,7 +424,7 @@ Therefore, try to keep your views hierarchy as flat as possible: learn how to us
 <a name="webviews"></a>
 **Beware of problems related to WebViews.** When you must display a web page, for instance for a news article, avoid doing client-side processing to clean the HTML, rather ask for a "_pure_" HTML from the backend programmers. [WebViews can also leak memory](http://stackoverflow.com/questions/3130654/memory-leak-in-webview) when they keep a reference to their Activity, instead of being bound to the ApplicationContext. Avoid using a WebView for simple texts or buttons, prefer the platform's widgets.
 
-### Test Frameworks
+### Test frameworks
 
 **Use [JUnit](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html) for unit testing** Plain, Android dependency-free unit testing on the JVM is best done using [Junit](https://junit.org).
 

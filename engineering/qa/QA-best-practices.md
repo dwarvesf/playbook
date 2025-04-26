@@ -23,7 +23,7 @@ On high level QA work and practices can be divided into two processes.
 
 Furthermore there are other QA actions.
 
-#### Test-Driven Development
+#### Test-driven development
 
 We use TDD and ATDD (Acceptance Test Driven Development) methods when applicable.
 

@@ -1,5 +1,5 @@
 ---
-title: MBTI Type ISTP
+title: MBTI type ISTP
 description: All about the ISTP personality type
 date: 2021-07-25
 authors:
@@ -11,13 +11,13 @@ tags:
   - operations
 ---
 
-### Preferred Work Environment
+### Preferred work environment
 
 - Needs a more practical environment, where they can master skills and do things and see tangible results.
 - Need variety and the opportunity to dip in and out of activities.
 - The environment where their natural disregard for rules, authority and structures allows them to focus on and tackle the emergency at hand in the most effective way
 
-### ISTP and Career Exploration
+### ISTP and career exploration
 
 An ISTP tends to **find career satisfaction** with careers that have the following characteristics:
 
@@ -37,7 +37,7 @@ When **exploring career options**, an ISTP will often:
 - Take all available time to examine their options and chose only when required
 - Feel uncertain about their career choice
 
-### How Type Affects Career Development
+### How type affects career development
 
 During **their job search**, an ISTP will often:
 
@@ -57,7 +57,7 @@ During an **interview**, an ISTP will often:
 - Benefit from practicing to discuss their skills and abilities
 - Need to be cautious of the amount of detail they provide, be able to discuss future projections, and assess hypothetical situations
 
-### ISTP and Work
+### ISTP and work
 
 At work, the ISTP will often:
 
@@ -136,7 +136,7 @@ The ISTP should be aware that they may need to:
 - Focus on developing their listening abilities
 - Intentionally provide feedback and be cautious of their abrupt communication style
 
-### Decision Making
+### Decision making
 
 When it comes to decision making, the ISTP will often
 

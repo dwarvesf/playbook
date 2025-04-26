@@ -1,5 +1,5 @@
 ---
-title: Project Initialization
+title: Project initialization
 description: The checklist shows the process of project initialization
 date: 2022-01-01
 authors:

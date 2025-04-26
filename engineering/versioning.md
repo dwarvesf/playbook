@@ -10,9 +10,9 @@ Larger applications consists of multiple components that reference each other an
 
 To achieve the goal of loosely coupled applications, each component should be versioned independently hence allowing developers to detect breaking changes or seamless updates just by looking at the version number.
 
-## Semantic Versioning
+## Semantic versioning
 
-[**SemVer**](http://semver.org/) or **Semantic Versioning** is a way of versioning software in the format of **MAJOR.MINOR.PATCH**:
+[**SemVer**](http://semver.org/) or **Semantic versioning** is a way of versioning software in the format of **MAJOR.MINOR.PATCH**:
 
 - MAJOR version when you make breaking changes,
 - MINOR version when you add functionality in a backward-compatible manner for any specific MAJOR version, and

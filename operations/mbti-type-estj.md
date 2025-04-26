@@ -1,5 +1,5 @@
 ---
-title: MBTI Type ESTJ
+title: MBTI type ESTJ
 description: All about the ESTJ personality type
 date: 2021-07-24
 authors:
@@ -11,13 +11,13 @@ tags:
   - operations
 ---
 
-### Preferred Work Tasks
+### Preferred work tasks
 
 - Require thorough analysis
 - Practical planning and organizational skills
 - Process control and responsibility
 
-### Preferred Work Environment
+### Preferred work environment
 
 - Will fit best where the norms are clear
 - The culture is performance driven.
@@ -26,7 +26,7 @@ tags:
 - Clear lines of responsibility and a planning process.
 - Do not like to ‘wing it’ or take risks without being in possession of the facts and having thought things through.
 
-### ESTJ and Career Exploration
+### ESTJ and career exploration
 
 An ESTJ tends to find career satisfaction with careers that have the following characteristics:
 
@@ -46,7 +46,7 @@ When exploring career options, an ESTJ will often…
 - Need to incorporate their values into their career decision
 - Select their career direction early and rarely question their choice
 
-### How Type Affects Career Development
+### How type affects career development
 
 During their job search, an ESTJ will often...
 
@@ -62,7 +62,7 @@ During an interview, an ESTJ will often...
 - Need to intentionally cultivate a connection with the employer
 - Need to be cautious not to appear too abrupt or talk too much
 
-### ESTJ and Work
+### ESTJ and work
 
 At work, the ESTJ will often…
 
@@ -141,7 +141,7 @@ The ESTJ should be aware that they may need to…
 - Refrain from interrupting people during a conversation
 - Provide positive comments and acknowledge people’s accomplishments
 
-### Decision Making
+### Decision making
 
 When it comes to decision making, the ESTJ will often…
 

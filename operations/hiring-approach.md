@@ -64,7 +64,7 @@ Well, human interaction is the best way to grade potential, so the interview is 
 **Push Harder for Diversity**
 Make certain you're spreading your net wide enough to find those high-potential, but different, fish who generally don't swim in the streams near you. Ask your HR group what contacts and periodicals they're using to interest potential hires. "We don't know where to find people different from us" is a costly excuse.
 
-## Protecting vs. Growing Culture
+## Protecting vs. growing culture
 
 For many companies, hiring means selecting people who fit the existing culture and keeping out those who don’t. Hiring is gatekeeping.
 

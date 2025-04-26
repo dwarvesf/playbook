@@ -11,7 +11,7 @@ tags:
   - checklist
 ---
 
-### Background & Skills
+### Background & skills
 
 - [ ] Logic qualified
 - [ ] English skills qualified

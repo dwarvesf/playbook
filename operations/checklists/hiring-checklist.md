@@ -12,7 +12,7 @@ tags:
   - checklist
 ---
 
-### Resume Collecting
+### Resume collecting
 
 - [ ] Job Description
 - [ ] List of job sites/hiring channels

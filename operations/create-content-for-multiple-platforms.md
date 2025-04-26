@@ -129,20 +129,20 @@ Include external links to back my points up and enhance credibility.
 
 Break up the content using headings, bullet points, images, videos, and other formats to highlight key points and improve readability.
 
-### Keep it Short, Smart, and Quirky
+### Keep it short, smart, and quirky
 
 Craft the posts across various platforms to be short, informative, and infused with a touch of personality. Use simple language for quick reading and a bigger impact.
 
-### Mind Your Hashtags
+### Mind your hashtags
 
 Research the nature of each social media platform to choose relevant hashtags. Avoid overloading your posts with hashtags if they aren't necessary.
 
-### Trending News
+### Trending news
 
 Be aware of trending news and topics in design-related industries. It could be a great
 opportunity to put in a word of celebrating achievements or expressing our point of view on the matter.
 
-### Final Thoughts
+### Final thoughts
 
 If you're newish to posting - just post. Don't run around chasing algorithms or trends. It'll exhaust you in no time.
 

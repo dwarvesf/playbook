@@ -25,26 +25,26 @@ React components should be simple and composable and cater to real life UI desig
 - **Representational**: React components should be templates, free of logic, and purely presentational. It aims to make our components shareable and easy to test.
 - **Composition**: Break down components into smaller parts with minimal props to keep complexity low, and compose them together. This will ensure that the styles and functionality are flexible and extensible.
 - **Accessibility**: When creating a component, keep accessibility top of mind. This includes keyboard navigation, focus management, color contrast, voice over, and the correct aria-\* attributes.
-- **Naming Props**: We all know naming is the hardest thing in this industry. Generally, ensure a prop name is indicative of what it does. Boolean props should be named using auxiliary verbs such as `does`, `has`, `is` and `should`. For example, Button uses `isDisabled`, `isLoading`, etc.
+- **Naming props**: We all know naming is the hardest thing in this industry. Generally, ensure a prop name is indicative of what it does. Boolean props should be named using auxiliary verbs such as `does`, `has`, `is` and `should`. For example, Button uses `isDisabled`, `isLoading`, etc.
 
 When doing styling, strive to use `tailwindcss` classes for consistency and painless maintenance.
 
 - Avoid hard coding colors. All colors from the design guideline should be pre-defined in `tailwind.js`
 - Try to avoid injecting styles via `style` attribute because it's impossible to build responsiveness with inline styles. Strive to only use Tailwind classes for sizing, spacing, and building grid layouts.
 
-    ```jsx
-    // Don't
-    <div style={{marginLeft: '8px'}}></div>
+  ```jsx
+  // Don't
+  <div style={{marginLeft: '8px'}}></div>
 
-    // Do
-    <div className="ml-2"></div>
+  // Do
+  <div className="ml-2"></div>
 
-    // Grid layout
-    <div className="grid grid-cols-3 gap-5">
-      <div className="col-span-2"></div>
-      <div className="col-span-1"></div>
-    </div>
-    ```
+  // Grid layout
+  <div className="grid grid-cols-3 gap-5">
+    <div className="col-span-2"></div>
+    <div className="col-span-1"></div>
+  </div>
+  ```
 
 Maintain the separation of concerns in the folder, for example:
 

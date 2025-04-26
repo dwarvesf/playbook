@@ -1,5 +1,5 @@
 ---
-title: National Day
+title: National day
 description: "The email template that you need to send to client when it's near holiday to announce about the absence."
 date: 2020-01-01
 authors:
@@ -19,7 +19,7 @@ Dear [**receiver name**],
 
 Dwarves Foundation would like to express our gratitude toward your kind cooperation during the time.
 
-**Vietnam National Day** is held on September 2 to commemorate the Vietnam Declaration of Independence from France on September 2, 1945.
+**Vietnam National day** is held on September 2 to commemorate the Vietnam Declaration of Independence from France on September 2, 1945.
 
 According to the Government’s regulation about the public holiday 2019, we are pleased to inform the schedule of the holiday as follow:
 

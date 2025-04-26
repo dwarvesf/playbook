@@ -6,7 +6,7 @@ date: null
 
 # Best practices in backend development
 
-- [N Commandments](#n-commandments)
+- [N commandments](#n-commandments)
 - [General points on guidelines](#general-points-on-guidelines)
 - [Development environment setup in README.md](#development-environment-setup-in-readmemd)
 - [Data persistence](#data-persistence)
@@ -18,31 +18,31 @@ date: null
       - [Document storage](#document-storage)
       - [Key-value store](#key-value-store)
       - [Graph database](#graph-database)
-- [Bill of Materials](#bill-of-materials)
+- [Bill of materials](#bill-of-materials)
 - [Security](#security)
   - [Docker](#docker)
   - [Credentials](#credentials)
   - [Secrets](#secrets)
-  - [Login Throttling](#login-throttling)
-  - [User Password Storage](#user-password-storage)
-  - [Audit Log](#audit-log)
-  - [Suspicious Action Throttling and/or blocking](#suspicious-action-throttling-andor-blocking)
-  - [Anonymized Data](#anonymized-data)
+  - [Login throttling](#login-throttling)
+  - [User password storage](#user-password-storage)
+  - [Audit log](#audit-log)
+  - [Suspicious action throttling and/or blocking](#suspicious-action-throttling-andor-blocking)
+  - [Anonymized data](#anonymized-data)
   - [Temporary file storage](#temporary-file-storage)
-  - [Dedicated vs Shared server environment](#dedicated-vs-shared-server-environment)
+  - [Dedicated vs shared server environment](#dedicated-vs-shared-server-environment)
 - [Checklists](#checklists)
   - [Responsibility checklist](#responsibility-checklist)
   - [Release checklist](#release-checklist)
 - [General questions to consider](#general-questions-to-consider)
 - [Generally proven useful tools](#generally-proven-useful-tools)
 
-# N Commandments
+# N commandments
 
 1. README.md in the root of the repo is the docs
 2. Single command run
 3. Single command deploy
 4. Repeatable and re-creatable builds
-5. Build artifacts bundle a ["Bill of Materials"](#bill-of-materials)
+5. Build artifacts bundle a ["Bill of materials"](#bill-of-materials)
 6. Use [UTC as the timezone](http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html) all around
 
 # General points on guidelines
@@ -110,7 +110,7 @@ Stores values, or sometimes groups of key-value pairs, accessible by key. Consid
 
 General graph databases store nodes and edges of a graph, providing index-free lookups of the neighbors of any node. For applications where graph-like queries like shortest path or diameter are crucial. Specialized graph databases also exist for storing e.g. [RDF triples](https://en.wikipedia.org/wiki/Resource_Description_Framework).
 
-# Bill of Materials
+# Bill of materials
 
 This document must be included in every build artifact and shall contain the following:
 
@@ -146,12 +146,12 @@ Never store secrets (passwords, keys, etc.) in the sources in version control! I
 
 Probably the easiest way to handle secrets is to put them in a separate file on the servers that need them, and to be ignored by version control. You can keep e.g. a `.sample` file in the version control, with fake values to illustrate what should go there in the real file. In some cases, it is not easy to include a separate configuration file from the main configuration. If this happens, consider using environment variables, or writing the config file from a version-controlled template on deployment.
 
-## Login Throttling
+## Login throttling
 
 Place limits on the amount of login attempts allowed per client per unit of time. Lock a user account for specific time after a given number of failed attempts (e.g. lock for 5 minutes after 20 failed login attempts).
 The aim of these measures is make online brute-force attacks against usernames/passwords infeasible.
 
-## User Password Storage
+## User password storage
 
 > Never EVER store passwords in plaintext!
 
@@ -165,7 +165,7 @@ If passwords still need to be regularly decrypted, separate the decryption funct
 
 Whenever possible (it should be in a great majority of cases), store passwords using a good one-way hash with a good random salt. And, no, SHA-1 is not a good choice for a hashing function in this context. Hash functions that are designed with passwords in mind are deliberately slower, which makes offline brute-force attacks more time consuming, hence less feasible. See this post for more details: <http://security.stackexchange.com/questions/211/how-to-securely-hash-passwords/31846#31846>
 
-## Audit Log
+## Audit log
 
 For applications handling sensitive data, especially where certain users are allowed a relatively wide access or control, it's good to maintain some kind of audit logging, storing a sequence of actions / events that took place in the system, together with the event/source originator (user, automation job, etc). This can be, e.g:
 
@@ -179,13 +179,13 @@ The log may be a simple text file or stored in a database. At least these three 
 
 The audit log may be a part of the normal application log, but the emphasis here is on logging who did what and not only that a certain action was performed. If possible, the audit log should be made tamper-proof, e.g. only be accessible by a dedicated logging process or user and not directly by the application.
 
-## Suspicious Action Throttling and/or blocking
+## Suspicious action throttling and/or blocking
 
-This can be seen as a generalization of the Login Throttling, this time introducing similar mechanics for arbitrary actions that are deemed "suspicious" within the context of the application. For example, an ERP system which allows normal users access to a substantial amount of information, but expects users to be concerned only with a small subset of that information, may limit attempts to access larger than expected datasets too quickly. E.g. prevent users from downloading list of all customers, if users are supposed to work on one or two customers at a time. Note that this is different from limiting access completely, users are still allowed to retrieve information about any customer, just not all of them at once. Depending on the system, throttling might not be enough, e.g. when one invokes an action on all resources with a single request. Then blocking might be required. Note the difference between making 1000 requests in 10 seconds to retrieve full customer information, one customer at a time, and making a single request to retrieve that information at once.
+This can be seen as a generalization of the Login throttling, this time introducing similar mechanics for arbitrary actions that are deemed "suspicious" within the context of the application. For example, an ERP system which allows normal users access to a substantial amount of information, but expects users to be concerned only with a small subset of that information, may limit attempts to access larger than expected datasets too quickly. E.g. prevent users from downloading list of all customers, if users are supposed to work on one or two customers at a time. Note that this is different from limiting access completely, users are still allowed to retrieve information about any customer, just not all of them at once. Depending on the system, throttling might not be enough, e.g. when one invokes an action on all resources with a single request. Then blocking might be required. Note the difference between making 1000 requests in 10 seconds to retrieve full customer information, one customer at a time, and making a single request to retrieve that information at once.
 
 What is suspicious here depends strongly on the expected use of the application. E.g. in one system, deleting 10000 records might be completely legitimate action, but not so in an another one.
 
-## Anonymized Data
+## Anonymized data
 
 Whenever large datasets are exported to third parties, data should be anonymized as much as possible, given the intended use of the data. For example, if a third party service will provide general statistical analysis on a customer database, it probably does not need to know the names, addresses or other personal information for individual customers. Even a generic customer ID number might be too revealing, depending on the data set. Take a look at this article: <http://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/>.
 
@@ -199,7 +199,7 @@ If you must log sensitive information try hashing before logging so you can iden
 
 Make sure you are aware where your application is storing temporary files. If you are using publicly accessible directories (which are most probably the default) like `/tmp` and `/var/tmp`, make sure you create your files with mode 600, so that they are readable only by the user your application is running as. Alternatively, have a protected directory for storing temporary files (directory accessible only by the application user).
 
-## Dedicated vs Shared server environment
+## Dedicated vs shared server environment
 
 The security threats can be quite different depending on whether the application is going to run in a shared or a dedicated environment. Shared here means that there are other (not necessarily 3rd party) applications running on the same server. In that case, having appropriate file permissions becomes critical, otherwise application source code, data files, temporary files, logs, etc might end up accessible by unintended users. Then a security breach in a 3rd party application might result in your application being compromised.
 

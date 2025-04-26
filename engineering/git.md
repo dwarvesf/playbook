@@ -4,13 +4,13 @@ description: null
 date: null
 ---
 
-# Source Version Control
+# Source version control
 
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.
 
 [We use git](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). Git is one of the most popular distributed source version control. We use [Github](https://github.com/dwarvesf/) to open source our works, playbook, and practices. We also have a `self-host cgit` to store all of our source code.
 
-## Commit Message Guidelines
+## Commit message guidelines
 
 Hour commit conventions are based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 
@@ -64,7 +64,7 @@ We use automation tools that are useful to force and check commit message convec
 - [changeset](https://github.com/changesets/changesets) - manage your versioning and changelogs
 - [semantic release](https://github.com/semantic-release/github) - plugin to publish a GitHub release and comment on released Pull Requests/Issues
 - [commitlint](https://github.com/conventional-changelog/commitlint) - lint your commit message
-- [commitlint Github Action](https://github.com/marketplace/actions/commit-linter) - check your commit with Github Action
+- [commitlint GitHub action](https://github.com/marketplace/actions/commit-linter) - check your commit with Github Action
 - commit hooks:
   - create your own with bash script
   - nodejs tool: husky and lint-staged
@@ -253,7 +253,7 @@ git reflog show head
 git reset --hard 8c76ad1
 ```
 
-- **Remote Reflog:**
+- **Remote reflog:**
 
 > Same as reflog this will help you recovering a commit from Github’s Reflog
 >

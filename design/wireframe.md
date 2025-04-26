@@ -7,7 +7,7 @@ tags:
   - design
 ---
 
-## Wireframe: Workflow Design
+## Wireframe: workflow design
 
 Created on scraps of paper, a whiteboard, or in a software program, serve to establish relationships between elements in a project such as navigation, imagery, and calls to action.
 Often, a wireframe has 3 core goals:
@@ -24,7 +24,7 @@ Often, a wireframe has 3 core goals:
 
 ![](assets/wireframe_3c6ce1f34b539d7de9da020608c19f8a_md5.webp)
 
-## Information Architecture
+## Information architecture
 
 Information architecture (IA) is, like a blueprint, a visual representation of the product’s infrastructure, features, and hierarchy. IA provides designers (as well as product development and engineering teams) a bird’s-eye view of the entire product.
 

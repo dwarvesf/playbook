@@ -50,7 +50,7 @@ This is the preparation stage when we specify all details of the project handove
 - [ ] Expected problems (scalability, security, etc) are documented.
 - [ ] **Technology stack** is documented in single place.
 
-#### Source Code handover
+#### Source code handover
 
 A checklist of items to help new members who would be able to run / build the source code. Other than that, they also can understand and continue to develop the codebase
 

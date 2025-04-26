@@ -89,7 +89,7 @@ Remember to double-check that your CTA writing fits with what's happening in the
 
 With Dwarves’ brand personality, emojis could be of use as a way to familiarize people with us and add more interest to our writing. Use emojis where you see it’s fit, just don’t overuse them.
 
-### Exclamation points & Question marks
+### Exclamation points & question marks
 
 Avoid using multiple exclamation points and question marks. Although we aim to be friendly, we also want to maintain professionalism and seriousness when necessary. Instead of overusing "!!!", opt for expressive words to convey emotions.
 
@@ -97,7 +97,7 @@ Avoid using multiple exclamation points and question marks. Although we aim to b
 
 If there are technical terms in writing, define them in simple language so everyone can understand what we are writing about.
 
-### Tags & Hashtags
+### Tags & hashtags
 
 Use tags and hashtags accurately, according to the content. It will help increase its potential distribution and exposure to the targeted audience.
 
@@ -111,7 +111,7 @@ Recheck each piece (content structure, grammar, and wording) before submitting t
 
 If we find ourselves missing more than two points from this guideline, seek assistance from our line manager. And don't forget to credit your name at the end.
 
-### Reflect & Adapt
+### Reflect & adapt
 
 Allocate time for self-reflection and develop the habit of reviewing after our work is published:
 
@@ -120,7 +120,7 @@ Allocate time for self-reflection and develop the habit of reviewing after our w
 - Go far and wide to search for new things related to your work
 - Read more
 
-## Voice & Tone
+## Voice & tone
 
 ### Authentic voice
 

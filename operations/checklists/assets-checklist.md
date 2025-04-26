@@ -11,7 +11,7 @@ tags:
   - checklist
 ---
 
-## For Admin
+## For admin
 
 ### Lending
 
@@ -27,7 +27,7 @@ tags:
 - [ ] Report for damage caused (if any)
 - [ ] Tick done on the To-dos ticket
 
-## For Employee
+## For employee
 
 ### Borrowing
 

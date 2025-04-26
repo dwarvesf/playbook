@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Basic Security
+# Basic security
 
 ## Devices
 
@@ -40,7 +40,7 @@ We all use personal mobile devices, so your options are either not to add any co
 - [ ] [Create a 6 digit passcode (or better)](http://www.cnet.com/uk/how-to/secure-your-ios-device-with-a-six-digit-passcode-on-ios-9/)
 - [ ] [Turn on auto lock after 5 mins](http://www.imore.com/how-change-auto-lock-time-your-iphone-or-ipad)
 
-### Using Passwords
+### Using passwords
 
 - [ ] Use a unique password for every account you create.
 - [ ] Use a tool like [pwgen](https://github.com/jbernard/pwgen) or [1password](https://1password.com) to generate random passwords.
@@ -56,12 +56,12 @@ We all use personal mobile devices, so your options are either not to add any co
 - [ ] Don't share your private key with anyone, including services like Keybase.
 - [ ] Keep at least one backup of your private key and revocation certificate in a secure location, such as a thumb drive.
 
-## Handling Vulnerabilities
+## Handling vulnerabilities
 
 - [ ] Depending on what you are making, limit access to your user databases.
 - [ ] In case of a hack or data breach, check previous logs for data access, ask people to change passwords. You might require an audit by external agencies depending on where you are incorporated.
 
-## Security Report
+## Security report
 
 When someone finds a possible security issue in our software, we encourage them to report it to our <security@d.foundation> email address.
 

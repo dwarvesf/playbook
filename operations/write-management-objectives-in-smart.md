@@ -46,7 +46,7 @@ Anyone can set goals, but if it lacks realistic timing, chances are you’re not
 
 _Incorrect Goal: Make on the website the section “Contact Us” for a demonstration to the client by tomorrow.Correct Goal: Make on the website the section “Contact Us” for demonstration to the client by noon 6/10/2016._
 
-## Example: Email Subscription Goal
+## Example: Email subscription goal
 
 - **Specific:** I want to boost the number of our email blog subscribers by increasing our Facebook advertising budget on blog posts that historically acquire the most email subscribers.
 - **Measurable:** A 50% increase is our goal.
