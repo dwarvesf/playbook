@@ -7,9 +7,9 @@ authors:
   - huynguyenh
   - innnotruong
 tags:
-  - people
-  - operations
   - checklist
+  - operation
+  - people
 ---
 
 ## Objectives

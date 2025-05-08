@@ -6,9 +6,9 @@ authors:
   - tieubao
   - huynguyenh
 tags:
-  - people
-  - operations
   - checklist
+  - operation
+  - people
 ---
 
 ## For admin

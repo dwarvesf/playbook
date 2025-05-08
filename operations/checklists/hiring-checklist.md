@@ -6,10 +6,10 @@ authors:
   - tieubao
   - huynguyenh
 tags:
-  - people
-  - hiring
-  - operations
   - checklist
+  - hiring
+  - operation
+  - people
 ---
 
 ### Resume collecting

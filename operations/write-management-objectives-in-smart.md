@@ -5,9 +5,9 @@ date: 2020-02-25
 authors:
   - tieubao
 tags:
-  - operations
-  - tips
   - goal
+  - operation
+  - tips
 ---
 
 > _S.M.A.R.T. goals are a relatively new idea. In 1981, George T. Doran, a consultant and former director of corporate planning for Washington Water Power Company, published a paper called, “There’s a S.M.A.R.T. Way to Write Management’s Goals and Objectives.” In the document, he introduces S.M.A.R.T. goals as a tool to create criteria to help improve the chances of succeeding in accomplishing a goal_

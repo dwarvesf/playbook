@@ -5,8 +5,8 @@ date: 2020-04-10
 authors:
   - tieubao
 tags:
-  - operations
   - performance
+  - operation
 ---
 
 - Outsource things which are super important but we are not excellent at.

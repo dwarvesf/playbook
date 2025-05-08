@@ -6,9 +6,9 @@ authors:
   - tieubao
   - huynguyenh
 tags:
-  - hiring
-  - operations
   - checklist
+  - hiring
+  - operation
 ---
 
 ### Background & skills

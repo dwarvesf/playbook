@@ -6,9 +6,9 @@ authors:
   - nikkingtr
   - tieubao
 tags:
-  - ux
   - design
   - learning
+  - ux
 ---
 
 ### What is the design sprint?

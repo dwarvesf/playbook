@@ -5,8 +5,8 @@ date: 2019-04-10
 authors:
   - tieubao
 tags:
-  - quality
   - productivity
+  - quality
 ---
 
 In software consulting, our goal is to deliver outstanding results for every client project. To achieve this, we carefully manage how our team members’ expertise is allocated, ensuring focus and efficiency. Dedicated team members are assigned to a single project, allowing them to immerse themselves fully in delivering exceptional outcomes. For fractional roles, where team members contribute specialized skills across projects, we limit assignments to a maximum of two projects at any given time.

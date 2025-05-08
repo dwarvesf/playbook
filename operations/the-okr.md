@@ -6,8 +6,8 @@ authors:
   - tieubao
 tags:
   - performance
-  - okr
   - goal
+  - okr
 ---
 
 ### What is OKR

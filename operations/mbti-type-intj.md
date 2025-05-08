@@ -5,10 +5,10 @@ date: 2021-07-26
 authors:
   - namtran
 tags:
-  - mbti
   - intj
+  - mbti
+  - operation
   - people
-  - operations
 ---
 
 ### Preferred work environment

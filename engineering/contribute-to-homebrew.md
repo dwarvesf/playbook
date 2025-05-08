@@ -3,7 +3,7 @@ title: How we contribute to homebrew
 description: null
 date: 2016-03-13
 tags:
-  - oss
+  - open-source
 ---
 
 ## Homebrew

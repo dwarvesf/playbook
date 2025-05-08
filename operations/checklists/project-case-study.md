@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - zlatanpham
 tags:
-  - project
-  - operations
   - checklist
+  - operation
+  - project
 ---
 
 The case study should focus on what the audience want to read

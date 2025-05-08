@@ -5,10 +5,10 @@ date: 2021-07-24
 authors:
   - namtran
 tags:
-  - mbti
   - estj
+  - mbti
+  - operation
   - people
-  - operations
 ---
 
 ### Preferred work tasks

@@ -5,9 +5,9 @@ date: 2018-08-26
 authors:
   - tieubao
 tags:
-  - people
   - human-resource
-  - operations
+  - operation
+  - people
 ---
 
 There are 2 types of employees:

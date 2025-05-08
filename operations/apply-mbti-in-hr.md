@@ -5,10 +5,10 @@ date: 2021-07-17
 authors:
   - namtran
 tags:
-  - people
-  - mbti
   - hiring
-  - operations
+  - mbti
+  - operation
+  - people
 ---
 
 ## Getting started

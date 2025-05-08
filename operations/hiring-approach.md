@@ -6,9 +6,9 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - people
-  - operations
   - hiring
+  - operation
+  - people
 ---
 
 ## Philosophy

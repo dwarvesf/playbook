@@ -6,10 +6,10 @@ authors:
   - nikkingtr
   - huynguyenh
 tags:
-  - template
   - email
-  - operations
   - hiring
+  - operation
+  - template
 ---
 
 ### Screening rejection

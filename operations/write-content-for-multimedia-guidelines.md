@@ -3,11 +3,11 @@ title: Write content for multimedia guidelines
 description: "To help all our Dwarves team members, create original, helpful, and consistent writing across various platforms, we've put together this content guideline as a reference whenever we're writing for Dwarves."
 date: 2024-05-03
 authors:
-  - innno_
+  - innnotruong
   - nikkingtr
 tags:
-  - memo
   - guide
+  - memo
 ---
 
 > “ It’s not that we need a unified language in all contexts; rather we just need enough context to get everyone on the same page." _Jake Albaugh, Developer Advocate, Figma_

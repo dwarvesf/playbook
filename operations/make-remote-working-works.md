@@ -5,9 +5,9 @@ date: 2016-01-17
 authors:
   - duynglam
 tags:
-  - remote
-  - operations
   - performance
+  - operation
+  - remote-work
 ---
 
 Being office-present keeps you effective. Firms lean on that. It explains why companies are down to invest a fortune on building creative office with other benefit packages. There's nothing wrong about that. I'm just saying there are others ways to keep people excited without costing too much operation cost.

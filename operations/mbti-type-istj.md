@@ -5,9 +5,9 @@ date: 2021-07-20
 authors:
   - namtran
 tags:
-  - mbti
   - istj
-  - operations
+  - mbti
+  - operation
   - people
 ---
 

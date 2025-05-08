@@ -3,11 +3,11 @@ title: How I create content for multiple platforms
 description: "To help all our Dwarves team members, create original, helpful, and consistent writing across various platforms, we've put together this content guideline as a reference whenever we're writing for Dwarves."
 date: 2024-05-03
 authors:
-  - innno_
+  - innnotruong
   - nikkingtr
 tags:
-  - memo
   - guide
+  - memo
 ---
 
 Road to Discover Dwarves’ Voice: As you know, each individual at Dwarves represents craftsmanship and well-crafted products. I consider craftsmanship as one of the most fundamental aspects of our work, reflected in every piece of content we create.

@@ -6,9 +6,9 @@ authors:
   - minhcloud
   - zlatanpham
 tags:
-  - operations
   - checklist
   - delivery
+  - operation
 ---
 
 ## Why do we need artifacts?

@@ -5,9 +5,9 @@ date: 2024-08-20
 authors:
   - innnotruong
 tags:
-  - people
-  - operations
   - checklist
+  - operation
+  - people
 ---
 
 ### Objectives

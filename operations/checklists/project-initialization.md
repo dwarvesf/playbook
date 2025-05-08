@@ -8,9 +8,9 @@ authors:
   - nikkingtr
   - zlatanpham
 tags:
-  - project
-  - operations
   - checklist
+  - operation
+  - project
 ---
 
 **Paperwork**

@@ -6,8 +6,8 @@ authors:
   - namtran
 tags:
   - mbti
+  - operation
   - personalities
-  - operations
 ---
 
 ## The four preferences are

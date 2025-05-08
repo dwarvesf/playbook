@@ -6,8 +6,8 @@ authors:
   - tieubao
 tags:
   - business
+  - operation
   - startup
-  - operations
 ---
 
 ## Lean canvas

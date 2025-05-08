@@ -5,9 +5,9 @@ date: 2016-01-10
 authors:
   - tieubao
 tags:
-  - remote
-  - operations
+  - operation
   - policy
+  - remote-work
 ---
 
 Some useful practices we adopted to keep the remote working system goes smoothly.

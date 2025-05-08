@@ -6,8 +6,8 @@ authors:
   - tieubao
 tags:
   - performance
+  - operation
   - people
-  - operations
 ---
 
 **_P = f(r, t, c, r)_**

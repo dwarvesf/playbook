@@ -6,9 +6,9 @@ authors:
   - tieubao
   - huynguyenh
 tags:
-  - people
-  - operations
   - checklist
+  - operation
+  - people
 ---
 
 ### When an employee ask for social insurance and contract

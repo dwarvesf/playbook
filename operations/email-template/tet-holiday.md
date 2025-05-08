@@ -6,9 +6,9 @@ authors:
   - nikkingtr
   - huynguyenh
 tags:
-  - template
   - email
-  - operations
+  - operation
+  - template
 ---
 
 **Title:** Dwarves Foundation - Holiday Announcement

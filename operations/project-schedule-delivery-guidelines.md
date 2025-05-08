@@ -5,8 +5,8 @@ date: 2023-12-05
 authors:
   - huytieu
 tags:
-  - delivery
   - consulting
+  - delivery
   - internal
 ---
 

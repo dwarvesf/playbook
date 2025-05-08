@@ -6,8 +6,8 @@ authors:
   - huynguyenh
   - tieubao
 tags:
-  - operations
   - consulting
+  - operation
   - project
 ---
 
