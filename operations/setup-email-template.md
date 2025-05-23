@@ -7,6 +7,8 @@ authors:
 tags:
   - operation
   - people
+redirect:
+  - /s/Nw7XaA
 ---
 
 ## To turn on Gmail Canned Response (Template)

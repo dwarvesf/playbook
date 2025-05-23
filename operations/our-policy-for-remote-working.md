@@ -8,6 +8,8 @@ tags:
   - operation
   - policy
   - remote-work
+redirect:
+  - /s/bSUnjg
 ---
 
 Some useful practices we adopted to keep the remote working system goes smoothly.

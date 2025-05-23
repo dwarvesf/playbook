@@ -9,6 +9,8 @@ tags:
   - checklist
   - operation
   - people
+redirect:
+  - /s/mqUlCA
 ---
 
 ### When an employee ask for social insurance and contract

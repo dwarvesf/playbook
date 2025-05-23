@@ -7,6 +7,8 @@ authors:
 tags:
   - operation
   - people
+redirect:
+  - /s/QOZB6Q
 ---
 
 ## Email

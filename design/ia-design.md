@@ -6,4 +6,6 @@ draft: true
 tags:
   - dwarves
   - work
+redirect:
+  - /s/JMS20g
 ---

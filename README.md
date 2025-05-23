@@ -8,6 +8,8 @@ authors:
 hide_title: true
 tags:
   - playbook
+redirect:
+  - /s/ZDqctA
 ---
 
 Dwarves Foundation is an innovation service firm. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.

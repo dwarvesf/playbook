@@ -9,6 +9,8 @@ tags:
   - email
   - operation
   - template
+redirect:
+  - /s/63mVKQ
 ---
 
 Hey there!

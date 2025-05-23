@@ -9,6 +9,8 @@ tags:
   - mbti
   - operation
   - people
+redirect:
+  - /s/b3IlHw
 ---
 
 ### Preferred work tasks

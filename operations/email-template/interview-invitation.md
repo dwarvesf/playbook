@@ -9,6 +9,8 @@ tags:
   - email
   - operation
   - template
+redirect:
+  - /s/MvNdKg
 ---
 
 **Title:** Dwarves Foundation - Interview invitation

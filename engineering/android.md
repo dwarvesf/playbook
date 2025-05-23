@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/4xJfSQ
 ---
 
 # Best practices in Android development

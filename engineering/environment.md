@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/JeGU7A
 ---
 
 # Environments

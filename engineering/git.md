@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/odtZRQ
 ---
 
 # Source version control

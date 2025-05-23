@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/u7WAaA
 ---
 
 # Logging and monitoring

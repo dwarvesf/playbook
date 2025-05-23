@@ -10,6 +10,8 @@ tags:
   - checklist
   - operation
   - project
+redirect:
+  - /s/cm-vqw
 ---
 
 **Transparency**

@@ -9,6 +9,8 @@ tags:
   - checklist
   - operation
   - people
+redirect:
+  - /s/6U78vg
 ---
 
 ### Invoice checklist

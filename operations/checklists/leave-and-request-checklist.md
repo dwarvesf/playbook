@@ -8,6 +8,8 @@ tags:
   - checklist
   - operation
   - people
+redirect:
+  - /s/AIpoeA
 ---
 
 ### Objectives

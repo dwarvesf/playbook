@@ -9,6 +9,8 @@ tags:
   - checklist
   - operation
   - people
+redirect:
+  - /s/Wlxq1w
 ---
 
 ## For admin

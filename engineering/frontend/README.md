@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/Pja7yw
 ---
 
 # Dwarves frontend guide

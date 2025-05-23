@@ -8,6 +8,8 @@ tags:
   - consulting
   - delivery
   - internal
+redirect:
+  - /s/QIHH_w
 ---
 
 ## Weekly activities

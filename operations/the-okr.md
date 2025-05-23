@@ -8,6 +8,8 @@ tags:
   - performance
   - goal
   - okr
+redirect:
+  - /s/CcTciA
 ---
 
 ### What is OKR

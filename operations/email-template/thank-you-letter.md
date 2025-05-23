@@ -9,6 +9,8 @@ tags:
   - email
   - operation
   - template
+redirect:
+  - /s/B__kTw
 ---
 
 **Title:** Dwarves Foundation - Thank you Letter

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/PXROFA
 ---
 
 # Best practices in blockchain development

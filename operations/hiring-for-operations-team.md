@@ -9,6 +9,8 @@ tags:
   - hiring
   - operation
   - people
+redirect:
+  - /s/jWE9kA
 ---
 
 Operations is a very sensitive area of the company, so be very picky. A great ops person can dramatically improve the way your company works and make your life a lot easier.

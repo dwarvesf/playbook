@@ -6,6 +6,8 @@ tags:
   - design
   - playbook
   - ux
+redirect:
+  - /s/EzcDhQ
 ---
 
 ## UX research framework

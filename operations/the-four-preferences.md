@@ -8,6 +8,8 @@ tags:
   - mbti
   - operation
   - personalities
+redirect:
+  - /s/yxfd3Q
 ---
 
 ## The four preferences are

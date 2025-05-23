@@ -8,6 +8,8 @@ tags:
   - business
   - operation
   - startup
+redirect:
+  - /s/xGckKA
 ---
 
 ## Lean canvas

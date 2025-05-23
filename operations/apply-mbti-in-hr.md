@@ -9,6 +9,8 @@ tags:
   - mbti
   - operation
   - people
+redirect:
+  - /s/ysfIJA
 ---
 
 ## Getting started

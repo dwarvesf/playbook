@@ -10,6 +10,8 @@ tags:
   - estimation
   - guide
   - internal
+redirect:
+  - /s/GUMYpQ
 ---
 
 When we conduct an estimation, it is recommended to abandon the transitional “exact hours” assessment method, instead, use the story point based on the Fibonacci number (1, 2, 3, 5, 8, 13, 21…). The number expresses an estimation of the overall effort required to fully implement a backlog item or any piece of work.

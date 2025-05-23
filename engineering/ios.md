@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/UWAnIA
 ---
 
 # Best practices in iOS development

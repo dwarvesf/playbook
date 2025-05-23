@@ -9,6 +9,8 @@ tags:
   - design
   - learning
   - ux
+redirect:
+  - /s/SeUoXg
 ---
 
 ### What is the design sprint?

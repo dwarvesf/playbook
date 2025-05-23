@@ -8,6 +8,8 @@ authors:
 tags:
   - guide
   - memo
+redirect:
+  - /s/9T0iOw
 ---
 
 > “ It’s not that we need a unified language in all contexts; rather we just need enough context to get everyone on the same page." _Jake Albaugh, Developer Advocate, Figma_

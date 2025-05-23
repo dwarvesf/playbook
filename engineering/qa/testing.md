@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/88k07Q
 ---
 
 # Testing

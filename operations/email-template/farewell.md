@@ -9,6 +9,8 @@ tags:
   - email
   - operation
   - template
+redirect:
+  - /s/GJgulw
 ---
 
 **Title**: Dwarves Foundation - Farewell letter

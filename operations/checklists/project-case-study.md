@@ -10,6 +10,8 @@ tags:
   - checklist
   - operation
   - project
+redirect:
+  - /s/91g7KQ
 ---
 
 The case study should focus on what the audience want to read

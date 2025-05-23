@@ -8,6 +8,8 @@ tags:
   - performance
   - operation
   - people
+redirect:
+  - /s/q1zcPw
 ---
 
 **_P = f(r, t, c, r)_**

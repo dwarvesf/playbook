@@ -11,6 +11,8 @@ tags:
   - checklist
   - operation
   - project
+redirect:
+  - /s/llAxDw
 ---
 
 **Source code**

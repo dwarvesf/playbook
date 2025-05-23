@@ -7,4 +7,6 @@ tags:
   - design
   - playbook
   - ui
+redirect:
+  - /s/Spaonw
 ---

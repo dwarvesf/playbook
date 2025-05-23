@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/z2PL7Q
 ---
 
 # Dwarves design playbook

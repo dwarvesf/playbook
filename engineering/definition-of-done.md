@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/XVFYlw
 ---
 
 Definition of done also known as **DoD** is a list of criteria which must be met before a product increment (story) is considered "done".

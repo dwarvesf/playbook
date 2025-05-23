@@ -8,6 +8,8 @@ tags:
   - framework
   - operation
   - productivity
+redirect:
+  - /s/b-f4Kw
 ---
 
 ## AARRR framework

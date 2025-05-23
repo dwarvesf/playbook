@@ -10,6 +10,8 @@ tags:
   - hiring
   - operation
   - template
+redirect:
+  - /s/zMuT1g
 ---
 
 ### Screening rejection

@@ -7,6 +7,8 @@ tags:
   - hiring
   - operation
   - template
+redirect:
+  - /s/Ao15PA
 ---
 
 **Title**: Follow-up on Welcome Onboard email

@@ -9,6 +9,8 @@ tags:
   - checklist
   - delivery
   - operation
+redirect:
+  - /s/aUlI4w
 ---
 
 ## Why do we need artifacts?

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/2-e6dQ
 ---
 
 # Writing a useful changelog

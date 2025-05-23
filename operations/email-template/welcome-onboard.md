@@ -10,6 +10,8 @@ tags:
   - hiring
   - operation
   - template
+redirect:
+  - /s/wcYbMg
 ---
 
 **Title**: Dwarves Foundation - Welcome onboard

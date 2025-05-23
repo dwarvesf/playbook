@@ -9,6 +9,8 @@ tags:
   - mbti
   - operation
   - people
+redirect:
+  - /s/VUti6Q
 ---
 
 ### Preferred work environment

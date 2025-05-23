@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/vqS75A
 ---
 
 # Logging system

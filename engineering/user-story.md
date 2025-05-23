@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/lO7_sw
 ---
 
 # Agile requirement - user story

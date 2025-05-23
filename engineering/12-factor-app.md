@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/pQPebw
 ---
 
 # The 12-factor app
