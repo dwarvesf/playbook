@@ -4,6 +4,8 @@ description: null
 date: 2019-09-20
 tags:
   - people
+redirect:
+  - /A8X03Q
 ---
 
 - **Grit**: Look for a time the candidate wanted something so badly, they were unstoppable in pursuing it. Or a time they overcame an obstacle.

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /2Fz0UQ
 ---
 
 # README

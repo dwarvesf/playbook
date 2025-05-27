@@ -4,6 +4,8 @@ description: null
 date: 2016-03-13
 tags:
   - open-source
+redirect:
+  - /HaECDQ
 ---
 
 ## Homebrew

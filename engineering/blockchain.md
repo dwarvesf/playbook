@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /Xrs4ag
 ---
 
 # Best practices in blockchain development

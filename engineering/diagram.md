@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /AaPX7w
 ---
 
 # Diagram and project document structure

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /wxC4HA
 ---
 
 # Readme driven development

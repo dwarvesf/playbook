@@ -9,6 +9,8 @@ tags:
   - hiring
   - operation
   - people
+redirect:
+  - /js8Xkw
 ---
 
 ## Philosophy

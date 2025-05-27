@@ -5,6 +5,8 @@ date: 2023-10-16
 draft: true
 tags:
   - design
+redirect:
+  - /8YtZfA
 ---
 
 ## Wireframe: workflow design

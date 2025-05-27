@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /h7hxNA
 ---
 
 # Database migration in iOS development

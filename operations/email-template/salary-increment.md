@@ -9,6 +9,8 @@ tags:
   - email
   - operation
   - template
+redirect:
+  - /nZHRcw
 ---
 
 **Title:** Dwarves Foundation - Salary Increment

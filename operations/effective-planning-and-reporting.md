@@ -7,6 +7,8 @@ authors:
 tags:
   - operation
   - workflow
+redirect:
+  - /1gr2lA
 ---
 
 We are now a borderless company with team members working remotely everywhere they want. Clear communication, at least in weekly planning and reporting is required for everyone.

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /KjoHhA
 ---
 
 The workflow we chose to adopt is a team agreement on why we should be a team player and how we should act to benefit as a whole, not just an individual.

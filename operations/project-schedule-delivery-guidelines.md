@@ -8,6 +8,8 @@ tags:
   - consulting
   - delivery
   - internal
+redirect:
+  - /tPymmA
 ---
 
 ## Weekly activities

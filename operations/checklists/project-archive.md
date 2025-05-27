@@ -10,6 +10,8 @@ tags:
   - checklist
   - operation
   - project
+redirect:
+  - /6uSI1g
 ---
 
 **Project: Archive**

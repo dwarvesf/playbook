@@ -7,6 +7,8 @@ authors:
 tags:
   - operation
   - project
+redirect:
+  - /4D0jsQ
 ---
 
 ## Compliance checklist

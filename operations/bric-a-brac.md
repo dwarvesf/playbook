@@ -7,6 +7,8 @@ authors:
 tags:
   - performance
   - operation
+redirect:
+  - /kPRN5Q
 ---
 
 - Outsource things which are super important but we are not excellent at.

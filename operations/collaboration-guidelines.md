@@ -9,6 +9,8 @@ tags:
   - consulting
   - operation
   - project
+redirect:
+  - /BvrBkw
 ---
 
 Guidelines for project collaboration between Dwarves and our Clients.

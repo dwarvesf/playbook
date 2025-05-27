@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /8YSu0g
 ---
 
 # Writing test

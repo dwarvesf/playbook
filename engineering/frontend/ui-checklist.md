@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /3HShrA
 ---
 
 # Ui checklist

@@ -7,6 +7,8 @@ authors:
 tags:
   - product-design
   - ui
+redirect:
+  - /gg0W3w
 ---
 
 ## Research

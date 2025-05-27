@@ -8,6 +8,8 @@ tags:
   - mbti
   - operation
   - personalities
+redirect:
+  - /uoiKrg
 ---
 
 ## The four preferences are

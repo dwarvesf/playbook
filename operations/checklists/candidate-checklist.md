@@ -9,6 +9,8 @@ tags:
   - checklist
   - hiring
   - operation
+redirect:
+  - /kgkrJg
 ---
 
 ### Background & skills

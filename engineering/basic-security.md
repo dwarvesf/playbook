@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /1P3kIw
 ---
 
 # Basic security

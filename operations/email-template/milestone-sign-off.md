@@ -9,6 +9,8 @@ tags:
   - email
   - operation
   - template
+redirect:
+  - /ABh8Yg
 ---
 
 **Title:** Project XX - Milestone Signoff

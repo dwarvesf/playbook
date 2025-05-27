@@ -9,6 +9,8 @@ tags:
   - checklist
   - operation
   - people
+redirect:
+  - /AEQnmA
 ---
 
 ## Invoice process

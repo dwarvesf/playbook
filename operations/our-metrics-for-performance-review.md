@@ -8,6 +8,8 @@ tags:
   - performance
   - operation
   - people
+redirect:
+  - /AH6mug
 ---
 
 **_P = f(r, t, c, r)_**

@@ -8,6 +8,8 @@ tags:
   - checklist
   - operation
   - people
+redirect:
+  - /XnXPKA
 ---
 
 ### Objectives

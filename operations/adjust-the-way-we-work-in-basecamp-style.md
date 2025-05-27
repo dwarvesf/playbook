@@ -9,6 +9,8 @@ tags:
   - management
   - operation
   - process
+redirect:
+  - /rojSFw
 ---
 
 Being in a remote team is dope. Manage your own stuff, remove the time and cost of commuting, select your work ambiance, and got equipped with all types of supporting tools.

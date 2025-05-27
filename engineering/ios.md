@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /Fzxk4w
 ---
 
 # Best practices in iOS development

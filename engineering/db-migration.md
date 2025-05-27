@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /e5W9zg
 ---
 
 # Database migration

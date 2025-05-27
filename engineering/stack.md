@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /h2928Q
 ---
 
 # Technology stack

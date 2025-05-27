@@ -7,7 +7,9 @@ authors:
 tags:
   - operation
   - policy
-  - remote-work
+  - remote
+redirect:
+  - /QAfBxQ
 ---
 
 Some useful practices we adopted to keep the remote working system goes smoothly.

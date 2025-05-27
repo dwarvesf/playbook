@@ -7,6 +7,8 @@ authors:
 tags:
   - delivery
   - report
+redirect:
+  - /GzOT4w
 ---
 
 Our goal is to allocate resources efficiently, assign the right staff to the right tasks, and address issues appropriately. At a high level, our delivery report will answer three key questions:

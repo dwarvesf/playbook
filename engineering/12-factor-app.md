@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /2hYHHQ
 ---
 
 # The 12-factor app

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /AL3v5g
 ---
 
 # Logging system

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /6v6jrw
 ---
 
 # Agile requirement - user story

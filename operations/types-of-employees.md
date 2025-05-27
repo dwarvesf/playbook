@@ -8,6 +8,8 @@ tags:
   - human-resource
   - operation
   - people
+redirect:
+  - /rgACVg
 ---
 
 There are 2 types of employees:

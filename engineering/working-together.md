@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /Ql8wug
 ---
 
 # Pair programming

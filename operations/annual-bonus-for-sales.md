@@ -7,6 +7,8 @@ authors:
 tags:
   - operation
   - project
+redirect:
+  - /XYqGXQ
 ---
 
 The annual bonus for sales are the sum of 2 portions

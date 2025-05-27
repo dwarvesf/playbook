@@ -10,6 +10,8 @@ tags:
   - hiring
   - operation
   - people
+redirect:
+  - /Xop3XQ
 ---
 
 ### Resume collecting

@@ -10,6 +10,8 @@ tags:
   - checklist
   - operation
   - project
+redirect:
+  - /J9QGYQ
 ---
 
 **Transparency**

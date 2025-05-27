@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /rXv1ow
 ---
 
 # QA best practises
