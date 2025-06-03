@@ -43,21 +43,21 @@ The foundational layer of this protocol is a secure, zero-configuration peer-to-
 
 The mentor first shares their machine with the shadow via **tailscale node sharing**. Once connected, the mentor starts the git daemon in the repository directory they wish to share.
 
-```shell
+```bash
 # mentor: from within the project directory to be shared
 git daemon --verbose --export-all --base-path=. --reuseaddr
 ```
 
 The shadow can then verify connectivity by pinging the mentor's **tailscale magicdns name** or ip address.
 
-```shell
+```bash
 # shadow: verify connection to mentor's machine
 ping <mentor-tailscale-magicdns-name-or-ip>
 ```
 
 With the connection verified and the **git daemon** running on the mentor's machine, the shadow can clone the repository using the mentor's **tailscale magicdns name** (e.g., `mentor-machine-name`) and the repository's directory name (which is `.` in the `base-path`, so it refers to the directory name itself).
 
-```shell
+```bash
 # shadow: clone the repository
 # replace <mentor-tailscale-magicdns-name> with the mentor's actual tailscale machine name
 # replace <repository-folder-name> with the name of the directory the mentor is sharing
@@ -76,7 +76,7 @@ While `git send-email` is the standard tool for dispatching patches, using a ter
 
 The primary commands for this stage are as follows:
 
-```shell
+```bash
 # shadow: from within your feature branch, create patches for commits
 # that are not yet in the 'main' branch.
 git format-patch main
@@ -87,7 +87,7 @@ git format-patch main
 
 Once the patches are created, they are sent to the mentor for review.
 
-```shell
+```bash
 # shadow: use git's built-in email tool to send the patch series.
 # ensure your .gitconfig is set up for sending email.
 git send-email --to="mentor.email@example.com" 00*.patch
@@ -103,7 +103,7 @@ The complete process provides a clear and efficient loop for submitting, reviewi
 2.  **Task execution.** The shadow completes a task on a local feature branch, making one or more well-formed, atomic commits.
 3.  **Patch generation.** The shadow generates the patch files from their commits.
 
-    ```shell
+    ```bash
     # shadow: create patches from your current branch against the main branch.
     git format-patch main
     # output:
@@ -112,13 +112,13 @@ The complete process provides a clear and efficient loop for submitting, reviewi
     ```
 4.  **Patch submission.** The shadow sends the generated files using **git send-email** or an integrated client like **aerc**.
 
-    ```shell
+    ```bash
     # shadow: send all generated .patch files.
     git send-email --to="mentor.email@example.com" 00*.patch
     ```
 5.  **Review and application.** The mentor receives the patches as emails. They can review the code directly in their client. If the changes are approved, they use **git am** (apply mail) to apply the patches directly to their local repository. This command applies the commits exactly as the shadow created them, preserving authorship and commit history with perfect fidelity. If using **aerc**, the mentor can often pipe the email directly to `git am` for even faster application.
 
-    ```shell
+    ```bash
     # mentor: apply all patches from the received emails (saved as .mbox or .eml files).
     # assuming the patches were saved to files, or piped from an email client like aerc.
     # Example with saved files:
@@ -140,7 +140,7 @@ This hook will automatically amend the last commit to update the author field to
 3.  Make the file executable: `chmod +x .git/hooks/post-applypatch`.
 4.  Add the following script content to the `post-applypatch` file:
 
-    ```shell
+    ```bash
     #!/bin/sh
     #
     # post-applypatch hook
