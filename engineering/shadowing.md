@@ -6,13 +6,13 @@ authors:
   - monotykamary
   - quanghuynguyen1902
 tags:
-- workflow
-- git
-- mentorship
-- onboarding
-- collaboration
-- tailscale
-- aerc
+  - workflow
+  - git
+  - mentorship
+  - onboarding
+  - collaboration
+  - tailscale
+  - aerc
 ---
 
 ## Introduction: a standard for high-fidelity mentorship
