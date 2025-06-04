@@ -93,6 +93,12 @@ Once the patches are created, they are sent to the mentor for review.
 git send-email --to="mentor.email@example.com" 00*.patch
 ```
 
+Otherwise, you can also specify the relative commit without creating a patch:
+
+```bash
+git send-email HEAD~3 --to="mentor.email@example.com"
+```
+
 This command dispatches each patch as a properly formatted email, ready for inspection and application.
 
 ## 3. The end-to-end operational workflow
