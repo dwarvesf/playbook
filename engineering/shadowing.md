@@ -130,7 +130,7 @@ The complete process provides a clear and efficient loop for submitting, reviewi
     # Example with saved files:
     git am 00*.patch
     # Example with aerc (conceptual, actual command might vary based on aerc setup):
-    # <select email in aerc> | git am
+    # <select email in aerc> | -m git am
     ```
 
 ## 4. Standardizing authorship upon application (mentor-side hook)
