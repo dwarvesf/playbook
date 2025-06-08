@@ -141,10 +141,26 @@ This hook will automatically amend the last commit to update the author field to
 
 **Setup (mentor's machine):**
 
+**Option 1: Per-repository setup**
 1.  Navigate to the git repository where patches will be applied.
 2.  Create or edit the file `.git/hooks/post-applypatch`.
 3.  Make the file executable: `chmod +x .git/hooks/post-applypatch`.
 4.  Add the following script content to the `post-applypatch` file:
+
+**Option 2: Global setup (for new repositories or configured existing ones)**
+Alternatively, to apply this hook globally for new repositories or to set it as a global hook path:
+1.  Create the hooks directory if it doesn't exist: `mkdir -p ~/.git-templates/hooks`.
+2.  Create the `post-applypatch` file in this directory: `~/.git-templates/hooks/post-applypatch`.
+3.  Make the file executable: `chmod +x ~/.git-templates/hooks/post-applypatch`.
+4.  Add the script content (shown below) to `~/.git-templates/hooks/post-applypatch`.
+5.  For **new** repositories, Git will automatically copy hooks from `~/.git-templates/hooks/` when you run `git init` or `git clone`.
+6.  For **existing** repositories, you can either re-initialize them (`git init`) to copy the hooks from the template, or configure Git to use this global path directly (Git 2.14+):
+    ```bash
+    git config --global core.hooksPath '~/.git-templates/hooks'
+    ```
+    Note: `core.hooksPath` will make Git look for hooks *only* in the specified directory, bypassing the per-repository `.git/hooks/` directory unless the global directory doesn't contain a specific hook. If you use `core.hooksPath`, ensure all your global hooks are in that one location.
+
+**Script Content for `post-applypatch`:**
 
     ```bash
     #!/bin/sh
