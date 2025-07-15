@@ -26,12 +26,12 @@ We use a focused set of tools to create a fast feedback loop: **tailscale** prov
 ```mermaid
 graph TD
     A["Shadow: Develop Code on Feature Branch"] --> B{"Shadow: Commits Ready?"};
-    B -- Yes --> C["Shadow: Generate Patches `git format-patch main`"];
-    C --> D["Shadow: Send Patches via Email `git send-email` or `aerc`"];
+    B -- Yes --> C["Shadow: Generate Patches 'git format-patch main'"];
+    C --> D["Shadow: Send Patches via Email 'git send-email' or 'aerc'"];
     D --> E["Mentor: Receive Patch Emails"];
     E --> F{"Mentor: Review Patches"};
-    F -- Approved --> G["Mentor: Apply Patches `git am 00*.patch`"];
-    G --> H["Mentor-Side Hook: `post-applypatch` (Updates Commit Author)"];
+    F -- Approved --> G["Mentor: Apply Patches 'git am 00*.patch'"];
+    G --> H["Mentor-Side Hook: 'post-applypatch' (Updates Commit Author)"];
     H --> I["Code Integrated"];
     B -- No --> A;
     F -- Changes Needed --> D;
